@@ -41,7 +41,8 @@ gain from our dashboard.
 artist.name <- "oldies"
 
 # load data & check it out
-data <- read.delim(file.path("data", paste0(artist.name, "-lyrics.txt")))
+data <- read.delim(file.path("..", "data", paste0(artist.name, "-lyrics.txt")))
+
 head(data)
 str(data)
 ```
