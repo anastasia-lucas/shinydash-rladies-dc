@@ -1,0 +1,1809 @@
+song_name	word	album	n
+(Love Is Like A) Heat Wave	ahead	Heat Wave	1
+(Love Is Like A) Heat Wave	amazed	Heat Wave	1
+(Love Is Like A) Heat Wave	blood	Heat Wave	1
+(Love Is Like A) Heat Wave	burnin	Heat Wave	21
+(Love Is Like A) Heat Wave	burning	Heat Wave	1
+(Love Is Like A) Heat Wave	calls	Heat Wave	1
+(Love Is Like A) Heat Wave	chance	Heat Wave	1
+(Love Is Like A) Heat Wave	cryin	Heat Wave	2
+(Love Is Like A) Heat Wave	desire	Heat Wave	1
+(Love Is Like A) Heat Wave	devil	Heat Wave	1
+(Love Is Like A) Heat Wave	explain	Heat Wave	1
+(Love Is Like A) Heat Wave	feel	Heat Wave	2
+(Love Is Like A) Heat Wave	feeling	Heat Wave	1
+(Love Is Like A) Heat Wave	filled	Heat Wave	1
+(Love Is Like A) Heat Wave	flame	Heat Wave	1
+(Love Is Like A) Heat Wave	funny	Heat Wave	1
+(Love Is Like A) Heat Wave	girl	Heat Wave	4
+(Love Is Like A) Heat Wave	haze	Heat Wave	1
+(Love Is Like A) Heat Wave	head's	Heat Wave	1
+(Love Is Like A) Heat Wave	heart	Heat Wave	4
+(Love Is Like A) Heat Wave	heat	Heat Wave	11
+(Love Is Like A) Heat Wave	hold	Heat Wave	1
+(Love Is Like A) Heat Wave	inside	Heat Wave	1
+(Love Is Like A) Heat Wave	love	Heat Wave	1
+(Love Is Like A) Heat Wave	love's	Heat Wave	2
+(Love Is Like A) Heat Wave	low	Heat Wave	1
+(Love Is Like A) Heat Wave	miss	Heat Wave	1
+(Love Is Like A) Heat Wave	ooh	Heat Wave	10
+(Love Is Like A) Heat Wave	pass	Heat Wave	1
+(Love Is Like A) Heat Wave	plain	Heat Wave	1
+(Love Is Like A) Heat Wave	pressure	Heat Wave	1
+(Love Is Like A) Heat Wave	romance	Heat Wave	1
+(Love Is Like A) Heat Wave	soft	Heat Wave	1
+(Love Is Like A) Heat Wave	sounds	Heat Wave	1
+(Love Is Like A) Heat Wave	space	Heat Wave	1
+(Love Is Like A) Heat Wave	stare	Heat Wave	1
+(Love Is Like A) Heat Wave	starts	Heat Wave	1
+(Love Is Like A) Heat Wave	supposed	Heat Wave	2
+(Love Is Like A) Heat Wave	sweet	Heat Wave	1
+(Love Is Like A) Heat Wave	tearin	Heat Wave	2
+(Love Is Like A) Heat Wave	tears	Heat Wave	1
+(Love Is Like A) Heat Wave	true	Heat Wave	1
+(Love Is Like A) Heat Wave	understand	Heat Wave	1
+(Love Is Like A) Heat Wave	wave	Heat Wave	11
+(Love Is Like A) Heat Wave	yeah	Heat Wave	15
+(You Make Me Feel Like) A Natural Woman	alive	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	baby	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	claim	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	close	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	day	Tapestry	2
+(You Make Me Feel Like) A Natural Woman	doubtful	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	feel	Tapestry	19
+(You Make Me Feel Like) A Natural Woman	found	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	happy	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	helped	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	inside	Tapestry	2
+(You Make Me Feel Like) A Natural Woman	key	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	kiss	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	life	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	living	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	lord	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	lost	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	love	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	met	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	mind	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	morning	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	natural	Tapestry	7
+(You Make Me Feel Like) A Natural Woman	peace	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	rain	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	soul	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	til	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	tired	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	uninspired	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	unkind	Tapestry	1
+(You Make Me Feel Like) A Natural Woman	wanna	Tapestry	2
+(You Make Me Feel Like) A Natural Woman	woman	Tapestry	6
+(You Make Me Feel Like) A Natural Woman	wrong	Tapestry	1
+A Breath Taking Guy	actin	Where Did Our Love Go	1
+A Breath Taking Guy	bat	Where Did Our Love Go	1
+A Breath Taking Guy	believed	Where Did Our Love Go	1
+A Breath Taking Guy	blue	Where Did Our Love Go	2
+A Breath Taking Guy	breakin	Where Did Our Love Go	3
+A Breath Taking Guy	breath	Where Did Our Love Go	4
+A Breath Taking Guy	changed	Where Did Our Love Go	2
+A Breath Taking Guy	cry	Where Did Our Love Go	1
+A Breath Taking Guy	darlin	Where Did Our Love Go	1
+A Breath Taking Guy	day	Where Did Our Love Go	4
+A Breath Taking Guy	ear	Where Did Our Love Go	1
+A Breath Taking Guy	eye	Where Did Our Love Go	2
+A Breath Taking Guy	fun	Where Did Our Love Go	2
+A Breath Taking Guy	guy	Where Did Our Love Go	3
+A Breath Taking Guy	heard	Where Did Our Love Go	1
+A Breath Taking Guy	heart	Where Did Our Love Go	3
+A Breath Taking Guy	held	Where Did Our Love Go	1
+A Breath Taking Guy	left	Where Did Our Love Go	1
+A Breath Taking Guy	love	Where Did Our Love Go	4
+A Breath Taking Guy	makin	Where Did Our Love Go	3
+A Breath Taking Guy	moved	Where Did Our Love Go	1
+A Breath Taking Guy	movin	Where Did Our Love Go	1
+A Breath Taking Guy	night	Where Did Our Love Go	5
+A Breath Taking Guy	oooh	Where Did Our Love Go	12
+A Breath Taking Guy	passed	Where Did Our Love Go	1
+A Breath Taking Guy	shakin	Where Did Our Love Go	4
+A Breath Taking Guy	sight	Where Did Our Love Go	2
+A Breath Taking Guy	soul	Where Did Our Love Go	4
+A Breath Taking Guy	strange	Where Did Our Love Go	2
+A Breath Taking Guy	sweet	Where Did Our Love Go	2
+A Breath Taking Guy	takin	Where Did Our Love Go	4
+A Breath Taking Guy	tight	Where Did Our Love Go	1
+A Breath Taking Guy	true	Where Did Our Love Go	2
+A Breath Taking Guy	unheard	Where Did Our Love Go	1
+A Breath Taking Guy	whispered	Where Did Our Love Go	1
+A Breath Taking Guy	word	Where Did Our Love Go	2
+A Breath Taking Guy	words	Where Did Our Love Go	2
+A Breath Taking Guy	yeah	Where Did Our Love Go	4
+Ain’t That Nice	boy	Chapel of Love	1
+Ain’t That Nice	burn	Chapel of Love	2
+Ain’t That Nice	calling	Chapel of Love	1
+Ain’t That Nice	fire	Chapel of Love	2
+Ain’t That Nice	hear	Chapel of Love	1
+Ain’t That Nice	hey	Chapel of Love	1
+Ain’t That Nice	inside	Chapel of Love	2
+Ain’t That Nice	kissed	Chapel of Love	10
+Ain’t That Nice	kisses	Chapel of Love	2
+Ain’t That Nice	knowing	Chapel of Love	1
+Ain’t That Nice	life	Chapel of Love	2
+Ain’t That Nice	love	Chapel of Love	6
+Ain’t That Nice	lover	Chapel of Love	1
+Ain’t That Nice	nice	Chapel of Love	5
+Ain’t That Nice	rest	Chapel of Love	2
+Ain’t That Nice	return	Chapel of Love	2
+Ain’t That Nice	telling	Chapel of Love	2
+Ain’t That Nice	treat	Chapel of Love	2
+Ain’t That Nice	true	Chapel of Love	1
+Ain’t That Nice	yeah	Chapel of Love	15
+All Grown Up	alright	Chapel of Love	1
+All Grown Up	baby	Chapel of Love	1
+All Grown Up	boyfriend	Chapel of Love	1
+All Grown Up	downtown	Chapel of Love	2
+All Grown Up	fall	Chapel of Love	1
+All Grown Up	friends	Chapel of Love	1
+All Grown Up	gonna	Chapel of Love	3
+All Grown Up	goodnight	Chapel of Love	1
+All Grown Up	grown	Chapel of Love	11
+All Grown Up	hair	Chapel of Love	2
+All Grown Up	heels	Chapel of Love	2
+All Grown Up	kiss	Chapel of Love	1
+All Grown Up	late	Chapel of Love	1
+All Grown Up	love	Chapel of Love	1
+All Grown Up	marry	Chapel of Love	1
+All Grown Up	night	Chapel of Love	1
+All Grown Up	party	Chapel of Love	1
+All Grown Up	reason	Chapel of Love	3
+All Grown Up	shimmy	Chapel of Love	1
+All Grown Up	stay	Chapel of Love	1
+All Grown Up	till	Chapel of Love	1
+All Grown Up	wanta	Chapel of Love	1
+All Grown Up	wear	Chapel of Love	2
+All Grown Up	ya	Chapel of Love	4
+Another Boy Like Mine	baby	Chapel of Love	1
+Another Boy Like Mine	boy	Chapel of Love	13
+Another Boy Like Mine	calling	Chapel of Love	1
+Another Boy Like Mine	catch	Chapel of Love	1
+Another Boy Like Mine	chills	Chapel of Love	1
+Another Boy Like Mine	close	Chapel of Love	1
+Another Boy Like Mine	fine	Chapel of Love	2
+Another Boy Like Mine	forever	Chapel of Love	2
+Another Boy Like Mine	handing	Chapel of Love	1
+Another Boy Like Mine	hold	Chapel of Love	1
+Another Boy Like Mine	kiss	Chapel of Love	1
+Another Boy Like Mine	line	Chapel of Love	1
+Another Boy Like Mine	love	Chapel of Love	4
+Another Boy Like Mine	means	Chapel of Love	1
+Another Boy Like Mine	mine	Chapel of Love	11
+Another Boy Like Mine	search	Chapel of Love	2
+Another Boy Like Mine	sends	Chapel of Love	1
+Another Boy Like Mine	spine	Chapel of Love	1
+Another Boy Like Mine	tenderly	Chapel of Love	1
+Another Boy Like Mine	till	Chapel of Love	1
+Another Boy Like Mine	time	Chapel of Love	2
+Another Boy Like Mine	true	Chapel of Love	1
+Another Boy Like Mine	understanding	Chapel of Love	1
+Another Boy Like Mine	whispers	Chapel of Love	1
+Another Boy Like Mine	word	Chapel of Love	1
+Ask Any Girl	affection	Where Did Our Love Go	1
+Ask Any Girl	cry	Where Did Our Love Go	5
+Ask Any Girl	dear	Where Did Our Love Go	1
+Ask Any Girl	deep	Where Did Our Love Go	1
+Ask Any Girl	doll	Where Did Our Love Go	1
+Ask Any Girl	fear	Where Did Our Love Go	1
+Ask Any Girl	feel	Where Did Our Love Go	2
+Ask Any Girl	feeling	Where Did Our Love Go	1
+Ask Any Girl	girl	Where Did Our Love Go	6
+Ask Any Girl	hard	Where Did Our Love Go	2
+Ask Any Girl	heartaches	Where Did Our Love Go	1
+Ask Any Girl	hide	Where Did Our Love Go	1
+Ask Any Girl	hurt	Where Did Our Love Go	1
+Ask Any Girl	hurts	Where Did Our Love Go	1
+Ask Any Girl	left	Where Did Our Love Go	1
+Ask Any Girl	losing	Where Did Our Love Go	1
+Ask Any Girl	love	Where Did Our Love Go	1
+Ask Any Girl	loving	Where Did Our Love Go	1
+Ask Any Girl	makes	Where Did Our Love Go	1
+Ask Any Girl	neglectfully	Where Did Our Love Go	1
+Ask Any Girl	nights	Where Did Our Love Go	1
+Ask Any Girl	ooh	Where Did Our Love Go	2
+Ask Any Girl	pushed	Where Did Our Love Go	1
+Ask Any Girl	receives	Where Did Our Love Go	1
+Ask Any Girl	set	Where Did Our Love Go	1
+Ask Any Girl	shelf	Where Did Our Love Go	1
+Ask Any Girl	sit	Where Did Our Love Go	5
+Ask Any Girl	sleep	Where Did Our Love Go	1
+Ask Any Girl	slumber	Where Did Our Love Go	1
+Ask Any Girl	understand	Where Did Our Love Go	3
+Ask Any Girl	word	Where Did Our Love Go	1
+Baby Love	arms	Where Did Our Love Go	1
+Baby Love	baby	Where Did Our Love Go	12
+Baby Love	bad	Where Did Our Love Go	1
+Baby Love	break	Where Did Our Love Go	1
+Baby Love	breaking	Where Did Our Love Go	1
+Baby Love	deep	Where Did Our Love Go	1
+Baby Love	embrace	Where Did Our Love Go	1
+Baby Love	feel	Where Did Our Love Go	1
+Baby Love	happy	Where Did Our Love Go	1
+Baby Love	heart	Where Did Our Love Go	1
+Baby Love	hold	Where Did Our Love Go	1
+Baby Love	hurtin	Where Did Our Love Go	2
+Baby Love	kissing	Where Did Our Love Go	2
+Baby Love	leave	Where Did Our Love Go	1
+Baby Love	life	Where Did Our Love Go	1
+Baby Love	loneliness	Where Did Our Love Go	1
+Baby Love	love	Where Did Our Love Go	19
+Baby Love	loved	Where Did Our Love Go	1
+Baby Love	miss	Where Did Our Love Go	1
+Baby Love	missing	Where Did Our Love Go	1
+Baby Love	ooh	Where Did Our Love Go	5
+Baby Love	ooooh	Where Did Our Love Go	1
+Baby Love	sad	Where Did Our Love Go	1
+Baby Love	separate	Where Did Our Love Go	1
+Baby Love	stay	Where Did Our Love Go	2
+Baby Love	throw	Where Did Our Love Go	4
+Baby Love	till	Where Did Our Love Go	2
+Baby Love	treat	Where Did Our Love Go	1
+Baby Love	true	Where Did Our Love Go	1
+Baby Love	warm	Where Did Our Love Go	1
+Baby Love	wrong	Where Did Our Love Go	1
+Baby Love	ya	Where Did Our Love Go	4
+Beautiful	answer	Tapestry	1
+Beautiful	beautiful	Tapestry	5
+Beautiful	blowing	Tapestry	1
+Beautiful	feel	Tapestry	3
+Beautiful	frustration	Tapestry	1
+Beautiful	gonna	Tapestry	6
+Beautiful	growing	Tapestry	1
+Beautiful	heart	Tapestry	3
+Beautiful	love	Tapestry	4
+Beautiful	lullaby	Tapestry	1
+Beautiful	madness	Tapestry	1
+Beautiful	mirrored	Tapestry	1
+Beautiful	morning	Tapestry	3
+Beautiful	passers	Tapestry	1
+Beautiful	people	Tapestry	3
+Beautiful	reason	Tapestry	1
+Beautiful	sadness	Tapestry	1
+Beautiful	smile	Tapestry	3
+Beautiful	station	Tapestry	1
+Beautiful	tears	Tapestry	1
+Beautiful	treat	Tapestry	3
+Beautiful	waiting	Tapestry	1
+Beautiful	watch	Tapestry	1
+Beautiful	wind	Tapestry	1
+Beautiful	workday	Tapestry	1
+Beautiful	world	Tapestry	4
+Bull Dog	alright	Leader of the Pack	3
+Bull Dog	bad	Leader of the Pack	30
+Bull Dog	barks	Leader of the Pack	3
+Bull Dog	bite	Leader of the Pack	2
+Bull Dog	bought	Leader of the Pack	1
+Bull Dog	boy	Leader of the Pack	2
+Bull Dog	bull	Leader of the Pack	28
+Bull Dog	care	Leader of the Pack	1
+Bull Dog	chained	Leader of the Pack	2
+Bull Dog	charm	Leader of the Pack	1
+Bull Dog	dog	Leader of the Pack	33
+Bull Dog	everytime	Leader of the Pack	1
+Bull Dog	fine	Leader of the Pack	1
+Bull Dog	growls	Leader of the Pack	2
+Bull Dog	hair	Leader of the Pack	2
+Bull Dog	hey	Leader of the Pack	9
+Bull Dog	hun	Leader of the Pack	2
+Bull Dog	leg	Leader of the Pack	1
+Bull Dog	love	Leader of the Pack	2
+Bull Dog	momma	Leader of the Pack	3
+Bull Dog	night	Leader of the Pack	2
+Bull Dog	ooo	Leader of the Pack	2
+Bull Dog	porch	Leader of the Pack	2
+Bull Dog	prettiest	Leader of the Pack	2
+Bull Dog	shoo	Leader of the Pack	3
+Bull Dog	time	Leader of the Pack	2
+Bull Dog	touch	Leader of the Pack	2
+Bull Dog	usa	Leader of the Pack	2
+Bull Dog	what'dya	Leader of the Pack	5
+Bull Dog	yeah	Leader of the Pack	1
+Chapel of Love	anymore	Chapel of Love	2
+Chapel of Love	bells	Chapel of Love	1
+Chapel of Love	birds	Chapel of Love	1
+Chapel of Love	blue	Chapel of Love	1
+Chapel of Love	chapel	Chapel of Love	10
+Chapel of Love	day	Chapel of Love	1
+Chapel of Love	gee	Chapel of Love	3
+Chapel of Love	goin	Chapel of Love	10
+Chapel of Love	gonna	Chapel of Love	9
+Chapel of Love	lonely	Chapel of Love	2
+Chapel of Love	love	Chapel of Love	8
+Chapel of Love	married	Chapel of Love	9
+Chapel of Love	mine	Chapel of Love	1
+Chapel of Love	ring	Chapel of Love	1
+Chapel of Love	shine	Chapel of Love	1
+Chapel of Love	sing	Chapel of Love	1
+Chapel of Love	sky	Chapel of Love	1
+Chapel of Love	spring	Chapel of Love	1
+Chapel of Love	sun	Chapel of Love	1
+Chapel of Love	time	Chapel of Love	1
+Chapel of Love	today's	Chapel of Love	1
+Chapel of Love	whoa	Chapel of Love	2
+Chapel of Love	yeah	Chapel of Love	8
+Come On Boy	baby	Where Did Our Love Go	1
+Come On Boy	boy	Where Did Our Love Go	17
+Come On Boy	bring	Where Did Our Love Go	5
+Come On Boy	calling	Where Did Our Love Go	1
+Come On Boy	dignified	Where Did Our Love Go	1
+Come On Boy	dream	Where Did Our Love Go	1
+Come On Boy	eyes	Where Did Our Love Go	1
+Come On Boy	feel	Where Did Our Love Go	1
+Come On Boy	girl	Where Did Our Love Go	1
+Come On Boy	gonna	Where Did Our Love Go	1
+Come On Boy	heart	Where Did Our Love Go	3
+Come On Boy	hey	Where Did Our Love Go	1
+Come On Boy	hold	Where Did Our Love Go	1
+Come On Boy	leave	Where Did Our Love Go	1
+Come On Boy	lose	Where Did Our Love Go	1
+Come On Boy	love	Where Did Our Love Go	2
+Come On Boy	move	Where Did Our Love Go	2
+Come On Boy	night	Where Did Our Love Go	1
+Come On Boy	pride	Where Did Our Love Go	1
+Come On Boy	secretly	Where Did Our Love Go	1
+Come On Boy	tight	Where Did Our Love Go	1
+Come On Boy	true	Where Did Our Love Go	1
+Come On Boy	wanna	Where Did Our Love Go	1
+Come On Boy	world	Where Did Our Love Go	1
+Come See About Me	arms	Where Did Our Love Go	1
+Come See About Me	baby	Where Did Our Love Go	10
+Come See About Me	boy	Where Did Our Love Go	2
+Come See About Me	burns	Where Did Our Love Go	1
+Come See About Me	crying	Where Did Our Love Go	5
+Come See About Me	ease	Where Did Our Love Go	1
+Come See About Me	fears	Where Did Our Love Go	1
+Come See About Me	fire	Where Did Our Love Go	1
+Come See About Me	friends	Where Did Our Love Go	2
+Come See About Me	gonna	Where Did Our Love Go	3
+Come See About Me	heart	Where Did Our Love Go	1
+Come See About Me	hurry	Where Did Our Love Go	5
+Come See About Me	life's	Where Did Our Love Go	1
+Come See About Me	lonely	Where Did Our Love Go	2
+Come See About Me	love	Where Did Our Love Go	2
+Come See About Me	matter	Where Did Our Love Go	1
+Come See About Me	mine	Where Did Our Love Go	1
+Come See About Me	ooh	Where Did Our Love Go	10
+Come See About Me	peace	Where Did Our Love Go	1
+Come See About Me	reach	Where Did Our Love Go	1
+Come See About Me	return	Where Did Our Love Go	1
+Come See About Me	sighin	Where Did Our Love Go	2
+Come See About Me	smiles	Where Did Our Love Go	1
+Come See About Me	sometime's	Where Did Our Love Go	2
+Come See About Me	tears	Where Did Our Love Go	2
+Come See About Me	uncertain	Where Did Our Love Go	1
+Come See About Me	wash	Where Did Our Love Go	1
+Danke Schön	auf	Heat Wave	1
+Danke Schön	balcony	Heat Wave	1
+Danke Schön	carved	Heat Wave	1
+Danke Schön	central	Heat Wave	1
+Danke Schön	confess	Heat Wave	1
+Danke Schön	danke	Heat Wave	14
+Danke Schön	darling	Heat Wave	6
+Danke Schön	dress	Heat Wave	1
+Danke Schön	drink	Heat Wave	1
+Danke Schön	dutch	Heat Wave	1
+Danke Schön	explain	Heat Wave	1
+Danke Schön	fine	Heat Wave	1
+Danke Schön	heart	Heat Wave	2
+Danke Schön	hearts	Heat Wave	1
+Danke Schön	joy	Heat Wave	1
+Danke Schön	lane	Heat Wave	1
+Danke Schön	lies	Heat Wave	1
+Danke Schön	lover's	Heat Wave	1
+Danke Schön	meet	Heat Wave	1
+Danke Schön	memory	Heat Wave	2
+Danke Schön	mess	Heat Wave	1
+Danke Schön	mine	Heat Wave	1
+Danke Schön	pain	Heat Wave	1
+Danke Schön	park	Heat Wave	1
+Danke Schön	picture	Heat Wave	1
+Danke Schön	recall	Heat Wave	1
+Danke Schön	save	Heat Wave	1
+Danke Schön	schön	Heat Wave	14
+Danke Schön	seat	Heat Wave	1
+Danke Schön	separate	Heat Wave	2
+Danke Schön	stays	Heat Wave	2
+Danke Schön	sweet	Heat Wave	1
+Danke Schön	times	Heat Wave	1
+Danke Schön	tore	Heat Wave	1
+Danke Schön	treat	Heat Wave	1
+Danke Schön	tree	Heat Wave	1
+Danke Schön	walks	Heat Wave	1
+Danke Schön	wanna	Heat Wave	1
+Danke Schön	wiedersehen	Heat Wave	1
+Danke Schön	wine	Heat Wave	1
+Gee Baby Gee	baby	Chapel of Love	22
+Gee Baby Gee	buy	Chapel of Love	1
+Gee Baby Gee	downtown	Chapel of Love	1
+Gee Baby Gee	dreaming	Chapel of Love	4
+Gee Baby Gee	eyes	Chapel of Love	1
+Gee Baby Gee	gee	Chapel of Love	38
+Gee Baby Gee	gonna	Chapel of Love	1
+Gee Baby Gee	heaven	Chapel of Love	1
+Gee Baby Gee	holds	Chapel of Love	1
+Gee Baby Gee	hypnotized	Chapel of Love	1
+Gee Baby Gee	kisses	Chapel of Love	3
+Gee Baby Gee	life	Chapel of Love	1
+Gee Baby Gee	love	Chapel of Love	8
+Gee Baby Gee	promise	Chapel of Love	1
+Gee Baby Gee	ring	Chapel of Love	1
+Gee Baby Gee	spring	Chapel of Love	1
+Gee Baby Gee	talk	Chapel of Love	1
+Gee Baby Gee	tight	Chapel of Love	1
+Gee Baby Gee	time	Chapel of Love	3
+Gee Baby Gee	true	Chapel of Love	1
+Gee Baby Gee	trust	Chapel of Love	1
+Gee Baby Gee	understood	Chapel of Love	1
+Gee Baby Gee	walk	Chapel of Love	1
+Gee Baby Gee	woah	Chapel of Love	1
+Gee Baby Gee	yeah	Chapel of Love	1
+Gee the Moon Is Shining Bright	baby	Chapel of Love	3
+Gee the Moon Is Shining Bright	bright	Chapel of Love	9
+Gee the Moon Is Shining Bright	gee	Chapel of Love	9
+Gee the Moon Is Shining Bright	hold	Chapel of Love	8
+Gee the Moon Is Shining Bright	kiss	Chapel of Love	1
+Gee the Moon Is Shining Bright	late	Chapel of Love	1
+Gee the Moon Is Shining Bright	love	Chapel of Love	6
+Gee the Moon Is Shining Bright	moon	Chapel of Love	9
+Gee the Moon Is Shining Bright	sea	Chapel of Love	1
+Gee the Moon Is Shining Bright	shining	Chapel of Love	9
+Gee the Moon Is Shining Bright	stay	Chapel of Love	1
+Gee the Moon Is Shining Bright	summer	Chapel of Love	7
+Gee the Moon Is Shining Bright	tight	Chapel of Love	8
+Gee the Moon Is Shining Bright	time	Chapel of Love	6
+Gee the Moon Is Shining Bright	wait	Chapel of Love	9
+Gee the Moon Is Shining Bright	walk	Chapel of Love	1
+Gee the Moon Is Shining Bright	wanna	Chapel of Love	1
+Gee the Moon Is Shining Bright	yeah	Chapel of Love	3
+Girls Can Tell	boy	Chapel of Love	1
+Girls Can Tell	boys	Chapel of Love	3
+Girls Can Tell	cry	Chapel of Love	2
+Girls Can Tell	feel	Chapel of Love	2
+Girls Can Tell	forever	Chapel of Love	2
+Girls Can Tell	girls	Chapel of Love	13
+Girls Can Tell	goodbye	Chapel of Love	2
+Girls Can Tell	goodnight	Chapel of Love	1
+Girls Can Tell	kiss	Chapel of Love	2
+Girls Can Tell	love	Chapel of Love	4
+Girls Can Tell	real	Chapel of Love	2
+Girls Can Tell	stay	Chapel of Love	2
+Girls Can Tell	true	Chapel of Love	2
+Give Him a Great Big Kiss	bad	Leader of the Pack	2
+Give Him a Great Big Kiss	beat	Leader of the Pack	3
+Give Him a Great Big Kiss	blues	Leader of the Pack	1
+Give Him a Great Big Kiss	boy	Leader of the Pack	1
+Give Him a Great Big Kiss	bulky	Leader of the Pack	1
+Give Him a Great Big Kiss	button	Leader of the Pack	1
+Give Him a Great Big Kiss	care	Leader of the Pack	2
+Give Him a Great Big Kiss	close	Leader of the Pack	2
+Give Him a Great Big Kiss	color	Leader of the Pack	1
+Give Him a Great Big Kiss	cool	Leader of the Pack	4
+Give Him a Great Big Kiss	da	Leader of the Pack	10
+Give Him a Great Big Kiss	dance	Leader of the Pack	1
+Give Him a Great Big Kiss	dancer	Leader of the Pack	2
+Give Him a Great Big Kiss	dancing	Leader of the Pack	1
+Give Him a Great Big Kiss	day	Leader of the Pack	1
+Give Him a Great Big Kiss	dirty	Leader of the Pack	1
+Give Him a Great Big Kiss	evil	Leader of the Pack	1
+Give Him a Great Big Kiss	eyes	Leader of the Pack	2
+Give Him a Great Big Kiss	finger	Leader of the Pack	1
+Give Him a Great Big Kiss	gonna	Leader of the Pack	2
+Give Him a Great Big Kiss	guy	Leader of the Pack	1
+Give Him a Great Big Kiss	hair	Leader of the Pack	1
+Give Him a Great Big Kiss	hear	Leader of the Pack	1
+Give Him a Great Big Kiss	heart	Leader of the Pack	2
+Give Him a Great Big Kiss	kiss	Leader of the Pack	2
+Give Him a Great Big Kiss	leap	Leader of the Pack	2
+Give Him a Great Big Kiss	love	Leader of the Pack	4
+Give Him a Great Big Kiss	match	Leader of the Pack	1
+Give Him a Great Big Kiss	mm	Leader of the Pack	1
+Give Him a Great Big Kiss	mwah	Leader of the Pack	2
+Give Him a Great Big Kiss	nails	Leader of the Pack	1
+Give Him a Great Big Kiss	pants	Leader of the Pack	1
+Give Him a Great Big Kiss	prize	Leader of the Pack	1
+Give Him a Great Big Kiss	shades	Leader of the Pack	1
+Give Him a Great Big Kiss	shoes	Leader of the Pack	1
+Give Him a Great Big Kiss	singing	Leader of the Pack	1
+Give Him a Great Big Kiss	skips	Leader of the Pack	2
+Give Him a Great Big Kiss	song	Leader of the Pack	1
+Give Him a Great Big Kiss	street	Leader of the Pack	3
+Give Him a Great Big Kiss	sung	Leader of the Pack	1
+Give Him a Great Big Kiss	sweaters	Leader of the Pack	1
+Give Him a Great Big Kiss	takes	Leader of the Pack	2
+Give Him a Great Big Kiss	tall	Leader of the Pack	1
+Give Him a Great Big Kiss	tapered	Leader of the Pack	1
+Give Him a Great Big Kiss	thick	Leader of the Pack	1
+Give Him a Great Big Kiss	tight	Leader of the Pack	1
+Give Him a Great Big Kiss	walk	Leader of the Pack	2
+Give Him a Great Big Kiss	walking	Leader of the Pack	1
+Give Him a Great Big Kiss	walks	Leader of the Pack	1
+Give Him a Great Big Kiss	wavy	Leader of the Pack	1
+Give Him a Great Big Kiss	wearing	Leader of the Pack	1
+Give Him a Great Big Kiss	yeah	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	ball	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	cold	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	dreams	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	goodnight	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	grow	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	hope	Leader of the Pack	2
+Goodnight My Love (Pleasant Dreams)	love	Leader of the Pack	3
+Goodnight My Love (Pleasant Dreams)	message	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	pleasant	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	real	Leader of the Pack	2
+Goodnight My Love (Pleasant Dreams)	remember	Leader of the Pack	2
+Goodnight My Love (Pleasant Dreams)	sleep	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	spoken	Leader of the Pack	1
+Goodnight My Love (Pleasant Dreams)	tight	Leader of the Pack	1
+He Means The World To Me	bow	Where Did Our Love Go	1
+He Means The World To Me	care	Where Did Our Love Go	2
+He Means The World To Me	command	Where Did Our Love Go	1
+He Means The World To Me	friends	Where Did Our Love Go	2
+He Means The World To Me	hand	Where Did Our Love Go	1
+He Means The World To Me	lonely	Where Did Our Love Go	1
+He Means The World To Me	love	Where Did Our Love Go	1
+He Means The World To Me	means	Where Did Our Love Go	4
+He Means The World To Me	nights	Where Did Our Love Go	1
+He Means The World To Me	silly	Where Did Our Love Go	4
+He Means The World To Me	thinking	Where Did Our Love Go	1
+He Means The World To Me	touch	Where Did Our Love Go	1
+He Means The World To Me	world	Where Did Our Love Go	5
+Hello Stranger	baby	Heat Wave	20
+Hello Stranger	bop	Heat Wave	42
+Hello Stranger	glad	Heat Wave	2
+Hello Stranger	gonna	Heat Wave	1
+Hello Stranger	happy	Heat Wave	1
+Hello Stranger	love	Heat Wave	1
+Hello Stranger	mighty	Heat Wave	6
+Hello Stranger	ohh	Heat Wave	5
+Hello Stranger	ooh	Heat Wave	10
+Hello Stranger	remember	Heat Wave	1
+Hello Stranger	shoo	Heat Wave	42
+Hello Stranger	stay	Heat Wave	1
+Hello Stranger	stopped	Heat Wave	1
+Hello Stranger	stranger	Heat Wave	1
+Hello Stranger	tease	Heat Wave	1
+Hello Stranger	time	Heat Wave	6
+Home Again	chills	Tapestry	2
+Home Again	cold	Tapestry	2
+Home Again	comfort	Tapestry	1
+Home Again	feeling	Tapestry	4
+Home Again	gonna	Tapestry	1
+Home Again	happy	Tapestry	2
+Home Again	home	Tapestry	5
+Home Again	marrow	Tapestry	2
+Home Again	rain	Tapestry	2
+Home Again	sight	Tapestry	1
+Home Again	snow	Tapestry	2
+Home Again	soul	Tapestry	2
+Home Again	talk	Tapestry	1
+Home Again	til	Tapestry	5
+Home Again	tonight	Tapestry	1
+Home Again	wanna	Tapestry	1
+Home Again	wet	Tapestry	2
+I Am Woman	act	Where Did Our Love Go	1
+I Am Woman	admire	Where Did Our Love Go	1
+I Am Woman	barbarian	Where Did Our Love Go	1
+I Am Woman	contradiction's	Where Did Our Love Go	1
+I Am Woman	desired	Where Did Our Love Go	1
+I Am Woman	explanation	Where Did Our Love Go	2
+I Am Woman	feeling	Where Did Our Love Go	2
+I Am Woman	fiction	Where Did Our Love Go	1
+I Am Woman	friendship	Where Did Our Love Go	1
+I Am Woman	gentle	Where Did Our Love Go	1
+I Am Woman	hope	Where Did Our Love Go	1
+I Am Woman	im	Where Did Our Love Go	1
+I Am Woman	kiss	Where Did Our Love Go	2
+I Am Woman	leaves	Where Did Our Love Go	1
+I Am Woman	love	Where Did Our Love Go	1
+I Am Woman	ma'am	Where Did Our Love Go	1
+I Am Woman	makes	Where Did Our Love Go	1
+I Am Woman	perfect	Where Did Our Love Go	1
+I Am Woman	pins	Where Did Our Love Go	1
+I Am Woman	pleats	Where Did Our Love Go	1
+I Am Woman	rouge	Where Did Our Love Go	1
+I Am Woman	sham	Where Did Our Love Go	1
+I Am Woman	softer	Where Did Our Love Go	1
+I Am Woman	subterfuge	Where Did Our Love Go	1
+I Am Woman	taller	Where Did Our Love Go	1
+I Am Woman	touch	Where Did Our Love Go	1
+I Am Woman	woman	Where Did Our Love Go	6
+I Feel the Earth Move	ah	Tapestry	4
+I Feel the Earth Move	baby	Tapestry	2
+I Feel the Earth Move	call	Tapestry	1
+I Feel the Earth Move	cold	Tapestry	1
+I Feel the Earth Move	control	Tapestry	1
+I Feel the Earth Move	darling	Tapestry	2
+I Feel the Earth Move	earth	Tapestry	6
+I Feel the Earth Move	emotions	Tapestry	1
+I Feel the Earth Move	feel	Tapestry	14
+I Feel the Earth Move	feet	Tapestry	6
+I Feel the Earth Move	heah	Tapestry	1
+I Feel the Earth Move	heart	Tapestry	2
+I Feel the Earth Move	hot	Tapestry	1
+I Feel the Earth Move	lose	Tapestry	1
+I Feel the Earth Move	mellow	Tapestry	1
+I Feel the Earth Move	month	Tapestry	1
+I Feel the Earth Move	move	Tapestry	6
+I Feel the Earth Move	ooh	Tapestry	2
+I Feel the Earth Move	sky	Tapestry	6
+I Feel the Earth Move	soul	Tapestry	1
+I Feel the Earth Move	stand	Tapestry	1
+I Feel the Earth Move	start	Tapestry	2
+I Feel the Earth Move	tame	Tapestry	1
+I Feel the Earth Move	tenderly	Tapestry	1
+I Feel the Earth Move	trembling	Tapestry	2
+I Feel the Earth Move	tumbling	Tapestry	14
+I Feel the Earth Move	uh	Tapestry	10
+I Feel the Earth Move	yeah	Tapestry	1
+I’m Giving You Your Freedom	bear	Where Did Our Love Go	1
+I’m Giving You Your Freedom	blue	Where Did Our Love Go	5
+I’m Giving You Your Freedom	callin	Where Did Our Love Go	1
+I’m Giving You Your Freedom	care	Where Did Our Love Go	1
+I’m Giving You Your Freedom	deny	Where Did Our Love Go	1
+I’m Giving You Your Freedom	found	Where Did Our Love Go	1
+I’m Giving You Your Freedom	free	Where Did Our Love Go	1
+I’m Giving You Your Freedom	freedom	Where Did Our Love Go	3
+I’m Giving You Your Freedom	giving	Where Did Our Love Go	3
+I’m Giving You Your Freedom	gonna	Where Did Our Love Go	1
+I’m Giving You Your Freedom	happy	Where Did Our Love Go	1
+I’m Giving You Your Freedom	hard	Where Did Our Love Go	1
+I’m Giving You Your Freedom	leading	Where Did Our Love Go	1
+I’m Giving You Your Freedom	love	Where Did Our Love Go	3
+I’m Giving You Your Freedom	pay	Where Did Our Love Go	1
+I’m Giving You Your Freedom	price	Where Did Our Love Go	1
+I’m Giving You Your Freedom	quits	Where Did Our Love Go	1
+I’m Giving You Your Freedom	sense	Where Did Our Love Go	5
+I’m Giving You Your Freedom	set	Where Did Our Love Go	1
+I’m Giving You Your Freedom	time	Where Did Our Love Go	1
+I’m Giving You Your Freedom	unfair	Where Did Our Love Go	1
+I’m Giving You Your Freedom	wrong	Where Did Our Love Go	1
+I’m Gonna Get You Yet	baby	Chapel of Love	1
+I’m Gonna Get You Yet	begining	Chapel of Love	2
+I’m Gonna Get You Yet	bet	Chapel of Love	4
+I’m Gonna Get You Yet	celebration	Chapel of Love	2
+I’m Gonna Get You Yet	consideration	Chapel of Love	2
+I’m Gonna Get You Yet	conversation	Chapel of Love	2
+I’m Gonna Get You Yet	cooperation	Chapel of Love	1
+I’m Gonna Get You Yet	cruel	Chapel of Love	2
+I’m Gonna Get You Yet	happy	Chapel of Love	2
+I’m Gonna Get You Yet	hey	Chapel of Love	8
+I’m Gonna Get You Yet	invitation	Chapel of Love	2
+I’m Gonna Get You Yet	jewel	Chapel of Love	2
+I’m Gonna Get You Yet	love	Chapel of Love	2
+I’m Gonna Get You Yet	operation	Chapel of Love	1
+I’m Gonna Get You Yet	reason	Chapel of Love	1
+I’m Gonna Get You Yet	sad	Chapel of Love	2
+I’m Gonna Get You Yet	season	Chapel of Love	1
+I’m Gonna Get You Yet	situation	Chapel of Love	2
+I’m Gonna Get You Yet	treat	Chapel of Love	2
+I’m Gonna Get You Yet	yeah	Chapel of Love	8
+I’m The Exception To The Rule	acting	Where Did Our Love Go	1
+I’m The Exception To The Rule	blue	Where Did Our Love Go	1
+I’m The Exception To The Rule	break	Where Did Our Love Go	1
+I’m The Exception To The Rule	capture	Where Did Our Love Go	2
+I’m The Exception To The Rule	change	Where Did Our Love Go	1
+I’m The Exception To The Rule	cold	Where Did Our Love Go	2
+I’m The Exception To The Rule	darling	Where Did Our Love Go	1
+I’m The Exception To The Rule	day	Where Did Our Love Go	1
+I’m The Exception To The Rule	exception	Where Did Our Love Go	5
+I’m The Exception To The Rule	feeling	Where Did Our Love Go	1
+I’m The Exception To The Rule	fool	Where Did Our Love Go	5
+I’m The Exception To The Rule	friend	Where Did Our Love Go	2
+I’m The Exception To The Rule	girl	Where Did Our Love Go	1
+I’m The Exception To The Rule	girls	Where Did Our Love Go	3
+I’m The Exception To The Rule	guy	Where Did Our Love Go	1
+I’m The Exception To The Rule	handsome	Where Did Our Love Go	1
+I’m The Exception To The Rule	heart	Where Did Our Love Go	2
+I’m The Exception To The Rule	innocent	Where Did Our Love Go	1
+I’m The Exception To The Rule	leave	Where Did Our Love Go	1
+I’m The Exception To The Rule	lies	Where Did Our Love Go	1
+I’m The Exception To The Rule	love	Where Did Our Love Go	1
+I’m The Exception To The Rule	meaningful	Where Did Our Love Go	1
+I’m The Exception To The Rule	pass	Where Did Our Love Go	1
+I’m The Exception To The Rule	plea	Where Did Our Love Go	1
+I’m The Exception To The Rule	rule	Where Did Our Love Go	5
+I’m The Exception To The Rule	strong	Where Did Our Love Go	1
+I’m The Exception To The Rule	sweet	Where Did Our Love Go	1
+I’m The Exception To The Rule	ten	Where Did Our Love Go	2
+I’m The Exception To The Rule	useless	Where Did Our Love Go	1
+I’m The Exception To The Rule	wrong	Where Did Our Love Go	1
+If I Had A Hammer	bell	Heat Wave	4
+If I Had A Hammer	brothers	Heat Wave	3
+If I Had A Hammer	danger	Heat Wave	3
+If I Had A Hammer	evening	Heat Wave	6
+If I Had A Hammer	freedom	Heat Wave	1
+If I Had A Hammer	hammer	Heat Wave	12
+If I Had A Hammer	justice	Heat Wave	2
+If I Had A Hammer	land	Heat Wave	10
+If I Had A Hammer	love	Heat Wave	9
+If I Had A Hammer	morning	Heat Wave	6
+If I Had A Hammer	ring	Heat Wave	7
+If I Had A Hammer	sing	Heat Wave	8
+If I Had A Hammer	sisters	Heat Wave	3
+If I Had A Hammer	song	Heat Wave	7
+If I Had A Hammer	warning	Heat Wave	3
+If I Had A Hammer	yeah	Heat Wave	26
+Iko Iko	betcha	Chapel of Love	1
+Iko Iko	bout	Chapel of Love	5
+Iko Iko	boy	Chapel of Love	2
+Iko Iko	dan	Chapel of Love	5
+Iko Iko	day	Chapel of Love	12
+Iko Iko	dead	Chapel of Love	1
+Iko Iko	dollars	Chapel of Love	1
+Iko Iko	dressed	Chapel of Love	3
+Iko Iko	fee	Chapel of Love	15
+Iko Iko	fire	Chapel of Love	4
+Iko Iko	flag	Chapel of Love	4
+Iko Iko	flagboy	Chapel of Love	2
+Iko Iko	gonna	Chapel of Love	2
+Iko Iko	grandma	Chapel of Love	4
+Iko Iko	green	Chapel of Love	2
+Iko Iko	guy	Chapel of Love	1
+Iko Iko	hey	Chapel of Love	19
+Iko Iko	iko	Chapel of Love	15
+Iko Iko	jocomo	Chapel of Love	15
+Iko Iko	kill	Chapel of Love	1
+Iko Iko	king	Chapel of Love	1
+Iko Iko	lovin	Chapel of Love	1
+Iko Iko	machine	Chapel of Love	1
+Iko Iko	nan	Chapel of Love	10
+Iko Iko	nay	Chapel of Love	10
+Iko Iko	red	Chapel of Love	1
+Iko Iko	set	Chapel of Love	2
+Iko Iko	sittin	Chapel of Love	2
+Iko Iko	talkin	Chapel of Love	5
+Iko Iko	told	Chapel of Love	2
+It’s Easier to Cry	ahhh	Leader of the Pack	4
+It’s Easier to Cry	cry	Leader of the Pack	8
+It’s Easier to Cry	crying	Leader of the Pack	1
+It’s Easier to Cry	die	Leader of the Pack	1
+It’s Easier to Cry	easier	Leader of the Pack	9
+It’s Easier to Cry	forget	Leader of the Pack	5
+It’s Easier to Cry	girls	Leader of the Pack	1
+It’s Easier to Cry	guy	Leader of the Pack	1
+It’s Easier to Cry	love	Leader of the Pack	2
+It’s Easier to Cry	miss	Leader of the Pack	1
+It’s Easier to Cry	oooh	Leader of the Pack	4
+It’s Easier to Cry	stop	Leader of the Pack	1
+It’s Easier to Cry	thinking	Leader of the Pack	1
+It’s Too Late	baby	Tapestry	4
+It’s Too Late	bed	Tapestry	1
+It’s Too Late	breezy	Tapestry	1
+It’s Too Late	changing	Tapestry	1
+It’s Too Late	dah	Tapestry	1
+It’s Too Late	darlin	Tapestry	1
+It’s Too Late	denying	Tapestry	1
+It’s Too Late	died	Tapestry	3
+It’s Too Late	easy	Tapestry	1
+It’s Too Late	fake	Tapestry	3
+It’s Too Late	feel	Tapestry	2
+It’s Too Late	fool	Tapestry	1
+It’s Too Late	glad	Tapestry	1
+It’s Too Late	hide	Tapestry	3
+It’s Too Late	inside	Tapestry	3
+It’s Too Late	instrumental	Tapestry	1
+It’s Too Late	late	Tapestry	9
+It’s Too Late	light	Tapestry	1
+It’s Too Late	living	Tapestry	1
+It’s Too Late	loved	Tapestry	1
+It’s Too Late	morning	Tapestry	1
+It’s Too Late	pass	Tapestry	1
+It’s Too Late	stay	Tapestry	1
+It’s Too Late	stayed	Tapestry	1
+It’s Too Late	stopped	Tapestry	1
+It’s Too Late	there'll	Tapestry	1
+It’s Too Late	time	Tapestry	1
+It’s Too Late	times	Tapestry	1
+It’s Too Late	unhappy	Tapestry	1
+It’s Too Late	wrong	Tapestry	1
+Just One Look	ard	Heat Wave	2
+Just One Look	care	Heat Wave	1
+Just One Look	dreaming	Heat Wave	1
+Just One Look	eels	Heat Wave	2
+Just One Look	feels	Heat Wave	1
+Just One Look	fell	Heat Wave	1
+Just One Look	forever	Heat Wave	1
+Just One Look	found	Heat Wave	1
+Just One Look	gonna	Heat Wave	1
+Just One Look	hard	Heat Wave	1
+Just One Look	ine	Heat Wave	2
+Just One Look	love	Heat Wave	2
+Just One Look	mine	Heat Wave	1
+Just One Look	ohh	Heat Wave	1
+Just One Look	scheming	Heat Wave	1
+Just One Look	someday	Heat Wave	1
+Just One Look	til	Heat Wave	1
+Just One Look	wrong	Heat Wave	1
+Just One Look	yeah	Heat Wave	3
+Leader of the Pack	bad	Leader of the Pack	1
+Leader of the Pack	begged	Leader of the Pack	1
+Leader of the Pack	beginning	Leader of the Pack	1
+Leader of the Pack	betty	Leader of the Pack	1
+Leader of the Pack	candy	Leader of the Pack	1
+Leader of the Pack	care	Leader of the Pack	1
+Leader of the Pack	cry	Leader of the Pack	1
+Leader of the Pack	dad	Leader of the Pack	1
+Leader of the Pack	day	Leader of the Pack	1
+Leader of the Pack	drove	Leader of the Pack	1
+Leader of the Pack	fell	Leader of the Pack	2
+Leader of the Pack	folks	Leader of the Pack	1
+Leader of the Pack	forget	Leader of the Pack	1
+Leader of the Pack	gee	Leader of the Pack	1
+Leader of the Pack	goodbye	Leader of the Pack	1
+Leader of the Pack	heard	Leader of the Pack	1
+Leader of the Pack	helpless	Leader of the Pack	1
+Leader of the Pack	hide	Leader of the Pack	1
+Leader of the Pack	hurt	Leader of the Pack	1
+Leader of the Pack	jimmy	Leader of the Pack	1
+Leader of the Pack	jimmy's	Leader of the Pack	1
+Leader of the Pack	kissed	Leader of the Pack	1
+Leader of the Pack	leader	Leader of the Pack	8
+Leader of the Pack	meet	Leader of the Pack	1
+Leader of the Pack	met	Leader of the Pack	1
+Leader of the Pack	mhm	Leader of the Pack	1
+Leader of the Pack	mnm	Leader of the Pack	1
+Leader of the Pack	night	Leader of the Pack	1
+Leader of the Pack	ooh	Leader of the Pack	4
+Leader of the Pack	pack	Leader of the Pack	8
+Leader of the Pack	picking	Leader of the Pack	1
+Leader of the Pack	picture	Leader of the Pack	1
+Leader of the Pack	putting	Leader of the Pack	1
+Leader of the Pack	rainy	Leader of the Pack	1
+Leader of the Pack	remembering	Leader of the Pack	1
+Leader of the Pack	riding	Leader of the Pack	1
+Leader of the Pack	ring	Leader of the Pack	1
+Leader of the Pack	sad	Leader of the Pack	1
+Leader of the Pack	school	Leader of the Pack	2
+Leader of the Pack	slow	Leader of the Pack	1
+Leader of the Pack	smiled	Leader of the Pack	2
+Leader of the Pack	sort	Leader of the Pack	1
+Leader of the Pack	stare	Leader of the Pack	1
+Leader of the Pack	stood	Leader of the Pack	1
+Leader of the Pack	stop	Leader of the Pack	1
+Leader of the Pack	store	Leader of the Pack	1
+Leader of the Pack	tears	Leader of the Pack	2
+Leader of the Pack	told	Leader of the Pack	1
+Leader of the Pack	town	Leader of the Pack	2
+Leader of the Pack	wearing	Leader of the Pack	1
+Leader of the Pack	where'd	Leader of the Pack	1
+Leader of the Pack	wrong	Leader of the Pack	2
+Long Gone Lover	afternoon	Where Did Our Love Go	1
+Long Gone Lover	baby	Where Did Our Love Go	12
+Long Gone Lover	bad	Where Did Our Love Go	1
+Long Gone Lover	coming	Where Did Our Love Go	1
+Long Gone Lover	day	Where Did Our Love Go	1
+Long Gone Lover	deserting	Where Did Our Love Go	1
+Long Gone Lover	dreams	Where Did Our Love Go	1
+Long Gone Lover	feel	Where Did Our Love Go	3
+Long Gone Lover	feeling	Where Did Our Love Go	2
+Long Gone Lover	gonna	Where Did Our Love Go	1
+Long Gone Lover	guy	Where Did Our Love Go	1
+Long Gone Lover	heart	Where Did Our Love Go	1
+Long Gone Lover	hurting	Where Did Our Love Go	1
+Long Gone Lover	kiss	Where Did Our Love Go	3
+Long Gone Lover	letter	Where Did Our Love Go	4
+Long Gone Lover	lover	Where Did Our Love Go	13
+Long Gone Lover	mine	Where Did Our Love Go	1
+Long Gone Lover	night	Where Did Our Love Go	1
+Long Gone Lover	people	Where Did Our Love Go	1
+Long Gone Lover	sad	Where Did Our Love Go	1
+Long Gone Lover	telling	Where Did Our Love Go	1
+Long Gone Lover	time	Where Did Our Love Go	1
+Long Gone Lover	tryin	Where Did Our Love Go	1
+Maybe	command	Leader of the Pack	1
+Maybe	cry	Leader of the Pack	2
+Maybe	day	Leader of the Pack	1
+Maybe	doo	Leader of the Pack	38
+Maybe	dreams	Leader of the Pack	1
+Maybe	everyday	Leader of the Pack	1
+Maybe	hand	Leader of the Pack	1
+Maybe	hold	Leader of the Pack	1
+Maybe	kiss	Leader of the Pack	1
+Maybe	lips	Leader of the Pack	1
+Maybe	lord	Leader of the Pack	1
+Maybe	love	Leader of the Pack	1
+Maybe	night	Leader of the Pack	2
+Maybe	pray	Leader of the Pack	2
+Maybe	prayed	Leader of the Pack	2
+Maybe	send	Leader of the Pack	1
+Maybe	stay	Leader of the Pack	2
+Maybe	understand	Leader of the Pack	1
+Maybe	wop	Leader of the Pack	10
+Mockingbird	bird	Heat Wave	1
+Mockingbird	break	Heat Wave	2
+Mockingbird	buy	Heat Wave	4
+Mockingbird	care	Heat Wave	1
+Mockingbird	closer	Heat Wave	1
+Mockingbird	diamond	Heat Wave	4
+Mockingbird	gonna	Heat Wave	7
+Mockingbird	hard	Heat Wave	1
+Mockingbird	heard	Heat Wave	3
+Mockingbird	heart	Heat Wave	2
+Mockingbird	hey	Heat Wave	3
+Mockingbird	ing	Heat Wave	1
+Mockingbird	love	Heat Wave	2
+Mockingbird	mine	Heat Wave	2
+Mockingbird	mock	Heat Wave	1
+Mockingbird	mockin'bird	Heat Wave	2
+Mockingbird	mockingbird	Heat Wave	4
+Mockingbird	ring	Heat Wave	2
+Mockingbird	shine	Heat Wave	2
+Mockingbird	sing	Heat Wave	6
+Mockingbird	square	Heat Wave	1
+Mockingbird	surely	Heat Wave	2
+Mockingbird	uh	Heat Wave	4
+Mockingbird	whoa	Heat Wave	20
+Mockingbird	woah	Heat Wave	1
+Mockingbird	yeah	Heat Wave	15
+More (Theme From The Film Mondo Cane)	arms	Heat Wave	1
+More (Theme From The Film Mondo Cane)	day	Heat Wave	1
+More (Theme From The Film Mondo Cane)	forever	Heat Wave	2
+More (Theme From The Film Mondo Cane)	heart	Heat Wave	2
+More (Theme From The Film Mondo Cane)	hold	Heat Wave	1
+More (Theme From The Film Mondo Cane)	keeping	Heat Wave	1
+More (Theme From The Film Mondo Cane)	laughing	Heat Wave	1
+More (Theme From The Film Mondo Cane)	life	Heat Wave	1
+More (Theme From The Film Mondo Cane)	live	Heat Wave	1
+More (Theme From The Film Mondo Cane)	lived	Heat Wave	2
+More (Theme From The Film Mondo Cane)	love	Heat Wave	5
+More (Theme From The Film Mondo Cane)	mine	Heat Wave	2
+More (Theme From The Film Mondo Cane)	simple	Heat Wave	1
+More (Theme From The Film Mondo Cane)	sleeping	Heat Wave	1
+More (Theme From The Film Mondo Cane)	time	Heat Wave	2
+More (Theme From The Film Mondo Cane)	waking	Heat Wave	1
+More (Theme From The Film Mondo Cane)	weeping	Heat Wave	1
+More (Theme From The Film Mondo Cane)	words	Heat Wave	1
+More (Theme From The Film Mondo Cane)	world	Heat Wave	1
+Mr. Blues	baby	Where Did Our Love Go	3
+Mr. Blues	baby's	Where Did Our Love Go	3
+Mr. Blues	blues	Where Did Our Love Go	5
+Mr. Blues	call	Where Did Our Love Go	1
+Mr. Blues	companion	Where Did Our Love Go	2
+Mr. Blues	day	Where Did Our Love Go	1
+Mr. Blues	desert	Where Did Our Love Go	1
+Mr. Blues	guy	Where Did Our Love Go	1
+Mr. Blues	hey	Where Did Our Love Go	3
+Mr. Blues	hurt	Where Did Our Love Go	1
+Mr. Blues	leave	Where Did Our Love Go	1
+Mr. Blues	lonely	Where Did Our Love Go	1
+Mr. Blues	stay	Where Did Our Love Go	1
+Mr. Blues	wide	Where Did Our Love Go	1
+Mr. Blues	world	Where Did Our Love Go	1
+Mr. Blues	yeah	Where Did Our Love Go	1
+My Boyfriend’s Back	alright	Heat Wave	1
+My Boyfriend’s Back	awful	Heat Wave	1
+My Boyfriend’s Back	beatin	Heat Wave	1
+My Boyfriend’s Back	born	Heat Wave	1
+My Boyfriend’s Back	bothered	Heat Wave	1
+My Boyfriend’s Back	boyfriend's	Heat Wave	22
+My Boyfriend’s Back	boyfriends's	Heat Wave	1
+My Boyfriend’s Back	cheatin	Heat Wave	1
+My Boyfriend’s Back	comin	Heat Wave	4
+My Boyfriend’s Back	cut	Heat Wave	2
+My Boyfriend’s Back	day	Heat Wave	17
+My Boyfriend’s Back	double	Heat Wave	1
+My Boyfriend’s Back	fades	Heat Wave	1
+My Boyfriend’s Back	fine	Heat Wave	1
+My Boyfriend’s Back	gonna	Heat Wave	4
+My Boyfriend’s Back	hey	Heat Wave	13
+My Boyfriend’s Back	hung	Heat Wave	1
+My Boyfriend’s Back	kinda	Heat Wave	1
+My Boyfriend’s Back	la	Heat Wave	36
+My Boyfriend’s Back	lies	Heat Wave	2
+My Boyfriend’s Back	lyin	Heat Wave	1
+My Boyfriend’s Back	nice	Heat Wave	1
+My Boyfriend’s Back	night	Heat Wave	1
+My Boyfriend’s Back	ooo	Heat Wave	3
+My Boyfriend’s Back	permanent	Heat Wave	1
+My Boyfriend’s Back	reputation	Heat Wave	1
+My Boyfriend’s Back	runnin	Heat Wave	1
+My Boyfriend’s Back	save	Heat Wave	1
+My Boyfriend’s Back	size	Heat Wave	1
+My Boyfriend’s Back	spoken	Heat Wave	1
+My Boyfriend’s Back	spreading	Heat Wave	1
+My Boyfriend’s Back	strong	Heat Wave	1
+My Boyfriend’s Back	things'll	Heat Wave	1
+My Boyfriend’s Back	time	Heat Wave	1
+My Boyfriend’s Back	trouble	Heat Wave	1
+My Boyfriend’s Back	true	Heat Wave	1
+My Boyfriend’s Back	tryin	Heat Wave	1
+My Boyfriend’s Back	untrue	Heat Wave	1
+My Boyfriend’s Back	vacation	Heat Wave	1
+My Boyfriend’s Back	wah	Heat Wave	3
+My Boyfriend’s Back	wait	Heat Wave	1
+My Boyfriend’s Back	yeah	Heat Wave	7
+Penny Pincher	beat	Where Did Our Love Go	1
+Penny Pincher	book	Where Did Our Love Go	1
+Penny Pincher	boy	Where Did Our Love Go	1
+Penny Pincher	call	Where Did Our Love Go	1
+Penny Pincher	car	Where Did Our Love Go	1
+Penny Pincher	care	Where Did Our Love Go	2
+Penny Pincher	cheap	Where Did Our Love Go	1
+Penny Pincher	dime	Where Did Our Love Go	2
+Penny Pincher	drive	Where Did Our Love Go	1
+Penny Pincher	friend	Where Did Our Love Go	1
+Penny Pincher	girls	Where Did Our Love Go	1
+Penny Pincher	honey	Where Did Our Love Go	1
+Penny Pincher	love	Where Did Our Love Go	5
+Penny Pincher	loving	Where Did Our Love Go	1
+Penny Pincher	means	Where Did Our Love Go	3
+Penny Pincher	mine	Where Did Our Love Go	2
+Penny Pincher	money	Where Did Our Love Go	1
+Penny Pincher	park	Where Did Our Love Go	1
+Penny Pincher	penny	Where Did Our Love Go	6
+Penny Pincher	pincher	Where Did Our Love Go	6
+Penny Pincher	shy	Where Did Our Love Go	1
+Penny Pincher	spend	Where Did Our Love Go	3
+Penny Pincher	sweet	Where Did Our Love Go	1
+Penny Pincher	tease	Where Did Our Love Go	2
+Penny Pincher	tender	Where Did Our Love Go	1
+Penny Pincher	trusting	Where Did Our Love Go	1
+Penny Pincher	walks	Where Did Our Love Go	1
+Penny Pincher	world	Where Did Our Love Go	2
+People	acting	Where Did Our Love Go	1
+People	born	Where Did Our Love Go	1
+People	children	Where Did Our Love Go	5
+People	deep	Where Did Our Love Go	1
+People	dream	Where Did Our Love Go	1
+People	fall	Where Did Our Love Go	1
+People	feeling	Where Did Our Love Go	1
+People	free	Where Did Our Love Go	1
+People	god's	Where Did Our Love Go	1
+People	grown	Where Did Our Love Go	1
+People	half	Where Did Our Love Go	1
+People	hide	Where Did Our Love Go	1
+People	hunger	Where Did Our Love Go	1
+People	inside	Where Did Our Love Go	1
+People	letting	Where Did Our Love Go	1
+People	lies	Where Did Our Love Go	1
+People	love	Where Did Our Love Go	2
+People	lovers	Where Did Our Love Go	1
+People	luckiest	Where Did Our Love Go	3
+People	peace	Where Did Our Love Go	1
+People	people	Where Did Our Love Go	12
+People	person	Where Did Our Love Go	3
+People	pride	Where Did Our Love Go	1
+People	security	Where Did Our Love Go	1
+People	soul	Where Did Our Love Go	1
+People	special	Where Did Our Love Go	2
+People	thirst	Where Did Our Love Go	1
+People	vain	Where Did Our Love Go	1
+People	world	Where Did Our Love Go	4
+People Say	blue	Chapel of Love	2
+People Say	bother	Chapel of Love	1
+People Say	care	Chapel of Love	10
+People Say	deep	Chapel of Love	1
+People Say	don’t	Chapel of Love	1
+People Say	fall	Chapel of Love	1
+People Say	heart	Chapel of Love	1
+People Say	hurt	Chapel of Love	2
+People Say	kiss	Chapel of Love	1
+People Say	leave	Chapel of Love	2
+People Say	love	Chapel of Love	3
+People Say	people	Chapel of Love	18
+People Say	romance	Chapel of Love	2
+People Say	sad	Chapel of Love	2
+People Say	sea	Chapel of Love	1
+People Say	shine	Chapel of Love	1
+People Say	stars	Chapel of Love	1
+People Say	stay	Chapel of Love	1
+People Say	strolling	Chapel of Love	1
+People Say	summer	Chapel of Love	3
+People Say	time	Chapel of Love	1
+People Say	true	Chapel of Love	2
+People Say	winter	Chapel of Love	1
+People Say	wrong	Chapel of Love	2
+People Say	yeah	Chapel of Love	9
+Remember (Walkin’ in the Sand)	baby	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	boy	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	cheek	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	cross	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	day	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	exciting	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	fingertips	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	found	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	hand	Leader of the Pack	6
+Remember (Walkin’ in the Sand)	happen	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	happened	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	inviting	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	letter	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	life	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	lips	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	meet	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	night	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	remember	Leader of the Pack	19
+Remember (Walkin’ in the Sand)	sand	Leader of the Pack	3
+Remember (Walkin’ in the Sand)	sea	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	smile	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	softly	Leader of the Pack	3
+Remember (Walkin’ in the Sand)	touched	Leader of the Pack	2
+Remember (Walkin’ in the Sand)	true	Leader of the Pack	1
+Remember (Walkin’ in the Sand)	walkin	Leader of the Pack	6
+Run, Run, Run	break	Where Did Our Love Go	1
+Run, Run, Run	chances	Where Did Our Love Go	1
+Run, Run, Run	day	Where Did Our Love Go	3
+Run, Run, Run	days	Where Did Our Love Go	1
+Run, Run, Run	dearer	Where Did Our Love Go	2
+Run, Run, Run	devil	Where Did Our Love Go	1
+Run, Run, Run	diary	Where Did Our Love Go	1
+Run, Run, Run	disguise	Where Did Our Love Go	1
+Run, Run, Run	eyes	Where Did Our Love Go	1
+Run, Run, Run	finally	Where Did Our Love Go	1
+Run, Run, Run	fool	Where Did Our Love Go	1
+Run, Run, Run	fooled	Where Did Our Love Go	1
+Run, Run, Run	friends	Where Did Our Love Go	2
+Run, Run, Run	gather	Where Did Our Love Go	1
+Run, Run, Run	girls	Where Did Our Love Go	1
+Run, Run, Run	gonna	Where Did Our Love Go	1
+Run, Run, Run	gotta	Where Did Our Love Go	1
+Run, Run, Run	guy	Where Did Our Love Go	1
+Run, Run, Run	happy	Where Did Our Love Go	1
+Run, Run, Run	hear	Where Did Our Love Go	1
+Run, Run, Run	heart	Where Did Our Love Go	2
+Run, Run, Run	heart's	Where Did Our Love Go	1
+Run, Run, Run	kissed	Where Did Our Love Go	1
+Run, Run, Run	love	Where Did Our Love Go	4
+Run, Run, Run	nearer	Where Did Our Love Go	1
+Run, Run, Run	news	Where Did Our Love Go	1
+Run, Run, Run	quiet	Where Did Our Love Go	1
+Run, Run, Run	round	Where Did Our Love Go	1
+Run, Run, Run	run	Where Did Our Love Go	19
+Run, Run, Run	shout	Where Did Our Love Go	1
+Run, Run, Run	shyness	Where Did Our Love Go	1
+Run, Run, Run	start	Where Did Our Love Go	1
+Run, Run, Run	stay	Where Did Our Love Go	1
+Run, Run, Run	thrills	Where Did Our Love Go	1
+Run, Run, Run	time	Where Did Our Love Go	1
+Run, Run, Run	true	Where Did Our Love Go	1
+Run, Run, Run	won	Where Did Our Love Go	1
+Run, Run, Run	write	Where Did Our Love Go	1
+Run, Run, Run	yeah	Where Did Our Love Go	15
+Send Me No Flowers	affection	Where Did Our Love Go	3
+Send Me No Flowers	arms	Where Did Our Love Go	2
+Send Me No Flowers	baby	Where Did Our Love Go	9
+Send Me No Flowers	blue	Where Did Our Love Go	1
+Send Me No Flowers	bother	Where Did Our Love Go	2
+Send Me No Flowers	broken	Where Did Our Love Go	1
+Send Me No Flowers	card	Where Did Our Love Go	1
+Send Me No Flowers	ease	Where Did Our Love Go	1
+Send Me No Flowers	flowers	Where Did Our Love Go	12
+Send Me No Flowers	heart	Where Did Our Love Go	4
+Send Me No Flowers	home	Where Did Our Love Go	1
+Send Me No Flowers	hours	Where Did Our Love Go	1
+Send Me No Flowers	kissing	Where Did Our Love Go	2
+Send Me No Flowers	lonely	Where Did Our Love Go	1
+Send Me No Flowers	loving	Where Did Our Love Go	1
+Send Me No Flowers	mine	Where Did Our Love Go	3
+Send Me No Flowers	missing	Where Did Our Love Go	1
+Send Me No Flowers	phone	Where Did Our Love Go	1
+Send Me No Flowers	reminded	Where Did Our Love Go	1
+Send Me No Flowers	send	Where Did Our Love Go	7
+Send Me No Flowers	soothe	Where Did Our Love Go	3
+Send Me No Flowers	true	Where Did Our Love Go	1
+Send Me No Flowers	violets	Where Did Our Love Go	1
+Shout	alll	Leader of the Pack	2
+Shout	baby	Leader of the Pack	3
+Shout	bottom	Leader of the Pack	1
+Shout	feel	Leader of the Pack	1
+Shout	fool	Leader of the Pack	1
+Shout	forget	Leader of the Pack	4
+Shout	growed	Leader of the Pack	1
+Shout	hand	Leader of the Pack	2
+Shout	head	Leader of the Pack	2
+Shout	heels	Leader of the Pack	2
+Shout	heh	Leader of the Pack	4
+Shout	kick	Leader of the Pack	2
+Shout	leave	Leader of the Pack	3
+Shout	love	Leader of the Pack	1
+Shout	minute	Leader of the Pack	1
+Shout	ohhhhhh	Leader of the Pack	1
+Shout	remember	Leader of the Pack	1
+Shout	shout	Leader of the Pack	15
+Shout	soul	Leader of the Pack	1
+Shout	throw	Leader of the Pack	4
+Shout	wait	Leader of the Pack	1
+Shout	wanna	Leader of the Pack	2
+Shout	yeah	Leader of the Pack	12
+Shout	youve	Leader of the Pack	1
+Smackwater Jack	abuse	Tapestry	1
+Smackwater Jack	account	Tapestry	1
+Smackwater Jack	border	Tapestry	1
+Smackwater Jack	bought	Tapestry	3
+Smackwater Jack	bout	Tapestry	4
+Smackwater Jack	bulldog	Tapestry	1
+Smackwater Jack	called	Tapestry	1
+Smackwater Jack	capture	Tapestry	1
+Smackwater Jack	chief	Tapestry	1
+Smackwater Jack	clean	Tapestry	1
+Smackwater Jack	confrontation	Tapestry	1
+Smackwater Jack	congregation	Tapestry	1
+Smackwater Jack	cry	Tapestry	1
+Smackwater Jack	daughters	Tapestry	1
+Smackwater Jack	guard	Tapestry	1
+Smackwater Jack	hand	Tapestry	3
+Smackwater Jack	hang	Tapestry	1
+Smackwater Jack	hanged	Tapestry	1
+Smackwater Jack	jack	Tapestry	11
+Smackwater Jack	jim	Tapestry	1
+Smackwater Jack	law	Tapestry	1
+Smackwater Jack	led	Tapestry	1
+Smackwater Jack	loose	Tapestry	1
+Smackwater Jack	mood	Tapestry	1
+Smackwater Jack	mouth	Tapestry	1
+Smackwater Jack	noose	Tapestry	1
+Smackwater Jack	ole	Tapestry	1
+Smackwater Jack	ooh	Tapestry	1
+Smackwater Jack	outlaw	Tapestry	1
+Smackwater Jack	papers	Tapestry	1
+Smackwater Jack	people	Tapestry	1
+Smackwater Jack	pleased	Tapestry	1
+Smackwater Jack	posse	Tapestry	1
+Smackwater Jack	ride	Tapestry	1
+Smackwater Jack	seized	Tapestry	1
+Smackwater Jack	shot	Tapestry	1
+Smackwater Jack	shotgun	Tapestry	9
+Smackwater Jack	smack	Tapestry	2
+Smackwater Jack	smackwater	Tapestry	9
+Smackwater Jack	south	Tapestry	1
+Smackwater Jack	stood	Tapestry	1
+Smackwater Jack	streets	Tapestry	1
+Smackwater Jack	surround	Tapestry	1
+Smackwater Jack	talk	Tapestry	3
+Smackwater Jack	talkin	Tapestry	5
+Smackwater Jack	understand	Tapestry	1
+Smackwater Jack	undertaker	Tapestry	1
+Smackwater Jack	wanna	Tapestry	1
+Smackwater Jack	wives	Tapestry	1
+Smackwater Jack	yeah	Tapestry	6
+So Far Away	ago	Tapestry	1
+So Far Away	close	Tapestry	2
+So Far Away	door	Tapestry	3
+So Far Away	dreams	Tapestry	1
+So Far Away	fine	Tapestry	3
+So Far Away	hey	Tapestry	1
+So Far Away	highway	Tapestry	1
+So Far Away	holding	Tapestry	1
+So Far Away	hope	Tapestry	1
+So Far Away	life	Tapestry	1
+So Far Away	lonely	Tapestry	1
+So Far Away	mind	Tapestry	1
+So Far Away	moving	Tapestry	1
+So Far Away	reached	Tapestry	1
+So Far Away	road	Tapestry	1
+So Far Away	song	Tapestry	1
+So Far Away	spend	Tapestry	1
+So Far Away	stay	Tapestry	3
+So Far Away	stood	Tapestry	1
+So Far Away	time	Tapestry	1
+So Far Away	traveling	Tapestry	1
+So Far Away	yeah	Tapestry	2
+So Much in Love	aisle	Leader of the Pack	1
+So Much in Love	darling	Leader of the Pack	1
+So Much in Love	die	Leader of the Pack	1
+So Much in Love	hands	Leader of the Pack	1
+So Much in Love	holding	Leader of the Pack	1
+So Much in Love	love	Leader of the Pack	23
+So Much in Love	ooo	Leader of the Pack	10
+So Much in Love	sea	Leader of the Pack	1
+So Much in Love	stars	Leader of the Pack	1
+So Much in Love	stroll	Leader of the Pack	3
+So Much in Love	till	Leader of the Pack	1
+So Much in Love	touch	Leader of the Pack	1
+So Much in Love	twinkling	Leader of the Pack	1
+So Much in Love	vow	Leader of the Pack	1
+So Much in Love	wait	Leader of the Pack	1
+So Much in Love	walk	Leader of the Pack	1
+So Much in Love	walking	Leader of the Pack	1
+So Much in Love	wee	Leader of the Pack	3
+So Much in Love	woo	Leader of the Pack	2
+Standing at the Crossroads of Love	blue	Where Did Our Love Go	1
+Standing at the Crossroads of Love	boy	Where Did Our Love Go	1
+Standing at the Crossroads of Love	caring	Where Did Our Love Go	1
+Standing at the Crossroads of Love	crossroads	Where Did Our Love Go	8
+Standing at the Crossroads of Love	deny	Where Did Our Love Go	1
+Standing at the Crossroads of Love	despairing	Where Did Our Love Go	1
+Standing at the Crossroads of Love	devotion	Where Did Our Love Go	1
+Standing at the Crossroads of Love	die	Where Did Our Love Go	1
+Standing at the Crossroads of Love	emotion	Where Did Our Love Go	1
+Standing at the Crossroads of Love	heart	Where Did Our Love Go	1
+Standing at the Crossroads of Love	heartache	Where Did Our Love Go	1
+Standing at the Crossroads of Love	heartbreak	Where Did Our Love Go	1
+Standing at the Crossroads of Love	hurts	Where Did Our Love Go	2
+Standing at the Crossroads of Love	love	Where Did Our Love Go	9
+Standing at the Crossroads of Love	loving	Where Did Our Love Go	1
+Standing at the Crossroads of Love	makes	Where Did Our Love Go	1
+Standing at the Crossroads of Love	middle	Where Did Our Love Go	1
+Standing at the Crossroads of Love	misery	Where Did Our Love Go	1
+Standing at the Crossroads of Love	mistreats	Where Did Our Love Go	1
+Standing at the Crossroads of Love	pillow	Where Did Our Love Go	1
+Standing at the Crossroads of Love	returned	Where Did Our Love Go	1
+Standing at the Crossroads of Love	runs	Where Did Our Love Go	1
+Standing at the Crossroads of Love	standing	Where Did Our Love Go	8
+Standing at the Crossroads of Love	surely	Where Did Our Love Go	1
+Standing at the Crossroads of Love	tears	Where Did Our Love Go	1
+Standing at the Crossroads of Love	true	Where Did Our Love Go	1
+Standing at the Crossroads of Love	yearns	Where Did Our Love Go	1
+Tapestry	amid	Tapestry	1
+Tapestry	appeared	Tapestry	1
+Tapestry	beard	Tapestry	1
+Tapestry	beneath	Tapestry	1
+Tapestry	bits	Tapestry	1
+Tapestry	black	Tapestry	1
+Tapestry	blue	Tapestry	1
+Tapestry	changing	Tapestry	1
+Tapestry	cloth	Tapestry	1
+Tapestry	coat	Tapestry	1
+Tapestry	colors	Tapestry	1
+Tapestry	darkness	Tapestry	1
+Tapestry	deepest	Tapestry	1
+Tapestry	dressed	Tapestry	1
+Tapestry	drifter	Tapestry	1
+Tapestry	empty	Tapestry	1
+Tapestry	everlasting	Tapestry	1
+Tapestry	fallen	Tapestry	1
+Tapestry	feel	Tapestry	1
+Tapestry	figure	Tapestry	1
+Tapestry	flowing	Tapestry	1
+Tapestry	fortune	Tapestry	1
+Tapestry	ghostly	Tapestry	1
+Tapestry	gold	Tapestry	1
+Tapestry	golden	Tapestry	1
+Tapestry	gray	Tapestry	1
+Tapestry	green	Tapestry	1
+Tapestry	hand	Tapestry	1
+Tapestry	hanging	Tapestry	1
+Tapestry	hide	Tapestry	1
+Tapestry	hold	Tapestry	1
+Tapestry	hue	Tapestry	1
+Tapestry	impossible	Tapestry	1
+Tapestry	leathered	Tapestry	1
+Tapestry	life	Tapestry	1
+Tapestry	magic	Tapestry	1
+Tapestry	moved	Tapestry	1
+Tapestry	passing	Tapestry	1
+Tapestry	reached	Tapestry	1
+Tapestry	rich	Tapestry	1
+Tapestry	river	Tapestry	1
+Tapestry	road	Tapestry	1
+Tapestry	rock	Tapestry	1
+Tapestry	royal	Tapestry	1
+Tapestry	rutted	Tapestry	1
+Tapestry	sadness	Tapestry	1
+Tapestry	sat	Tapestry	1
+Tapestry	silver	Tapestry	1
+Tapestry	sky	Tapestry	1
+Tapestry	soft	Tapestry	1
+Tapestry	someone's	Tapestry	1
+Tapestry	sorrow	Tapestry	1
+Tapestry	spell	Tapestry	1
+Tapestry	suddenly	Tapestry	1
+Tapestry	suffer	Tapestry	1
+Tapestry	tapestry	Tapestry	3
+Tapestry	tapestry's	Tapestry	1
+Tapestry	tattered	Tapestry	1
+Tapestry	times	Tapestry	1
+Tapestry	toad	Tapestry	1
+Tapestry	torn	Tapestry	1
+Tapestry	tree	Tapestry	1
+Tapestry	uncertainty	Tapestry	1
+Tapestry	unraveling	Tapestry	1
+Tapestry	view	Tapestry	1
+Tapestry	vision	Tapestry	1
+Tapestry	watched	Tapestry	1
+Tapestry	wept	Tapestry	1
+Tapestry	wicked	Tapestry	1
+Tapestry	wondrous	Tapestry	1
+Tapestry	wore	Tapestry	1
+Tapestry	woven	Tapestry	1
+Tapestry	yellow	Tapestry	1
+Thank You Mama, Thank You Papa	bout	Chapel of Love	3
+Thank You Mama, Thank You Papa	cake	Chapel of Love	3
+Thank You Mama, Thank You Papa	crying	Chapel of Love	2
+Thank You Mama, Thank You Papa	cut	Chapel of Love	3
+Thank You Mama, Thank You Papa	date	Chapel of Love	1
+Thank You Mama, Thank You Papa	day	Chapel of Love	2
+Thank You Mama, Thank You Papa	glad	Chapel of Love	3
+Thank You Mama, Thank You Papa	hurt	Chapel of Love	1
+Thank You Mama, Thank You Papa	late	Chapel of Love	5
+Thank You Mama, Thank You Papa	loved	Chapel of Love	2
+Thank You Mama, Thank You Papa	lying	Chapel of Love	2
+Thank You Mama, Thank You Papa	mama	Chapel of Love	3
+Thank You Mama, Thank You Papa	mistake	Chapel of Love	3
+Thank You Mama, Thank You Papa	month	Chapel of Love	3
+Thank You Mama, Thank You Papa	mother's	Chapel of Love	2
+Thank You Mama, Thank You Papa	movies	Chapel of Love	1
+Thank You Mama, Thank You Papa	papa	Chapel of Love	5
+Thank You Mama, Thank You Papa	plain	Chapel of Love	2
+Thank You Mama, Thank You Papa	stood	Chapel of Love	1
+Thank You Mama, Thank You Papa	warned	Chapel of Love	3
+Thank You Mama, Thank You Papa	wit	Chapel of Love	2
+Thank You Mama, Thank You Papa	yeah	Chapel of Love	2
+Then He Kissed Me	bride	Heat Wave	2
+Then He Kissed Me	bright	Heat Wave	1
+Then He Kissed Me	chance	Heat Wave	1
+Then He Kissed Me	cried	Heat Wave	2
+Then He Kissed Me	dad	Heat Wave	1
+Then He Kissed Me	dance	Heat Wave	1
+Then He Kissed Me	danced	Heat Wave	1
+Then He Kissed Me	day	Heat Wave	1
+Then He Kissed Me	forever	Heat Wave	1
+Then He Kissed Me	friend	Heat Wave	1
+Then He Kissed Me	happy	Heat Wave	2
+Then He Kissed Me	held	Heat Wave	1
+Then He Kissed Me	home	Heat Wave	2
+Then He Kissed Me	kissed	Heat Wave	10
+Then He Kissed Me	looked	Heat Wave	1
+Then He Kissed Me	love	Heat Wave	1
+Then He Kissed Me	loved	Heat Wave	1
+Then He Kissed Me	lovin	Heat Wave	1
+Then He Kissed Me	meet	Heat Wave	1
+Then He Kissed Me	mine	Heat Wave	1
+Then He Kissed Me	mom	Heat Wave	1
+Then He Kissed Me	nice	Heat Wave	1
+Then He Kissed Me	night	Heat Wave	1
+Then He Kissed Me	shining	Heat Wave	1
+Then He Kissed Me	stars	Heat Wave	1
+Then He Kissed Me	tight	Heat Wave	1
+Then He Kissed Me	time	Heat Wave	1
+Then He Kissed Me	wait	Heat Wave	1
+Then He Kissed Me	walked	Heat Wave	2
+Then He Kissed Me	whispered	Heat Wave	1
+Twist and Shout	ah	Leader of the Pack	8
+Twist and Shout	ahhhhhh	Leader of the Pack	2
+Twist and Shout	ahhhhhhh	Leader of the Pack	1
+Twist and Shout	ar	Leader of the Pack	1
+Twist and Shout	baby	Leader of the Pack	21
+Twist and Shout	boy	Leader of the Pack	3
+Twist and Shout	closer	Leader of the Pack	4
+Twist and Shout	fine	Leader of the Pack	5
+Twist and Shout	girl	Leader of the Pack	1
+Twist and Shout	goin	Leader of the Pack	2
+Twist and Shout	gonna	Leader of the Pack	1
+Twist and Shout	honey	Leader of the Pack	1
+Twist and Shout	itshake	Leader of the Pack	1
+Twist and Shout	mine	Leader of the Pack	4
+Twist and Shout	mw	Leader of the Pack	1
+Twist and Shout	ohh	Leader of the Pack	4
+Twist and Shout	ohhh	Leader of the Pack	4
+Twist and Shout	out.now	Leader of the Pack	1
+Twist and Shout	shake	Leader of the Pack	19
+Twist and Shout	shout	Leader of the Pack	9
+Twist and Shout	twist	Leader of the Pack	21
+Twist and Shout	woah	Leader of the Pack	1
+Twist and Shout	yeah	Leader of the Pack	2
+Twist and Shout	youre	Leader of the Pack	1
+Wait Till My Bobby Gets Home	alright	Heat Wave	1
+Wait Till My Bobby Gets Home	baby	Heat Wave	3
+Wait Till My Bobby Gets Home	blue	Heat Wave	1
+Wait Till My Bobby Gets Home	bobby	Heat Wave	12
+Wait Till My Bobby Gets Home	bobby's	Heat Wave	1
+Wait Till My Bobby Gets Home	call	Heat Wave	1
+Wait Till My Bobby Gets Home	calling	Heat Wave	1
+Wait Till My Bobby Gets Home	day	Heat Wave	1
+Wait Till My Bobby Gets Home	door	Heat Wave	1
+Wait Till My Bobby Gets Home	fine	Heat Wave	1
+Wait Till My Bobby Gets Home	front	Heat Wave	1
+Wait Till My Bobby Gets Home	gonna	Heat Wave	6
+Wait Till My Bobby Gets Home	gotta	Heat Wave	1
+Wait Till My Bobby Gets Home	home	Heat Wave	14
+Wait Till My Bobby Gets Home	huggin	Heat Wave	3
+Wait Till My Bobby Gets Home	kissin	Heat Wave	3
+Wait Till My Bobby Gets Home	knocking	Heat Wave	1
+Wait Till My Bobby Gets Home	leave	Heat Wave	3
+Wait Till My Bobby Gets Home	lonely	Heat Wave	1
+Wait Till My Bobby Gets Home	lovin	Heat Wave	3
+Wait Till My Bobby Gets Home	movie	Heat Wave	1
+Wait Till My Bobby Gets Home	ooh	Heat Wave	1
+Wait Till My Bobby Gets Home	thing's	Heat Wave	1
+Wait Till My Bobby Gets Home	till	Heat Wave	14
+Wait Till My Bobby Gets Home	times	Heat Wave	1
+Wait Till My Bobby Gets Home	tonight	Heat Wave	1
+Wait Till My Bobby Gets Home	wait	Heat Wave	15
+Wait Till My Bobby Gets Home	waiting	Heat Wave	1
+Wait Till My Bobby Gets Home	wanna	Heat Wave	2
+Wait Till My Bobby Gets Home	yeah	Heat Wave	18
+Way Over Yonder	ago	Tapestry	1
+Way Over Yonder	bound	Tapestry	3
+Way Over Yonder	bout	Tapestry	2
+Way Over Yonder	cold	Tapestry	1
+Way Over Yonder	day	Tapestry	1
+Way Over Yonder	dream	Tapestry	1
+Way Over Yonder	easily	Tapestry	2
+Way Over Yonder	found	Tapestry	2
+Way Over Yonder	garden	Tapestry	1
+Way Over Yonder	golden	Tapestry	2
+Way Over Yonder	gonna	Tapestry	1
+Way Over Yonder	honey	Tapestry	1
+Way Over Yonder	hunger	Tapestry	1
+Way Over Yonder	land	Tapestry	1
+Way Over Yonder	leave	Tapestry	1
+Way Over Yonder	life	Tapestry	2
+Way Over Yonder	lose	Tapestry	1
+Way Over Yonder	mind	Tapestry	1
+Way Over Yonder	peace	Tapestry	1
+Way Over Yonder	proudly	Tapestry	1
+Way Over Yonder	rivers	Tapestry	1
+Way Over Yonder	runs	Tapestry	1
+Way Over Yonder	shelter	Tapestry	1
+Way Over Yonder	shining	Tapestry	3
+Way Over Yonder	stand	Tapestry	1
+Way Over Yonder	sun	Tapestry	2
+Way Over Yonder	sweet	Tapestry	2
+Way Over Yonder	talking	Tapestry	2
+Way Over Yonder	tastin	Tapestry	2
+Way Over Yonder	tomorrow	Tapestry	1
+Way Over Yonder	trouble's	Tapestry	1
+Way Over Yonder	true	Tapestry	1
+Way Over Yonder	wisdom	Tapestry	1
+Way Over Yonder	worry	Tapestry	1
+Way Over Yonder	yeah	Tapestry	1
+Way Over Yonder	yonder	Tapestry	5
+What Is Love?	born	Leader of the Pack	2
+What Is Love?	boy	Leader of the Pack	2
+What Is Love?	bright	Leader of the Pack	1
+What Is Love?	brings	Leader of the Pack	1
+What Is Love?	broken	Leader of the Pack	1
+What Is Love?	dreams	Leader of the Pack	3
+What Is Love?	embrace	Leader of the Pack	1
+What Is Love?	explain	Leader of the Pack	1
+What Is Love?	feel	Leader of the Pack	3
+What Is Love?	feeling	Leader of the Pack	1
+What Is Love?	forget	Leader of the Pack	1
+What Is Love?	found	Leader of the Pack	1
+What Is Love?	funny	Leader of the Pack	2
+What Is Love?	gee	Leader of the Pack	1
+What Is Love?	glad	Leader of the Pack	2
+What Is Love?	happy	Leader of the Pack	2
+What Is Love?	heart	Leader of the Pack	3
+What Is Love?	helps	Leader of the Pack	1
+What Is Love?	hold	Leader of the Pack	1
+What Is Love?	kiss	Leader of the Pack	1
+What Is Love?	lot	Leader of the Pack	1
+What Is Love?	love	Leader of the Pack	11
+What Is Love?	makes	Leader of the Pack	1
+What Is Love?	met	Leader of the Pack	1
+What Is Love?	mine	Leader of the Pack	1
+What Is Love?	pain	Leader of the Pack	1
+What Is Love?	pound	Leader of the Pack	2
+What Is Love?	replace	Leader of the Pack	1
+What Is Love?	rest	Leader of the Pack	7
+What Is Love?	shattered	Leader of the Pack	1
+What Is Love?	time	Leader of the Pack	5
+What Is Love?	torn	Leader of the Pack	1
+What Is Love?	troubles	Leader of the Pack	1
+What Is Love?	wait	Leader of the Pack	1
+What Is Love?	whisper	Leader of the Pack	1
+What Is Love?	wo	Leader of the Pack	3
+What Is Love?	woah	Leader of the Pack	2
+When the Lovelight Starts Shining Through His Eyes	acted	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	apologize	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	apologized	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	bold	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	changed	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	cold	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	eye	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	eyes	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	hand	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	heart	Where Did Our Love Go	3
+When the Lovelight Starts Shining Through His Eyes	held	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	hoped	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	hoping	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	inside	Where Did Our Love Go	3
+When the Lovelight Starts Shining Through His Eyes	kiss	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	lovelight	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	mind	Where Did Our Love Go	2
+When the Lovelight Starts Shining Through His Eyes	nice	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	ooh	Where Did Our Love Go	3
+When the Lovelight Starts Shining Through His Eyes	passed	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	quickly	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	realize	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	shining	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	smiled	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	starts	Where Did Our Love Go	4
+When the Lovelight Starts Shining Through His Eyes	stood	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	sweet	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	tight	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	told	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	treated	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	unkind	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	wa	Where Did Our Love Go	1
+When the Lovelight Starts Shining Through His Eyes	walk	Where Did Our Love Go	2
+When the Lovelight Starts Shining Through His Eyes	won	Where Did Our Love Go	3
+When the Lovelight Starts Shining Through His Eyes	word	Where Did Our Love Go	2
+Where Did Our Love Go	baby	Where Did Our Love Go	16
+Where Did Our Love Go	bad	Where Did Our Love Go	2
+Where Did Our Love Go	bee	Where Did Our Love Go	1
+Where Did Our Love Go	burning	Where Did Our Love Go	5
+Where Did Our Love Go	deep	Where Did Our Love Go	2
+Where Did Our Love Go	feelin	Where Did Our Love Go	2
+Where Did Our Love Go	forever	Where Did Our Love Go	1
+Where Did Our Love Go	guy	Where Did Our Love Go	1
+Where Did Our Love Go	heart	Where Did Our Love Go	2
+Where Did Our Love Go	helplessly	Where Did Our Love Go	1
+Where Did Our Love Go	hurts	Where Did Our Love Go	2
+Where Did Our Love Go	inside	Where Did Our Love Go	4
+Where Did Our Love Go	leave	Where Did Our Love Go	7
+Where Did Our Love Go	love	Where Did Our Love Go	5
+Where Did Our Love Go	ooh	Where Did Our Love Go	10
+Where Did Our Love Go	perfect	Where Did Our Love Go	1
+Where Did Our Love Go	promises	Where Did Our Love Go	1
+Where Did Our Love Go	stings	Where Did Our Love Go	1
+Where Did Our Love Go	surrender	Where Did Our Love Go	1
+Where Did Our Love Go	tenderly	Where Did Our Love Go	1
+Where Did Our Love Go	wanna	Where Did Our Love Go	3
+Where Did Our Love Go	won	Where Did Our Love Go	1
+Where Did Our Love Go	yearning	Where Did Our Love Go	2
+Where You Lead	baby	Tapestry	3
+Where You Lead	call	Tapestry	1
+Where You Lead	city	Tapestry	1
+Where You Lead	cold	Tapestry	1
+Where You Lead	darling	Tapestry	1
+Where You Lead	earth	Tapestry	1
+Where You Lead	feeling	Tapestry	1
+Where You Lead	flowers	Tapestry	1
+Where You Lead	follow	Tapestry	17
+Where You Lead	gonna	Tapestry	9
+Where You Lead	happy	Tapestry	1
+Where You Lead	home	Tapestry	1
+Where You Lead	honey	Tapestry	1
+Where You Lead	huh	Tapestry	1
+Where You Lead	lead	Tapestry	16
+Where You Lead	live	Tapestry	1
+Where You Lead	lonely	Tapestry	1
+Where You Lead	loving	Tapestry	1
+Where You Lead	ooh	Tapestry	4
+Where You Lead	real	Tapestry	1
+Where You Lead	road	Tapestry	1
+Where You Lead	satisfaction	Tapestry	1
+Where You Lead	sill	Tapestry	1
+Where You Lead	sugar	Tapestry	1
+Where You Lead	train	Tapestry	1
+Where You Lead	uh	Tapestry	1
+Where You Lead	wanna	Tapestry	1
+Where You Lead	window	Tapestry	1
+Where You Lead	worth	Tapestry	1
+Where You Lead	yeah	Tapestry	3
+Where You Lead	york	Tapestry	1
+Will You Love Me Tomorrow?	broken	Tapestry	1
+Will You Love Me Tomorrow?	completely	Tapestry	1
+Will You Love Me Tomorrow?	eyes	Tapestry	1
+Will You Love Me Tomorrow?	heart	Tapestry	1
+Will You Love Me Tomorrow?	lasting	Tapestry	1
+Will You Love Me Tomorrow?	light	Tapestry	1
+Will You Love Me Tomorrow?	love	Tapestry	8
+Will You Love Me Tomorrow?	magic	Tapestry	1
+Will You Love Me Tomorrow?	meets	Tapestry	2
+Will You Love Me Tomorrow?	mine	Tapestry	1
+Will You Love Me Tomorrow?	moment's	Tapestry	1
+Will You Love Me Tomorrow?	morning	Tapestry	2
+Will You Love Me Tomorrow?	night	Tapestry	2
+Will You Love Me Tomorrow?	pleasure	Tapestry	1
+Will You Love Me Tomorrow?	sighs	Tapestry	1
+Will You Love Me Tomorrow?	sun	Tapestry	2
+Will You Love Me Tomorrow?	sweetly	Tapestry	1
+Will You Love Me Tomorrow?	tomorrow	Tapestry	4
+Will You Love Me Tomorrow?	tonight	Tapestry	3
+Will You Love Me Tomorrow?	treasure	Tapestry	1
+Will You Love Me Tomorrow?	unspoken	Tapestry	1
+Will You Love Me Tomorrow?	words	Tapestry	1
+You Can’t Sit Down	ah	Leader of the Pack	1
+You Can’t Sit Down	baby	Leader of the Pack	2
+You Can’t Sit Down	band	Leader of the Pack	2
+You Can’t Sit Down	beat	Leader of the Pack	2
+You Can’t Sit Down	break	Leader of the Pack	1
+You Can’t Sit Down	crazy	Leader of the Pack	5
+You Can’t Sit Down	dance	Leader of the Pack	1
+You Can’t Sit Down	drummer	Leader of the Pack	1
+You Can’t Sit Down	fine	Leader of the Pack	1
+You Can’t Sit Down	flip	Leader of the Pack	4
+You Can’t Sit Down	flop	Leader of the Pack	4
+You Can’t Sit Down	fly	Leader of the Pack	9
+You Can’t Sit Down	gang	Leader of the Pack	1
+You Can’t Sit Down	gonna	Leader of the Pack	1
+You Can’t Sit Down	gotta	Leader of the Pack	10
+You Can’t Sit Down	groovin	Leader of the Pack	1
+You Can’t Sit Down	ground	Leader of the Pack	3
+You Can’t Sit Down	hear	Leader of the Pack	2
+You Can’t Sit Down	hey	Leader of the Pack	1
+You Can’t Sit Down	hip	Leader of the Pack	3
+You Can’t Sit Down	hop	Leader of the Pack	2
+You Can’t Sit Down	jumpin	Leader of the Pack	1
+You Can’t Sit Down	leave	Leader of the Pack	1
+You Can’t Sit Down	line	Leader of the Pack	1
+You Can’t Sit Down	motor	Leader of the Pack	1
+You Can’t Sit Down	move	Leader of the Pack	9
+You Can’t Sit Down	movin	Leader of the Pack	2
+You Can’t Sit Down	pretty	Leader of the Pack	2
+You Can’t Sit Down	puttin	Leader of the Pack	3
+You Can’t Sit Down	round	Leader of the Pack	3
+You Can’t Sit Down	sayin	Leader of the Pack	1
+You Can’t Sit Down	shake	Leader of the Pack	1
+You Can’t Sit Down	shakin	Leader of the Pack	1
+You Can’t Sit Down	singing	Leader of the Pack	1
+You Can’t Sit Down	sit	Leader of the Pack	33
+You Can’t Sit Down	sound	Leader of the Pack	3
+You Can’t Sit Down	south	Leader of the Pack	1
+You Can’t Sit Down	stop	Leader of the Pack	2
+You Can’t Sit Down	street	Leader of the Pack	1
+You Can’t Sit Down	thumpin	Leader of the Pack	1
+You Can’t Sit Down	time	Leader of the Pack	1
+You Can’t Sit Down	yeah	Leader of the Pack	2
+You’ve Got a Friend	baby	Tapestry	1
+You’ve Got a Friend	begins	Tapestry	1
+You’ve Got a Friend	blow	Tapestry	1
+You’ve Got a Friend	brighten	Tapestry	1
+You’ve Got a Friend	call	Tapestry	7
+You’ve Got a Friend	care	Tapestry	1
+You’ve Got a Friend	close	Tapestry	1
+You’ve Got a Friend	clouds	Tapestry	1
+You’ve Got a Friend	cold	Tapestry	1
+You’ve Got a Friend	dark	Tapestry	1
+You’ve Got a Friend	darkest	Tapestry	1
+You’ve Got a Friend	desert	Tapestry	1
+You’ve Got a Friend	door	Tapestry	1
+You’ve Got a Friend	eah	Tapestry	2
+You’ve Got a Friend	eyes	Tapestry	1
+You’ve Got a Friend	fall	Tapestry	3
+You’ve Got a Friend	friend	Tapestry	9
+You’ve Got a Friend	grows	Tapestry	1
+You’ve Got a Friend	head	Tapestry	1
+You’ve Got a Friend	hear	Tapestry	1
+You’ve Got a Friend	hurt	Tapestry	1
+You’ve Got a Friend	knocking	Tapestry	1
+You’ve Got a Friend	loud	Tapestry	1
+You’ve Got a Friend	loving	Tapestry	1
+You’ve Got a Friend	night	Tapestry	1
+You’ve Got a Friend	north	Tapestry	1
+You’ve Got a Friend	people	Tapestry	1
+You’ve Got a Friend	running	Tapestry	5
+You’ve Got a Friend	sky	Tapestry	1
+You’ve Got a Friend	soul	Tapestry	1
+You’ve Got a Friend	spring	Tapestry	3
+You’ve Got a Friend	summer	Tapestry	3
+You’ve Got a Friend	troubled	Tapestry	1
+You’ve Got a Friend	wind	Tapestry	1
+You’ve Got a Friend	winter	Tapestry	3
+You’ve Got a Friend	yeah	Tapestry	7
+Your Kiss Of Fire	adore	Where Did Our Love Go	2
+Your Kiss Of Fire	bring	Where Did Our Love Go	3
+Your Kiss Of Fire	burning	Where Did Our Love Go	1
+Your Kiss Of Fire	cold	Where Did Our Love Go	2
+Your Kiss Of Fire	consumed	Where Did Our Love Go	1
+Your Kiss Of Fire	desire	Where Did Our Love Go	2
+Your Kiss Of Fire	fire	Where Did Our Love Go	23
+Your Kiss Of Fire	fish	Where Did Our Love Go	1
+Your Kiss Of Fire	flame	Where Did Our Love Go	1
+Your Kiss Of Fire	forsake	Where Did Our Love Go	1
+Your Kiss Of Fire	gold	Where Did Our Love Go	2
+Your Kiss Of Fire	heart	Where Did Our Love Go	1
+Your Kiss Of Fire	hold	Where Did Our Love Go	1
+Your Kiss Of Fire	hurt	Where Did Our Love Go	1
+Your Kiss Of Fire	implore	Where Did Our Love Go	2
+Your Kiss Of Fire	killing	Where Did Our Love Go	1
+Your Kiss Of Fire	king	Where Did Our Love Go	1
+Your Kiss Of Fire	kiss	Where Did Our Love Go	20
+Your Kiss Of Fire	la	Where Did Our Love Go	11
+Your Kiss Of Fire	leaf	Where Did Our Love Go	1
+Your Kiss Of Fire	love	Where Did Our Love Go	3
+Your Kiss Of Fire	loved	Where Did Our Love Go	1
+Your Kiss Of Fire	midas	Where Did Our Love Go	1
+Your Kiss Of Fire	mounting	Where Did Our Love Go	1
+Your Kiss Of Fire	oo	Where Did Our Love Go	6
+Your Kiss Of Fire	ooh	Where Did Our Love Go	3
+Your Kiss Of Fire	sea	Where Did Our Love Go	1
+Your Kiss Of Fire	shines	Where Did Our Love Go	1
+Your Kiss Of Fire	soul	Where Did Our Love Go	2
+Your Kiss Of Fire	started	Where Did Our Love Go	1
+Your Kiss Of Fire	stop	Where Did Our Love Go	1
+Your Kiss Of Fire	sun	Where Did Our Love Go	1
+Your Kiss Of Fire	sweet	Where Did Our Love Go	15
+Your Kiss Of Fire	taking	Where Did Our Love Go	1
+Your Kiss Of Fire	thrill	Where Did Our Love Go	1
+Your Kiss Of Fire	til	Where Did Our Love Go	1
+Your Kiss Of Fire	tree	Where Did Our Love Go	3
+Your Kiss Of Fire	warm	Where Did Our Love Go	1
+Your Kiss Of Fire	yeah	Where Did Our Love Go	1

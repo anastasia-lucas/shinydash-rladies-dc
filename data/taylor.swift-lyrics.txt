@@ -1,0 +1,4557 @@
+song_name	word	album	n
+...Ready for It?	act	reputation	1
+...Ready for It?	baby	reputation	8
+...Ready for It?	begin	reputation	12
+...Ready for It?	boys	reputation	1
+...Ready for It?	breeze	reputation	3
+...Ready for It?	burton	reputation	1
+...Ready for It?	comparison	reputation	1
+...Ready for It?	dreams	reputation	8
+...Ready for It?	eh	reputation	1
+...Ready for It?	exes	reputation	1
+...Ready for It?	failure	reputation	1
+...Ready for It?	forever	reputation	1
+...Ready for It?	forget	reputation	1
+...Ready for It?	games	reputation	12
+...Ready for It?	ghost	reputation	1
+...Ready for It?	girls	reputation	1
+...Ready for It?	gon	reputation	3
+...Ready for It?	gonna	reputation	4
+...Ready for It?	hard	reputation	1
+...Ready for It?	haunted	reputation	1
+...Ready for It?	hearts	reputation	1
+...Ready for It?	heist	reputation	1
+...Ready for It?	hmm	reputation	1
+...Ready for It?	holdin	reputation	1
+...Ready for It?	island	reputation	4
+...Ready for It?	jailer	reputation	1
+...Ready for It?	join	reputation	1
+...Ready for It?	killer	reputation	1
+...Ready for It?	left	reputation	1
+...Ready for It?	lights	reputation	3
+...Ready for It?	love	reputation	1
+...Ready for It?	loved	reputation	1
+...Ready for It?	low	reputation	3
+...Ready for It?	middle	reputation	7
+...Ready for It?	move	reputation	1
+...Ready for It?	names	reputation	1
+...Ready for It?	night	reputation	8
+...Ready for It?	phantom	reputation	1
+...Ready for It?	ransom	reputation	1
+...Ready for It?	ready	reputation	5
+...Ready for It?	robber	reputation	1
+...Ready for It?	running	reputation	1
+...Ready for It?	sayin	reputation	1
+...Ready for It?	stealing	reputation	1
+...Ready for It?	ta	reputation	1
+...Ready for It?	tame	reputation	1
+...Ready for It?	taylor	reputation	1
+...Ready for It?	thief	reputation	1
+...Ready for It?	time	reputation	5
+...Ready for It?	touch	reputation	3
+...Ready for It?	tryin	reputation	1
+...Ready for It?	vendetta	reputation	1
+...Ready for It?	wondered	reputation	1
+22	alright	Red	7
+22	bad	Red	2
+22	bet	Red	3
+22	breakfast	Red	1
+22	confused	Red	2
+22	cool	Red	1
+22	crowded	Red	1
+22	dancing	Red	5
+22	deadlines	Red	1
+22	ditch	Red	3
+22	dreamin	Red	1
+22	dress	Red	1
+22	eh	Red	1
+22	ew	Red	1
+22	exes	Red	1
+22	fall	Red	1
+22	feeling	Red	3
+22	feels	Red	8
+22	forget	Red	2
+22	free	Red	2
+22	fun	Red	1
+22	gotta	Red	4
+22	happy	Red	2
+22	heartbreaks	Red	1
+22	hey	Red	2
+22	hipsters	Red	1
+22	kids	Red	1
+22	lonely	Red	2
+22	love	Red	1
+22	magical	Red	2
+22	midnight	Red	1
+22	miserable	Red	2
+22	news	Red	2
+22	night	Red	4
+22	nights	Red	8
+22	ooh	Red	4
+22	perfect	Red	2
+22	scene	Red	3
+22	sleepin	Red	1
+22	sleeping	Red	2
+22	strangers	Red	1
+22	swift	Red	1
+22	taylor	Red	1
+22	time	Red	3
+22	tonight's	Red	2
+22	twenty	Red	17
+22	uh	Red	12
+22	woah	Red	2
+22	yeah	Red	11
+Afterglow	afterglow	Lover	3
+Afterglow	attack	Lover	1
+Afterglow	blame	Lover	1
+Afterglow	blew	Lover	1
+Afterglow	blows	Lover	1
+Afterglow	blue	Lover	1
+Afterglow	boxing	Lover	1
+Afterglow	break	Lover	3
+Afterglow	burned	Lover	3
+Afterglow	chemistry	Lover	1
+Afterglow	crying	Lover	1
+Afterglow	didn’t	Lover	1
+Afterglow	don’t	Lover	2
+Afterglow	excruciating	Lover	1
+Afterglow	fault	Lover	1
+Afterglow	fight	Lover	1
+Afterglow	fighting	Lover	1
+Afterglow	fine	Lover	1
+Afterglow	gloves	Lover	1
+Afterglow	hands	Lover	1
+Afterglow	head	Lover	3
+Afterglow	heart	Lover	1
+Afterglow	hey	Lover	6
+Afterglow	hurt	Lover	3
+Afterglow	island	Lover	1
+Afterglow	it’s	Lover	2
+Afterglow	jail	Lover	1
+Afterglow	lift	Lover	1
+Afterglow	light	Lover	1
+Afterglow	lived	Lover	1
+Afterglow	lose	Lover	7
+Afterglow	love	Lover	4
+Afterglow	low	Lover	1
+Afterglow	meant	Lover	3
+Afterglow	meet	Lover	3
+Afterglow	mind	Lover	1
+Afterglow	mine	Lover	1
+Afterglow	morning	Lover	1
+Afterglow	ooh	Lover	6
+Afterglow	pinned	Lover	1
+Afterglow	proportion	Lover	1
+Afterglow	punished	Lover	1
+Afterglow	reason	Lover	1
+Afterglow	silence	Lover	1
+Afterglow	sirens	Lover	1
+Afterglow	tells	Lover	1
+Afterglow	there’s	Lover	1
+Afterglow	til	Lover	2
+Afterglow	true	Lover	1
+Afterglow	ultraviolet	Lover	1
+Afterglow	walk	Lover	1
+Afterglow	wanna	Lover	13
+Afterglow	why'd	Lover	2
+Afterglow	worth	Lover	1
+All Too Well	air	Red	1
+All Too Well	album	Red	1
+All Too Well	autumn	Red	1
+All Too Well	ball	Red	1
+All Too Well	bed	Red	1
+All Too Well	bout	Red	3
+All Too Well	break	Red	1
+All Too Well	call	Red	1
+All Too Well	car	Red	1
+All Too Well	casually	Red	1
+All Too Well	cheeks	Red	1
+All Too Well	cold	Red	1
+All Too Well	counter	Red	1
+All Too Well	cruel	Red	1
+All Too Well	crumpled	Red	1
+All Too Well	dancing	Red	1
+All Too Well	days	Red	2
+All Too Well	disposition	Red	1
+All Too Well	door	Red	1
+All Too Well	drawer	Red	1
+All Too Well	eyed	Red	1
+All Too Well	falling	Red	1
+All Too Well	fine	Red	1
+All Too Well	fly	Red	1
+All Too Well	forget	Red	2
+All Too Well	future	Red	1
+All Too Well	gaze	Red	1
+All Too Well	glasses	Red	1
+All Too Well	hair	Red	2
+All Too Well	home	Red	2
+All Too Well	honest	Red	1
+All Too Well	house	Red	1
+All Too Well	innocence	Red	1
+All Too Well	kid	Red	1
+All Too Well	kitchen	Red	1
+All Too Well	leaves	Red	1
+All Too Well	left	Red	1
+All Too Well	light	Red	1
+All Too Well	lookin	Red	1
+All Too Well	lost	Red	3
+All Too Well	loved	Red	1
+All Too Well	lying	Red	1
+All Too Well	magic's	Red	1
+All Too Well	mail	Red	1
+All Too Well	masterpiece	Red	1
+All Too Well	middle	Red	1
+All Too Well	mother's	Red	1
+All Too Well	night	Red	1
+All Too Well	nights	Red	1
+All Too Well	paper	Red	1
+All Too Well	paralyzed	Red	1
+All Too Well	past	Red	1
+All Too Well	photo	Red	1
+All Too Well	picture	Red	1
+All Too Well	piece	Red	1
+All Too Well	pieces	Red	1
+All Too Well	plaid	Red	1
+All Too Well	promise	Red	1
+All Too Well	ran	Red	1
+All Too Well	rare	Red	2
+All Too Well	real	Red	1
+All Too Well	red	Red	2
+All Too Well	refrigerator	Red	1
+All Too Well	remember	Red	9
+All Too Well	reminds	Red	1
+All Too Well	rid	Red	1
+All Too Well	round	Red	1
+All Too Well	running	Red	1
+All Too Well	scared	Red	1
+All Too Well	scarf	Red	2
+All Too Well	shirt	Red	1
+All Too Well	singing	Red	1
+All Too Well	sister's	Red	1
+All Too Well	sized	Red	1
+All Too Well	smells	Red	1
+All Too Well	stairs	Red	2
+All Too Well	stories	Red	1
+All Too Well	street	Red	1
+All Too Well	sweet	Red	1
+All Too Well	taught	Red	1
+All Too Well	team	Red	1
+All Too Well	tee	Red	1
+All Too Well	telling	Red	1
+All Too Well	thinking	Red	1
+All Too Well	til	Red	1
+All Too Well	time	Red	1
+All Too Well	tore	Red	1
+All Too Well	town	Red	1
+All Too Well	translation	Red	1
+All Too Well	twin	Red	1
+All Too Well	upstate	Red	1
+All Too Well	walk	Red	1
+All Too Well	walked	Red	1
+All Too Well	week	Red	1
+All Too Well	wide	Red	1
+All Too Well	wind	Red	2
+All Too Well	yeah	Red	2
+Anti-Hero	afternoons	Midnights	1
+Anti-Hero	agrees	Midnights	6
+Anti-Hero	altruism	Midnights	1
+Anti-Hero	anti	Midnights	3
+Anti-Hero	baby	Midnights	1
+Anti-Hero	city	Midnights	1
+Anti-Hero	congressman	Midnights	1
+Anti-Hero	covert	Midnights	1
+Anti-Hero	crisis	Midnights	1
+Anti-Hero	daughter	Midnights	1
+Anti-Hero	day	Midnights	2
+Anti-Hero	depression	Midnights	1
+Anti-Hero	devices	Midnights	1
+Anti-Hero	directly	Midnights	3
+Anti-Hero	disguise	Midnights	1
+Anti-Hero	dream	Midnights	1
+Anti-Hero	dreaming	Midnights	2
+Anti-Hero	exhausting	Midnights	3
+Anti-Hero	family	Midnights	1
+Anti-Hero	favorite	Midnights	1
+Anti-Hero	feel	Midnights	1
+Anti-Hero	gathers	Midnights	1
+Anti-Hero	ghosted	Midnights	1
+Anti-Hero	graveyard	Midnights	1
+Anti-Hero	hang	Midnights	1
+Anti-Hero	hear	Midnights	1
+Anti-Hero	heart	Midnights	1
+Anti-Hero	hell	Midnights	1
+Anti-Hero	hero	Midnights	3
+Anti-Hero	hill	Midnights	1
+Anti-Hero	killed	Midnights	1
+Anti-Hero	kills	Midnights	1
+Anti-Hero	laughing	Midnights	1
+Anti-Hero	law	Midnights	1
+Anti-Hero	leaving	Midnights	2
+Anti-Hero	left	Midnights	2
+Anti-Hero	life	Midnights	1
+Anti-Hero	lose	Midnights	1
+Anti-Hero	lurching	Midnights	1
+Anti-Hero	meaning	Midnights	1
+Anti-Hero	midnights	Midnights	1
+Anti-Hero	mirror	Midnights	3
+Anti-Hero	money	Midnights	1
+Anti-Hero	monster	Midnights	1
+Anti-Hero	narcissism	Midnights	1
+Anti-Hero	people	Midnights	1
+Anti-Hero	pierced	Midnights	1
+Anti-Hero	prices	Midnights	1
+Anti-Hero	reads	Midnights	1
+Anti-Hero	rooting	Midnights	3
+Anti-Hero	round	Midnights	1
+Anti-Hero	scheming	Midnights	1
+Anti-Hero	screaming	Midnights	2
+Anti-Hero	screams	Midnights	1
+Anti-Hero	sexy	Midnights	1
+Anti-Hero	shift	Midnights	1
+Anti-Hero	slowly	Midnights	1
+Anti-Hero	stand	Midnights	1
+Anti-Hero	stare	Midnights	3
+Anti-Hero	sun	Midnights	3
+Anti-Hero	tale	Midnights	2
+Anti-Hero	teatime	Midnights	4
+Anti-Hero	time	Midnights	4
+Anti-Hero	tired	Midnights	1
+Anti-Hero	vices	Midnights	1
+Anti-Hero	wake	Midnights	2
+Anti-Hero	watch	Midnights	2
+Anti-Hero	wiser	Midnights	1
+​august	air	folklore	1
+​august	august	folklore	6
+​august	bedsheets	folklore	3
+​august	beneath	folklore	1
+​august	bottle	folklore	3
+​august	call	folklore	5
+​august	cancel	folklore	1
+​august	canceled	folklore	3
+​august	car	folklore	3
+​august	changin	folklore	1
+​august	door	folklore	1
+​august	hope	folklore	11
+​august	live	folklore	1
+​august	livin	folklore	3
+​august	lose	folklore	2
+​august	lost	folklore	3
+​august	love	folklore	1
+​august	mall	folklore	3
+​august	meet	folklore	3
+​august	memory	folklore	3
+​august	mine	folklore	10
+​august	moment	folklore	3
+​august	plans	folklore	4
+​august	pulled	folklore	3
+​august	remember	folklore	5
+​august	rust	folklore	1
+​august	salt	folklore	1
+​august	school	folklore	1
+​august	sipped	folklore	3
+​august	slipped	folklore	3
+​august	summer	folklore	1
+​august	sun	folklore	1
+​august	thinkin	folklore	1
+​august	time	folklore	3
+​august	twisted	folklore	3
+​august	whispers	folklore	1
+​august	wine	folklore	3
+​august	wishin	folklore	1
+​august	write	folklore	1
+Begin Again	begin	Red	4
+Begin Again	block	Red	1
+Begin Again	break	Red	3
+Begin Again	breath	Red	1
+Begin Again	brought	Red	1
+Begin Again	burn	Red	3
+Begin Again	café	Red	4
+Begin Again	car	Red	1
+Begin Again	chair	Red	1
+Begin Again	christmas	Red	1
+Begin Again	comin	Red	1
+Begin Again	deep	Red	1
+Begin Again	expecting	Red	1
+Begin Again	family	Red	1
+Begin Again	funny	Red	3
+Begin Again	girl	Red	1
+Begin Again	head	Red	3
+Begin Again	headphones	Red	1
+Begin Again	heels	Red	1
+Begin Again	hmm	Red	2
+Begin Again	james	Red	1
+Begin Again	kid	Red	3
+Begin Again	late	Red	1
+Begin Again	laughin	Red	3
+Begin Again	lock	Red	1
+Begin Again	love	Red	3
+Begin Again	met	Red	1
+Begin Again	mirror	Red	1
+Begin Again	months	Red	3
+Begin Again	movies	Red	1
+Begin Again	nice	Red	1
+Begin Again	past	Red	2
+Begin Again	pull	Red	1
+Begin Again	records	Red	1
+Begin Again	shy	Red	1
+Begin Again	single	Red	1
+Begin Again	song	Red	1
+Begin Again	spending	Red	3
+Begin Again	stand	Red	1
+Begin Again	start	Red	1
+Begin Again	stories	Red	1
+Begin Again	strange	Red	3
+Begin Again	talk	Red	2
+Begin Again	taylor	Red	1
+Begin Again	thinkin	Red	3
+Begin Again	throw	Red	3
+Begin Again	time	Red	1
+Begin Again	walk	Red	1
+Begin Again	walked	Red	2
+Begin Again	wanna	Red	1
+Begin Again	watched	Red	4
+Begin Again	watches	Red	1
+Begin Again	wave	Red	1
+Begin Again	wednesday	Red	4
+Begin Again	wore	Red	1
+Bejeweled	aura's	Midnights	1
+Bejeweled	baby	Midnights	2
+Bejeweled	band	Midnights	3
+Bejeweled	basement	Midnights	3
+Bejeweled	bejeweled	Midnights	4
+Bejeweled	boy	Midnights	1
+Bejeweled	breeds	Midnights	3
+Bejeweled	change	Midnights	2
+Bejeweled	contempt	Midnights	3
+Bejeweled	credit	Midnights	1
+Bejeweled	curve	Midnights	1
+Bejeweled	dancin	Midnights	2
+Bejeweled	diamond's	Midnights	1
+Bejeweled	diamonds	Midnights	3
+Bejeweled	extra	Midnights	1
+Bejeweled	eyes	Midnights	3
+Bejeweled	familiarity	Midnights	3
+Bejeweled	girl	Midnights	5
+Bejeweled	goin	Midnights	1
+Bejeweled	gonna	Midnights	3
+Bejeweled	gotta	Midnights	1
+Bejeweled	graded	Midnights	1
+Bejeweled	guy	Midnights	1
+Bejeweled	heard	Midnights	1
+Bejeweled	heart	Midnights	3
+Bejeweled	huh	Midnights	2
+Bejeweled	land	Midnights	1
+Bejeweled	lessons	Midnights	1
+Bejeweled	line	Midnights	2
+Bejeweled	love	Midnights	1
+Bejeweled	meet	Midnights	3
+Bejeweled	mind	Midnights	3
+Bejeweled	miss	Midnights	3
+Bejeweled	moonstone	Midnights	1
+Bejeweled	mе	Midnights	1
+Bejeweled	nice	Midnights	8
+Bejeweled	night	Midnights	2
+Bejeweled	notice	Midnights	1
+Bejeweled	peace	Midnights	1
+Bejeweled	penthouse	Midnights	3
+Bejeweled	polish	Midnights	7
+Bejeweled	puttin	Midnights	1
+Bejeweled	real	Midnights	6
+Bejeweled	reclaim	Midnights	1
+Bejeweled	remember	Midnights	3
+Bejeweled	sadness	Midnights	1
+Bejeweled	sapphire	Midnights	1
+Bejeweled	shimmer	Midnights	5
+Bejeweled	shine	Midnights	1
+Bejeweled	shoes	Midnights	1
+Bejeweled	sky	Midnights	1
+Bejeweled	sparklin	Midnights	1
+Bejeweled	teach	Midnights	1
+Bejeweled	tears	Midnights	1
+Bejeweled	time	Midnights	1
+Bejeweled	tonight	Midnights	1
+Bejeweled	top	Midnights	1
+Bejeweled	wait	Midnights	2
+Bejeweled	walk	Midnights	4
+Bejeweled	walkin	Midnights	1
+Bejeweled	whеn	Midnights	1
+Bejeweled	world	Midnights	1
+​betty	assumptions	folklore	1
+​betty	betty	folklore	5
+​betty	breathe	folklore	1
+​betty	broken	folklore	2
+​betty	car	folklore	1
+​betty	cardigan	folklore	1
+​betty	cobblestones	folklore	1
+​betty	crowds	folklore	1
+​betty	dance	folklore	1
+​betty	days	folklore	1
+​betty	doorstep	folklore	1
+​betty	dream	folklore	1
+​betty	dreamed	folklore	1
+​betty	dreamt	folklore	1
+​betty	drive	folklore	1
+​betty	favorite	folklore	1
+​betty	figment	folklore	1
+​betty	finally	folklore	1
+​betty	found	folklore	1
+​betty	friends	folklore	1
+​betty	front	folklore	1
+​betty	fuck	folklore	2
+​betty	garden	folklore	4
+​betty	gym	folklore	1
+​betty	hate	folklore	1
+​betty	heard	folklore	2
+​betty	home	folklore	1
+​betty	homeroom	folklore	1
+​betty	house	folklore	1
+​betty	inez	folklore	2
+​betty	intentions	folklore	1
+​betty	james	folklore	1
+​betty	kiss	folklore	2
+​betty	kissin	folklore	1
+​betty	lead	folklore	2
+​betty	love	folklore	1
+​betty	miss	folklore	4
+​betty	nights	folklore	1
+​betty	party	folklore	5
+​betty	passed	folklore	1
+​betty	patch	folklore	1
+​betty	planned	folklore	1
+​betty	playing	folklore	1
+​betty	porch	folklore	1
+​betty	pulled	folklore	1
+​betty	riding	folklore	1
+​betty	rumors	folklore	2
+​betty	seventeen	folklore	3
+​betty	sinkin	folklore	1
+​betty	skateboard	folklore	1
+​betty	slept	folklore	1
+​betty	song	folklore	1
+​betty	standing	folklore	1
+​betty	stopped	folklore	1
+​betty	streetlight	folklore	1
+​betty	stupid	folklore	1
+​betty	summer	folklore	3
+​betty	switched	folklore	1
+​betty	thinking	folklore	1
+​betty	time	folklore	4
+​betty	times	folklore	2
+​betty	told	folklore	2
+​betty	true	folklore	2
+​betty	trust	folklore	2
+​betty	walking	folklore	1
+​betty	wanna	folklore	1
+​betty	weeks	folklore	1
+​betty	wings	folklore	1
+​betty	word	folklore	2
+​betty	worst	folklore	3
+​betty	wrong	folklore	1
+​betty	yeah	folklore	2
+Call It What You Want	alright	reputation	1
+Call It What You Want	baby's	reputation	6
+Call It What You Want	boarded	reputation	1
+Call It What You Want	brand	reputation	3
+Call It What You Want	breath	reputation	1
+Call It What You Want	bridges	reputation	1
+Call It What You Want	brother	reputation	1
+Call It What You Want	brought	reputation	1
+Call It What You Want	built	reputation	1
+Call It What You Want	burn	reputation	1
+Call It What You Want	call	reputation	44
+Call It What You Want	calling	reputation	1
+Call It What You Want	castle	reputation	1
+Call It What You Want	chain	reputation	2
+Call It What You Want	covers	reputation	1
+Call It What You Want	crown	reputation	1
+Call It What You Want	crumbled	reputation	1
+Call It What You Want	darkest	reputation	1
+Call It What You Want	daydream	reputation	3
+Call It What You Want	doin	reputation	1
+Call It What You Want	drama	reputation	1
+Call It What You Want	dressing	reputation	1
+Call It What You Want	eyes	reputation	1
+Call It What You Want	fade	reputation	1
+Call It What You Want	fire	reputation	1
+Call It What You Want	fit	reputation	3
+Call It What You Want	flowers	reputation	1
+Call It What You Want	fly	reputation	3
+Call It What You Want	forts	reputation	1
+Call It What You Want	grew	reputation	1
+Call It What You Want	gunfight	reputation	1
+Call It What You Want	head	reputation	3
+Call It What You Want	heard	reputation	1
+Call It What You Want	holding	reputation	1
+Call It What You Want	initial	reputation	1
+Call It What You Want	jet	reputation	3
+Call It What You Want	jokers	reputation	1
+Call It What You Want	kings	reputation	1
+Call It What You Want	knife	reputation	1
+Call It What You Want	late	reputation	1
+Call It What You Want	laughing	reputation	1
+Call It What You Want	learn	reputation	1
+Call It What You Want	liars	reputation	1
+Call It What You Want	lover	reputation	1
+Call It What You Want	loves	reputation	3
+Call It What You Want	makin	reputation	1
+Call It What You Want	mistakes	reputation	1
+Call It What You Want	months	reputation	1
+Call It What You Want	neck	reputation	2
+Call It What You Want	night	reputation	1
+Call It What You Want	nobody's	reputation	1
+Call It What You Want	november	reputation	1
+Call It What You Want	overnight	reputation	1
+Call It What You Want	owns	reputation	1
+Call It What You Want	queens	reputation	1
+Call It What You Want	recall	reputation	1
+Call It What You Want	round	reputation	2
+Call It What You Want	run	reputation	2
+Call It What You Want	save	reputation	1
+Call It What You Want	scene	reputation	3
+Call It What You Want	slowly	reputation	1
+Call It What You Want	sparkin	reputation	1
+Call It What You Want	starry	reputation	1
+Call It What You Want	storm	reputation	1
+Call It What You Want	stream	reputation	3
+Call It What You Want	swings	reputation	1
+Call It What You Want	taking	reputation	1
+Call It What You Want	thorns	reputation	1
+Call It What You Want	time	reputation	1
+Call It What You Want	trust	reputation	1
+Call It What You Want	walkin	reputation	3
+Call It What You Want	walking	reputation	3
+Call It What You Want	warm	reputation	1
+Call It What You Want	wear	reputation	1
+Call It What You Want	windows	reputation	1
+Call It What You Want	yeah	reputation	8
+​cardigan	assume	folklore	4
+​cardigan	baby	folklore	1
+​cardigan	bars	folklore	1
+​cardigan	bed	folklore	3
+​cardigan	black	folklore	1
+​cardigan	bleedin	folklore	1
+​cardigan	bloodstain	folklore	1
+​cardigan	brand	folklore	1
+​cardigan	cardigan	folklore	3
+​cardigan	cars	folklore	1
+​cardigan	change	folklore	1
+​cardigan	chase	folklore	1
+​cardigan	chasin	folklore	1
+​cardigan	cobblestones	folklore	1
+​cardigan	curse	folklore	1
+​cardigan	dancin	folklore	1
+​cardigan	downtown	folklore	1
+​cardigan	drew	folklore	1
+​cardigan	drunk	folklore	1
+​cardigan	expired	folklore	1
+​cardigan	father	folklore	1
+​cardigan	favorite	folklore	3
+​cardigan	friend	folklore	2
+​cardigan	front	folklore	1
+​cardigan	girls	folklore	1
+​cardigan	giving	folklore	1
+​cardigan	grocery	folklore	1
+​cardigan	hand	folklore	1
+​cardigan	hang	folklore	1
+​cardigan	haunt	folklore	1
+​cardigan	heartbeat	folklore	1
+​cardigan	heels	folklore	1
+​cardigan	hide	folklore	1
+​cardigan	ifs	folklore	1
+​cardigan	kiss	folklore	3
+​cardigan	leavin	folklore	1
+​cardigan	levi's	folklore	1
+​cardigan	lifetimes	folklore	1
+​cardigan	light	folklore	1
+​cardigan	line	folklore	2
+​cardigan	linger	folklore	1
+​cardigan	lipstick	folklore	1
+​cardigan	lose	folklore	1
+​cardigan	losing	folklore	1
+​cardigan	marked	folklore	1
+​cardigan	miss	folklore	1
+​cardigan	peter	folklore	1
+​cardigan	phone	folklore	1
+​cardigan	playing	folklore	1
+​cardigan	politics	folklore	1
+​cardigan	porch	folklore	1
+​cardigan	running	folklore	1
+​cardigan	scars	folklore	1
+​cardigan	seek	folklore	1
+​cardigan	sensual	folklore	1
+​cardigan	sequin	folklore	1
+​cardigan	shadows	folklore	1
+​cardigan	smell	folklore	1
+​cardigan	smile	folklore	1
+​cardigan	smoke	folklore	1
+​cardigan	someone's	folklore	3
+​cardigan	standin	folklore	1
+​cardigan	stars	folklore	1
+​cardigan	steppin	folklore	1
+​cardigan	streetlight	folklore	1
+​cardigan	sweatshirt	folklore	1
+​cardigan	tattoo	folklore	1
+​cardigan	tee	folklore	1
+​cardigan	thrill	folklore	1
+​cardigan	time	folklore	1
+​cardigan	train	folklore	1
+​cardigan	twenty	folklore	1
+​cardigan	vintage	folklore	1
+​cardigan	water	folklore	1
+​cardigan	weekends	folklore	1
+​cardigan	wendy	folklore	1
+Come Back... Be Here	4	Red	1
+Come Back... Be Here	a.m	Red	1
+Come Back... Be Here	attached	Red	1
+Come Back... Be Here	beginning	Red	1
+Come Back... Be Here	break	Red	1
+Come Back... Be Here	bring	Red	1
+Come Back... Be Here	busy	Red	1
+Come Back... Be Here	cabs	Red	1
+Come Back... Be Here	catch	Red	1
+Come Back... Be Here	cruelest	Red	1
+Come Back... Be Here	day	Red	1
+Come Back... Be Here	delicate	Red	1
+Come Back... Be Here	fair	Red	1
+Come Back... Be Here	fall	Red	1
+Come Back... Be Here	falling	Red	2
+Come Back... Be Here	faster	Red	1
+Come Back... Be Here	feeling	Red	4
+Come Back... Be Here	flight	Red	1
+Come Back... Be Here	goodbye	Red	1
+Come Back... Be Here	guess	Red	3
+Come Back... Be Here	kiss	Red	1
+Come Back... Be Here	knowing	Red	1
+Come Back... Be Here	london	Red	2
+Come Back... Be Here	love	Red	1
+Come Back... Be Here	mind	Red	1
+Come Back... Be Here	miss	Red	4
+Come Back... Be Here	nonchalant	Red	1
+Come Back... Be Here	plane	Red	1
+Come Back... Be Here	play	Red	1
+Come Back... Be Here	played	Red	1
+Come Back... Be Here	rush	Red	1
+Come Back... Be Here	simple	Red	1
+Come Back... Be Here	sinks	Red	3
+Come Back... Be Here	spinning	Red	1
+Come Back... Be Here	strange	Red	1
+Come Back... Be Here	streets	Red	1
+Come Back... Be Here	stumbled	Red	1
+Come Back... Be Here	taxi	Red	1
+Come Back... Be Here	told	Red	1
+Come Back... Be Here	wanna	Red	7
+Come Back... Be Here	worlds	Red	1
+Come Back... Be Here	would've	Red	1
+Come Back... Be Here	york	Red	3
+Cornelia Street	ago	Lover	1
+Cornelia Street	air	Lover	1
+Cornelia Street	apartment	Lover	1
+Cornelia Street	arrow	Lover	1
+Cornelia Street	autumn	Lover	1
+Cornelia Street	baby	Lover	6
+Cornelia Street	backseat	Lover	1
+Cornelia Street	bags	Lover	1
+Cornelia Street	bar	Lover	1
+Cornelia Street	barefoot	Lover	1
+Cornelia Street	beginnings	Lover	1
+Cornelia Street	blanks	Lover	1
+Cornelia Street	bless	Lover	1
+Cornelia Street	called	Lover	1
+Cornelia Street	car	Lover	2
+Cornelia Street	card	Lover	1
+Cornelia Street	casually	Lover	2
+Cornelia Street	city	Lover	5
+Cornelia Street	cornelia	Lover	16
+Cornelia Street	creaks	Lover	1
+Cornelia Street	desk	Lover	1
+Cornelia Street	drinks	Lover	1
+Cornelia Street	drunk	Lover	1
+Cornelia Street	filling	Lover	1
+Cornelia Street	floor	Lover	1
+Cornelia Street	flung	Lover	1
+Cornelia Street	fresh	Lover	1
+Cornelia Street	games	Lover	1
+Cornelia Street	hand	Lover	2
+Cornelia Street	head	Lover	1
+Cornelia Street	heartbreak	Lover	2
+Cornelia Street	hit	Lover	1
+Cornelia Street	hold	Lover	1
+Cornelia Street	home	Lover	1
+Cornelia Street	hope	Lover	6
+Cornelia Street	inside	Lover	1
+Cornelia Street	jacket	Lover	1
+Cornelia Street	kinda	Lover	2
+Cornelia Street	kitchen	Lover	1
+Cornelia Street	leading	Lover	2
+Cornelia Street	left	Lover	1
+Cornelia Street	lights	Lover	1
+Cornelia Street	listen	Lover	1
+Cornelia Street	lose	Lover	5
+Cornelia Street	memorize	Lover	1
+Cornelia Street	mend	Lover	2
+Cornelia Street	mystified	Lover	3
+Cornelia Street	packed	Lover	1
+Cornelia Street	page	Lover	1
+Cornelia Street	playing	Lover	1
+Cornelia Street	rains	Lover	1
+Cornelia Street	religion	Lover	1
+Cornelia Street	rent	Lover	2
+Cornelia Street	roof	Lover	1
+Cornelia Street	round	Lover	1
+Cornelia Street	sacred	Lover	1
+Cornelia Street	sat	Lover	1
+Cornelia Street	screams	Lover	5
+Cornelia Street	sharks	Lover	1
+Cornelia Street	shoulders	Lover	1
+Cornelia Street	street	Lover	18
+Cornelia Street	stronger	Lover	1
+Cornelia Street	terrified	Lover	3
+Cornelia Street	time	Lover	2
+Cornelia Street	tunnel	Lover	1
+Cornelia Street	walk	Lover	16
+Cornelia Street	wanna	Lover	2
+Cornelia Street	windows	Lover	1
+Cornelia Street	yeah	Lover	1
+Cruel Summer	angels	Lover	2
+Cruel Summer	baby	Lover	2
+Cruel Summer	bad	Lover	2
+Cruel Summer	bar	Lover	2
+Cruel Summer	bleed	Lover	1
+Cruel Summer	blue	Lover	3
+Cruel Summer	body	Lover	3
+Cruel Summer	bone	Lover	1
+Cruel Summer	bought	Lover	1
+Cruel Summer	boy	Lover	1
+Cruel Summer	breakable	Lover	3
+Cruel Summer	car	Lover	2
+Cruel Summer	caught	Lover	1
+Cruel Summer	coming	Lover	2
+Cruel Summer	cool	Lover	3
+Cruel Summer	cried	Lover	2
+Cruel Summer	cruel	Lover	6
+Cruel Summer	cut	Lover	2
+Cruel Summer	devil	Lover	1
+Cruel Summer	devils	Lover	2
+Cruel Summer	dice	Lover	2
+Cruel Summer	dream	Lover	1
+Cruel Summer	drunk	Lover	2
+Cruel Summer	dying	Lover	1
+Cruel Summer	em	Lover	3
+Cruel Summer	eyes	Lover	2
+Cruel Summer	fate	Lover	2
+Cruel Summer	feeling	Lover	3
+Cruel Summer	fever	Lover	1
+Cruel Summer	fine	Lover	2
+Cruel Summer	garden	Lover	2
+Cruel Summer	gate	Lover	2
+Cruel Summer	glow	Lover	1
+Cruel Summer	grinning	Lover	1
+Cruel Summer	hang	Lover	1
+Cruel Summer	head	Lover	1
+Cruel Summer	headlights	Lover	1
+Cruel Summer	heard	Lover	2
+Cruel Summer	heaven	Lover	3
+Cruel Summer	home	Lover	2
+Cruel Summer	kill	Lover	1
+Cruel Summer	killing	Lover	1
+Cruel Summer	knife	Lover	1
+Cruel Summer	love	Lover	2
+Cruel Summer	low	Lover	1
+Cruel Summer	machine	Lover	1
+Cruel Summer	makes	Lover	1
+Cruel Summer	night	Lover	3
+Cruel Summer	ooh	Lover	6
+Cruel Summer	price	Lover	1
+Cruel Summer	quiet	Lover	1
+Cruel Summer	roll	Lover	4
+Cruel Summer	rules	Lover	3
+Cruel Summer	scream	Lover	2
+Cruel Summer	screw	Lover	1
+Cruel Summer	seal	Lover	2
+Cruel Summer	secrets	Lover	2
+Cruel Summer	shape	Lover	3
+Cruel Summer	shiny	Lover	1
+Cruel Summer	slow	Lover	1
+Cruel Summer	snuck	Lover	2
+Cruel Summer	summer	Lover	8
+Cruel Summer	summer's	Lover	1
+Cruel Summer	times	Lover	1
+Cruel Summer	toy	Lover	1
+Cruel Summer	true	Lover	2
+Cruel Summer	vending	Lover	1
+Cruel Summer	waiting	Lover	3
+Cruel Summer	wanna	Lover	2
+Cruel Summer	whoa	Lover	6
+Cruel Summer	window	Lover	1
+Cruel Summer	worst	Lover	2
+Cruel Summer	worth	Lover	2
+Cruel Summer	yeah	Lover	12
+Dancing with Our Hands Tied	avalanche	reputation	1
+Dancing with Our Hands Tied	baby	reputation	1
+Dancing with Our Hands Tied	bad	reputation	7
+Dancing with Our Hands Tied	bed	reputation	1
+Dancing with Our Hands Tied	blue	reputation	1
+Dancing with Our Hands Tied	burned	reputation	2
+Dancing with Our Hands Tied	close	reputation	1
+Dancing with Our Hands Tied	could've	reputation	2
+Dancing with Our Hands Tied	dance	reputation	3
+Dancing with Our Hands Tied	dancing	reputation	22
+Dancing with Our Hands Tied	darling	reputation	1
+Dancing with Our Hands Tied	deep	reputation	2
+Dancing with Our Hands Tied	divide	reputation	1
+Dancing with Our Hands Tied	fears	reputation	1
+Dancing with Our Hands Tied	feeling	reputation	7
+Dancing with Our Hands Tied	forever	reputation	2
+Dancing with Our Hands Tied	frozen	reputation	1
+Dancing with Our Hands Tied	golden	reputation	1
+Dancing with Our Hands Tied	gravity	reputation	1
+Dancing with Our Hands Tied	hands	reputation	18
+Dancing with Our Hands Tied	held	reputation	1
+Dancing with Our Hands Tied	hold	reputation	2
+Dancing with Our Hands Tied	invisible	reputation	2
+Dancing with Our Hands Tied	keeping	reputation	1
+Dancing with Our Hands Tied	kiss	reputation	2
+Dancing with Our Hands Tied	lights	reputation	2
+Dancing with Our Hands Tied	locket	reputation	2
+Dancing with Our Hands Tied	love	reputation	2
+Dancing with Our Hands Tied	loved	reputation	2
+Dancing with Our Hands Tied	mess	reputation	2
+Dancing with Our Hands Tied	oasis	reputation	1
+Dancing with Our Hands Tied	ooh	reputation	5
+Dancing with Our Hands Tied	paces	reputation	1
+Dancing with Our Hands Tied	painted	reputation	1
+Dancing with Our Hands Tied	people	reputation	1
+Dancing with Our Hands Tied	picture	reputation	2
+Dancing with Our Hands Tied	pockets	reputation	2
+Dancing with Our Hands Tied	putting	reputation	1
+Dancing with Our Hands Tied	reason	reputation	1
+Dancing with Our Hands Tied	rushes	reputation	2
+Dancing with Our Hands Tied	sacred	reputation	1
+Dancing with Our Hands Tied	secret	reputation	1
+Dancing with Our Hands Tied	sight	reputation	1
+Dancing with Our Hands Tied	spent	reputation	2
+Dancing with Our Hands Tied	spite	reputation	1
+Dancing with Our Hands Tied	started	reputation	1
+Dancing with Our Hands Tied	stop	reputation	2
+Dancing with Our Hands Tied	swaying	reputation	2
+Dancing with Our Hands Tied	talking	reputation	1
+Dancing with Our Hands Tied	tied	reputation	16
+Dancing with Our Hands Tied	time	reputation	8
+Dancing with Our Hands Tied	twenty	reputation	1
+Dancing with Our Hands Tied	water	reputation	2
+Dancing with Our Hands Tied	world	reputation	4
+Dancing with Our Hands Tied	yeah	reputation	10
+Daylight	20	Lover	3
+Daylight	afraid	Lover	2
+Daylight	ah	Lover	2
+Daylight	air	Lover	1
+Daylight	awake	Lover	2
+Daylight	bed	Lover	1
+Daylight	believed	Lover	3
+Daylight	black	Lover	1
+Daylight	breathed	Lover	1
+Daylight	brighter	Lover	1
+Daylight	burning	Lover	2
+Daylight	butt	Lover	1
+Daylight	cities	Lover	1
+Daylight	clearing	Lover	1
+Daylight	cloaks	Lover	1
+Daylight	crossed	Lover	1
+Daylight	cruel	Lover	1
+Daylight	daggers	Lover	1
+Daylight	dark	Lover	3
+Daylight	daylight	Lover	40
+Daylight	defined	Lover	1
+Daylight	draw	Lover	1
+Daylight	draws	Lover	1
+Daylight	golden	Lover	4
+Daylight	goodbye	Lover	1
+Daylight	gotta	Lover	1
+Daylight	hate	Lover	1
+Daylight	haunt	Lover	1
+Daylight	head	Lover	1
+Daylight	intertwined	Lover	1
+Daylight	joke	Lover	1
+Daylight	light	Lover	1
+Daylight	lines	Lover	1
+Daylight	lived	Lover	1
+Daylight	looked	Lover	1
+Daylight	love	Lover	6
+Daylight	luck	Lover	1
+Daylight	middle	Lover	1
+Daylight	mind	Lover	1
+Daylight	morning	Lover	1
+Daylight	night	Lover	4
+Daylight	ran	Lover	1
+Daylight	red	Lover	2
+Daylight	refused	Lover	1
+Daylight	settle	Lover	1
+Daylight	single	Lover	1
+Daylight	sleeping	Lover	3
+Daylight	smoke	Lover	1
+Daylight	sneaking	Lover	1
+Daylight	step	Lover	1
+Daylight	stormed	Lover	1
+Daylight	threw	Lover	1
+Daylight	town	Lover	1
+Daylight	trusted	Lover	1
+Daylight	truth	Lover	1
+Daylight	unforgiven	Lover	1
+Daylight	unlucky	Lover	1
+Daylight	wanna	Lover	7
+Daylight	white	Lover	1
+Daylight	wicked	Lover	1
+Daylight	wide	Lover	2
+Daylight	wolves	Lover	1
+Daylight	worse	Lover	1
+Daylight	wounded	Lover	1
+Daylight	york	Lover	2
+Death by a Thousand Cuts	ages	Lover	1
+Death by a Thousand Cuts	alright	Lover	3
+Death by a Thousand Cuts	baby	Lover	3
+Death by a Thousand Cuts	bad	Lover	1
+Death by a Thousand Cuts	boarded	Lover	3
+Death by a Thousand Cuts	body	Lover	2
+Death by a Thousand Cuts	can’t	Lover	1
+Death by a Thousand Cuts	chandelier's	Lover	3
+Death by a Thousand Cuts	club	Lover	1
+Death by a Thousand Cuts	country	Lover	1
+Death by a Thousand Cuts	cut	Lover	1
+Death by a Thousand Cuts	cuts	Lover	7
+Death by a Thousand Cuts	death	Lover	6
+Death by a Thousand Cuts	dress	Lover	1
+Death by a Thousand Cuts	drug	Lover	1
+Death by a Thousand Cuts	drunk	Lover	3
+Death by a Thousand Cuts	fears	Lover	1
+Death by a Thousand Cuts	films	Lover	1
+Death by a Thousand Cuts	flashbacks	Lover	2
+Death by a Thousand Cuts	flickering	Lover	3
+Death by a Thousand Cuts	goodbye	Lover	2
+Death by a Thousand Cuts	guess	Lover	1
+Death by a Thousand Cuts	hand	Lover	1
+Death by a Thousand Cuts	haunted	Lover	1
+Death by a Thousand Cuts	heart	Lover	1
+Death by a Thousand Cuts	hips	Lover	1
+Death by a Thousand Cuts	home	Lover	2
+Death by a Thousand Cuts	kill	Lover	1
+Death by a Thousand Cuts	land	Lover	1
+Death by a Thousand Cuts	lawless	Lover	1
+Death by a Thousand Cuts	lights	Lover	2
+Death by a Thousand Cuts	love	Lover	6
+Death by a Thousand Cuts	morning	Lover	2
+Death by a Thousand Cuts	one's	Lover	1
+Death by a Thousand Cuts	pages	Lover	1
+Death by a Thousand Cuts	paper	Lover	2
+Death by a Thousand Cuts	plans	Lover	1
+Death by a Thousand Cuts	pretend	Lover	3
+Death by a Thousand Cuts	quiet	Lover	1
+Death by a Thousand Cuts	searching	Lover	1
+Death by a Thousand Cuts	share	Lover	1
+Death by a Thousand Cuts	signs	Lover	1
+Death by a Thousand Cuts	songs	Lover	1
+Death by a Thousand Cuts	spirit	Lover	1
+Death by a Thousand Cuts	stand	Lover	1
+Death by a Thousand Cuts	stings	Lover	1
+Death by a Thousand Cuts	story’s	Lover	1
+Death by a Thousand Cuts	thin	Lover	1
+Death by a Thousand Cuts	thousand	Lover	7
+Death by a Thousand Cuts	time	Lover	2
+Death by a Thousand Cuts	touch	Lover	4
+Death by a Thousand Cuts	town	Lover	1
+Death by a Thousand Cuts	traffic	Lover	2
+Death by a Thousand Cuts	trust	Lover	2
+Death by a Thousand Cuts	tryna	Lover	3
+Death by a Thousand Cuts	united	Lover	1
+Death by a Thousand Cuts	waking	Lover	2
+Death by a Thousand Cuts	windows	Lover	3
+Death by a Thousand Cuts	wine	Lover	1
+Death by a Thousand Cuts	writing	Lover	1
+Delicate	babe	reputation	3
+Delicate	bar	reputation	1
+Delicate	black	reputation	1
+Delicate	blue	reputation	1
+Delicate	chill	reputation	4
+Delicate	color	reputation	1
+Delicate	cool	reputation	8
+Delicate	damn	reputation	2
+Delicate	dark	reputation	1
+Delicate	delicate	reputation	16
+Delicate	dive	reputation	1
+Delicate	dreaming	reputation	1
+Delicate	drink	reputation	3
+Delicate	east	reputation	1
+Delicate	echoes	reputation	1
+Delicate	eyes	reputation	1
+Delicate	floor	reputation	1
+Delicate	footsteps	reputation	1
+Delicate	fun	reputation	1
+Delicate	girls	reputation	1
+Delicate	hair	reputation	1
+Delicate	hands	reputation	1
+Delicate	handsome	reputation	1
+Delicate	head	reputation	4
+Delicate	home	reputation	1
+Delicate	honey	reputation	1
+Delicate	jeans	reputation	1
+Delicate	lights	reputation	1
+Delicate	mansion	reputation	1
+Delicate	meet	reputation	1
+Delicate	mine	reputation	1
+Delicate	night	reputation	1
+Delicate	nightstand	reputation	1
+Delicate	nikes	reputation	1
+Delicate	phone	reputation	1
+Delicate	pretend	reputation	1
+Delicate	promises	reputation	3
+Delicate	reputation's	reputation	3
+Delicate	share	reputation	1
+Delicate	sleep	reputation	1
+Delicate	stairs	reputation	1
+Delicate	stay	reputation	1
+Delicate	time	reputation	1
+Delicate	touch	reputation	1
+Delicate	view	reputation	1
+Delicate	wanna	reputation	1
+Delicate	west	reputation	1
+Delicate	worse	reputation	3
+Delicate	yeah	reputation	4
+Don’t Blame Me	baby	reputation	12
+Don’t Blame Me	beg	reputation	1
+Don’t Blame Me	blame	reputation	7
+Don’t Blame Me	breakin	reputation	1
+Don’t Blame Me	call	reputation	1
+Don’t Blame Me	crazy	reputation	7
+Don’t Blame Me	cross	reputation	1
+Don’t Blame Me	daisy	reputation	1
+Don’t Blame Me	darkest	reputation	1
+Don’t Blame Me	decide	reputation	1
+Don’t Blame Me	doin	reputation	10
+Don’t Blame Me	drug	reputation	9
+Don’t Blame Me	echoes	reputation	2
+Don’t Blame Me	fall	reputation	1
+Don’t Blame Me	gonna	reputation	1
+Don’t Blame Me	grace	reputation	1
+Don’t Blame Me	guys	reputation	1
+Don’t Blame Me	halo	reputation	1
+Don’t Blame Me	happened	reputation	1
+Don’t Blame Me	hearts	reputation	1
+Don’t Blame Me	hiding	reputation	1
+Don’t Blame Me	insane	reputation	1
+Don’t Blame Me	inside	reputation	1
+Don’t Blame Me	ivy	reputation	1
+Don’t Blame Me	knees	reputation	1
+Don’t Blame Me	life	reputation	11
+Don’t Blame Me	line	reputation	1
+Don’t Blame Me	lord	reputation	9
+Don’t Blame Me	lose	reputation	1
+Don’t Blame Me	love	reputation	7
+Don’t Blame Me	lovin	reputation	5
+Don’t Blame Me	mind	reputation	2
+Don’t Blame Me	mine	reputation	1
+Don’t Blame Me	obsession	reputation	1
+Don’t Blame Me	ooh	reputation	1
+Don’t Blame Me	pacin	reputation	1
+Don’t Blame Me	paradise	reputation	1
+Don’t Blame Me	playthings	reputation	1
+Don’t Blame Me	poison	reputation	1
+Don’t Blame Me	rest	reputation	10
+Don’t Blame Me	save	reputation	9
+Don’t Blame Me	shaking	reputation	1
+Don’t Blame Me	stay	reputation	1
+Don’t Blame Me	time	reputation	12
+Don’t Blame Me	touch	reputation	1
+Don’t Blame Me	touchin	reputation	2
+Don’t Blame Me	toyin	reputation	1
+Don’t Blame Me	trip	reputation	1
+Don’t Blame Me	usin	reputation	12
+Don’t Blame Me	walk	reputation	1
+Don’t Blame Me	waste	reputation	1
+Don’t Blame Me	woah	reputation	1
+Don’t Blame Me	yeah	reputation	1
+Dress	ah	reputation	29
+Dress	anticipation	reputation	2
+Dress	bathtub	reputation	1
+Dress	bedpost	reputation	3
+Dress	bleached	reputation	1
+Dress	bought	reputation	10
+Dress	burned	reputation	1
+Dress	buzzcut	reputation	1
+Dress	carve	reputation	3
+Dress	crowded	reputation	1
+Dress	desperately	reputation	2
+Dress	don’t	reputation	1
+Dress	dress	reputation	10
+Dress	drunk	reputation	1
+Dress	earthquakes	reputation	1
+Dress	electrified	reputation	1
+Dress	explain	reputation	1
+Dress	flashback	reputation	2
+Dress	friend	reputation	6
+Dress	golden	reputation	2
+Dress	gonna	reputation	1
+Dress	ha	reputation	34
+Dress	hair	reputation	1
+Dress	hands	reputation	5
+Dress	holding	reputation	2
+Dress	i’m	reputation	1
+Dress	idea	reputation	1
+Dress	indentation	reputation	2
+Dress	inescapable	reputation	1
+Dress	kiss	reputation	1
+Dress	lies	reputation	1
+Dress	lifeline	reputation	1
+Dress	mark	reputation	2
+Dress	met	reputation	1
+Dress	mistakes	reputation	1
+Dress	moments	reputation	1
+Dress	nothin	reputation	1
+Dress	patience	reputation	4
+Dress	pining	reputation	4
+Dress	rebounds	reputation	1
+Dress	secret	reputation	1
+Dress	shake	reputation	1
+Dress	shaking	reputation	4
+Dress	shape	reputation	2
+Dress	silence	reputation	4
+Dress	spilling	reputation	1
+Dress	stops	reputation	3
+Dress	tattoo	reputation	2
+Dress	time	reputation	2
+Dress	times	reputation	1
+Dress	truth	reputation	1
+Dress	waiting	reputation	2
+Dress	wake	reputation	2
+Dress	wine	reputation	1
+Dress	woke	reputation	2
+Dress	worst	reputation	2
+End Game	4th	reputation	1
+End Game	ah	reputation	5
+End Game	argue	reputation	1
+End Game	bad	reputation	4
+End Game	bang	reputation	1
+End Game	beach	reputation	2
+End Game	beautiful	reputation	1
+End Game	bit	reputation	1
+End Game	bluff	reputation	1
+End Game	boat	reputation	4
+End Game	body	reputation	1
+End Game	born	reputation	1
+End Game	boy	reputation	1
+End Game	bury	reputation	1
+End Game	call	reputation	1
+End Game	callin	reputation	1
+End Game	chips	reputation	1
+End Game	choices	reputation	1
+End Game	conversation	reputation	2
+End Game	crazy	reputation	1
+End Game	days	reputation	1
+End Game	deep	reputation	1
+End Game	deny	reputation	1
+End Game	don’t	reputation	3
+End Game	dope	reputation	1
+End Game	drama	reputation	1
+End Game	drinking	reputation	2
+End Game	ease	reputation	1
+End Game	easier	reputation	1
+End Game	em	reputation	1
+End Game	enemies	reputation	2
+End Game	eyes	reputation	1
+End Game	flaws	reputation	1
+End Game	forget	reputation	1
+End Game	fun	reputation	1
+End Game	g5	reputation	1
+End Game	game	reputation	19
+End Game	ghost	reputation	1
+End Game	girl	reputation	1
+End Game	girls	reputation	2
+End Game	git	reputation	2
+End Game	gold	reputation	1
+End Game	handprints	reputation	1
+End Game	hard	reputation	1
+End Game	hatchets	reputation	1
+End Game	heard	reputation	4
+End Game	hey	reputation	1
+End Game	hit	reputation	1
+End Game	hold	reputation	1
+End Game	hurt	reputation	2
+End Game	i’m	reputation	1
+End Game	ignore	reputation	1
+End Game	insecurities	reputation	1
+End Game	issues	reputation	1
+End Game	it’s	reputation	1
+End Game	july	reputation	1
+End Game	knee	reputation	1
+End Game	life	reputation	3
+End Game	lips	reputation	1
+End Game	liquor	reputation	1
+End Game	love	reputation	5
+End Game	loves	reputation	1
+End Game	maps	reputation	1
+End Game	miss	reputation	4
+End Game	mistakes	reputation	1
+End Game	ooh	reputation	9
+End Game	overdose	reputation	1
+End Game	paranoia	reputation	1
+End Game	passed	reputation	1
+End Game	persona	reputation	1
+End Game	play	reputation	2
+End Game	precede	reputation	1
+End Game	precedes	reputation	2
+End Game	protect	reputation	1
+End Game	reconnected	reputation	1
+End Game	red	reputation	1
+End Game	reputation	reputation	11
+End Game	reputations	reputation	2
+End Game	rumors	reputation	1
+End Game	shoulders	reputation	1
+End Game	song	reputation	1
+End Game	soul	reputation	1
+End Game	sprung	reputation	1
+End Game	stoked	reputation	1
+End Game	storm	reputation	1
+End Game	string	reputation	9
+End Game	swear	reputation	1
+End Game	team	reputation	10
+End Game	tip	reputation	1
+End Game	toast	reputation	1
+End Game	told	reputation	1
+End Game	tongue	reputation	1
+End Game	touch	reputation	2
+End Game	traits	reputation	1
+End Game	tricks	reputation	1
+End Game	truth	reputation	2
+End Game	tryna	reputation	2
+End Game	type	reputation	2
+End Game	understand	reputation	1
+End Game	usual	reputation	1
+End Game	wanna	reputation	35
+End Game	whippin	reputation	1
+End Game	woah	reputation	3
+End Game	words	reputation	1
+End Game	yeah	reputation	8
+​epiphany	beaches	folklore	1
+​epiphany	bleeding	folklore	1
+​epiphany	breathe	folklore	4
+​epiphany	breathing	folklore	3
+​epiphany	cover	folklore	1
+​epiphany	crashing	folklore	1
+​epiphany	crawling	folklore	1
+​epiphany	daughter	folklore	1
+​epiphany	doc	folklore	1
+​epiphany	dream	folklore	2
+​epiphany	epiphany	folklore	2
+​epiphany	fall	folklore	3
+​epiphany	flesh	folklore	1
+​epiphany	glimpse	folklore	2
+​epiphany	hand	folklore	1
+​epiphany	helmet	folklore	1
+​epiphany	holds	folklore	1
+​epiphany	life	folklore	1
+​epiphany	med	folklore	1
+​epiphany	minutes	folklore	2
+​epiphany	mother	folklore	1
+​epiphany	plastic	folklore	1
+​epiphany	relief	folklore	2
+​epiphany	rifle	folklore	1
+​epiphany	school	folklore	1
+​epiphany	sense	folklore	2
+​epiphany	serve	folklore	4
+​epiphany	single	folklore	2
+​epiphany	sir	folklore	1
+​epiphany	sleep	folklore	2
+​epiphany	someone's	folklore	2
+​epiphany	son	folklore	1
+​epiphany	speak	folklore	2
+​epiphany	twenty	folklore	2
+​epiphany	watch	folklore	7
+​epiphany	wound	folklore	1
+Everything Has Changed	18	Red	1
+Everything Has Changed	ago	Red	1
+Everything Has Changed	beautiful	Red	1
+Everything Has Changed	blue	Red	1
+Everything Has Changed	butterflies	Red	1
+Everything Has Changed	changed	Red	8
+Everything Has Changed	coming	Red	3
+Everything Has Changed	days	Red	1
+Everything Has Changed	door	Red	4
+Everything Has Changed	dust	Red	1
+Everything Has Changed	em	Red	2
+Everything Has Changed	eyes	Red	4
+Everything Has Changed	feel	Red	3
+Everything Has Changed	feeling	Red	1
+Everything Has Changed	flight	Red	1
+Everything Has Changed	found	Red	1
+Everything Has Changed	freckles	Red	1
+Everything Has Changed	grace	Red	1
+Everything Has Changed	green	Red	1
+Everything Has Changed	held	Red	3
+Everything Has Changed	home	Red	3
+Everything Has Changed	hopes	Red	1
+Everything Has Changed	hours	Red	1
+Everything Has Changed	lost	Red	1
+Everything Has Changed	meet	Red	1
+Everything Has Changed	mind	Red	2
+Everything Has Changed	mine	Red	3
+Everything Has Changed	missed	Red	1
+Everything Has Changed	morning	Red	1
+Everything Has Changed	painted	Red	1
+Everything Has Changed	pouring	Red	1
+Everything Has Changed	rain	Red	1
+Everything Has Changed	simple	Red	3
+Everything Has Changed	smile	Red	1
+Everything Has Changed	stomach	Red	1
+Everything Has Changed	stood	Red	1
+Everything Has Changed	taking	Red	1
+Everything Has Changed	tall	Red	1
+Everything Has Changed	time	Red	2
+Everything Has Changed	tonight	Red	1
+Everything Has Changed	walls	Red	1
+Everything Has Changed	wanna	Red	10
+Everything Has Changed	woke	Red	1
+Everything Has Changed	yesterday	Red	4
+​exile	add	folklore	1
+​exile	ah	folklore	2
+​exile	amount	folklore	2
+​exile	anymore	folklore	3
+​exile	arms	folklore	1
+​exile	balancin	folklore	1
+​exile	bloody	folklore	1
+​exile	body	folklore	1
+​exile	branches	folklore	1
+​exile	breaking	folklore	1
+​exile	chances	folklore	1
+​exile	crown	folklore	1
+​exile	crying	folklore	2
+​exile	defending	folklore	2
+​exile	door	folklore	2
+​exile	exile	folklore	3
+​exile	eyes	folklore	1
+​exile	film	folklore	6
+​exile	funny	folklore	1
+​exile	hall	folklore	1
+​exile	hear	folklore	4
+​exile	holdin	folklore	1
+​exile	homeland	folklore	2
+​exile	honey	folklore	2
+​exile	hundredth	folklore	1
+​exile	injury	folklore	1
+​exile	insult	folklore	1
+​exile	joke's	folklore	1
+​exile	knuckles	folklore	1
+​exile	laughin	folklore	1
+​exile	learned	folklore	5
+​exile	leave	folklore	1
+​exile	leavin	folklore	1
+​exile	leaving	folklore	1
+​exile	line	folklore	2
+​exile	love	folklore	1
+​exile	mind	folklore	5
+​exile	minutes	folklore	1
+​exile	offending	folklore	1
+​exile	ooh	folklore	3
+​exile	pack	folklore	1
+​exile	read	folklore	5
+​exile	seein	folklore	3
+​exile	sign	folklore	8
+​exile	signs	folklore	8
+​exile	standing	folklore	1
+​exile	starin	folklore	1
+​exile	step	folklore	2
+​exile	thin	folklore	2
+​exile	time	folklore	5
+​exile	times	folklore	1
+​exile	town	folklore	2
+​exile	understudy	folklore	1
+​exile	walked	folklore	2
+​exile	warning	folklore	8
+False God	ah	Lover	1
+False God	altar	Lover	2
+False God	babe	Lover	2
+False God	begging	Lover	1
+False God	blind	Lover	4
+False God	city	Lover	1
+False God	confessions	Lover	1
+False God	crazy	Lover	2
+False God	daring	Lover	1
+False God	die	Lover	1
+False God	faith	Lover	4
+False God	false	Lover	6
+False God	favorite	Lover	1
+False God	fight	Lover	1
+False God	fly	Lover	1
+False God	forgiveness	Lover	1
+False God	god	Lover	6
+False God	hard	Lover	2
+False God	heaven's	Lover	1
+False God	hell	Lover	1
+False God	hips	Lover	2
+False God	honey	Lover	1
+False God	i’d	Lover	1
+False God	i’m	Lover	1
+False God	jump	Lover	1
+False God	leave	Lover	1
+False God	led	Lover	2
+False God	lips	Lover	2
+False God	lost	Lover	2
+False God	love	Lover	8
+False God	ocean	Lover	1
+False God	patch	Lover	1
+False God	religion's	Lover	2
+False God	remember	Lover	2
+False God	road	Lover	2
+False God	scare	Lover	1
+False God	separating	Lover	1
+False God	staring	Lover	1
+False God	stupid	Lover	1
+False God	talk	Lover	2
+False God	times	Lover	2
+False God	touch	Lover	1
+False God	town	Lover	1
+False God	village	Lover	1
+False God	warned	Lover	2
+False God	we’d	Lover	2
+False God	we’re	Lover	1
+False God	west	Lover	1
+False God	window	Lover	1
+False God	wine	Lover	1
+False God	worship	Lover	10
+False God	york	Lover	1
+False God	you’re	Lover	1
+Getaway Car	ah	reputation	3
+Getaway Car	bag	reputation	1
+Getaway Car	bar	reputation	1
+Getaway Car	beat	reputation	3
+Getaway Car	black	reputation	1
+Getaway Car	blew	reputation	1
+Getaway Car	bonnie	reputation	1
+Getaway Car	break	reputation	1
+Getaway Car	candlelight	reputation	1
+Getaway Car	car	reputation	22
+Getaway Car	circus	reputation	1
+Getaway Car	clyde	reputation	1
+Getaway Car	crimes	reputation	1
+Getaway Car	cryin	reputation	2
+Getaway Car	cursed	reputation	2
+Getaway Car	dark	reputation	1
+Getaway Car	didn’t	reputation	1
+Getaway Car	drinkin	reputation	1
+Getaway Car	drivin	reputation	3
+Getaway Car	dyin	reputation	2
+Getaway Car	escape	reputation	1
+Getaway Car	fashioned	reputation	2
+Getaway Car	fell	reputation	2
+Getaway Car	flyin	reputation	3
+Getaway Car	freedom	reputation	1
+Getaway Car	getaway	reputation	22
+Getaway Car	goodbye	reputation	2
+Getaway Car	gray	reputation	1
+Getaway Car	heart	reputation	4
+Getaway Car	hit	reputation	1
+Getaway Car	honey	reputation	1
+Getaway Car	jet	reputation	1
+Getaway Car	keys	reputation	1
+Getaway Car	leave	reputation	4
+Getaway Car	left	reputation	1
+Getaway Car	lies	reputation	1
+Getaway Car	light	reputation	1
+Getaway Car	love	reputation	1
+Getaway Car	lyin	reputation	1
+Getaway Car	marks	reputation	2
+Getaway Car	match	reputation	1
+Getaway Car	met	reputation	6
+Getaway Car	mind	reputation	1
+Getaway Car	money	reputation	1
+Getaway Car	motel	reputation	1
+Getaway Car	mystery	reputation	3
+Getaway Car	poisoned	reputation	2
+Getaway Car	pretend	reputation	4
+Getaway Car	prison	reputation	1
+Getaway Car	reason	reputation	1
+Getaway Car	ridin	reputation	5
+Getaway Car	runnin	reputation	1
+Getaway Car	screamin	reputation	1
+Getaway Car	set	reputation	1
+Getaway Car	shades	reputation	1
+Getaway Car	shot	reputation	2
+Getaway Car	shotgun	reputation	2
+Getaway Car	should've	reputation	4
+Getaway Car	sideshow	reputation	1
+Getaway Car	sirens	reputation	3
+Getaway Car	spot	reputation	2
+Getaway Car	starts	reputation	4
+Getaway Car	stole	reputation	1
+Getaway Car	story	reputation	1
+Getaway Car	struck	reputation	1
+Getaway Car	surprise	reputation	1
+Getaway Car	switched	reputation	1
+Getaway Car	thinkin	reputation	1
+Getaway Car	ties	reputation	1
+Getaway Car	time	reputation	1
+Getaway Car	times	reputation	1
+Getaway Car	traitors	reputation	1
+Getaway Car	we’re	reputation	1
+Getaway Car	white	reputation	1
+Getaway Car	win	reputation	1
+Getaway Car	worst	reputation	1
+Girl at Home	ah	Red	8
+Girl at Home	cab	Red	2
+Girl at Home	call	Red	2
+Girl at Home	chase	Red	1
+Girl at Home	closer	Red	2
+Girl at Home	code	Red	1
+Girl at Home	coming	Red	1
+Girl at Home	crossing	Red	1
+Girl at Home	exception	Red	1
+Girl at Home	feel	Red	1
+Girl at Home	fine	Red	3
+Girl at Home	girl	Red	15
+Girl at Home	granted	Red	1
+Girl at Home	home	Red	13
+Girl at Home	honey	Red	1
+Girl at Home	kinda	Red	1
+Girl at Home	learned	Red	2
+Girl at Home	lesson	Red	1
+Girl at Home	lines	Red	1
+Girl at Home	lose	Red	3
+Girl at Home	makes	Red	1
+Girl at Home	one's	Red	1
+Girl at Home	perfectly	Red	1
+Girl at Home	phone	Red	3
+Girl at Home	pick	Red	1
+Girl at Home	previously	Red	1
+Girl at Home	proposition	Red	3
+Girl at Home	responsibility	Red	1
+Girl at Home	sad	Red	1
+Girl at Home	stupid	Red	2
+Girl at Home	understand	Red	1
+Girl at Home	upstanding	Red	1
+Girl at Home	waits	Red	1
+Girl at Home	yeah	Red	2
+Gorgeous	blue	reputation	1
+Gorgeous	boyfriend	reputation	1
+Gorgeous	cats	reputation	1
+Gorgeous	club	reputation	1
+Gorgeous	compliment	reputation	2
+Gorgeous	consequence	reputation	2
+Gorgeous	cool	reputation	1
+Gorgeous	dark	reputation	2
+Gorgeous	darkened	reputation	1
+Gorgeous	die	reputation	1
+Gorgeous	doin	reputation	1
+Gorgeous	drown	reputation	1
+Gorgeous	drunk	reputation	1
+Gorgeous	eyes	reputation	1
+Gorgeous	feel	reputation	6
+Gorgeous	field	reputation	1
+Gorgeous	fun	reputation	1
+Gorgeous	furious	reputation	4
+Gorgeous	girlfriend	reputation	1
+Gorgeous	gorgeous	reputation	16
+Gorgeous	guess	reputation	1
+Gorgeous	hand	reputation	1
+Gorgeous	happy	reputation	4
+Gorgeous	hate	reputation	6
+Gorgeous	home	reputation	1
+Gorgeous	honestly	reputation	1
+Gorgeous	honey	reputation	1
+Gorgeous	hurts	reputation	2
+Gorgeous	ice	reputation	1
+Gorgeous	jealous	reputation	1
+Gorgeous	life	reputation	1
+Gorgeous	mad	reputation	3
+Gorgeous	magnetic	reputation	1
+Gorgeous	makes	reputation	4
+Gorgeous	mine	reputation	2
+Gorgeous	mmh	reputation	3
+Gorgeous	ocean	reputation	1
+Gorgeous	ruined	reputation	1
+Gorgeous	sad	reputation	5
+Gorgeous	single	reputation	1
+Gorgeous	sink	reputation	1
+Gorgeous	strong	reputation	1
+Gorgeous	stumble	reputation	1
+Gorgeous	sunset	reputation	1
+Gorgeous	talk	reputation	1
+Gorgeous	talking	reputation	1
+Gorgeous	touching	reputation	1
+Gorgeous	vine	reputation	1
+Gorgeous	wanna	reputation	1
+Gorgeous	whisky	reputation	1
+Gorgeous	worse	reputation	1
+Gorgeous	yeah	reputation	2
+Gorgeous	yeugh	reputation	1
+​hoax	ah	folklore	3
+​hoax	ash	folklore	1
+​hoax	barren	folklore	1
+​hoax	beaten	folklore	1
+​hoax	blue	folklore	3
+​hoax	broken	folklore	2
+​hoax	cliffside	folklore	2
+​hoax	dark	folklore	1
+​hoax	darling	folklore	1
+​hoax	died	folklore	1
+​hoax	door	folklore	1
+​hoax	drum	folklore	1
+​hoax	eclipsed	folklore	1
+​hoax	faithless	folklore	2
+​hoax	fight	folklore	1
+​hoax	fire	folklore	1
+​hoax	frozen	folklore	1
+​hoax	ground	folklore	1
+​hoax	gun	folklore	1
+​hoax	hand	folklore	1
+​hoax	hard	folklore	1
+​hoax	heart	folklore	1
+​hoax	hero	folklore	1
+​hoax	hoax	folklore	2
+​hoax	hurts	folklore	2
+​hoax	keeping	folklore	1
+​hoax	kingdom	folklore	1
+​hoax	knife	folklore	1
+​hoax	laid	folklore	1
+​hoax	land	folklore	1
+​hoax	left	folklore	1
+​hoax	love's	folklore	2
+​hoax	movie	folklore	1
+​hoax	night	folklore	1
+​hoax	password	folklore	1
+​hoax	plan	folklore	1
+​hoax	pulled	folklore	3
+​hoax	reason	folklore	2
+​hoax	sadness	folklore	3
+​hoax	scars	folklore	2
+​hoax	score	folklore	1
+​hoax	screaming	folklore	2
+​hoax	shade	folklore	3
+​hoax	sleepless	folklore	1
+​hoax	sleight	folklore	1
+​hoax	smoking	folklore	1
+​hoax	stood	folklore	2
+​hoax	sun	folklore	1
+​hoax	twisted	folklore	1
+​hoax	underneath	folklore	2
+​hoax	undone	folklore	1
+​hoax	winless	folklore	1
+​hoax	won	folklore	1
+​hoax	world	folklore	3
+​hoax	york	folklore	1
+Holy Ground	blocked	Red	1
+Holy Ground	brand	Red	1
+Holy Ground	city	Red	1
+Holy Ground	coffee	Red	1
+Holy Ground	conversation	Red	1
+Holy Ground	crowd	Red	1
+Holy Ground	dance	Red	8
+Holy Ground	dancing	Red	4
+Holy Ground	darling	Red	2
+Holy Ground	day	Red	2
+Holy Ground	door	Red	1
+Holy Ground	dress	Red	1
+Holy Ground	dust	Red	1
+Holy Ground	faster	Red	1
+Holy Ground	feeling	Red	1
+Holy Ground	fell	Red	1
+Holy Ground	fit	Red	1
+Holy Ground	girl	Red	1
+Holy Ground	glance	Red	1
+Holy Ground	gonna	Red	4
+Holy Ground	green	Red	1
+Holy Ground	ground	Red	3
+Holy Ground	guess	Red	1
+Holy Ground	hey	Red	1
+Holy Ground	holy	Red	3
+Holy Ground	joke	Red	1
+Holy Ground	left	Red	1
+Holy Ground	light	Red	1
+Holy Ground	lord	Red	1
+Holy Ground	lose	Red	1
+Holy Ground	noise	Red	1
+Holy Ground	note	Red	1
+Holy Ground	page	Red	1
+Holy Ground	perfect	Red	1
+Holy Ground	poems	Red	1
+Holy Ground	reminiscing	Red	1
+Holy Ground	rhyme	Red	1
+Holy Ground	skip	Red	1
+Holy Ground	sound	Red	1
+Holy Ground	spinning	Red	1
+Holy Ground	stood	Red	3
+Holy Ground	story's	Red	1
+Holy Ground	time	Red	2
+Holy Ground	tonight	Red	4
+Holy Ground	usual	Red	1
+Holy Ground	wanna	Red	4
+Holy Ground	wide	Red	1
+Holy Ground	york	Red	1
+I Almost Do	babe	Red	2
+I Almost Do	bet	Red	9
+I Almost Do	bout	Red	2
+I Almost Do	call	Red	3
+I Almost Do	can’t	Red	1
+I Almost Do	chair	Red	2
+I Almost Do	city	Red	2
+I Almost Do	confess	Red	1
+I Almost Do	don’t	Red	3
+I Almost Do	dreams	Red	1
+I Almost Do	goodbye	Red	1
+I Almost Do	hard	Red	2
+I Almost Do	hate	Red	1
+I Almost Do	hope	Red	4
+I Almost Do	it’s	Red	1
+I Almost Do	mess	Red	1
+I Almost Do	moved	Red	1
+I Almost Do	night	Red	2
+I Almost Do	occurred	Red	1
+I Almost Do	reach	Red	1
+I Almost Do	reply	Red	1
+I Almost Do	risk	Red	1
+I Almost Do	run	Red	3
+I Almost Do	sittin	Red	2
+I Almost Do	takes	Red	3
+I Almost Do	there’s	Red	1
+I Almost Do	time	Red	6
+I Almost Do	tired	Red	2
+I Almost Do	touching	Red	1
+I Almost Do	wanna	Red	3
+I Almost Do	week	Red	2
+I Almost Do	window	Red	2
+I Almost Do	you’re	Red	7
+I Did Something Bad	ahead	reputation	1
+I Did Something Bad	bad	reputation	10
+I Did Something Bad	bit	reputation	1
+I Did Something Bad	burning	reputation	2
+I Did Something Bad	change	reputation	1
+I Did Something Bad	comin	reputation	2
+I Did Something Bad	coming	reputation	1
+I Did Something Bad	crimson	reputation	1
+I Did Something Bad	da	reputation	30
+I Did Something Bad	di	reputation	81
+I Did Something Bad	drops	reputation	1
+I Did Something Bad	easy	reputation	1
+I Did Something Bad	em	reputation	2
+I Did Something Bad	feel	reputation	12
+I Did Something Bad	flames	reputation	2
+I Did Something Bad	fly	reputation	1
+I Did Something Bad	fun	reputation	4
+I Did Something Bad	gotta	reputation	1
+I Did Something Bad	leave	reputation	1
+I Did Something Bad	left	reputation	1
+I Did Something Bad	lie	reputation	1
+I Did Something Bad	light	reputation	14
+I Did Something Bad	lips	reputation	1
+I Did Something Bad	love	reputation	2
+I Did Something Bad	narcissist	reputation	1
+I Did Something Bad	nothin	reputation	1
+I Did Something Bad	owe	reputation	2
+I Did Something Bad	paint	reputation	1
+I Did Something Bad	pitchforks	reputation	1
+I Did Something Bad	play	reputation	1
+I Did Something Bad	playboy	reputation	1
+I Did Something Bad	proof	reputation	1
+I Did Something Bad	ra	reputation	9
+I Did Something Bad	reasons	reputation	1
+I Did Something Bad	receipts	reputation	1
+I Did Something Bad	red	reputation	1
+I Did Something Bad	regret	reputation	1
+I Did Something Bad	saved	reputation	1
+I Did Something Bad	shit	reputation	1
+I Did Something Bad	skin	reputation	2
+I Did Something Bad	spends	reputation	1
+I Did Something Bad	talks	reputation	1
+I Did Something Bad	throw	reputation	1
+I Did Something Bad	trust	reputation	2
+I Did Something Bad	violin	reputation	1
+I Did Something Bad	witches	reputation	2
+I Did Something Bad	world	reputation	3
+I Forgot That You Existed	blur	Lover	1
+I Forgot That You Existed	bout	Lover	1
+I Forgot That You Existed	days	Lover	1
+I Forgot That You Existed	drake	Lover	1
+I Forgot That You Existed	existed	Lover	6
+I Forgot That You Existed	feelings	Lover	1
+I Forgot That You Existed	forget	Lover	1
+I Forgot That You Existed	forgot	Lover	8
+I Forgot That You Existed	fought	Lover	1
+I Forgot That You Existed	free	Lover	1
+I Forgot That You Existed	front	Lover	1
+I Forgot That You Existed	ground	Lover	3
+I Forgot That You Existed	happened	Lover	1
+I Forgot That You Existed	hard	Lover	1
+I Forgot That You Existed	hate	Lover	4
+I Forgot That You Existed	hit	Lover	1
+I Forgot That You Existed	indifference	Lover	4
+I Forgot That You Existed	kill	Lover	3
+I Forgot That You Existed	laughed	Lover	1
+I Forgot That You Existed	lessons	Lover	1
+I Forgot That You Existed	lips	Lover	1
+I Forgot That You Existed	lived	Lover	1
+I Forgot That You Existed	living	Lover	1
+I Forgot That You Existed	love	Lover	3
+I Forgot That You Existed	magical	Lover	2
+I Forgot That You Existed	message	Lover	1
+I Forgot That You Existed	mind	Lover	1
+I Forgot That You Existed	nice	Lover	3
+I Forgot That You Existed	night	Lover	2
+I Forgot That You Existed	peaceful	Lover	3
+I Forgot That You Existed	popcorn	Lover	1
+I Forgot That You Existed	quiet	Lover	3
+I Forgot That You Existed	rent	Lover	1
+I Forgot That You Existed	rep	Lover	1
+I Forgot That You Existed	row	Lover	1
+I Forgot That You Existed	school	Lover	1
+I Forgot That You Existed	shade	Lover	1
+I Forgot That You Existed	spend	Lover	1
+I Forgot That You Existed	started	Lover	1
+I Forgot That You Existed	stuck	Lover	1
+I Forgot That You Existed	sunshine	Lover	1
+I Forgot That You Existed	taught	Lover	1
+I Forgot That You Existed	thinking	Lover	1
+I Forgot That You Existed	throwing	Lover	1
+I Forgot That You Existed	tied	Lover	1
+I Forgot That You Existed	til	Lover	1
+I Forgot That You Existed	tongue	Lover	1
+I Forgot That You Existed	town	Lover	1
+I Forgot That You Existed	tripped	Lover	1
+I Forgot That You Existed	would've	Lover	3
+I Forgot That You Existed	wrong	Lover	3
+I Forgot That You Existed	ya	Lover	2
+I Forgot That You Existed	yard	Lover	1
+I Forgot That You Existed	yeah	Lover	3
+I Knew You Were Trouble.	ago	Red	1
+I Knew You Were Trouble.	apologies	Red	1
+I Knew You Were Trouble.	belt	Red	1
+I Knew You Were Trouble.	blame	Red	1
+I Knew You Were Trouble.	care	Red	1
+I Knew You Were Trouble.	cold	Red	3
+I Knew You Were Trouble.	creeping	Red	1
+I Knew You Were Trouble.	cry	Red	1
+I Knew You Were Trouble.	drowning	Red	3
+I Knew You Were Trouble.	fear	Red	1
+I Knew You Were Trouble.	fell	Red	1
+I Knew You Were Trouble.	flew	Red	6
+I Knew You Were Trouble.	found	Red	3
+I Knew You Were Trouble.	ground	Red	3
+I Knew You Were Trouble.	guess	Red	2
+I Knew You Were Trouble.	hard	Red	4
+I Knew You Were Trouble.	heard	Red	1
+I Knew You Were Trouble.	ing	Red	4
+I Knew You Were Trouble.	joke	Red	1
+I Knew You Were Trouble.	loved	Red	1
+I Knew You Were Trouble.	lying	Red	3
+I Knew You Were Trouble.	met	Red	1
+I Knew You Were Trouble.	mistakes	Red	1
+I Knew You Were Trouble.	moved	Red	1
+I Knew You Were Trouble.	notch	Red	1
+I Knew You Were Trouble.	ooh	Red	1
+I Knew You Were Trouble.	pretends	Red	1
+I Knew You Were Trouble.	realize	Red	2
+I Knew You Were Trouble.	reason	Red	1
+I Knew You Were Trouble.	saddest	Red	1
+I Knew You Were Trouble.	shame	Red	6
+I Knew You Were Trouble.	sights	Red	1
+I Knew You Were Trouble.	step	Red	1
+I Knew You Were Trouble.	street	Red	1
+I Knew You Were Trouble.	til	Red	3
+I Knew You Were Trouble.	time	Red	1
+I Knew You Were Trouble.	trouble	Red	33
+I Knew You Were Trouble.	walked	Red	8
+I Knew You Were Trouble.	whispers	Red	1
+I Knew You Were Trouble.	yeah	Red	4
+I Think He Knows	16th	Lover	4
+I Think He Knows	17	Lover	1
+I Think He Knows	ah	Lover	3
+I Think He Knows	architect	Lover	2
+I Think He Knows	attitude	Lover	3
+I Think He Knows	avenue	Lover	4
+I Think He Knows	baby	Lover	3
+I Think He Knows	bless	Lover	14
+I Think He Knows	body	Lover	1
+I Think He Knows	boy	Lover	2
+I Think He Knows	boyish	Lover	2
+I Think He Knows	cold	Lover	1
+I Think He Knows	dark	Lover	1
+I Think He Knows	drawing	Lover	2
+I Think He Knows	drive	Lover	2
+I Think He Knows	eyes	Lover	2
+I Think He Knows	follow	Lover	2
+I Think He Knows	footprints	Lover	1
+I Think He Knows	glass	Lover	1
+I Think He Knows	gonna	Lover	2
+I Think He Knows	gotta	Lover	4
+I Think He Knows	ha	Lover	1
+I Think He Knows	hand	Lover	2
+I Think He Knows	hands	Lover	1
+I Think He Knows	heartbeat	Lover	6
+I Think He Knows	home	Lover	1
+I Think He Knows	indigo	Lover	2
+I Think He Knows	lead	Lover	1
+I Think He Knows	lock	Lover	1
+I Think He Knows	lyrical	Lover	2
+I Think He Knows	mine	Lover	1
+I Think He Knows	night	Lover	1
+I Think He Knows	obsessed	Lover	1
+I Think He Knows	plans	Lover	2
+I Think He Knows	sidewalk	Lover	1
+I Think He Knows	skipping	Lover	4
+I Think He Knows	smile	Lover	2
+I Think He Knows	soul	Lover	6
+I Think He Knows	sparks	Lover	2
+I Think He Knows	stay	Lover	1
+I Think He Knows	stick	Lover	1
+I Think He Knows	stop	Lover	1
+I Think He Knows	thigh	Lover	2
+I Think He Knows	understand	Lover	2
+I Think He Knows	understands	Lover	2
+I Think He Knows	wait	Lover	1
+I Think He Knows	wanna	Lover	4
+I Think He Knows	whisper	Lover	1
+I Think He Knows	yeah	Lover	1
+​illicit affairs	affairs	folklore	2
+​illicit affairs	baby	folklore	2
+​illicit affairs	beautiful	folklore	1
+​illicit affairs	born	folklore	1
+​illicit affairs	call	folklore	4
+​illicit affairs	clandestine	folklore	2
+​illicit affairs	colors	folklore	1
+​illicit affairs	damn	folklore	1
+​illicit affairs	dies	folklore	3
+​illicit affairs	don’t	folklore	1
+​illicit affairs	drug	folklore	1
+​illicit affairs	dwindling	folklore	1
+​illicit affairs	exist	folklore	1
+​illicit affairs	eyes	folklore	1
+​illicit affairs	flushed	folklore	1
+​illicit affairs	fool	folklore	1
+​illicit affairs	friends	folklore	1
+​illicit affairs	glance	folklore	1
+​illicit affairs	godforsaken	folklore	1
+​illicit affairs	head	folklore	1
+​illicit affairs	hood	folklore	1
+​illicit affairs	hundred	folklore	1
+​illicit affairs	idiotic	folklore	1
+​illicit affairs	illicit	folklore	2
+​illicit affairs	kid	folklore	2
+​illicit affairs	language	folklore	1
+​illicit affairs	leave	folklore	3
+​illicit affairs	lie	folklore	3
+​illicit affairs	longing	folklore	1
+​illicit affairs	lots	folklore	1
+​illicit affairs	meetings	folklore	3
+​illicit affairs	mercurial	folklore	1
+​illicit affairs	mess	folklore	1
+​illicit affairs	million	folklore	3
+​illicit affairs	parking	folklore	1
+​illicit affairs	perfume	folklore	1
+​illicit affairs	picked	folklore	1
+​illicit affairs	return	folklore	1
+​illicit affairs	road	folklore	1
+​illicit affairs	ruin	folklore	1
+​illicit affairs	run	folklore	1
+​illicit affairs	scream	folklore	1
+​illicit affairs	secret	folklore	1
+​illicit affairs	shelf	folklore	1
+​illicit affairs	single	folklore	2
+​illicit affairs	speak	folklore	1
+​illicit affairs	stares	folklore	2
+​illicit affairs	started	folklore	1
+​illicit affairs	stolen	folklore	1
+​illicit affairs	stop	folklore	1
+​illicit affairs	taught	folklore	1
+​illicit affairs	time	folklore	1
+​illicit affairs	times	folklore	4
+​illicit affairs	trace	folklore	1
+​illicit affairs	traveled	folklore	1
+​illicit affairs	truth	folklore	1
+​illicit affairs	wanna	folklore	1
+​illicit affairs	words	folklore	1
+​illicit affairs	you’ll	folklore	1
+​invisible string	ah	folklore	6
+​invisible string	american	folklore	1
+​invisible string	arms	folklore	1
+​invisible string	ate	folklore	1
+​invisible string	axe	folklore	1
+​invisible string	babies	folklore	1
+​invisible string	baby	folklore	1
+​invisible string	bad	folklore	1
+​invisible string	bar	folklore	1
+​invisible string	barbed	folklore	1
+​invisible string	blood	folklore	1
+​invisible string	blues	folklore	1
+​invisible string	bold	folklore	1
+​invisible string	boys	folklore	1
+​invisible string	brave	folklore	1
+​invisible string	broke	folklore	1
+​invisible string	brought	folklore	1
+​invisible string	cab	folklore	1
+​invisible string	centennial	folklore	2
+​invisible string	chains	folklore	1
+​invisible string	clues	folklore	2
+​invisible string	cold	folklore	1
+​invisible string	color	folklore	3
+​invisible string	compasses	folklore	1
+​invisible string	cool	folklore	1
+​invisible string	curious	folklore	1
+​invisible string	cutting	folklore	1
+​invisible string	demons	folklore	1
+​invisible string	dinner	folklore	1
+​invisible string	dive	folklore	1
+​invisible string	favorite	folklore	1
+​invisible string	fine	folklore	1
+​invisible string	gold	folklore	2
+​invisible string	grass	folklore	1
+​invisible string	green	folklore	1
+​invisible string	grind	folklore	1
+​invisible string	healing	folklore	1
+​invisible string	heart	folklore	1
+​invisible string	heaven	folklore	1
+​invisible string	hell	folklore	1
+​invisible string	invisible	folklore	3
+​invisible string	journey	folklore	1
+​invisible string	la	folklore	1
+​invisible string	lakes	folklore	1
+​invisible string	leaves	folklore	1
+​invisible string	looked	folklore	1
+​invisible string	lunch	folklore	1
+​invisible string	meet	folklore	1
+​invisible string	mistakes	folklore	1
+​invisible string	money	folklore	1
+​invisible string	mystical	folklore	1
+​invisible string	ooh	folklore	16
+​invisible string	park	folklore	2
+​invisible string	past	folklore	1
+​invisible string	pink	folklore	1
+​invisible string	pretty	folklore	3
+​invisible string	pulled	folklore	1
+​invisible string	purple	folklore	1
+​invisible string	read	folklore	1
+​invisible string	seasons	folklore	1
+​invisible string	send	folklore	1
+​invisible string	shirt	folklore	1
+​invisible string	shop	folklore	1
+​invisible string	signs	folklore	1
+​invisible string	singer	folklore	1
+​invisible string	single	folklore	1
+​invisible string	sixteen	folklore	1
+​invisible string	skies	folklore	1
+​invisible string	song	folklore	1
+​invisible string	spot	folklore	1
+​invisible string	steel	folklore	1
+​invisible string	string	folklore	4
+​invisible string	teal	folklore	1
+​invisible string	thread	folklore	1
+​invisible string	tied	folklore	1
+​invisible string	time	folklore	6
+​invisible string	trip	folklore	2
+​invisible string	tying	folklore	3
+​invisible string	waitress	folklore	1
+​invisible string	wire	folklore	1
+​invisible string	wondrous	folklore	1
+​invisible string	wool	folklore	1
+​invisible string	wrapped	folklore	1
+​invisible string	wrong	folklore	1
+​invisible string	yogurt	folklore	1
+It’s Nice to Have a Friend	20	Lover	1
+It’s Nice to Have a Friend	babe	Lover	1
+It’s Nice to Have a Friend	bed	Lover	1
+It’s Nice to Have a Friend	bell	Lover	1
+It’s Nice to Have a Friend	bells	Lover	1
+It’s Nice to Have a Friend	bluff	Lover	1
+It’s Nice to Have a Friend	call	Lover	2
+It’s Nice to Have a Friend	carry	Lover	1
+It’s Nice to Have a Friend	chalk	Lover	1
+It’s Nice to Have a Friend	church	Lover	1
+It’s Nice to Have a Friend	covered	Lover	1
+It’s Nice to Have a Friend	curfew	Lover	1
+It’s Nice to Have a Friend	day	Lover	1
+It’s Nice to Have a Friend	feels	Lover	1
+It’s Nice to Have a Friend	friend	Lover	7
+It’s Nice to Have a Friend	fun	Lover	1
+It’s Nice to Have a Friend	games	Lover	1
+It’s Nice to Have a Friend	gloves	Lover	1
+It’s Nice to Have a Friend	ground	Lover	1
+It’s Nice to Have a Friend	hand	Lover	1
+It’s Nice to Have a Friend	hang	Lover	1
+It’s Nice to Have a Friend	home	Lover	3
+It’s Nice to Have a Friend	light	Lover	1
+It’s Nice to Have a Friend	lost	Lover	1
+It’s Nice to Have a Friend	nerve	Lover	1
+It’s Nice to Have a Friend	nice	Lover	7
+It’s Nice to Have a Friend	note	Lover	1
+It’s Nice to Have a Friend	ooh	Lover	10
+It’s Nice to Have a Friend	pass	Lover	1
+It’s Nice to Have a Friend	pink	Lover	1
+It’s Nice to Have a Friend	questions	Lover	1
+It’s Nice to Have a Friend	rice	Lover	1
+It’s Nice to Have a Friend	ring	Lover	1
+It’s Nice to Have a Friend	rings	Lover	1
+It’s Nice to Have a Friend	roof	Lover	1
+It’s Nice to Have a Friend	school	Lover	1
+It’s Nice to Have a Friend	sidewalk	Lover	1
+It’s Nice to Have a Friend	sinks	Lover	1
+It’s Nice to Have a Friend	sky	Lover	1
+It’s Nice to Have a Friend	sleeping	Lover	1
+It’s Nice to Have a Friend	snow	Lover	2
+It’s Nice to Have a Friend	sounds	Lover	1
+It’s Nice to Have a Friend	stay	Lover	1
+It’s Nice to Have a Friend	stressed	Lover	1
+It’s Nice to Have a Friend	sun	Lover	1
+It’s Nice to Have a Friend	tents	Lover	1
+It’s Nice to Have a Friend	touch	Lover	1
+It’s Nice to Have a Friend	truth	Lover	1
+It’s Nice to Have a Friend	video	Lover	1
+It’s Nice to Have a Friend	walk	Lover	1
+It’s Nice to Have a Friend	wanna	Lover	1
+It’s Nice to Have a Friend	weekend	Lover	1
+It’s Nice to Have a Friend	yeah	Lover	3
+Karma	acrobat	Midnights	3
+Karma	addicted	Midnights	1
+Karma	ah	Midnights	1
+Karma	betrayal	Midnights	1
+Karma	bounty	Midnights	1
+Karma	boyfriend	Midnights	5
+Karma	breeze	Midnights	3
+Karma	burned	Midnights	1
+Karma	cash	Midnights	1
+Karma	cat	Midnights	3
+Karma	clean	Midnights	2
+Karma	coming	Midnights	3
+Karma	crown	Midnights	1
+Karma	dare	Midnights	1
+Karma	earned	Midnights	1
+Karma	envious	Midnights	3
+Karma	fade	Midnights	1
+Karma	flexing	Midnights	3
+Karma	friends	Midnights	1
+Karma	glare	Midnights	1
+Karma	god	Midnights	4
+Karma	goddamn	Midnights	3
+Karma	gonna	Midnights	1
+Karma	ground	Midnights	1
+Karma	guy	Midnights	1
+Karma	hair	Midnights	3
+Karma	hell	Midnights	1
+Karma	home	Midnights	1
+Karma	honey	Midnights	3
+Karma	huh	Midnights	1
+Karma	hunter	Midnights	1
+Karma	justice	Midnights	1
+Karma	karma	Midnights	22
+Karma	karma's	Midnights	6
+Karma	king	Midnights	1
+Karma	lap	Midnights	3
+Karma	learned	Midnights	1
+Karma	loves	Midnights	3
+Karma	mm	Midnights	1
+Karma	opacity	Midnights	1
+Karma	pennies	Midnights	1
+Karma	price	Midnights	1
+Karma	purring	Midnights	3
+Karma	queen	Midnights	1
+Karma	rattling	Midnights	1
+Karma	relaxing	Midnights	4
+Karma	relevant	Midnights	1
+Karma	scent	Midnights	1
+Karma	screen	Midnights	1
+Karma	shit	Midnights	1
+Karma	spiderboy	Midnights	1
+Karma	step	Midnights	2
+Karma	straight	Midnights	1
+Karma	street	Midnights	2
+Karma	summit	Midnights	1
+Karma	sweet	Midnights	4
+Karma	takes	Midnights	1
+Karma	talking	Midnights	1
+Karma	tears	Midnights	1
+Karma	terrified	Midnights	1
+Karma	thieves	Midnights	1
+Karma	thunder	Midnights	1
+Karma	town	Midnights	2
+Karma	track	Midnights	1
+Karma	trick	Midnights	2
+Karma	uh	Midnights	1
+Karma	vibe	Midnights	3
+Karma	weave	Midnights	1
+Karma	webs	Midnights	1
+Karma	weekend	Midnights	4
+King Of My Heart	ago	reputation	1
+King Of My Heart	american	reputation	2
+King Of My Heart	asleep	reputation	1
+King Of My Heart	baby	reputation	2
+King Of My Heart	beat	reputation	2
+King Of My Heart	beer	reputation	1
+King Of My Heart	bein	reputation	1
+King Of My Heart	body	reputation	10
+King Of My Heart	bones	reputation	1
+King Of My Heart	boys	reputation	2
+King Of My Heart	broken	reputation	1
+King Of My Heart	callin	reputation	1
+King Of My Heart	cars	reputation	2
+King Of My Heart	change	reputation	1
+King Of My Heart	city's	reputation	1
+King Of My Heart	clothes	reputation	1
+King Of My Heart	crush	reputation	1
+King Of My Heart	cups	reputation	1
+King Of My Heart	dreaming	reputation	1
+King Of My Heart	drinking	reputation	1
+King Of My Heart	dying	reputation	1
+King Of My Heart	endings	reputation	1
+King Of My Heart	expensive	reputation	2
+King Of My Heart	fancy	reputation	2
+King Of My Heart	fine	reputation	1
+King Of My Heart	girl	reputation	1
+King Of My Heart	heart	reputation	9
+King Of My Heart	hey	reputation	1
+King Of My Heart	hoping	reputation	1
+King Of My Heart	idea	reputation	1
+King Of My Heart	inside	reputation	3
+King Of My Heart	jaguars	reputation	2
+King Of My Heart	king	reputation	7
+King Of My Heart	kingdom	reputation	2
+King Of My Heart	late	reputation	1
+King Of My Heart	lips	reputation	1
+King Of My Heart	live	reputation	1
+King Of My Heart	love	reputation	1
+King Of My Heart	luxury	reputation	1
+King Of My Heart	mending	reputation	1
+King Of My Heart	met	reputation	1
+King Of My Heart	mind	reputation	1
+King Of My Heart	motown	reputation	2
+King Of My Heart	move	reputation	2
+King Of My Heart	night	reputation	1
+King Of My Heart	nights	reputation	1
+King Of My Heart	ooh	reputation	17
+King Of My Heart	perfectly	reputation	1
+King Of My Heart	plastic	reputation	1
+King Of My Heart	priorities	reputation	1
+King Of My Heart	queen	reputation	2
+King Of My Heart	range	reputation	2
+King Of My Heart	roof	reputation	1
+King Of My Heart	rovers	reputation	2
+King Of My Heart	rule	reputation	2
+King Of My Heart	salute	reputation	2
+King Of My Heart	school	reputation	1
+King Of My Heart	secret	reputation	1
+King Of My Heart	soul	reputation	11
+King Of My Heart	spending	reputation	1
+King Of My Heart	stuff	reputation	1
+King Of My Heart	taste	reputation	1
+King Of My Heart	tryin	reputation	1
+King Of My Heart	waiting	reputation	19
+King Of My Heart	weeks	reputation	1
+King Of My Heart	woah	reputation	17
+Labyrinth	bounce	Midnights	1
+Labyrinth	break	Midnights	6
+Labyrinth	breathe	Midnights	4
+Labyrinth	deep	Midnights	1
+Labyrinth	elevators	Midnights	1
+Labyrinth	expects	Midnights	1
+Labyrinth	fallin	Midnights	15
+Labyrinth	fast	Midnights	1
+Labyrinth	feels	Midnights	1
+Labyrinth	free	Midnights	1
+Labyrinth	gettin	Midnights	1
+Labyrinth	goin	Midnights	5
+Labyrinth	hate	Midnights	1
+Labyrinth	how'd	Midnights	5
+Labyrinth	hurts	Midnights	1
+Labyrinth	labyrinth	Midnights	1
+Labyrinth	life	Midnights	1
+Labyrinth	lost	Midnights	1
+Labyrinth	love	Midnights	15
+Labyrinth	mind	Midnights	1
+Labyrinth	plane	Midnights	5
+Labyrinth	raw	Midnights	1
+Labyrinth	rises	Midnights	1
+Labyrinth	scared	Midnights	1
+Labyrinth	smile	Midnights	1
+Labyrinth	thinkin	Midnights	1
+Labyrinth	time	Midnights	1
+Labyrinth	trust	Midnights	1
+Labyrinth	uh	Midnights	5
+Lavender Haze	1950s	Midnights	3
+Lavender Haze	beautifully	Midnights	1
+Lavender Haze	bride	Midnights	1
+Lavender Haze	bringing	Midnights	1
+Lavender Haze	ceiling	Midnights	1
+Lavender Haze	chest	Midnights	3
+Lavender Haze	creepin	Midnights	1
+Lavender Haze	creeping	Midnights	2
+Lavender Haze	damn	Midnights	3
+Lavender Haze	damned	Midnights	3
+Lavender Haze	deal	Midnights	4
+Lavender Haze	desk	Midnights	4
+Lavender Haze	dizzying	Midnights	1
+Lavender Haze	feel	Midnights	4
+Lavender Haze	girl	Midnights	2
+Lavender Haze	gonna	Midnights	1
+Lavender Haze	handle	Midnights	1
+Lavender Haze	haze	Midnights	9
+Lavender Haze	history	Midnights	1
+Lavender Haze	kinda	Midnights	2
+Lavender Haze	lavender	Midnights	9
+Lavender Haze	listening	Midnights	1
+Lavender Haze	love	Midnights	2
+Lavender Haze	meet	Midnights	1
+Lavender Haze	melancholia	Midnights	1
+Lavender Haze	midnight	Midnights	1
+Lavender Haze	night	Midnights	1
+Lavender Haze	people	Midnights	3
+Lavender Haze	read	Midnights	1
+Lavender Haze	scrutiny	Midnights	1
+Lavender Haze	shit	Midnights	4
+Lavender Haze	spiral	Midnights	2
+Lavender Haze	staring	Midnights	1
+Lavender Haze	stay	Midnights	5
+Lavender Haze	surreal	Midnights	3
+Lavender Haze	talk	Midnights	4
+Lavender Haze	viral	Midnights	2
+Lavender Haze	wanna	Midnights	5
+Lavender Haze	wife	Midnights	1
+Lavender Haze	yeah	Midnights	12
+London Boy	accent	Lover	1
+London Boy	afternoon	Lover	3
+London Boy	ah	Lover	4
+London Boy	american	Lover	3
+London Boy	babes	Lover	1
+London Boy	blue	Lover	1
+London Boy	bond	Lover	2
+London Boy	boy	Lover	9
+London Boy	brixton	Lover	1
+London Boy	cab	Lover	1
+London Boy	camden	Lover	1
+London Boy	child	Lover	3
+London Boy	darling	Lover	3
+London Boy	dimples	Lover	1
+London Boy	drinkin	Lover	1
+London Boy	drivin	Lover	1
+London Boy	english	Lover	1
+London Boy	enjoy	Lover	3
+London Boy	eyes	Lover	3
+London Boy	faded	Lover	1
+London Boy	fancy	Lover	10
+London Boy	friends	Lover	1
+London Boy	god	Lover	1
+London Boy	gray	Lover	1
+London Boy	guess	Lover	3
+London Boy	hackney	Lover	2
+London Boy	happened	Lover	1
+London Boy	heard	Lover	2
+London Boy	heart	Lover	2
+London Boy	heath	Lover	2
+London Boy	highgate	Lover	3
+London Boy	home	Lover	2
+London Boy	hometown	Lover	1
+London Boy	jeans	Lover	1
+London Boy	laughin	Lover	1
+London Boy	likes	Lover	3
+London Boy	lives	Lover	1
+London Boy	london	Lover	7
+London Boy	louis	Lover	2
+London Boy	love	Lover	11
+London Boy	market	Lover	1
+London Boy	mates	Lover	3
+London Boy	mccartney	Lover	2
+London Boy	meet	Lover	3
+London Boy	met	Lover	3
+London Boy	mine	Lover	1
+London Boy	motown	Lover	1
+London Boy	nights	Lover	1
+London Boy	ooh	Lover	6
+London Boy	pub	Lover	1
+London Boy	queen	Lover	2
+London Boy	rainy	Lover	1
+London Boy	ride	Lover	1
+London Boy	round	Lover	1
+London Boy	rugby	Lover	1
+London Boy	rumors	Lover	3
+London Boy	school	Lover	1
+London Boy	scooter	Lover	1
+London Boy	shoreditch	Lover	1
+London Boy	sky	Lover	1
+London Boy	smile	Lover	3
+London Boy	socal	Lover	1
+London Boy	soho	Lover	1
+London Boy	somethin	Lover	1
+London Boy	springsteen	Lover	1
+London Boy	stella	Lover	2
+London Boy	stick	Lover	2
+London Boy	stories	Lover	1
+London Boy	street	Lover	2
+London Boy	tea	Lover	1
+London Boy	tennessee	Lover	3
+London Boy	threaten	Lover	1
+London Boy	time	Lover	1
+London Boy	true	Lover	3
+London Boy	uh	Lover	1
+London Boy	uni	Lover	1
+London Boy	walkin	Lover	2
+London Boy	wanna	Lover	8
+London Boy	watchin	Lover	1
+London Boy	west	Lover	1
+London Boy	whiskey	Lover	1
+London Boy	woah	Lover	2
+London Boy	yeah	Lover	3
+Look What You Made Me Do	actress	reputation	4
+Look What You Made Me Do	bad	reputation	4
+Look What You Made Me Do	belonged	reputation	1
+Look What You Made Me Do	check	reputation	4
+Look What You Made Me Do	cool	reputation	1
+Look What You Made Me Do	crime	reputation	1
+Look What You Made Me Do	day	reputation	1
+Look What You Made Me Do	dead	reputation	3
+Look What You Made Me Do	drama	reputation	2
+Look What You Made Me Do	dreams	reputation	4
+Look What You Made Me Do	feast	reputation	1
+Look What You Made Me Do	fool	reputation	1
+Look What You Made Me Do	games	reputation	1
+Look What You Made Me Do	gun	reputation	1
+Look What You Made Me Do	harder	reputation	2
+Look What You Made Me Do	honey	reputation	2
+Look What You Made Me Do	karma	reputation	1
+Look What You Made Me Do	keys	reputation	1
+Look What You Made Me Do	kingdom	reputation	1
+Look What You Made Me Do	laugh	reputation	1
+Look What You Made Me Do	lie	reputation	1
+Look What You Made Me Do	list	reputation	2
+Look What You Made Me Do	locked	reputation	1
+Look What You Made Me Do	mine	reputation	2
+Look What You Made Me Do	moves	reputation	2
+Look What You Made Me Do	names	reputation	2
+Look What You Made Me Do	nick	reputation	2
+Look What You Made Me Do	ooh	reputation	10
+Look What You Made Me Do	perfect	reputation	1
+Look What You Made Me Do	phone	reputation	1
+Look What You Made Me Do	play	reputation	1
+Look What You Made Me Do	red	reputation	2
+Look What You Made Me Do	role	reputation	1
+Look What You Made Me Do	rose	reputation	2
+Look What You Made Me Do	sleep	reputation	1
+Look What You Made Me Do	smarter	reputation	2
+Look What You Made Me Do	stage	reputation	1
+Look What You Made Me Do	starring	reputation	4
+Look What You Made Me Do	taylor	reputation	1
+Look What You Made Me Do	thing's	reputation	1
+Look What You Made Me Do	threw	reputation	1
+Look What You Made Me Do	tilted	reputation	1
+Look What You Made Me Do	time	reputation	4
+Look What You Made Me Do	trust	reputation	4
+Look What You Made Me Do	trusts	reputation	4
+Look What You Made Me Do	underlined	reputation	2
+Look What You Made Me Do	world	reputation	2
+Lover	ah	Lover	3
+Lover	all's	Lover	1
+Lover	blue	Lover	1
+Lover	borrowed	Lover	1
+Lover	call	Lover	1
+Lover	christmas	Lover	1
+Lover	close	Lover	3
+Lover	crash	Lover	1
+Lover	darling	Lover	1
+Lover	dazzling	Lover	1
+Lover	dear	Lover	1
+Lover	dirtiest	Lover	1
+Lover	em	Lover	1
+Lover	force	Lover	1
+Lover	forever	Lover	5
+Lover	friends	Lover	1
+Lover	gentlemen	Lover	1
+Lover	guitar	Lover	1
+Lover	hand	Lover	1
+Lover	haze	Lover	1
+Lover	heart's	Lover	1
+Lover	highly	Lover	1
+Lover	home	Lover	3
+Lover	honey	Lover	1
+Lover	january	Lover	1
+Lover	jokes	Lover	1
+Lover	ladies	Lover	1
+Lover	leave	Lover	1
+Lover	lights	Lover	1
+Lover	living	Lover	1
+Lover	loved	Lover	1
+Lover	lover	Lover	6
+Lover	magnetic	Lover	1
+Lover	mysterious	Lover	1
+Lover	overdramatic	Lover	1
+Lover	rules	Lover	1
+Lover	save	Lover	2
+Lover	scar	Lover	1
+Lover	seat	Lover	1
+Lover	stand	Lover	1
+Lover	string	Lover	1
+Lover	summers	Lover	1
+Lover	suspicious	Lover	1
+Lover	swear	Lover	1
+Lover	table	Lover	1
+Lover	til	Lover	1
+Lover	true	Lover	1
+Lover	twenty	Lover	2
+​mad woman	angry	folklore	4
+​mad woman	bear	folklore	2
+​mad woman	breathe	folklore	1
+​mad woman	brought	folklore	1
+​mad woman	call	folklore	2
+​mad woman	cannons	folklore	1
+​mad woman	claws	folklore	2
+​mad woman	climb	folklore	2
+​mad woman	couple	folklore	1
+​mad woman	crazy	folklore	4
+​mad woman	dead	folklore	1
+​mad woman	dirtiest	folklore	1
+​mad woman	drive	folklore	1
+​mad woman	fighting	folklore	1
+​mad woman	firin	folklore	1
+​mad woman	flames	folklore	1
+​mad woman	flings	folklore	1
+​mad woman	forever	folklore	1
+​mad woman	fuck	folklore	1
+​mad woman	home	folklore	1
+​mad woman	hunting	folklore	1
+​mad woman	kill	folklore	1
+​mad woman	lawn	folklore	1
+​mad woman	likes	folklore	3
+​mad woman	mad	folklore	11
+​mad woman	master	folklore	1
+​mad woman	mouth	folklore	1
+​mad woman	move	folklore	1
+​mad woman	neighbor's	folklore	1
+​mad woman	noose	folklore	2
+​mad woman	obvious	folklore	1
+​mad woman	people	folklore	1
+​mad woman	poke	folklore	2
+​mad woman	scathing	folklore	1
+​mad woman	scorpion	folklore	1
+​mad woman	shame	folklore	3
+​mad woman	sing	folklore	1
+​mad woman	smile	folklore	1
+​mad woman	spin	folklore	1
+​mad woman	sting	folklore	1
+​mad woman	strike	folklore	1
+​mad woman	taking	folklore	2
+​mad woman	talk	folklore	1
+​mad woman	til	folklore	2
+​mad woman	time	folklore	5
+​mad woman	watching	folklore	2
+​mad woman	witches	folklore	1
+​mad woman	wives	folklore	1
+​mad woman	woman	folklore	7
+​mad woman	women	folklore	1
+​mad woman	wrap	folklore	2
+​mad woman	yacht	folklore	1
+Maroon	ass	Midnights	1
+Maroon	blind	Midnights	1
+Maroon	blood	Midnights	3
+Maroon	burgundy	Midnights	3
+Maroon	bеtween	Midnights	1
+Maroon	call	Midnights	3
+Maroon	carnations	Midnights	1
+Maroon	cheap	Midnights	1
+Maroon	cheeks	Midnights	3
+Maroon	chose	Midnights	1
+Maroon	cleaning	Midnights	1
+Maroon	closest	Midnights	1
+Maroon	collarbone	Midnights	3
+Maroon	dancing	Midnights	2
+Maroon	day	Midnights	1
+Maroon	eyed	Midnights	1
+Maroon	feel	Midnights	1
+Maroon	feet	Midnights	1
+Maroon	floor	Midnights	1
+Maroon	friend	Midnights	1
+Maroon	fucking	Midnights	2
+Maroon	grew	Midnights	3
+Maroon	hallway	Midnights	1
+Maroon	hands	Midnights	1
+Maroon	hazy	Midnights	1
+Maroon	head	Midnights	1
+Maroon	hell	Midnights	1
+Maroon	hollow	Midnights	1
+Maroon	home	Midnights	3
+Maroon	how'd	Midnights	1
+Maroon	incense	Midnights	1
+Maroon	lap	Midnights	1
+Maroon	laughing	Midnights	1
+Maroon	leave	Midnights	1
+Maroon	legacy	Midnights	3
+Maroon	lips	Midnights	3
+Maroon	looked	Midnights	2
+Maroon	lose	Midnights	1
+Maroon	lost	Midnights	2
+Maroon	mark	Midnights	3
+Maroon	maroon	Midnights	9
+Maroon	matter	Midnights	1
+Maroon	memory	Midnights	2
+Maroon	morning	Midnights	1
+Maroon	real	Midnights	2
+Maroon	roommate's	Midnights	1
+Maroon	rosé	Midnights	1
+Maroon	roses	Midnights	1
+Maroon	rubies	Midnights	1
+Maroon	rushed	Midnights	3
+Maroon	rust	Midnights	3
+Maroon	scarlet	Midnights	6
+Maroon	screw	Midnights	1
+Maroon	shaking	Midnights	1
+Maroon	shelf	Midnights	1
+Maroon	shirt	Midnights	3
+Maroon	shit	Midnights	1
+Maroon	shoes	Midnights	2
+Maroon	sight	Midnights	1
+Maroon	silence	Midnights	1
+Maroon	sky	Midnights	2
+Maroon	sobbing	Midnights	1
+Maroon	splashed	Midnights	3
+Maroon	standing	Midnights	1
+Maroon	telephones	Midnights	3
+Maroon	thеy	Midnights	1
+Maroon	time	Midnights	1
+Maroon	top	Midnights	1
+Maroon	track	Midnights	1
+Maroon	vinyl	Midnights	1
+Maroon	wake	Midnights	2
+Maroon	wine	Midnights	3
+Maroon	york	Midnights	2
+Mastermind	accidental	Midnights	3
+Mastermind	aligned	Midnights	1
+Mastermind	assess	Midnights	1
+Mastermind	body	Midnights	1
+Mastermind	born	Midnights	1
+Mastermind	care	Midnights	1
+Mastermind	cascaded	Midnights	2
+Mastermind	chain	Midnights	1
+Mastermind	checkmate	Midnights	1
+Mastermind	clockwork	Midnights	2
+Mastermind	cocktails	Midnights	1
+Mastermind	confess	Midnights	1
+Mastermind	countermoves	Midnights	1
+Mastermind	criminal	Midnights	1
+Mastermind	cryptic	Midnights	1
+Mastermind	design	Midnights	1
+Mastermind	dominoes	Midnights	2
+Mastermind	dеsign	Midnights	1
+Mastermind	effortless	Midnights	1
+Mastermind	entire	Midnights	1
+Mastermind	equation	Midnights	1
+Mastermind	fail	Midnights	2
+Mastermind	fates	Midnights	1
+Mastermind	flowing	Midnights	1
+Mastermind	free	Midnights	1
+Mastermind	fuse	Midnights	1
+Mastermind	game	Midnights	1
+Mastermind	gonna	Midnights	2
+Mastermind	groundwork	Midnights	3
+Mastermind	hand	Midnights	1
+Mastermind	kid	Midnights	1
+Mastermind	laid	Midnights	3
+Mastermind	line	Midnights	2
+Mastermind	liquor	Midnights	1
+Mastermind	lit	Midnights	1
+Mastermind	lose	Midnights	1
+Mastermind	love	Midnights	1
+Mastermind	lover's	Midnights	1
+Mastermind	machiavellian	Midnights	1
+Mastermind	mastermind	Midnights	6
+Mastermind	mine	Midnights	3
+Mastermind	night	Midnights	3
+Mastermind	pawn	Midnights	1
+Mastermind	plan	Midnights	2
+Mastermind	planets	Midnights	1
+Mastermind	play	Midnights	1
+Mastermind	reaction	Midnights	1
+Mastermind	sails	Midnights	1
+Mastermind	scene	Midnights	1
+Mastermind	scheming	Midnights	1
+Mastermind	sets	Midnights	1
+Mastermind	smile	Midnights	1
+Mastermind	smirk	Midnights	1
+Mastermind	stars	Midnights	1
+Mastermind	stop	Midnights	2
+Mastermind	strategy	Midnights	1
+Mastermind	swear	Midnights	1
+Mastermind	tale	Midnights	1
+Mastermind	time	Midnights	4
+Mastermind	told	Midnights	5
+Mastermind	touch	Midnights	1
+Mastermind	wide	Midnights	1
+Mastermind	wind	Midnights	1
+Mastermind	wisеst	Midnights	1
+Mastermind	women	Midnights	1
+Mastermind	yeah	Midnights	1
+ME!	awesome	Lover	2
+ME!	baby	Lover	13
+ME!	band	Lover	2
+ME!	bore	Lover	1
+ME!	called	Lover	1
+ME!	chicks	Lover	2
+ME!	colors	Lover	1
+ME!	company	Lover	1
+ME!	cool	Lover	2
+ME!	doll	Lover	2
+ME!	eeh	Lover	12
+ME!	fight	Lover	1
+ME!	follow	Lover	1
+ME!	fun	Lover	8
+ME!	girl	Lover	3
+ME!	gonna	Lover	5
+ME!	guy	Lover	1
+ME!	guys	Lover	2
+ME!	handful	Lover	1
+ME!	jump	Lover	1
+ME!	kinda	Lover	1
+ME!	ladies	Lover	1
+ME!	lame	Lover	2
+ME!	leave	Lover	1
+ME!	livin	Lover	1
+ME!	lotta	Lover	4
+ME!	love	Lover	4
+ME!	lover	Lover	2
+ME!	nobody's	Lover	4
+ME!	ooh	Lover	32
+ME!	phone	Lover	1
+ME!	promise	Lover	9
+ME!	psycho	Lover	1
+ME!	rain	Lover	1
+ME!	rainbow	Lover	1
+ME!	ran	Lover	1
+ME!	spell	Lover	2
+ME!	strike	Lover	2
+ME!	summer	Lover	1
+ME!	team	Lover	3
+ME!	tend	Lover	1
+ME!	trouble's	Lover	1
+ME!	uh	Lover	1
+ME!	walk	Lover	1
+ME!	wanna	Lover	1
+ME!	winter	Lover	1
+ME!	ya	Lover	1
+ME!	yeah	Lover	3
+Midnight Rain	boy	Midnights	1
+Midnight Rain	bride	Midnights	4
+Midnight Rain	broke	Midnights	1
+Midnight Rain	cages	Midnights	1
+Midnight Rain	candy	Midnights	1
+Midnight Rain	changed	Midnights	4
+Midnight Rain	chasing	Midnights	4
+Midnight Rain	comfortable	Midnights	4
+Midnight Rain	day	Midnights	1
+Midnight Rain	deep	Midnights	1
+Midnight Rain	fame	Midnights	4
+Midnight Rain	family	Midnights	1
+Midnight Rain	fences	Midnights	1
+Midnight Rain	guess	Midnights	2
+Midnight Rain	haunted	Midnights	2
+Midnight Rain	heart	Midnights	1
+Midnight Rain	holiday	Midnights	1
+Midnight Rain	jumping	Midnights	1
+Midnight Rain	life	Midnights	1
+Midnight Rain	love	Midnights	2
+Midnight Rain	midnight	Midnights	6
+Midnight Rain	midnights	Midnights	3
+Midnight Rain	montage	Midnights	1
+Midnight Rain	motion	Midnights	1
+Midnight Rain	nice	Midnights	1
+Midnight Rain	ocean	Midnights	1
+Midnight Rain	pageant	Midnights	1
+Midnight Rain	pain	Midnights	4
+Midnight Rain	paradise	Midnights	1
+Midnight Rain	peered	Midnights	1
+Midnight Rain	peppermint	Midnights	1
+Midnight Rain	perfect	Midnights	1
+Midnight Rain	picture	Midnights	1
+Midnight Rain	portal	Midnights	1
+Midnight Rain	postcard	Midnights	1
+Midnight Rain	potion	Midnights	1
+Midnight Rain	pretenders	Midnights	1
+Midnight Rain	queens	Midnights	1
+Midnight Rain	rain	Midnights	4
+Midnight Rain	shiny	Midnights	1
+Midnight Rain	slow	Midnights	1
+Midnight Rain	stayed	Midnights	4
+Midnight Rain	sunshine	Midnights	2
+Midnight Rain	time	Midnights	1
+Midnight Rain	town	Midnights	1
+Midnight Rain	travel	Midnights	1
+Midnight Rain	tv	Midnights	1
+Midnight Rain	unravel	Midnights	1
+Midnight Rain	wasteland	Midnights	1
+Midnight Rain	window	Midnights	1
+​mirrorball	beautiful	folklore	1
+​mirrorball	believer	folklore	1
+​mirrorball	break	folklore	1
+​mirrorball	burned	folklore	1
+​mirrorball	called	folklore	1
+​mirrorball	change	folklore	1
+​mirrorball	circus	folklore	1
+​mirrorball	clowns	folklore	1
+​mirrorball	dear	folklore	2
+​mirrorball	disco	folklore	1
+​mirrorball	drunk	folklore	1
+​mirrorball	edges	folklore	1
+​mirrorball	fit	folklore	1
+​mirrorball	floor	folklore	1
+​mirrorball	glisten	folklore	1
+​mirrorball	heels	folklore	4
+​mirrorball	home	folklore	1
+​mirrorball	horses	folklore	1
+​mirrorball	hush	folklore	4
+​mirrorball	laughing	folklore	1
+​mirrorball	love	folklore	4
+​mirrorball	masquerade	folklore	1
+​mirrorball	million	folklore	1
+​mirrorball	mirrorball	folklore	4
+​mirrorball	natural	folklore	1
+​mirrorball	pieces	folklore	1
+​mirrorball	regulars	folklore	1
+​mirrorball	revelers	folklore	1
+​mirrorball	rodeo	folklore	1
+​mirrorball	shattered	folklore	1
+​mirrorball	shimmering	folklore	1
+​mirrorball	shining	folklore	4
+​mirrorball	spinning	folklore	4
+​mirrorball	tallest	folklore	4
+​mirrorball	tightrope	folklore	1
+​mirrorball	tiptoes	folklore	4
+​mirrorball	tonight	folklore	2
+​mirrorball	trapeze	folklore	1
+​mirrorball	version	folklore	2
+​mirrorball	watch	folklore	1
+Miss Americana & The Heartbreak Prince	16	Lover	1
+Miss Americana & The Heartbreak Prince	adore	Lover	1
+Miss Americana & The Heartbreak Prince	ah	Lover	2
+Miss Americana & The Heartbreak Prince	american	Lover	2
+Miss Americana & The Heartbreak Prince	americana	Lover	3
+Miss Americana & The Heartbreak Prince	bad	Lover	11
+Miss Americana & The Heartbreak Prince	band	Lover	1
+Miss Americana & The Heartbreak Prince	battered	Lover	1
+Miss Americana & The Heartbreak Prince	blue	Lover	4
+Miss Americana & The Heartbreak Prince	boys	Lover	2
+Miss Americana & The Heartbreak Prince	bruising	Lover	1
+Miss Americana & The Heartbreak Prince	burning	Lover	1
+Miss Americana & The Heartbreak Prince	cameras	Lover	2
+Miss Americana & The Heartbreak Prince	care	Lover	1
+Miss Americana & The Heartbreak Prince	catch	Lover	2
+Miss Americana & The Heartbreak Prince	coming	Lover	2
+Miss Americana & The Heartbreak Prince	counted	Lover	4
+Miss Americana & The Heartbreak Prince	crazier	Lover	1
+Miss Americana & The Heartbreak Prince	cries	Lover	1
+Miss Americana & The Heartbreak Prince	damsels	Lover	1
+Miss Americana & The Heartbreak Prince	darling	Lover	1
+Miss Americana & The Heartbreak Prince	days	Lover	2
+Miss Americana & The Heartbreak Prince	depressed	Lover	1
+Miss Americana & The Heartbreak Prince	dice	Lover	2
+Miss Americana & The Heartbreak Prince	dress	Lover	1
+Miss Americana & The Heartbreak Prince	faded	Lover	1
+Miss Americana & The Heartbreak Prince	fake	Lover	2
+Miss Americana & The Heartbreak Prince	feeling	Lover	2
+Miss Americana & The Heartbreak Prince	fight	Lover	6
+Miss Americana & The Heartbreak Prince	film	Lover	1
+Miss Americana & The Heartbreak Prince	fives	Lover	1
+Miss Americana & The Heartbreak Prince	games	Lover	2
+Miss Americana & The Heartbreak Prince	girl	Lover	5
+Miss Americana & The Heartbreak Prince	glory	Lover	1
+Miss Americana & The Heartbreak Prince	gonna	Lover	6
+Miss Americana & The Heartbreak Prince	guys	Lover	1
+Miss Americana & The Heartbreak Prince	hallway	Lover	4
+Miss Americana & The Heartbreak Prince	head	Lover	1
+Miss Americana & The Heartbreak Prince	heartbreak	Lover	3
+Miss Americana & The Heartbreak Prince	helpless	Lover	1
+Miss Americana & The Heartbreak Prince	home	Lover	3
+Miss Americana & The Heartbreak Prince	homecoming	Lover	1
+Miss Americana & The Heartbreak Prince	hopeless	Lover	1
+Miss Americana & The Heartbreak Prince	hung	Lover	1
+Miss Americana & The Heartbreak Prince	leave	Lover	1
+Miss Americana & The Heartbreak Prince	life	Lover	1
+Miss Americana & The Heartbreak Prince	lights	Lover	1
+Miss Americana & The Heartbreak Prince	losing	Lover	1
+Miss Americana & The Heartbreak Prince	lost	Lover	2
+Miss Americana & The Heartbreak Prince	marching	Lover	1
+Miss Americana & The Heartbreak Prince	miles	Lover	2
+Miss Americana & The Heartbreak Prince	miss	Lover	3
+Miss Americana & The Heartbreak Prince	muffled	Lover	1
+Miss Americana & The Heartbreak Prince	nobody's	Lover	4
+Miss Americana & The Heartbreak Prince	pageant	Lover	1
+Miss Americana & The Heartbreak Prince	paint	Lover	4
+Miss Americana & The Heartbreak Prince	play	Lover	2
+Miss Americana & The Heartbreak Prince	playing	Lover	1
+Miss Americana & The Heartbreak Prince	prince	Lover	3
+Miss Americana & The Heartbreak Prince	prizes	Lover	2
+Miss Americana & The Heartbreak Prince	prom	Lover	1
+Miss Americana & The Heartbreak Prince	queens	Lover	1
+Miss Americana & The Heartbreak Prince	ran	Lover	1
+Miss Americana & The Heartbreak Prince	ripped	Lover	1
+Miss Americana & The Heartbreak Prince	rolling	Lover	2
+Miss Americana & The Heartbreak Prince	rose	Lover	1
+Miss Americana & The Heartbreak Prince	run	Lover	3
+Miss Americana & The Heartbreak Prince	running	Lover	1
+Miss Americana & The Heartbreak Prince	sad	Lover	3
+Miss Americana & The Heartbreak Prince	scared	Lover	1
+Miss Americana & The Heartbreak Prince	scene	Lover	1
+Miss Americana & The Heartbreak Prince	school	Lover	2
+Miss Americana & The Heartbreak Prince	scoreboard	Lover	1
+Miss Americana & The Heartbreak Prince	smile	Lover	1
+Miss Americana & The Heartbreak Prince	someday	Lover	2
+Miss Americana & The Heartbreak Prince	stories	Lover	1
+Miss Americana & The Heartbreak Prince	storm	Lover	1
+Miss Americana & The Heartbreak Prince	stupid	Lover	4
+Miss Americana & The Heartbreak Prince	team	Lover	1
+Miss Americana & The Heartbreak Prince	thorns	Lover	1
+Miss Americana & The Heartbreak Prince	time	Lover	1
+Miss Americana & The Heartbreak Prince	town	Lover	3
+Miss Americana & The Heartbreak Prince	voted	Lover	3
+Miss Americana & The Heartbreak Prince	wanna	Lover	4
+Miss Americana & The Heartbreak Prince	waving	Lover	1
+Miss Americana & The Heartbreak Prince	whisper	Lover	4
+Miss Americana & The Heartbreak Prince	win	Lover	8
+Miss Americana & The Heartbreak Prince	wise	Lover	1
+Miss Americana & The Heartbreak Prince	world	Lover	4
+​my tears ricochet	aim	folklore	1
+​my tears ricochet	ashes	folklore	1
+​my tears ricochet	babe	folklore	1
+​my tears ricochet	battleships	folklore	1
+​my tears ricochet	beneath	folklore	1
+​my tears ricochet	blame	folklore	1
+​my tears ricochet	blood	folklore	1
+​my tears ricochet	bones	folklore	1
+​my tears ricochet	brave	folklore	1
+​my tears ricochet	bury	folklore	1
+​my tears ricochet	crossing	folklore	1
+​my tears ricochet	cursing	folklore	4
+​my tears ricochet	day	folklore	2
+​my tears ricochet	dead	folklore	2
+​my tears ricochet	deserve	folklore	1
+​my tears ricochet	diamond	folklore	1
+​my tears ricochet	drunk	folklore	1
+​my tears ricochet	dying	folklore	1
+​my tears ricochet	fears	folklore	1
+​my tears ricochet	fight	folklore	1
+​my tears ricochet	fire	folklore	1
+​my tears ricochet	flying	folklore	1
+​my tears ricochet	gather	folklore	2
+​my tears ricochet	ghostly	folklore	1
+​my tears ricochet	grace	folklore	3
+​my tears ricochet	haunt	folklore	1
+​my tears ricochet	hear	folklore	1
+​my tears ricochet	heart	folklore	1
+​my tears ricochet	hell	folklore	1
+​my tears ricochet	hero	folklore	1
+​my tears ricochet	home	folklore	1
+​my tears ricochet	jewels	folklore	1
+​my tears ricochet	kill	folklore	1
+​my tears ricochet	killed	folklore	1
+​my tears ricochet	knowing	folklore	1
+​my tears ricochet	line	folklore	1
+​my tears ricochet	loved	folklore	2
+​my tears ricochet	lullabies	folklore	1
+​my tears ricochet	miss	folklore	1
+​my tears ricochet	night	folklore	1
+​my tears ricochet	pain	folklore	1
+​my tears ricochet	ricochet	folklore	3
+​my tears ricochet	ring	folklore	1
+​my tears ricochet	saving	folklore	1
+​my tears ricochet	scene	folklore	1
+​my tears ricochet	screaming	folklore	1
+​my tears ricochet	sink	folklore	1
+​my tears ricochet	sky	folklore	1
+​my tears ricochet	sleep	folklore	1
+​my tears ricochet	stayed	folklore	4
+​my tears ricochet	stolen	folklore	1
+​my tears ricochet	stones	folklore	1
+​my tears ricochet	sunlit	folklore	1
+​my tears ricochet	swear	folklore	1
+​my tears ricochet	talk	folklore	1
+​my tears ricochet	tears	folklore	3
+​my tears ricochet	throw	folklore	1
+​my tears ricochet	til	folklore	1
+​my tears ricochet	tossing	folklore	1
+​my tears ricochet	wake	folklore	2
+​my tears ricochet	waves	folklore	1
+​my tears ricochet	wear	folklore	1
+​my tears ricochet	weepin	folklore	1
+​my tears ricochet	wishing	folklore	4
+​my tears ricochet	worst	folklore	2
+New Year’s Day	babe	reputation	1
+New Year’s Day	bottles	reputation	3
+New Year’s Day	candle	reputation	2
+New Year’s Day	carrying	reputation	2
+New Year’s Day	cleaning	reputation	3
+New Year’s Day	crawling	reputation	1
+New Year’s Day	day	reputation	3
+New Year’s Day	don’t	reputation	1
+New Year’s Day	floor	reputation	4
+New Year’s Day	forevermore	reputation	1
+New Year’s Day	girls	reputation	2
+New Year’s Day	glitter	reputation	2
+New Year’s Day	gonna	reputation	1
+New Year’s Day	hand	reputation	1
+New Year’s Day	hard	reputation	2
+New Year’s Day	hardwood	reputation	2
+New Year’s Day	hold	reputation	20
+New Year’s Day	home	reputation	1
+New Year’s Day	i’ll	reputation	1
+New Year’s Day	it’s	reputation	2
+New Year’s Day	laugh	reputation	4
+New Year’s Day	lobby	reputation	2
+New Year’s Day	lost	reputation	1
+New Year’s Day	memories	reputation	9
+New Year’s Day	midnights	reputation	3
+New Year’s Day	mistakes	reputation	2
+New Year’s Day	night	reputation	1
+New Year’s Day	page	reputation	3
+New Year’s Day	party	reputation	2
+New Year’s Day	polaroids	reputation	2
+New Year’s Day	read	reputation	3
+New Year’s Day	recognize	reputation	4
+New Year’s Day	road	reputation	1
+New Year’s Day	scared	reputation	1
+New Year’s Day	shoes	reputation	2
+New Year’s Day	squeeze	reputation	1
+New Year’s Day	stay	reputation	3
+New Year’s Day	stranger	reputation	4
+New Year’s Day	strike	reputation	1
+New Year’s Day	taxi	reputation	1
+New Year’s Day	there’s	reputation	1
+New Year’s Day	times	reputation	1
+New Year’s Day	toast	reputation	1
+New Year’s Day	town	reputation	1
+New Year’s Day	wax	reputation	2
+New Year’s Day	wrong	reputation	2
+New Year’s Day	year's	reputation	3
+New Year’s Day	you’re	reputation	1
+Paper Rings	1	Lover	4
+Paper Rings	2	Lover	4
+Paper Rings	3	Lover	2
+Paper Rings	4	Lover	2
+Paper Rings	accidents	Lover	4
+Paper Rings	ah	Lover	5
+Paper Rings	alright	Lover	2
+Paper Rings	arms	Lover	2
+Paper Rings	ayy	Lover	2
+Paper Rings	baby	Lover	2
+Paper Rings	bed	Lover	1
+Paper Rings	blue	Lover	1
+Paper Rings	books	Lover	1
+Paper Rings	boy	Lover	2
+Paper Rings	breathe	Lover	1
+Paper Rings	brother's	Lover	1
+Paper Rings	cat	Lover	1
+Paper Rings	cold	Lover	1
+Paper Rings	color	Lover	1
+Paper Rings	complications	Lover	2
+Paper Rings	darling	Lover	7
+Paper Rings	dirty	Lover	2
+Paper Rings	dreams	Lover	4
+Paper Rings	dreary	Lover	2
+Paper Rings	drive	Lover	2
+Paper Rings	exes	Lover	1
+Paper Rings	fights	Lover	1
+Paper Rings	flaws	Lover	1
+Paper Rings	frames	Lover	4
+Paper Rings	friends	Lover	5
+Paper Rings	gonna	Lover	2
+Paper Rings	hate	Lover	4
+Paper Rings	home	Lover	1
+Paper Rings	honey	Lover	1
+Paper Rings	huh	Lover	7
+Paper Rings	icy	Lover	1
+Paper Rings	internet	Lover	1
+Paper Rings	jumped	Lover	1
+Paper Rings	kiss	Lover	4
+Paper Rings	life	Lover	2
+Paper Rings	makes	Lover	1
+Paper Rings	marry	Lover	4
+Paper Rings	met	Lover	1
+Paper Rings	mondays	Lover	2
+Paper Rings	month	Lover	1
+Paper Rings	moon	Lover	1
+Paper Rings	mouse	Lover	1
+Paper Rings	night	Lover	4
+Paper Rings	outdoor	Lover	1
+Paper Rings	painted	Lover	1
+Paper Rings	paper	Lover	8
+Paper Rings	picture	Lover	4
+Paper Rings	pool	Lover	1
+Paper Rings	read	Lover	1
+Paper Rings	rings	Lover	8
+Paper Rings	shiny	Lover	4
+Paper Rings	shoulder	Lover	1
+Paper Rings	stalk	Lover	1
+Paper Rings	standing	Lover	1
+Paper Rings	street	Lover	1
+Paper Rings	takes	Lover	1
+Paper Rings	tall	Lover	1
+Paper Rings	times	Lover	2
+Paper Rings	uh	Lover	9
+Paper Rings	waited	Lover	2
+Paper Rings	wake	Lover	1
+Paper Rings	wall	Lover	1
+Paper Rings	watch	Lover	1
+Paper Rings	wine	Lover	1
+Paper Rings	winter	Lover	1
+Paper Rings	wrap	Lover	2
+​peace	age	folklore	1
+​peace	blues	folklore	2
+​peace	brittle	folklore	2
+​peace	brother	folklore	2
+​peace	cascade	folklore	2
+​peace	child	folklore	1
+​peace	chose	folklore	1
+​peace	clowns	folklore	1
+​peace	coming	folklore	1
+​peace	convictions	folklore	1
+​peace	corner	folklore	1
+​peace	courage	folklore	1
+​peace	danger	folklore	1
+​peace	darlin	folklore	1
+​peace	details	folklore	2
+​peace	devil's	folklore	2
+​peace	die	folklore	2
+​peace	dreamscapes	folklore	1
+​peace	east	folklore	1
+​peace	family	folklore	1
+​peace	fences	folklore	1
+​peace	fire	folklore	2
+​peace	friend	folklore	2
+​peace	friends	folklore	1
+​peace	gonna	folklore	1
+​peace	heart	folklore	2
+​peace	honor	folklore	1
+​peace	integrity	folklore	1
+​peace	lives	folklore	1
+​peace	love's	folklore	2
+​peace	makes	folklore	1
+​peace	ocean	folklore	2
+​peace	paint	folklore	1
+​peace	peace	folklore	5
+​peace	people	folklore	3
+​peace	rain	folklore	1
+​peace	robbers	folklore	1
+​peace	secret	folklore	2
+​peace	shit	folklore	1
+​peace	silence	folklore	1
+​peace	sit	folklore	1
+​peace	standin	folklore	1
+​peace	suddenly	folklore	1
+​peace	summer	folklore	1
+​peace	sunshine	folklore	1
+​peace	swing	folklore	1
+​peace	talk	folklore	1
+​peace	trenches	folklore	1
+​peace	understand	folklore	1
+​peace	wall	folklore	1
+​peace	warm	folklore	2
+​peace	wasting	folklore	1
+​peace	wave	folklore	2
+​peace	west	folklore	1
+​peace	wild	folklore	1
+Question...?	bad	Midnights	1
+Question...?	boy	Midnights	1
+Question...?	choices	Midnights	1
+Question...?	circumstances	Midnights	1
+Question...?	city	Midnights	1
+Question...?	clappin	Midnights	3
+Question...?	color	Midnights	1
+Question...?	conversation	Midnights	1
+Question...?	crowded	Midnights	4
+Question...?	dickhead	Midnights	1
+Question...?	drink	Midnights	1
+Question...?	everything's	Midnights	1
+Question...?	explanations	Midnights	1
+Question...?	eyes	Midnights	1
+Question...?	feel	Midnights	1
+Question...?	fifteen	Midnights	3
+Question...?	fight	Midnights	4
+Question...?	friends	Midnights	3
+Question...?	fuckin	Midnights	2
+Question...?	fun	Midnights	4
+Question...?	gender	Midnights	1
+Question...?	girl	Midnights	1
+Question...?	goin	Midnights	1
+Question...?	gray	Midnights	1
+Question...?	guy	Midnights	1
+Question...?	half	Midnights	1
+Question...?	heard	Midnights	1
+Question...?	house	Midnights	3
+Question...?	kiss	Midnights	3
+Question...?	leave	Midnights	2
+Question...?	lеave	Midnights	1
+Question...?	makin	Midnights	4
+Question...?	meteor	Midnights	1
+Question...?	middle	Midnights	3
+Question...?	mind	Midnights	1
+Question...?	miscommunications	Midnights	1
+Question...?	moon	Midnights	1
+Question...?	nice	Midnights	1
+Question...?	night	Midnights	4
+Question...?	nights	Midnights	1
+Question...?	painted	Midnights	1
+Question...?	politics	Midnights	1
+Question...?	question	Midnights	7
+Question...?	realize	Midnights	1
+Question...?	remember	Midnights	2
+Question...?	roles	Midnights	1
+Question...?	sad	Midnights	1
+Question...?	searched	Midnights	1
+Question...?	single	Midnights	3
+Question...?	situations	Midnights	1
+Question...?	somethin	Midnights	2
+Question...?	strike	Midnights	1
+Question...?	suitable	Midnights	1
+Question...?	surprise	Midnights	1
+Question...?	swear	Midnights	1
+Question...?	swept	Midnights	1
+Question...?	thеy	Midnights	1
+Question...?	time	Midnights	1
+Question...?	tonight	Midnights	1
+Question...?	touch	Midnights	3
+Question...?	wrong	Midnights	1
+Red	answer	Red	1
+Red	autumn	Red	1
+Red	blue	Red	3
+Red	bright	Red	1
+Red	burning	Red	5
+Red	change	Red	1
+Red	colors	Red	1
+Red	crossword	Red	1
+Red	dark	Red	3
+Red	dead	Red	2
+Red	driving	Red	2
+Red	easy	Red	1
+Red	echoes	Red	1
+Red	fall	Red	1
+Red	faster	Red	1
+Red	favorite	Red	1
+Red	fighting	Red	1
+Red	flashbacks	Red	1
+Red	flying	Red	1
+Red	forgetting	Red	3
+Red	found	Red	1
+Red	free	Red	1
+Red	front	Red	1
+Red	gotta	Red	1
+Red	gray	Red	3
+Red	head	Red	2
+Red	impossible	Red	1
+Red	knowing	Red	1
+Red	lose	Red	1
+Red	losing	Red	3
+Red	love	Red	2
+Red	loving	Red	6
+Red	maserati	Red	2
+Red	memorizing	Red	1
+Red	met	Red	3
+Red	mind	Red	1
+Red	missing	Red	3
+Red	moving	Red	1
+Red	passionate	Red	1
+Red	realizing	Red	2
+Red	red	Red	43
+Red	regretting	Red	1
+Red	remembering	Red	1
+Red	round	Red	1
+Red	sin	Red	1
+Red	solve	Red	1
+Red	song	Red	1
+Red	spinning	Red	1
+Red	street	Red	2
+Red	strong	Red	1
+Red	suddenly	Red	1
+Red	time	Red	1
+Red	touching	Red	1
+Red	whoa	Red	2
+Red	wind	Red	1
+Red	wishing	Red	1
+Red	words	Red	1
+Red	yeah	Red	4
+Sad Beautiful Tragic	affair	Red	4
+Sad Beautiful Tragic	beautiful	Red	12
+Sad Beautiful Tragic	beds	Red	1
+Sad Beautiful Tragic	breakdown	Red	1
+Sad Beautiful Tragic	cities	Red	1
+Sad Beautiful Tragic	conversation	Red	1
+Sad Beautiful Tragic	darling	Red	1
+Sad Beautiful Tragic	deep	Red	1
+Sad Beautiful Tragic	demons	Red	1
+Sad Beautiful Tragic	distance	Red	1
+Sad Beautiful Tragic	dreams	Red	1
+Sad Beautiful Tragic	erasing	Red	1
+Sad Beautiful Tragic	fighting	Red	1
+Sad Beautiful Tragic	fix	Red	1
+Sad Beautiful Tragic	girls	Red	1
+Sad Beautiful Tragic	handwritten	Red	1
+Sad Beautiful Tragic	hang	Red	1
+Sad Beautiful Tragic	hopeful	Red	1
+Sad Beautiful Tragic	kiss	Red	1
+Sad Beautiful Tragic	late	Red	1
+Sad Beautiful Tragic	life	Red	1
+Sad Beautiful Tragic	listen	Red	1
+Sad Beautiful Tragic	locket	Red	1
+Sad Beautiful Tragic	lonely	Red	1
+Sad Beautiful Tragic	love	Red	9
+Sad Beautiful Tragic	magic	Red	5
+Sad Beautiful Tragic	meet	Red	1
+Sad Beautiful Tragic	note	Red	1
+Sad Beautiful Tragic	pocket	Red	1
+Sad Beautiful Tragic	runs	Red	1
+Sad Beautiful Tragic	sad	Red	5
+Sad Beautiful Tragic	silence	Red	1
+Sad Beautiful Tragic	stood	Red	1
+Sad Beautiful Tragic	sweet	Red	1
+Sad Beautiful Tragic	taking	Red	1
+Sad Beautiful Tragic	time	Red	2
+Sad Beautiful Tragic	timing	Red	1
+Sad Beautiful Tragic	tracks	Red	2
+Sad Beautiful Tragic	tragic	Red	6
+Sad Beautiful Tragic	train	Red	1
+Sad Beautiful Tragic	wait	Red	1
+Sad Beautiful Tragic	wake	Red	1
+Sad Beautiful Tragic	warm	Red	1
+Sad Beautiful Tragic	words	Red	1
+​seven	beautiful	folklore	1
+​seven	braids	folklore	1
+​seven	can’t	folklore	1
+​seven	civility	folklore	1
+​seven	closet	folklore	1
+​seven	creek	folklore	1
+​seven	cross	folklore	2
+​seven	cry	folklore	1
+​seven	dad	folklore	1
+​seven	dolls	folklore	1
+​seven	feet	folklore	1
+​seven	ferociously	folklore	1
+​seven	folk	folklore	3
+​seven	forever	folklore	1
+​seven	haunted	folklore	1
+​seven	heart	folklore	2
+​seven	hide	folklore	1
+​seven	hit	folklore	1
+​seven	house	folklore	1
+​seven	india	folklore	1
+​seven	jump	folklore	1
+​seven	lasts	folklore	2
+​seven	learned	folklore	1
+​seven	live	folklore	1
+​seven	love	folklore	6
+​seven	mad	folklore	1
+​seven	meaning	folklore	1
+​seven	moon	folklore	1
+​seven	move	folklore	1
+​seven	pack	folklore	1
+​seven	passed	folklore	3
+​seven	pattern	folklore	1
+​seven	peak	folklore	1
+​seven	pennsylvania	folklore	1
+​seven	picture	folklore	2
+​seven	pirates	folklore	1
+​seven	recall	folklore	2
+​seven	saturn	folklore	1
+​seven	scared	folklore	1
+​seven	scream	folklore	1
+​seven	sky	folklore	1
+​seven	song	folklore	1
+​seven	songs	folklore	2
+​seven	summer	folklore	2
+​seven	sweater	folklore	1
+​seven	sweet	folklore	2
+​seven	swing	folklore	1
+​seven	tea	folklore	2
+​seven	time	folklore	1
+​seven	trees	folklore	1
+​seven	weeds	folklore	1
+​seven	won’t	folklore	1
+Snow On the Beach	abusive	Midnights	1
+Snow On the Beach	afraid	Midnights	1
+Snow On the Beach	ago	Midnights	1
+Snow On the Beach	ah	Midnights	3
+Snow On the Beach	aurora	Midnights	1
+Snow On the Beach	awful	Midnights	1
+Snow On the Beach	beach	Midnights	16
+Snow On the Beach	beautiful	Midnights	3
+Snow On the Beach	blurring	Midnights	1
+Snow On the Beach	borealis	Midnights	1
+Snow On the Beach	comin	Midnights	20
+Snow On the Beach	contest	Midnights	1
+Snow On the Beach	could've	Midnights	1
+Snow On the Beach	dare	Midnights	1
+Snow On the Beach	dishonest	Midnights	1
+Snow On the Beach	dream	Midnights	5
+Snow On the Beach	emotionally	Midnights	1
+Snow On the Beach	eyes	Midnights	1
+Snow On the Beach	fake	Midnights	1
+Snow On the Beach	falling	Midnights	1
+Snow On the Beach	feels	Midnights	4
+Snow On the Beach	fine	Midnights	1
+Snow On the Beach	flecks	Midnights	1
+Snow On the Beach	flight	Midnights	1
+Snow On the Beach	flying	Midnights	6
+Snow On the Beach	fuckin	Midnights	3
+Snow On the Beach	green	Midnights	1
+Snow On the Beach	hide	Midnights	1
+Snow On the Beach	impossible	Midnights	3
+Snow On the Beach	janet	Midnights	1
+Snow On the Beach	jinx	Midnights	1
+Snow On the Beach	life	Midnights	1
+Snow On the Beach	lights	Midnights	1
+Snow On the Beach	lit	Midnights	1
+Snow On the Beach	moons	Midnights	1
+Snow On the Beach	night	Midnights	1
+Snow On the Beach	passing	Midnights	1
+Snow On the Beach	periphery	Midnights	1
+Snow On the Beach	planet	Midnights	1
+Snow On the Beach	pocketful	Midnights	3
+Snow On the Beach	real	Midnights	1
+Snow On the Beach	saucers	Midnights	1
+Snow On the Beach	scene	Midnights	1
+Snow On the Beach	screen	Midnights	1
+Snow On the Beach	searched	Midnights	1
+Snow On the Beach	smile	Midnights	1
+Snow On the Beach	snow	Midnights	19
+Snow On the Beach	sound	Midnights	4
+Snow On the Beach	speak	Midnights	1
+Snow On the Beach	stars	Midnights	3
+Snow On the Beach	stop	Midnights	1
+Snow On the Beach	til	Midnights	3
+Snow On the Beach	time	Midnights	1
+Snow On the Beach	tonight	Midnights	3
+Snow On the Beach	true	Midnights	1
+Snow On the Beach	unbeknownst	Midnights	1
+Snow On the Beach	unglued	Midnights	1
+Snow On the Beach	weird	Midnights	3
+Snow On the Beach	won	Midnights	1
+So It Goes...	baby	reputation	6
+So It Goes...	bad	reputation	6
+So It Goes...	bar	reputation	1
+So It Goes...	black	reputation	3
+So It Goes...	break	reputation	2
+So It Goes...	cage	reputation	1
+So It Goes...	caught	reputation	5
+So It Goes...	chill	reputation	1
+So It Goes...	counting	reputation	4
+So It Goes...	cut	reputation	1
+So It Goes...	dark	reputation	1
+So It Goes...	days	reputation	1
+So It Goes...	disappear	reputation	1
+So It Goes...	dressed	reputation	3
+So It Goes...	eyes	reputation	4
+So It Goes...	fall	reputation	4
+So It Goes...	feel	reputation	2
+So It Goes...	feelings	reputation	1
+So It Goes...	girl	reputation	3
+So It Goes...	gold	reputation	1
+So It Goes...	gray	reputation	1
+So It Goes...	heart	reputation	1
+So It Goes...	honestly	reputation	3
+So It Goes...	hostage	reputation	1
+So It Goes...	illusionist	reputation	1
+So It Goes...	jealous	reputation	1
+So It Goes...	lipstick	reputation	3
+So It Goes...	lose	reputation	3
+So It Goes...	magician	reputation	1
+So It Goes...	met	reputation	1
+So It Goes...	moment	reputation	3
+So It Goes...	necklace	reputation	1
+So It Goes...	pieces	reputation	5
+So It Goes...	scratches	reputation	3
+So It Goes...	simple	reputation	2
+So It Goes...	skip	reputation	1
+So It Goes...	skippin	reputation	2
+So It Goes...	trip	reputation	1
+So It Goes...	trippin	reputation	2
+So It Goes...	wall	reputation	1
+So It Goes...	wear	reputation	1
+Soon You’ll Get Better	ah	Lover	12
+Soon You’ll Get Better	bad	Lover	1
+Soon You’ll Get Better	bottles	Lover	1
+Soon You’ll Get Better	brighten	Lover	1
+Soon You’ll Get Better	buttons	Lover	1
+Soon You’ll Get Better	coat	Lover	1
+Soon You’ll Get Better	day	Lover	1
+Soon You’ll Get Better	deal	Lover	1
+Soon You’ll Get Better	delusion	Lover	1
+Soon You’ll Get Better	desperate	Lover	1
+Soon You’ll Get Better	doctor's	Lover	1
+Soon You’ll Get Better	faith	Lover	1
+Soon You’ll Get Better	hair	Lover	1
+Soon You’ll Get Better	hate	Lover	1
+Soon You’ll Get Better	holy	Lover	1
+Soon You’ll Get Better	hoping	Lover	1
+Soon You’ll Get Better	jesus	Lover	1
+Soon You’ll Get Better	kitchen	Lover	1
+Soon You’ll Get Better	lighting	Lover	1
+Soon You’ll Get Better	mirror	Lover	1
+Soon You’ll Get Better	neon	Lover	1
+Soon You’ll Get Better	nicer	Lover	1
+Soon You’ll Get Better	night	Lover	1
+Soon You’ll Get Better	normal	Lover	1
+Soon You’ll Get Better	nurses	Lover	1
+Soon You’ll Get Better	office	Lover	1
+Soon You’ll Get Better	ooh	Lover	12
+Soon You’ll Get Better	orange	Lover	1
+Soon You’ll Get Better	paint	Lover	1
+Soon You’ll Get Better	people	Lover	1
+Soon You’ll Get Better	pray	Lover	2
+Soon You’ll Get Better	pretend	Lover	1
+Soon You’ll Get Better	real	Lover	1
+Soon You’ll Get Better	scared	Lover	1
+Soon You’ll Get Better	sky	Lover	1
+Soon You’ll Get Better	supposed	Lover	2
+Soon You’ll Get Better	talk	Lover	1
+Soon You’ll Get Better	tangled	Lover	1
+Soon You’ll Get Better	time	Lover	1
+Starlight	17	Red	1
+Starlight	45	Red	1
+Starlight	blues	Red	1
+Starlight	boardwalk	Red	1
+Starlight	bobby	Red	1
+Starlight	change	Red	1
+Starlight	club	Red	1
+Starlight	crazy	Red	2
+Starlight	dancing	Red	9
+Starlight	dream	Red	5
+Starlight	dreams	Red	2
+Starlight	dressed	Red	4
+Starlight	duchess	Red	1
+Starlight	em	Red	1
+Starlight	forget	Red	4
+Starlight	impossible	Red	4
+Starlight	kids	Red	1
+Starlight	late	Red	1
+Starlight	life	Red	1
+Starlight	married	Red	1
+Starlight	marvelous	Red	4
+Starlight	met	Red	1
+Starlight	moved	Red	4
+Starlight	night	Red	6
+Starlight	nines	Red	4
+Starlight	ocean	Red	1
+Starlight	ooh	Red	6
+Starlight	party	Red	1
+Starlight	picked	Red	1
+Starlight	playing	Red	1
+Starlight	pretending	Red	1
+Starlight	prince	Red	1
+Starlight	remember	Red	1
+Starlight	rocks	Red	1
+Starlight	running	Red	1
+Starlight	singing	Red	1
+Starlight	skip	Red	1
+Starlight	snuck	Red	1
+Starlight	song	Red	1
+Starlight	spend	Red	1
+Starlight	starlight	Red	22
+Starlight	summer	Red	1
+Starlight	talking	Red	1
+Starlight	teach	Red	1
+Starlight	ten	Red	1
+Starlight	thinking	Red	1
+Starlight	tune	Red	4
+Starlight	walked	Red	1
+Starlight	wild	Red	2
+Starlight	window	Red	1
+Starlight	worrying	Red	1
+Starlight	yacht	Red	1
+State of Grace	achilles	Red	1
+State of Grace	age	Red	1
+State of Grace	armor	Red	1
+State of Grace	bleeds	Red	1
+State of Grace	blue	Red	1
+State of Grace	brave	Red	2
+State of Grace	broken	Red	2
+State of Grace	busy	Red	2
+State of Grace	cannonball	Red	1
+State of Grace	changing	Red	1
+State of Grace	clean	Red	1
+State of Grace	coming	Red	4
+State of Grace	don’t	Red	1
+State of Grace	eyes	Red	1
+State of Grace	fades	Red	1
+State of Grace	fall	Red	1
+State of Grace	falls	Red	1
+State of Grace	fast	Red	1
+State of Grace	fate	Red	1
+State of Grace	fight	Red	2
+State of Grace	fire	Red	1
+State of Grace	game	Red	2
+State of Grace	golden	Red	1
+State of Grace	grace	Red	2
+State of Grace	hands	Red	1
+State of Grace	hearts	Red	2
+State of Grace	heel	Red	1
+State of Grace	hurts	Red	1
+State of Grace	i’ll	Red	4
+State of Grace	learn	Red	2
+State of Grace	lights	Red	1
+State of Grace	live	Red	2
+State of Grace	lives	Red	1
+State of Grace	love	Red	5
+State of Grace	loved	Red	2
+State of Grace	minds	Red	1
+State of Grace	mosaic	Red	2
+State of Grace	pain	Red	2
+State of Grace	pierce	Red	1
+State of Grace	play	Red	2
+State of Grace	real	Red	1
+State of Grace	ruthless	Red	2
+State of Grace	saint	Red	2
+State of Grace	shades	Red	2
+State of Grace	signs	Red	1
+State of Grace	slates	Red	1
+State of Grace	streets	Red	1
+State of Grace	til	Red	1
+State of Grace	time	Red	1
+State of Grace	touch	Red	1
+State of Grace	traffic	Red	1
+State of Grace	twin	Red	1
+State of Grace	walking	Red	1
+State of Grace	wild	Red	2
+State of Grace	worthwhile	Red	2
+State of Grace	wrong	Red	2
+State of Grace	you’re	Red	1
+Stay Stay Stay	broke	Red	1
+Stay Stay Stay	carry	Red	1
+Stay Stay Stay	choice	Red	1
+Stay Stay Stay	dated	Red	1
+Stay Stay Stay	dramatic	Red	1
+Stay Stay Stay	dreams	Red	1
+Stay Stay Stay	expecting	Red	1
+Stay Stay Stay	fears	Red	1
+Stay Stay Stay	fight	Red	1
+Stay Stay Stay	football	Red	1
+Stay Stay Stay	fun	Red	1
+Stay Stay Stay	funny	Red	4
+Stay Stay Stay	gonna	Red	1
+Stay Stay Stay	groceries	Red	1
+Stay Stay Stay	ha	Red	3
+Stay Stay Stay	hang	Red	1
+Stay Stay Stay	hanging	Red	1
+Stay Stay Stay	helmet	Red	1
+Stay Stay Stay	hopes	Red	1
+Stay Stay Stay	indulgent	Red	1
+Stay Stay Stay	laughing	Red	1
+Stay Stay Stay	leave	Red	2
+Stay Stay Stay	life	Red	1
+Stay Stay Stay	love	Red	2
+Stay Stay Stay	loving	Red	5
+Stay Stay Stay	mad	Red	15
+Stay Stay Stay	memorize	Red	1
+Stay Stay Stay	morning	Red	1
+Stay Stay Stay	night	Red	1
+Stay Stay Stay	occurring	Red	1
+Stay Stay Stay	phone	Red	1
+Stay Stay Stay	pretty	Red	1
+Stay Stay Stay	read	Red	1
+Stay Stay Stay	stay	Red	31
+Stay Stay Stay	stayed	Red	1
+Stay Stay Stay	takers	Red	1
+Stay Stay Stay	talk	Red	2
+Stay Stay Stay	threw	Red	1
+Stay Stay Stay	time	Red	15
+Stay Stay Stay	times	Red	1
+Stay Stay Stay	unresolved	Red	1
+Stay Stay Stay	wearing	Red	1
+Sweet Nothing	admit	Midnights	1
+Sweet Nothing	causе	Midnights	1
+Sweet Nothing	comin	Midnights	5
+Sweet Nothing	deconstructors	Midnights	1
+Sweet Nothing	deep	Midnights	1
+Sweet Nothing	disruptors	Midnights	1
+Sweet Nothing	everyone's	Midnights	3
+Sweet Nothing	everyone’s	Midnights	1
+Sweet Nothing	evеryone's	Midnights	1
+Sweet Nothing	eye	Midnights	1
+Sweet Nothing	firefly	Midnights	1
+Sweet Nothing	forgot	Midnights	1
+Sweet Nothing	glad	Midnights	1
+Sweet Nothing	handing	Midnights	1
+Sweet Nothing	home	Midnights	5
+Sweet Nothing	hucksters	Midnights	1
+Sweet Nothing	hummin	Midnights	5
+Sweet Nothing	i’m	Midnights	1
+Sweet Nothing	implore	Midnights	1
+Sweet Nothing	industry	Midnights	1
+Sweet Nothing	inside	Midnights	1
+Sweet Nothing	july	Midnights	1
+Sweet Nothing	kitchen	Midnights	5
+Sweet Nothing	mind	Midnights	1
+Sweet Nothing	miss	Midnights	1
+Sweet Nothing	nothin	Midnights	4
+Sweet Nothing	nothings	Midnights	4
+Sweet Nothing	ooh	Midnights	5
+Sweet Nothing	pebble	Midnights	1
+Sweet Nothing	picked	Midnights	1
+Sweet Nothing	pocket	Midnights	1
+Sweet Nothing	poem	Midnights	1
+Sweet Nothing	push	Midnights	5
+Sweet Nothing	runnin	Midnights	4
+Sweet Nothing	shovin	Midnights	5
+Sweet Nothing	smooth	Midnights	1
+Sweet Nothing	soft	Midnights	1
+Sweet Nothing	somethin	Midnights	5
+Sweet Nothing	soul	Midnights	1
+Sweet Nothing	spy	Midnights	1
+Sweet Nothing	sweet	Midnights	7
+Sweet Nothing	talking	Midnights	1
+Sweet Nothing	they’re	Midnights	1
+Sweet Nothing	time	Midnights	1
+Sweet Nothing	tiny	Midnights	1
+Sweet Nothing	tired	Midnights	1
+Sweet Nothing	voices	Midnights	1
+Sweet Nothing	wicklow	Midnights	1
+Sweet Nothing	wrote	Midnights	1
+​the 1	adventures	folklore	1
+​the 1	alright	folklore	1
+​the 1	baby	folklore	1
+​the 1	bleed	folklore	1
+​the 1	bus	folklore	1
+​the 1	chosen	folklore	1
+​the 1	cool	folklore	1
+​the 1	could've	folklore	1
+​the 1	count	folklore	1
+​the 1	day	folklore	1
+​the 1	defense	folklore	3
+​the 1	digging	folklore	1
+​the 1	dream	folklore	1
+​the 1	family	folklore	1
+​the 1	films	folklore	1
+​the 1	flowing	folklore	1
+​the 1	fun	folklore	3
+​the 1	gonna	folklore	1
+​the 1	grave	folklore	1
+​the 1	ground	folklore	1
+​the 1	grow	folklore	1
+​the 1	guess	folklore	2
+​the 1	hit	folklore	2
+​the 1	home	folklore	1
+​the 1	internet	folklore	1
+​the 1	leaving	folklore	2
+​the 1	loves	folklore	1
+​the 1	matinée	folklore	1
+​the 1	meet	folklore	1
+​the 1	night	folklore	1
+​the 1	ooh	folklore	2
+​the 1	painted	folklore	1
+​the 1	pennies	folklore	2
+​the 1	persist	folklore	1
+​the 1	pool	folklore	2
+​the 1	resist	folklore	1
+​the 1	roaring	folklore	2
+​the 1	rosé	folklore	1
+​the 1	running	folklore	1
+​the 1	shit	folklore	2
+​the 1	should've	folklore	1
+​the 1	stop	folklore	1
+​the 1	sunday	folklore	1
+​the 1	sweet	folklore	1
+​the 1	temptation	folklore	1
+​the 1	time	folklore	3
+​the 1	tossing	folklore	2
+​the 1	true	folklore	2
+​the 1	twenties	folklore	2
+​the 1	waking	folklore	1
+​the 1	wishes	folklore	2
+​the 1	woman	folklore	1
+​the 1	would've	folklore	9
+The Archer	alright	Lover	1
+The Archer	archer	Lover	3
+The Archer	combat	Lover	4
+The Archer	cruelty	Lover	1
+The Archer	cut	Lover	1
+The Archer	dark	Lover	2
+The Archer	darling	Lover	3
+The Archer	die	Lover	1
+The Archer	easy	Lover	2
+The Archer	enemies	Lover	1
+The Archer	fire	Lover	1
+The Archer	friends	Lover	1
+The Archer	ghost	Lover	1
+The Archer	grew	Lover	1
+The Archer	hate	Lover	1
+The Archer	heroes	Lover	1
+The Archer	hold	Lover	3
+The Archer	horses	Lover	1
+The Archer	hundred	Lover	1
+The Archer	invisible	Lover	1
+The Archer	jump	Lover	1
+The Archer	king's	Lover	2
+The Archer	leave	Lover	3
+The Archer	movies	Lover	1
+The Archer	night	Lover	1
+The Archer	nose	Lover	1
+The Archer	pace	Lover	1
+The Archer	prey	Lover	3
+The Archer	ready	Lover	2
+The Archer	reflection	Lover	1
+The Archer	ride	Lover	1
+The Archer	screaming	Lover	1
+The Archer	search	Lover	1
+The Archer	smoke	Lover	1
+The Archer	speeches	Lover	1
+The Archer	spite	Lover	1
+The Archer	started	Lover	1
+The Archer	stay	Lover	8
+The Archer	thrown	Lover	1
+The Archer	train	Lover	1
+The Archer	wake	Lover	1
+The Archer	wins	Lover	1
+​the last great american dynasty	afternoon	folklore	1
+​the last great american dynasty	american	folklore	2
+​the last great american dynasty	bad	folklore	1
+​the last great american dynasty	ballet	folklore	1
+​the last great american dynasty	beach	folklore	1
+​the last great american dynasty	bets	folklore	1
+​the last great american dynasty	bill	folklore	1
+​the last great american dynasty	bitch	folklore	1
+​the last great american dynasty	blew	folklore	1
+​the last great american dynasty	bought	folklore	1
+​the last great american dynasty	boys	folklore	1
+​the last great american dynasty	called	folklore	1
+​the last great american dynasty	card	folklore	1
+​the last great american dynasty	champagne	folklore	1
+​the last great american dynasty	charming	folklore	1
+​the last great american dynasty	city	folklore	1
+​the last great american dynasty	class	folklore	1
+​the last great american dynasty	coast	folklore	1
+​the last great american dynasty	could've	folklore	3
+​the last great american dynasty	dalí	folklore	1
+​the last great american dynasty	divorcée	folklore	1
+​the last great american dynasty	doctor	folklore	1
+​the last great american dynasty	dog	folklore	1
+​the last great american dynasty	dyed	folklore	1
+​the last great american dynasty	dynasty	folklore	2
+​the last great american dynasty	fault	folklore	1
+​the last great american dynasty	feud	folklore	1
+​the last great american dynasty	fifty	folklore	1
+​the last great american dynasty	filled	folklore	1
+​the last great american dynasty	flew	folklore	1
+​the last great american dynasty	forever	folklore	1
+​the last great american dynasty	free	folklore	1
+​the last great american dynasty	friends	folklore	1
+​the last great american dynasty	game	folklore	1
+​the last great american dynasty	gauche	folklore	1
+​the last great american dynasty	green	folklore	1
+​the last great american dynasty	habits	folklore	1
+​the last great american dynasty	heart	folklore	1
+​the last great american dynasty	heir	folklore	1
+​the last great american dynasty	holiday	folklore	2
+​the last great american dynasty	home	folklore	1
+​the last great american dynasty	house	folklore	3
+​the last great american dynasty	island	folklore	1
+​the last great american dynasty	key	folklore	1
+​the last great american dynasty	lime	folklore	1
+​the last great american dynasty	losing	folklore	1
+​the last great american dynasty	loud	folklore	1
+​the last great american dynasty	loudest	folklore	1
+​the last great american dynasty	louis	folklore	1
+​the last great american dynasty	maddest	folklore	1
+​the last great american dynasty	madness	folklore	1
+​the last great american dynasty	marvelous	folklore	7
+​the last great american dynasty	middle	folklore	1
+​the last great american dynasty	midnight	folklore	1
+​the last great american dynasty	mind	folklore	1
+​the last great american dynasty	money	folklore	3
+​the last great american dynasty	names	folklore	1
+​the last great american dynasty	neighbor	folklore	1
+​the last great american dynasty	occasion	folklore	1
+​the last great american dynasty	oil	folklore	1
+​the last great american dynasty	pacing	folklore	1
+​the last great american dynasty	pack	folklore	1
+​the last great american dynasty	parties	folklore	1
+​the last great american dynasty	picked	folklore	1
+​the last great american dynasty	pool	folklore	1
+​the last great american dynasty	quietly	folklore	1
+​the last great american dynasty	rebekah	folklore	2
+​the last great american dynasty	rhode	folklore	1
+​the last great american dynasty	rocks	folklore	1
+​the last great american dynasty	rode	folklore	1
+​the last great american dynasty	ruining	folklore	5
+​the last great american dynasty	saltbox	folklore	1
+​the last great american dynasty	sat	folklore	1
+​the last great american dynasty	sea	folklore	1
+​the last great american dynasty	set	folklore	1
+​the last great american dynasty	settle	folklore	1
+​the last great american dynasty	shameless	folklore	1
+​the last great american dynasty	st	folklore	1
+​the last great american dynasty	standard	folklore	1
+​the last great american dynasty	staring	folklore	1
+​the last great american dynasty	stole	folklore	1
+​the last great american dynasty	sunny	folklore	1
+​the last great american dynasty	swam	folklore	1
+​the last great american dynasty	tasteful	folklore	1
+​the last great american dynasty	time	folklore	8
+​the last great american dynasty	told	folklore	1
+​the last great american dynasty	town	folklore	4
+​the last great american dynasty	train	folklore	1
+​the last great american dynasty	wedding	folklore	1
+​the last great american dynasty	woman	folklore	3
+​the last great american dynasty	women	folklore	1
+The Last Time	aching	Red	1
+The Last Time	anymore	Red	1
+The Last Time	apology	Red	1
+The Last Time	blink	Red	4
+The Last Time	break	Red	5
+The Last Time	breaking	Red	1
+The Last Time	disappear	Red	1
+The Last Time	door	Red	3
+The Last Time	eye	Red	8
+The Last Time	eyes	Red	3
+The Last Time	fast	Red	1
+The Last Time	feels	Red	1
+The Last Time	heart	Red	5
+The Last Time	hide	Red	1
+The Last Time	ho	Red	8
+The Last Time	home	Red	1
+The Last Time	hurt	Red	1
+The Last Time	i’m	Red	1
+The Last Time	imagine	Red	1
+The Last Time	lead	Red	1
+The Last Time	leave	Red	1
+The Last Time	list	Red	5
+The Last Time	mine	Red	1
+The Last Time	past	Red	1
+The Last Time	reasons	Red	1
+The Last Time	roads	Red	1
+The Last Time	run	Red	1
+The Last Time	time	Red	26
+The Last Time	times	Red	3
+The Last Time	top	Red	5
+The Last Time	watch	Red	1
+The Last Time	wear	Red	1
+The Last Time	wrong	Red	1
+The Lucky One	alive	Red	1
+The Lucky One	angel's	Red	1
+The Lucky One	black	Red	1
+The Lucky One	bought	Red	1
+The Lucky One	bunch	Red	1
+The Lucky One	camera	Red	1
+The Lucky One	cars	Red	1
+The Lucky One	chasing	Red	1
+The Lucky One	chose	Red	1
+The Lucky One	city	Red	1
+The Lucky One	confused	Red	1
+The Lucky One	cool	Red	1
+The Lucky One	diamonds	Red	1
+The Lucky One	dignity	Red	1
+The Lucky One	disappeared	Red	1
+The Lucky One	doesn’t	Red	1
+The Lucky One	don’t	Red	1
+The Lucky One	dream	Red	1
+The Lucky One	fame	Red	1
+The Lucky One	feel	Red	2
+The Lucky One	figured	Red	1
+The Lucky One	flashes	Red	1
+The Lucky One	fortune	Red	1
+The Lucky One	foyer	Red	1
+The Lucky One	front	Red	1
+The Lucky One	garden	Red	1
+The Lucky One	hell	Red	1
+The Lucky One	it’s	Red	1
+The Lucky One	land	Red	1
+The Lucky One	legend	Red	1
+The Lucky One	lights	Red	3
+The Lucky One	line	Red	1
+The Lucky One	lover	Red	1
+The Lucky One	loves	Red	2
+The Lucky One	lucky	Red	13
+The Lucky One	madison	Red	1
+The Lucky One	money	Red	1
+The Lucky One	news	Red	1
+The Lucky One	overnight	Red	1
+The Lucky One	page	Red	1
+The Lucky One	pretty	Red	2
+The Lucky One	queen	Red	1
+The Lucky One	riviera	Red	1
+The Lucky One	rose	Red	1
+The Lucky One	school	Red	1
+The Lucky One	secrets	Red	1
+The Lucky One	sixties	Red	1
+The Lucky One	sky	Red	1
+The Lucky One	splashed	Red	1
+The Lucky One	square	Red	1
+The Lucky One	they’ll	Red	7
+The Lucky One	time	Red	1
+The Lucky One	town	Red	1
+The Lucky One	understand	Red	1
+The Lucky One	views	Red	1
+The Lucky One	whoa	Red	1
+The Lucky One	yeah	Red	3
+The Lucky One	you’ll	Red	1
+The Lucky One	you’re	Red	14
+The Man	alpha	Lover	1
+The Man	bad	Lover	2
+The Man	baller	Lover	1
+The Man	believes	Lover	1
+The Man	bitch	Lover	1
+The Man	bitches	Lover	1
+The Man	boss	Lover	1
+The Man	brag	Lover	1
+The Man	coming	Lover	6
+The Man	commit	Lover	1
+The Man	complex	Lover	1
+The Man	conquest	Lover	1
+The Man	cool	Lover	1
+The Man	deserve	Lover	1
+The Man	dollars	Lover	2
+The Man	fast	Lover	5
+The Man	fearless	Lover	1
+The Man	field	Lover	1
+The Man	flashing	Lover	1
+The Man	found	Lover	1
+The Man	heads	Lover	1
+The Man	hey	Lover	1
+The Man	hustled	Lover	1
+The Man	i’d	Lover	4
+The Man	i’m	Lover	1
+The Man	ideas	Lover	1
+The Man	leader	Lover	1
+The Man	leo	Lover	1
+The Man	mad	Lover	2
+The Man	models	Lover	1
+The Man	moves	Lover	1
+The Man	paint	Lover	1
+The Man	play	Lover	1
+The Man	played	Lover	1
+The Man	players	Lover	1
+The Man	power	Lover	1
+The Man	question	Lover	1
+The Man	quicker	Lover	4
+The Man	raking	Lover	1
+The Man	rude	Lover	1
+The Man	running	Lover	4
+The Man	saint	Lover	1
+The Man	separated	Lover	1
+The Man	shake	Lover	1
+The Man	sick	Lover	8
+The Man	toast	Lover	1
+The Man	tropez	Lover	1
+The Man	type	Lover	1
+The Man	wearing	Lover	1
+The Man	wondering	Lover	4
+The Man	wouldn’t	Lover	1
+The Man	ya	Lover	1
+The Man	yeah	Lover	1
+The Moment I Knew	aligned	Red	1
+The Moment I Knew	baby	Red	1
+The Moment I Knew	bathroom	Red	1
+The Moment I Knew	birthday	Red	1
+The Moment I Knew	burst	Red	1
+The Moment I Knew	called	Red	1
+The Moment I Knew	christmas	Red	1
+The Moment I Knew	close	Red	1
+The Moment I Knew	comb	Red	1
+The Moment I Knew	door	Red	2
+The Moment I Knew	dress	Red	3
+The Moment I Knew	eye	Red	1
+The Moment I Knew	fall	Red	1
+The Moment I Knew	feeling	Red	1
+The Moment I Knew	follow	Red	1
+The Moment I Knew	friends	Red	1
+The Moment I Knew	front	Red	1
+The Moment I Knew	glisten	Red	1
+The Moment I Knew	hall	Red	1
+The Moment I Knew	happy	Red	3
+The Moment I Knew	hopelessly	Red	1
+The Moment I Knew	hours	Red	1
+The Moment I Knew	impress	Red	3
+The Moment I Knew	laughing	Red	2
+The Moment I Knew	lights	Red	1
+The Moment I Knew	lipstick	Red	3
+The Moment I Knew	means	Red	1
+The Moment I Knew	memory	Red	1
+The Moment I Knew	million	Red	1
+The Moment I Knew	missing	Red	4
+The Moment I Knew	moment	Red	4
+The Moment I Knew	motion	Red	3
+The Moment I Knew	party	Red	3
+The Moment I Knew	pass	Red	1
+The Moment I Knew	people	Red	1
+The Moment I Knew	red	Red	3
+The Moment I Knew	shining	Red	1
+The Moment I Knew	should've	Red	3
+The Moment I Knew	singing	Red	1
+The Moment I Knew	sinking	Red	1
+The Moment I Knew	slow	Red	3
+The Moment I Knew	smile	Red	1
+The Moment I Knew	standing	Red	4
+The Moment I Knew	stars	Red	1
+The Moment I Knew	starts	Red	1
+The Moment I Knew	streaming	Red	1
+The Moment I Knew	tears	Red	1
+The Moment I Knew	ticking	Red	1
+The Moment I Knew	time	Red	1
+The Moment I Knew	waiting	Red	1
+The Moment I Knew	walk	Red	1
+The Moment I Knew	wanna	Red	1
+The Moment I Knew	would've	Red	3
+The Moment I Knew	wrong	Red	1
+​this is me trying	adjusting	folklore	1
+​this is me trying	ahead	folklore	1
+​this is me trying	cages	folklore	1
+​this is me trying	car	folklore	1
+​this is me trying	care	folklore	1
+​this is me trying	classmates	folklore	1
+​this is me trying	could've	folklore	1
+​this is me trying	curve	folklore	2
+​this is me trying	days	folklore	1
+​this is me trying	doorway	folklore	1
+​this is me trying	fears	folklore	1
+​this is me trying	feel	folklore	1
+​this is me trying	fell	folklore	1
+​this is me trying	film	folklore	1
+​this is me trying	flashback	folklore	1
+​this is me trying	hard	folklore	3
+​this is me trying	heart	folklore	1
+​this is me trying	kill	folklore	1
+​this is me trying	lookout	folklore	1
+​this is me trying	lot	folklore	2
+​this is me trying	mad	folklore	1
+​this is me trying	mental	folklore	1
+​this is me trying	party	folklore	1
+​this is me trying	potential	folklore	1
+​this is me trying	pour	folklore	1
+​this is me trying	pouring	folklore	1
+​this is me trying	pulled	folklore	1
+​this is me trying	reel	folklore	1
+​this is me trying	regrets	folklore	2
+​this is me trying	road	folklore	1
+​this is me trying	rusting	folklore	1
+​this is me trying	screen	folklore	1
+​this is me trying	shiniest	folklore	1
+​this is me trying	shoot	folklore	1
+​this is me trying	sphere	folklore	1
+​this is me trying	stranger	folklore	1
+​this is me trying	time	folklore	1
+​this is me trying	told	folklore	1
+​this is me trying	town	folklore	1
+​this is me trying	wasted	folklore	1
+​this is me trying	wheels	folklore	1
+​this is me trying	whiskey	folklore	1
+​this is me trying	words	folklore	1
+​this is me trying	wound	folklore	1
+This Is Why We Can’t Have Nice Things	axe	reputation	1
+This Is Why We Can’t Have Nice Things	baby	reputation	4
+This Is Why We Can’t Have Nice Things	balcony	reputation	1
+This Is Why We Can’t Have Nice Things	bass	reputation	1
+This Is Why We Can’t Have Nice Things	beat	reputation	1
+This Is Why We Can’t Have Nice Things	break	reputation	4
+This Is Why We Can’t Have Nice Things	call	reputation	1
+This Is Why We Can’t Have Nice Things	care	reputation	2
+This Is Why We Can’t Have Nice Things	champagne	reputation	1
+This Is Why We Can’t Have Nice Things	chance	reputation	1
+This Is Why We Can’t Have Nice Things	chandelier	reputation	1
+This Is Why We Can’t Have Nice Things	darling	reputation	5
+This Is Why We Can’t Have Nice Things	drama	reputation	1
+This Is Why We Can’t Have Nice Things	feeling	reputation	1
+This Is Why We Can’t Have Nice Things	fence	reputation	1
+This Is Why We Can’t Have Nice Things	forgiveness	reputation	1
+This Is Why We Can’t Have Nice Things	friend	reputation	1
+This Is Why We Can’t Have Nice Things	friends	reputation	4
+This Is Why We Can’t Have Nice Things	gates	reputation	1
+This Is Why We Can’t Have Nice Things	gatsby	reputation	1
+This Is Why We Can’t Have Nice Things	giving	reputation	1
+This Is Why We Can’t Have Nice Things	haha	reputation	1
+This Is Why We Can’t Have Nice Things	hand	reputation	1
+This Is Why We Can’t Have Nice Things	head	reputation	1
+This Is Why We Can’t Have Nice Things	hear	reputation	4
+This Is Why We Can’t Have Nice Things	honey	reputation	4
+This Is Why We Can’t Have Nice Things	issue	reputation	1
+This Is Why We Can’t Have Nice Things	jump	reputation	1
+This Is Why We Can’t Have Nice Things	lies	reputation	1
+This Is Why We Can’t Have Nice Things	listen	reputation	1
+This Is Why We Can’t Have Nice Things	locking	reputation	1
+This Is Why We Can’t Have Nice Things	lost	reputation	1
+This Is Why We Can’t Have Nice Things	mama	reputation	1
+This Is Why We Can’t Have Nice Things	mended	reputation	1
+This Is Why We Can’t Have Nice Things	mind	reputation	1
+This Is Why We Can’t Have Nice Things	mm	reputation	2
+This Is Why We Can’t Have Nice Things	nice	reputation	14
+This Is Why We Can’t Have Nice Things	parade	reputation	1
+This Is Why We Can’t Have Nice Things	parties	reputation	1
+This Is Why We Can’t Have Nice Things	phone	reputation	1
+This Is Why We Can’t Have Nice Things	pool	reputation	1
+This Is Why We Can’t Have Nice Things	rain	reputation	1
+This Is Why We Can’t Have Nice Things	rattling	reputation	1
+This Is Why We Can’t Have Nice Things	reading	reputation	1
+This Is Why We Can’t Have Nice Things	real	reputation	2
+This Is Why We Can’t Have Nice Things	rules	reputation	1
+This Is Why We Can’t Have Nice Things	sea	reputation	1
+This Is Why We Can’t Have Nice Things	shady	reputation	1
+This Is Why We Can’t Have Nice Things	shaking	reputation	2
+This Is Why We Can’t Have Nice Things	stabbed	reputation	1
+This Is Why We Can’t Have Nice Things	straight	reputation	1
+This Is Why We Can’t Have Nice Things	swimming	reputation	1
+This Is Why We Can’t Have Nice Things	throwing	reputation	1
+This Is Why We Can’t Have Nice Things	toast	reputation	1
+This Is Why We Can’t Have Nice Things	trick	reputation	1
+This Is Why We Can’t Have Nice Things	twist	reputation	1
+This Is Why We Can’t Have Nice Things	uh	reputation	2
+This Is Why We Can’t Have Nice Things	why'd	reputation	1
+This Is Why We Can’t Have Nice Things	yeah	reputation	1
+Treacherous	bone	Red	1
+Treacherous	choice	Red	1
+Treacherous	close	Red	1
+Treacherous	dangerous	Red	1
+Treacherous	daydream	Red	1
+Treacherous	decide	Red	1
+Treacherous	drive	Red	2
+Treacherous	echoed	Red	2
+Treacherous	eye	Red	2
+Treacherous	flow	Red	1
+Treacherous	focus	Red	1
+Treacherous	follow	Red	12
+Treacherous	forever	Red	1
+Treacherous	friction	Red	1
+Treacherous	gravity's	Red	1
+Treacherous	hands	Red	1
+Treacherous	headlights	Red	2
+Treacherous	hear	Red	1
+Treacherous	home	Red	6
+Treacherous	hope	Red	2
+Treacherous	lips	Red	1
+Treacherous	mind	Red	2
+Treacherous	mine	Red	1
+Treacherous	night	Red	2
+Treacherous	path	Red	2
+Treacherous	quicksand	Red	1
+Treacherous	reckless	Red	2
+Treacherous	safe	Red	2
+Treacherous	shine	Red	2
+Treacherous	skin	Red	1
+Treacherous	sleepless	Red	2
+Treacherous	slope	Red	5
+Treacherous	smart	Red	1
+Treacherous	sound	Red	1
+Treacherous	stay	Red	1
+Treacherous	swept	Red	1
+Treacherous	til	Red	1
+Treacherous	touch	Red	1
+Treacherous	trained	Red	1
+Treacherous	treacherous	Red	7
+Treacherous	voice	Red	1
+Treacherous	walk	Red	1
+Treacherous	worth	Red	2
+Vigilante Shit	bad	Midnights	1
+Vigilante Shit	benz	Midnights	1
+Vigilante Shit	cat	Midnights	1
+Vigilante Shit	cold	Midnights	1
+Vigilante Shit	collar	Midnights	1
+Vigilante Shit	crimes	Midnights	1
+Vigilante Shit	crossin	Midnights	1
+Vigilante Shit	doin	Midnights	1
+Vigilante Shit	draw	Midnights	1
+Vigilante Shit	dress	Midnights	6
+Vigilante Shit	dressin	Midnights	4
+Vigilante Shit	dressing	Midnights	1
+Vigilante Shit	drivin	Midnights	1
+Vigilante Shit	envelope	Midnights	1
+Vigilante Shit	eye	Midnights	1
+Vigilante Shit	fbi	Midnights	1
+Vigilante Shit	friends	Midnights	3
+Vigilante Shit	fun	Midnights	1
+Vigilante Shit	hard	Midnights	1
+Vigilante Shit	house	Midnights	1
+Vigilante Shit	innocents	Midnights	1
+Vigilante Shit	kids	Midnights	1
+Vigilante Shit	kill	Midnights	2
+Vigilante Shit	ladies	Midnights	2
+Vigilante Shit	lady	Midnights	1
+Vigilante Shit	lie	Midnights	1
+Vigilante Shit	lines	Midnights	1
+Vigilante Shit	mine	Midnights	1
+Vigilante Shit	one'll	Midnights	1
+Vigilante Shit	people	Midnights	1
+Vigilante Shit	picture	Midnights	1
+Vigilante Shit	pretty	Midnights	1
+Vigilante Shit	pride	Midnights	1
+Vigilante Shit	proof	Midnights	1
+Vigilante Shit	revenge	Midnights	5
+Vigilante Shit	rise	Midnights	1
+Vigilante Shit	sad	Midnights	3
+Vigilante Shit	sharp	Midnights	1
+Vigilante Shit	shit	Midnights	4
+Vigilante Shit	simply	Midnights	1
+Vigilante Shit	start	Midnights	3
+Vigilante Shit	sweet	Midnights	1
+Vigilante Shit	thick	Midnights	1
+Vigilante Shit	thieves	Midnights	1
+Vigilante Shit	told	Midnights	1
+Vigilante Shit	vigilante	Midnights	1
+Vigilante Shit	villains	Midnights	1
+Vigilante Shit	weekends	Midnights	3
+Vigilante Shit	white	Midnights	1
+Vigilante Shit	wife	Midnights	1
+Vigilante Shit	women	Midnights	1
+Vigilante Shit	worst	Midnights	1
+We Are Never Ever Getting Back Together	baby	Red	1
+We Are Never Ever Getting Back Together	break	Red	1
+We Are Never Ever Getting Back Together	broke	Red	1
+We Are Never Ever Getting Back Together	call	Red	1
+We Are Never Ever Getting Back Together	called	Red	2
+We Are Never Ever Getting Back Together	calls	Red	1
+We Are Never Ever Getting Back Together	change	Red	1
+We Are Never Ever Getting Back Together	cooler	Red	1
+We Are Never Ever Getting Back Together	day	Red	1
+We Are Never Ever Getting Back Together	exhausting	Red	1
+We Are Never Ever Getting Back Together	falling	Red	1
+We Are Never Ever Getting Back Together	fights	Red	1
+We Are Never Ever Getting Back Together	forever	Red	1
+We Are Never Ever Getting Back Together	friends	Red	8
+We Are Never Ever Getting Back Together	gonna	Red	2
+We Are Never Ever Getting Back Together	hate	Red	1
+We Are Never Ever Getting Back Together	hide	Red	1
+We Are Never Ever Getting Back Together	indie	Red	1
+We Are Never Ever Getting Back Together	lasted	Red	1
+We Are Never Ever Getting Back Together	love	Red	2
+We Are Never Ever Getting Back Together	mind	Red	1
+We Are Never Ever Getting Back Together	mine	Red	1
+We Are Never Ever Getting Back Together	miss	Red	2
+We Are Never Ever Getting Back Together	month	Red	1
+We Are Never Ever Getting Back Together	night	Red	1
+We Are Never Ever Getting Back Together	ooh	Red	50
+We Are Never Ever Getting Back Together	peace	Red	1
+We Are Never Ever Getting Back Together	picking	Red	1
+We Are Never Ever Getting Back Together	record	Red	1
+We Are Never Ever Getting Back Together	remember	Red	2
+We Are Never Ever Getting Back Together	screaming	Red	1
+We Are Never Ever Getting Back Together	space	Red	1
+We Are Never Ever Getting Back Together	swear	Red	1
+We Are Never Ever Getting Back Together	talk	Red	14
+We Are Never Ever Getting Back Together	telling	Red	4
+We Are Never Ever Getting Back Together	time	Red	3
+We Are Never Ever Getting Back Together	tonight	Red	1
+We Are Never Ever Getting Back Together	trust	Red	1
+We Are Never Ever Getting Back Together	ugh	Red	1
+We Are Never Ever Getting Back Together	yeah	Red	4
+You Need To Calm Down	7	Lover	1
+You Need To Calm Down	ages	Lover	1
+You Need To Calm Down	bones	Lover	1
+You Need To Calm Down	bout	Lover	1
+You Need To Calm Down	broke	Lover	1
+You Need To Calm Down	calm	Lover	8
+You Need To Calm Down	comin	Lover	1
+You Need To Calm Down	comparing	Lover	1
+You Need To Calm Down	control	Lover	1
+You Need To Calm Down	cop	Lover	1
+You Need To Calm Down	crowns	Lover	1
+You Need To Calm Down	damn	Lover	1
+You Need To Calm Down	dark	Lover	1
+You Need To Calm Down	expression	Lover	1
+You Need To Calm Down	figured	Lover	1
+You Need To Calm Down	friends	Lover	1
+You Need To Calm Down	fun	Lover	1
+You Need To Calm Down	gay	Lover	1
+You Need To Calm Down	girls	Lover	1
+You Need To Calm Down	glaad	Lover	2
+You Need To Calm Down	gown	Lover	2
+You Need To Calm Down	gowns	Lover	1
+You Need To Calm Down	hate	Lover	1
+You Need To Calm Down	hey	Lover	1
+You Need To Calm Down	internet	Lover	1
+You Need To Calm Down	killing	Lover	1
+You Need To Calm Down	knock	Lover	1
+You Need To Calm Down	learned	Lover	1
+You Need To Calm Down	lesson	Lover	1
+You Need To Calm Down	loud	Lover	4
+You Need To Calm Down	mad	Lover	1
+You Need To Calm Down	makin	Lover	1
+You Need To Calm Down	mess	Lover	1
+You Need To Calm Down	missile	Lover	1
+You Need To Calm Down	must've	Lover	1
+You Need To Calm Down	night	Lover	1
+You Need To Calm Down	obsessin	Lover	1
+You Need To Calm Down	parade	Lover	1
+You Need To Calm Down	patrón	Lover	1
+You Need To Calm Down	peace	Lover	1
+You Need To Calm Down	people	Lover	1
+You Need To Calm Down	restore	Lover	1
+You Need To Calm Down	scream	Lover	1
+You Need To Calm Down	seats	Lover	1
+You Need To Calm Down	shade	Lover	1
+You Need To Calm Down	shots	Lover	1
+You Need To Calm Down	sign	Lover	1
+You Need To Calm Down	snakes	Lover	1
+You Need To Calm Down	step	Lover	3
+You Need To Calm Down	stones	Lover	1
+You Need To Calm Down	stop	Lover	4
+You Need To Calm Down	street	Lover	2
+You Need To Calm Down	stressin	Lover	1
+You Need To Calm Down	sunshine	Lover	1
+You Need To Calm Down	takin	Lover	1
+You Need To Calm Down	tryna	Lover	1
+You Need To Calm Down	tweet	Lover	1
+You Need To Calm Down	urges	Lover	1
+You’re On Your Own, Kid	afraid	Midnights	1
+You’re On Your Own, Kid	ages	Midnights	1
+You’re On Your Own, Kid	ashes	Midnights	3
+You’re On Your Own, Kid	blood	Midnights	2
+You’re On Your Own, Kid	bloomed	Midnights	1
+You’re On Your Own, Kid	bodies	Midnights	2
+You’re On Your Own, Kid	body	Midnights	1
+You’re On Your Own, Kid	boys	Midnights	1
+You’re On Your Own, Kid	bracelets	Midnights	1
+You’re On Your Own, Kid	bridges	Midnights	1
+You’re On Your Own, Kid	burned	Midnights	1
+You’re On Your Own, Kid	called	Midnights	1
+You’re On Your Own, Kid	cared	Midnights	1
+You’re On Your Own, Kid	choose	Midnights	1
+You’re On Your Own, Kid	cool	Midnights	1
+You’re On Your Own, Kid	daisy	Midnights	1
+You’re On Your Own, Kid	days	Midnights	1
+You’re On Your Own, Kid	dream	Midnights	1
+You’re On Your Own, Kid	dreams	Midnights	1
+You’re On Your Own, Kid	escape	Midnights	1
+You’re On Your Own, Kid	fireplace	Midnights	3
+You’re On Your Own, Kid	friends	Midnights	2
+You’re On Your Own, Kid	friendship	Midnights	1
+You’re On Your Own, Kid	funny	Midnights	1
+You’re On Your Own, Kid	gonna	Midnights	1
+You’re On Your Own, Kid	gown	Midnights	1
+You’re On Your Own, Kid	hear	Midnights	1
+You’re On Your Own, Kid	home	Midnights	1
+You’re On Your Own, Kid	hosted	Midnights	1
+You’re On Your Own, Kid	jokes	Midnights	1
+You’re On Your Own, Kid	kid	Midnights	4
+You’re On Your Own, Kid	kiss	Midnights	1
+You’re On Your Own, Kid	learn	Midnights	2
+You’re On Your Own, Kid	looked	Midnights	1
+You’re On Your Own, Kid	lose	Midnights	1
+You’re On Your Own, Kid	lot	Midnights	1
+You’re On Your Own, Kid	loves	Midnights	1
+You’re On Your Own, Kid	moment	Midnights	1
+You’re On Your Own, Kid	money	Midnights	1
+You’re On Your Own, Kid	notice	Midnights	1
+You’re On Your Own, Kid	pages	Midnights	1
+You’re On Your Own, Kid	parking	Midnights	1
+You’re On Your Own, Kid	parties	Midnights	1
+You’re On Your Own, Kid	party	Midnights	2
+You’re On Your Own, Kid	patiently	Midnights	1
+You’re On Your Own, Kid	perfect	Midnights	1
+You’re On Your Own, Kid	petals	Midnights	1
+You’re On Your Own, Kid	phone	Midnights	1
+You’re On Your Own, Kid	picked	Midnights	1
+You’re On Your Own, Kid	play	Midnights	2
+You’re On Your Own, Kid	rare	Midnights	1
+You’re On Your Own, Kid	reason	Midnights	1
+You’re On Your Own, Kid	run	Midnights	1
+You’re On Your Own, Kid	saved	Midnights	1
+You’re On Your Own, Kid	search	Midnights	2
+You’re On Your Own, Kid	smoking	Midnights	1
+You’re On Your Own, Kid	soaked	Midnights	1
+You’re On Your Own, Kid	songs	Midnights	1
+You’re On Your Own, Kid	splashes	Midnights	3
+You’re On Your Own, Kid	sprinkler	Midnights	3
+You’re On Your Own, Kid	starved	Midnights	1
+You’re On Your Own, Kid	stay	Midnights	1
+You’re On Your Own, Kid	stays	Midnights	1
+You’re On Your Own, Kid	step	Midnights	1
+You’re On Your Own, Kid	summer	Midnights	1
+You’re On Your Own, Kid	sweat	Midnights	1
+You’re On Your Own, Kid	taste	Midnights	1
+You’re On Your Own, Kid	taxi	Midnights	1
+You’re On Your Own, Kid	tears	Midnights	1
+You’re On Your Own, Kid	touch	Midnights	1
+You’re On Your Own, Kid	town	Midnights	1
+You’re On Your Own, Kid	voice	Midnights	1
+You’re On Your Own, Kid	wait	Midnights	1
+You’re On Your Own, Kid	waited	Midnights	1
+You’re On Your Own, Kid	writing	Midnights	1
+You’re On Your Own, Kid	yeah	Midnights	1
+You’re On Your Own, Kid	yearning	Midnights	1

@@ -1,0 +1,1585 @@
+song_name	word	album	n
+After the Glitter Fades	alright	Bella Donna	3
+After the Glitter Fades	breaks	Bella Donna	1
+After the Glitter Fades	chase	Bella Donna	1
+After the Glitter Fades	coming	Bella Donna	1
+After the Glitter Fades	days	Bella Donna	1
+After the Glitter Fades	dream	Bella Donna	2
+After the Glitter Fades	fades	Bella Donna	5
+After the Glitter Fades	feel	Bella Donna	1
+After the Glitter Fades	feeling	Bella Donna	5
+After the Glitter Fades	fine	Bella Donna	3
+After the Glitter Fades	forget	Bella Donna	1
+After the Glitter Fades	glitter	Bella Donna	5
+After the Glitter Fades	gold	Bella Donna	1
+After the Glitter Fades	hard	Bella Donna	1
+After the Glitter Fades	heart	Bella Donna	1
+After the Glitter Fades	hollywood	Bella Donna	1
+After the Glitter Fades	laced	Bella Donna	3
+After the Glitter Fades	lies	Bella Donna	3
+After the Glitter Fades	life	Bella Donna	3
+After the Glitter Fades	living	Bella Donna	3
+After the Glitter Fades	loneliness	Bella Donna	1
+After the Glitter Fades	love	Bella Donna	3
+After the Glitter Fades	night	Bella Donna	1
+After the Glitter Fades	remain	Bella Donna	1
+After the Glitter Fades	remains	Bella Donna	4
+After the Glitter Fades	rock	Bella Donna	1
+After the Glitter Fades	roll	Bella Donna	1
+After the Glitter Fades	stand	Bella Donna	1
+After the Glitter Fades	star	Bella Donna	3
+After the Glitter Fades	stay	Bella Donna	1
+After the Glitter Fades	timeless	Bella Donna	1
+After the Glitter Fades	touch	Bella Donna	1
+After the Glitter Fades	woman	Bella Donna	1
+Beauty and the Beast	ahhh	The Wild Heart	1
+Beauty and the Beast	beast	The Wild Heart	5
+Beauty and the Beast	beautiful	The Wild Heart	4
+Beauty and the Beast	beauty	The Wild Heart	8
+Beauty and the Beast	bete	The Wild Heart	2
+Beauty and the Beast	blind	The Wild Heart	1
+Beauty and the Beast	changed	The Wild Heart	3
+Beauty and the Beast	child	The Wild Heart	1
+Beauty and the Beast	children	The Wild Heart	1
+Beauty and the Beast	creature	The Wild Heart	1
+Beauty and the Beast	darling	The Wild Heart	1
+Beauty and the Beast	die	The Wild Heart	1
+Beauty and the Beast	disguise	The Wild Heart	1
+Beauty and the Beast	doubted	The Wild Heart	2
+Beauty and the Beast	fall	The Wild Heart	1
+Beauty and the Beast	false	The Wild Heart	1
+Beauty and the Beast	grieving	The Wild Heart	1
+Beauty and the Beast	la	The Wild Heart	2
+Beauty and the Beast	leave	The Wild Heart	2
+Beauty and the Beast	lives	The Wild Heart	2
+Beauty and the Beast	lot	The Wild Heart	1
+Beauty and the Beast	love	The Wild Heart	6
+Beauty and the Beast	mine	The Wild Heart	1
+Beauty and the Beast	misunderstood	The Wild Heart	1
+Beauty and the Beast	pain	The Wild Heart	1
+Beauty and the Beast	pleasure	The Wild Heart	1
+Beauty and the Beast	prisoner	The Wild Heart	1
+Beauty and the Beast	shadow	The Wild Heart	1
+Beauty and the Beast	stranger	The Wild Heart	1
+Beauty and the Beast	tamed	The Wild Heart	1
+Beauty and the Beast	time	The Wild Heart	1
+Beauty and the Beast	timeless	The Wild Heart	2
+Beauty and the Beast	unaware	The Wild Heart	1
+Beauty and the Beast	wise	The Wild Heart	1
+Beauty and the Beast	world	The Wild Heart	2
+Beauty and the Beast	worlds	The Wild Heart	1
+Bella Donna	atop	Bella Donna	1
+Bella Donna	awestruck	Bella Donna	1
+Bella Donna	baby	Bella Donna	1
+Bella Donna	bella	Bella Donna	6
+Bella Donna	captures	Bella Donna	1
+Bella Donna	care	Bella Donna	1
+Bella Donna	change	Bella Donna	2
+Bella Donna	darkness	Bella Donna	3
+Bella Donna	disappears	Bella Donna	1
+Bella Donna	donna	Bella Donna	6
+Bella Donna	fall	Bella Donna	1
+Bella Donna	fast	Bella Donna	1
+Bella Donna	feeling	Bella Donna	4
+Bella Donna	fight	Bella Donna	2
+Bella Donna	fly	Bella Donna	1
+Bella Donna	lady's	Bella Donna	2
+Bella Donna	lane	Bella Donna	1
+Bella Donna	limit	Bella Donna	1
+Bella Donna	love	Bella Donna	2
+Bella Donna	loved	Bella Donna	2
+Bella Donna	moon	Bella Donna	2
+Bella Donna	northern	Bella Donna	2
+Bella Donna	people	Bella Donna	1
+Bella Donna	phoney	Bella Donna	1
+Bella Donna	pony	Bella Donna	1
+Bella Donna	ready	Bella Donna	2
+Bella Donna	ride	Bella Donna	1
+Bella Donna	sail	Bella Donna	2
+Bella Donna	scare	Bella Donna	1
+Bella Donna	scaring	Bella Donna	1
+Bella Donna	sort	Bella Donna	1
+Bella Donna	soul	Bella Donna	2
+Bella Donna	speed	Bella Donna	1
+Bella Donna	star	Bella Donna	2
+Bella Donna	stars	Bella Donna	1
+Bella Donna	swingin	Bella Donna	1
+Bella Donna	thin	Bella Donna	1
+Bella Donna	thing's	Bella Donna	1
+Bella Donna	tired	Bella Donna	1
+Bella Donna	trapeze	Bella Donna	1
+Bella Donna	wind	Bella Donna	1
+Bella Donna	woman	Bella Donna	4
+Blue Letter	baby	Fleetwood Mac	3
+Blue Letter	blue	Fleetwood Mac	1
+Blue Letter	day	Fleetwood Mac	3
+Blue Letter	eyes	Fleetwood Mac	3
+Blue Letter	heard	Fleetwood Mac	2
+Blue Letter	letter	Fleetwood Mac	1
+Blue Letter	love	Fleetwood Mac	3
+Blue Letter	lover	Fleetwood Mac	1
+Blue Letter	message	Fleetwood Mac	3
+Blue Letter	night	Fleetwood Mac	3
+Blue Letter	paradise	Fleetwood Mac	1
+Blue Letter	read	Fleetwood Mac	3
+Blue Letter	redbird	Fleetwood Mac	2
+Blue Letter	road	Fleetwood Mac	1
+Blue Letter	silver	Fleetwood Mac	1
+Blue Letter	song	Fleetwood Mac	2
+Blue Letter	stay	Fleetwood Mac	3
+Blue Letter	thousand	Fleetwood Mac	2
+Blue Letter	told	Fleetwood Mac	3
+Blue Letter	voice	Fleetwood Mac	2
+Blue Letter	waiting	Fleetwood Mac	4
+Blue Letter	wanna	Fleetwood Mac	1
+Blue Letter	word	Fleetwood Mac	2
+Blue Letter	words	Fleetwood Mac	1
+Blue Letter	wrote	Fleetwood Mac	1
+Blue Letter	x9	Fleetwood Mac	1
+Crystal	ageless	Fleetwood Mac	1
+Crystal	bears	Fleetwood Mac	1
+Crystal	believing	Fleetwood Mac	1
+Crystal	changed	Fleetwood Mac	2
+Crystal	closing	Fleetwood Mac	2
+Crystal	crystal	Fleetwood Mac	2
+Crystal	crystalline	Fleetwood Mac	2
+Crystal	drove	Fleetwood Mac	4
+Crystal	feeling	Fleetwood Mac	1
+Crystal	finally	Fleetwood Mac	4
+Crystal	found	Fleetwood Mac	2
+Crystal	fountain	Fleetwood Mac	2
+Crystal	glove	Fleetwood Mac	2
+Crystal	holds	Fleetwood Mac	1
+Crystal	initial	Fleetwood Mac	1
+Crystal	knowledge	Fleetwood Mac	3
+Crystal	love	Fleetwood Mac	3
+Crystal	magnet	Fleetwood Mac	2
+Crystal	mountains	Fleetwood Mac	2
+Crystal	pages	Fleetwood Mac	1
+Crystal	remain	Fleetwood Mac	1
+Crystal	sea	Fleetwood Mac	7
+Crystal	special	Fleetwood Mac	1
+Crystal	true	Fleetwood Mac	1
+Crystal	trust	Fleetwood Mac	1
+Crystal	water	Fleetwood Mac	4
+Crystal	yeah	Fleetwood Mac	3
+Don’t Stop	bad	Rumours	1
+Don’t Stop	day	Rumours	1
+Don’t Stop	eyes	Rumours	1
+Don’t Stop	harm	Rumours	1
+Don’t Stop	life	Rumours	1
+Don’t Stop	meant	Rumours	1
+Don’t Stop	ooh	Rumours	4
+Don’t Stop	smile	Rumours	2
+Don’t Stop	stop	Rumours	8
+Don’t Stop	takes	Rumours	2
+Don’t Stop	thinking	Rumours	4
+Don’t Stop	times	Rumours	1
+Don’t Stop	tomorrow	Rumours	5
+Don’t Stop	true	Rumours	1
+Don’t Stop	wake	Rumours	1
+Don’t Stop	wanna	Rumours	1
+Don’t Stop	yesterday's	Rumours	8
+Dreams	carefully	Rumours	1
+Dreams	clean	Rumours	3
+Dreams	crystal	Rumours	1
+Dreams	dreams	Rumours	3
+Dreams	drives	Rumours	2
+Dreams	feel	Rumours	1
+Dreams	freedom	Rumours	1
+Dreams	heartbeat	Rumours	2
+Dreams	listen	Rumours	1
+Dreams	loneliness	Rumours	2
+Dreams	lost	Rumours	4
+Dreams	love	Rumours	3
+Dreams	mad	Rumours	2
+Dreams	play	Rumours	1
+Dreams	players	Rumours	3
+Dreams	playing	Rumours	3
+Dreams	rain	Rumours	3
+Dreams	raining	Rumours	3
+Dreams	remembering	Rumours	2
+Dreams	sell	Rumours	1
+Dreams	sound	Rumours	1
+Dreams	stillness	Rumours	2
+Dreams	thunder	Rumours	3
+Dreams	visions	Rumours	2
+Dreams	washes	Rumours	3
+Dreams	women	Rumours	3
+Dreams	wrap	Rumours	1
+Edge of Seventeen	age	Bella Donna	2
+Edge of Seventeen	answer	Bella Donna	2
+Edge of Seventeen	baby	Bella Donna	13
+Edge of Seventeen	begin	Bella Donna	1
+Edge of Seventeen	broken	Bella Donna	1
+Edge of Seventeen	call	Bella Donna	1
+Edge of Seventeen	change	Bella Donna	1
+Edge of Seventeen	choir	Bella Donna	1
+Edge of Seventeen	clouds	Bella Donna	1
+Edge of Seventeen	color	Bella Donna	1
+Edge of Seventeen	days	Bella Donna	1
+Edge of Seventeen	desire	Bella Donna	1
+Edge of Seventeen	doin	Bella Donna	1
+Edge of Seventeen	dove	Bella Donna	13
+Edge of Seventeen	edge	Bella Donna	2
+Edge of Seventeen	expect	Bella Donna	1
+Edge of Seventeen	eyes	Bella Donna	1
+Edge of Seventeen	fall	Bella Donna	1
+Edge of Seventeen	familiar	Bella Donna	1
+Edge of Seventeen	flood	Bella Donna	1
+Edge of Seventeen	flow	Bella Donna	1
+Edge of Seventeen	friend	Bella Donna	1
+Edge of Seventeen	graceful	Bella Donna	1
+Edge of Seventeen	hall	Bella Donna	2
+Edge of Seventeen	hauntingly	Bella Donna	1
+Edge of Seventeen	hear	Bella Donna	6
+Edge of Seventeen	heard	Bella Donna	1
+Edge of Seventeen	hearted	Bella Donna	1
+Edge of Seventeen	laid	Bella Donna	1
+Edge of Seventeen	left	Bella Donna	1
+Edge of Seventeen	love	Bella Donna	2
+Edge of Seventeen	mattered	Bella Donna	2
+Edge of Seventeen	melody	Bella Donna	1
+Edge of Seventeen	moment	Bella Donna	1
+Edge of Seventeen	morning	Bella Donna	2
+Edge of Seventeen	music	Bella Donna	1
+Edge of Seventeen	nightbird	Bella Donna	1
+Edge of Seventeen	nightfall	Bella Donna	2
+Edge of Seventeen	nothin	Bella Donna	2
+Edge of Seventeen	poet	Bella Donna	1
+Edge of Seventeen	rains	Bella Donna	1
+Edge of Seventeen	sea	Bella Donna	2
+Edge of Seventeen	searchin	Bella Donna	1
+Edge of Seventeen	seventeen	Bella Donna	2
+Edge of Seventeen	singin	Bella Donna	13
+Edge of Seventeen	sings	Bella Donna	12
+Edge of Seventeen	slow	Bella Donna	1
+Edge of Seventeen	somethin	Bella Donna	1
+Edge of Seventeen	song	Bella Donna	12
+Edge of Seventeen	sounds	Bella Donna	12
+Edge of Seventeen	stairs	Bella Donna	1
+Edge of Seventeen	standing	Bella Donna	1
+Edge of Seventeen	stops	Bella Donna	1
+Edge of Seventeen	strand	Bella Donna	1
+Edge of Seventeen	suddenly	Bella Donna	1
+Edge of Seventeen	tears	Bella Donna	1
+Edge of Seventeen	tomorrow	Bella Donna	1
+Edge of Seventeen	unable	Bella Donna	1
+Edge of Seventeen	voice	Bella Donna	1
+Edge of Seventeen	web	Bella Donna	1
+Edge of Seventeen	white	Bella Donna	13
+Edge of Seventeen	whoo	Bella Donna	36
+Edge of Seventeen	wind	Bella Donna	1
+Edge of Seventeen	winged	Bella Donna	13
+Edge of Seventeen	words	Bella Donna	1
+Edge of Seventeen	yeah	Bella Donna	4
+Enchanted	1	The Wild Heart	1
+Enchanted	2	The Wild Heart	1
+Enchanted	3	The Wild Heart	1
+Enchanted	4	The Wild Heart	1
+Enchanted	crying	The Wild Heart	1
+Enchanted	darkness	The Wild Heart	1
+Enchanted	darling	The Wild Heart	1
+Enchanted	destined	The Wild Heart	2
+Enchanted	destiny	The Wild Heart	2
+Enchanted	dreams	The Wild Heart	2
+Enchanted	enchanted	The Wild Heart	11
+Enchanted	eyes	The Wild Heart	3
+Enchanted	fall	The Wild Heart	2
+Enchanted	hope	The Wild Heart	7
+Enchanted	life	The Wild Heart	1
+Enchanted	light	The Wild Heart	1
+Enchanted	love	The Wild Heart	1
+Enchanted	morning	The Wild Heart	1
+Enchanted	night	The Wild Heart	2
+Enchanted	remember	The Wild Heart	2
+Enchanted	run	The Wild Heart	1
+Enchanted	sad	The Wild Heart	1
+Enchanted	shadow	The Wild Heart	1
+Enchanted	shame	The Wild Heart	3
+Enchanted	spring	The Wild Heart	1
+Enchanted	story	The Wild Heart	1
+Enchanted	strong	The Wild Heart	1
+Enchanted	trouble	The Wild Heart	1
+Enchanted	voice	The Wild Heart	2
+Enchanted	waiting	The Wild Heart	1
+Enchanted	woah	The Wild Heart	8
+Enchanted	yeah	The Wild Heart	6
+Garbo (B-Side)	dark	The Wild Heart	1
+Garbo (B-Side)	dress	The Wild Heart	1
+Garbo (B-Side)	feel	The Wild Heart	1
+Garbo (B-Side)	fools	The Wild Heart	1
+Garbo (B-Side)	forget	The Wild Heart	2
+Garbo (B-Side)	garbo	The Wild Heart	2
+Garbo (B-Side)	glitter	The Wild Heart	1
+Garbo (B-Side)	guest	The Wild Heart	1
+Garbo (B-Side)	linen	The Wild Heart	1
+Garbo (B-Side)	lose	The Wild Heart	2
+Garbo (B-Side)	love	The Wild Heart	1
+Garbo (B-Side)	marilyn	The Wild Heart	1
+Garbo (B-Side)	marlene	The Wild Heart	2
+Garbo (B-Side)	miss	The Wild Heart	1
+Garbo (B-Side)	musn't	The Wild Heart	1
+Garbo (B-Side)	party	The Wild Heart	1
+Garbo (B-Side)	play	The Wild Heart	1
+Garbo (B-Side)	silvery	The Wild Heart	1
+Garbo (B-Side)	stands	The Wild Heart	1
+Garbo (B-Side)	stardom	The Wild Heart	1
+Garbo (B-Side)	stone	The Wild Heart	1
+Garbo (B-Side)	strangers	The Wild Heart	1
+Garbo (B-Side)	suit	The Wild Heart	1
+Garbo (B-Side)	time	The Wild Heart	1
+Garbo (B-Side)	town	The Wild Heart	2
+Garbo (B-Side)	venus	The Wild Heart	1
+Garbo (B-Side)	waltz	The Wild Heart	1
+Garbo (B-Side)	waltzing	The Wild Heart	1
+Gate and Garden	ahh	The Wild Heart	1
+Gate and Garden	answer	The Wild Heart	2
+Gate and Garden	bout	The Wild Heart	5
+Gate and Garden	days	The Wild Heart	1
+Gate and Garden	death	The Wild Heart	1
+Gate and Garden	everynight	The Wild Heart	3
+Gate and Garden	fair	The Wild Heart	1
+Gate and Garden	friends	The Wild Heart	1
+Gate and Garden	game	The Wild Heart	1
+Gate and Garden	garden	The Wild Heart	1
+Gate and Garden	gate	The Wild Heart	1
+Gate and Garden	grows	The Wild Heart	1
+Gate and Garden	guarded	The Wild Heart	1
+Gate and Garden	guardian	The Wild Heart	1
+Gate and Garden	heaven	The Wild Heart	1
+Gate and Garden	love	The Wild Heart	7
+Gate and Garden	nothin	The Wild Heart	2
+Gate and Garden	ooo	The Wild Heart	3
+Gate and Garden	passion	The Wild Heart	1
+Gate and Garden	play	The Wild Heart	1
+Gate and Garden	red	The Wild Heart	1
+Gate and Garden	rose	The Wild Heart	1
+Gate and Garden	scares	The Wild Heart	1
+Gate and Garden	seek	The Wild Heart	1
+Gate and Garden	send	The Wild Heart	2
+Gate and Garden	steals	The Wild Heart	2
+Gate and Garden	times	The Wild Heart	2
+Gate and Garden	truth	The Wild Heart	1
+Gate and Garden	wo	The Wild Heart	2
+Go Your Own Way	baby	Rumours	1
+Go Your Own Way	call	Rumours	5
+Go Your Own Way	change	Rumours	1
+Go Your Own Way	day	Rumours	6
+Go Your Own Way	everything's	Rumours	1
+Go Your Own Way	feel	Rumours	1
+Go Your Own Way	lonely	Rumours	6
+Go Your Own Way	loving	Rumours	1
+Go Your Own Way	packing	Rumours	1
+Go Your Own Way	shacking	Rumours	1
+Go Your Own Way	up's	Rumours	1
+Go Your Own Way	waiting	Rumours	1
+Go Your Own Way	wanna	Rumours	1
+Go Your Own Way	world	Rumours	2
+Gold Dust Woman	ancient	Rumours	1
+Gold Dust Woman	bad	Rumours	1
+Gold Dust Woman	black	Rumours	2
+Gold Dust Woman	break	Rumours	3
+Gold Dust Woman	challenge	Rumours	1
+Gold Dust Woman	cry	Rumours	5
+Gold Dust Woman	dig	Rumours	1
+Gold Dust Woman	dragon	Rumours	2
+Gold Dust Woman	dust	Rumours	3
+Gold Dust Woman	follow	Rumours	1
+Gold Dust Woman	gold	Rumours	2
+Gold Dust Woman	grave	Rumours	1
+Gold Dust Woman	heartless	Rumours	1
+Gold Dust Woman	home	Rumours	5
+Gold Dust Woman	i’ll	Rumours	1
+Gold Dust Woman	illusions	Rumours	3
+Gold Dust Woman	kingdom	Rumours	1
+Gold Dust Woman	loud	Rumours	1
+Gold Dust Woman	lousy	Rumours	1
+Gold Dust Woman	love	Rumours	3
+Gold Dust Woman	lovers	Rumours	2
+Gold Dust Woman	loves	Rumours	1
+Gold Dust Woman	morning	Rumours	1
+Gold Dust Woman	ooh	Rumours	4
+Gold Dust Woman	pale	Rumours	5
+Gold Dust Woman	path	Rumours	1
+Gold Dust Woman	pick	Rumours	5
+Gold Dust Woman	pieces	Rumours	3
+Gold Dust Woman	pray	Rumours	1
+Gold Dust Woman	prey	Rumours	1
+Gold Dust Woman	queen	Rumours	1
+Gold Dust Woman	rock	Rumours	2
+Gold Dust Woman	rulers	Rumours	1
+Gold Dust Woman	sale	Rumours	2
+Gold Dust Woman	shadow	Rumours	5
+Gold Dust Woman	shatter	Rumours	3
+Gold Dust Woman	she’s	Rumours	1
+Gold Dust Woman	silver	Rumours	1
+Gold Dust Woman	spoon	Rumours	1
+Gold Dust Woman	sunrise	Rumours	1
+Gold Dust Woman	wake	Rumours	1
+Gold Dust Woman	widow	Rumours	2
+Gold Dust Woman	woman	Rumours	7
+Has Anyone Ever Written Anything for You?	believed	Rock a Little	1
+Has Anyone Ever Written Anything for You?	darkest	Rock a Little	3
+Has Anyone Ever Written Anything for You?	doubt	Rock a Little	1
+Has Anyone Ever Written Anything for You?	easy	Rock a Little	1
+Has Anyone Ever Written Anything for You?	everyday	Rock a Little	1
+Has Anyone Ever Written Anything for You?	hear	Rock a Little	1
+Has Anyone Ever Written Anything for You?	heard	Rock a Little	1
+Has Anyone Ever Written Anything for You?	hours	Rock a Little	2
+Has Anyone Ever Written Anything for You?	legend	Rock a Little	2
+Has Anyone Ever Written Anything for You?	listen	Rock a Little	2
+Has Anyone Ever Written Anything for You?	pain	Rock a Little	1
+Has Anyone Ever Written Anything for You?	poet	Rock a Little	2
+Has Anyone Ever Written Anything for You?	priest	Rock a Little	2
+Has Anyone Ever Written Anything for You?	rain	Rock a Little	1
+Has Anyone Ever Written Anything for You?	sing	Rock a Little	2
+Has Anyone Ever Written Anything for You?	song	Rock a Little	1
+Has Anyone Ever Written Anything for You?	sorrow	Rock a Little	1
+Has Anyone Ever Written Anything for You?	world	Rock a Little	2
+Has Anyone Ever Written Anything for You?	written	Rock a Little	2
+How Still My Love	calling	Bella Donna	1
+How Still My Love	doorway	Bella Donna	1
+How Still My Love	easy	Bella Donna	3
+How Still My Love	forget	Bella Donna	2
+How Still My Love	glory	Bella Donna	1
+How Still My Love	lonely	Bella Donna	1
+How Still My Love	love	Bella Donna	5
+How Still My Love	night	Bella Donna	11
+How Still My Love	price	Bella Donna	1
+How Still My Love	sea	Bella Donna	1
+How Still My Love	standing	Bella Donna	1
+How Still My Love	story	Bella Donna	1
+How Still My Love	talkin	Bella Donna	2
+How Still My Love	talking	Bella Donna	1
+How Still My Love	watching	Bella Donna	1
+I Can’t Wait	baby	Rock a Little	5
+I Can’t Wait	believes	Rock a Little	1
+I Can’t Wait	blame	Rock a Little	2
+I Can’t Wait	broken	Rock a Little	1
+I Can’t Wait	circle	Rock a Little	1
+I Can’t Wait	continued	Rock a Little	2
+I Can’t Wait	crazy	Rock a Little	2
+I Can’t Wait	dances	Rock a Little	1
+I Can’t Wait	dreaming	Rock a Little	1
+I Can’t Wait	feel	Rock a Little	1
+I Can’t Wait	feeling	Rock a Little	1
+I Can’t Wait	heart	Rock a Little	1
+I Can’t Wait	hours	Rock a Little	1
+I Can’t Wait	love	Rock a Little	5
+I Can’t Wait	mind	Rock a Little	5
+I Can’t Wait	secret	Rock a Little	1
+I Can’t Wait	sight	Rock a Little	1
+I Can’t Wait	spoken	Rock a Little	1
+I Can’t Wait	talks	Rock a Little	1
+I Can’t Wait	time	Rock a Little	5
+I Can’t Wait	touch	Rock a Little	2
+I Can’t Wait	wait	Rock a Little	32
+I Can’t Wait	wakes	Rock a Little	1
+I Can’t Wait	wasting	Rock a Little	5
+I Can’t Wait	wonders	Rock a Little	1
+I Can’t Wait	words	Rock a Little	1
+I Don’t Want to Know	ah	Rumours	1
+I Don’t Want to Know	baby	Rumours	2
+I Don’t Want to Know	crazy	Rumours	1
+I Don’t Want to Know	crying	Rumours	1
+I Don’t Want to Know	feel	Rumours	4
+I Don’t Want to Know	finally	Rumours	2
+I Don’t Want to Know	fine	Rumours	4
+I Don’t Want to Know	hanging	Rumours	1
+I Don’t Want to Know	honey	Rumours	5
+I Don’t Want to Know	huh	Rumours	2
+I Don’t Want to Know	line	Rumours	5
+I Don’t Want to Know	listen	Rumours	1
+I Don’t Want to Know	loud	Rumours	1
+I Don’t Want to Know	love	Rumours	12
+I Don’t Want to Know	reasons	Rumours	5
+I Don’t Want to Know	reeling	Rumours	2
+I Don’t Want to Know	rocking	Rumours	2
+I Don’t Want to Know	spirit	Rumours	1
+I Don’t Want to Know	stand	Rumours	5
+I Don’t Want to Know	survive	Rumours	1
+I Don’t Want to Know	time	Rumours	1
+I Don’t Want to Know	told	Rumours	1
+I Don’t Want to Know	truth	Rumours	2
+I Don’t Want to Know	uh	Rumours	2
+I Don’t Want to Know	walking	Rumours	5
+I Don’t Want to Know	yeah	Rumours	2
+I Sing for the Things	baby	Rock a Little	1
+I Sing for the Things	buy	Rock a Little	2
+I Sing for the Things	cape	Rock a Little	1
+I Sing for the Things	chains	Rock a Little	2
+I Sing for the Things	darling	Rock a Little	1
+I Sing for the Things	deep	Rock a Little	1
+I Sing for the Things	dreams	Rock a Little	2
+I Sing for the Things	eyes	Rock a Little	1
+I Sing for the Things	fear	Rock a Little	3
+I Sing for the Things	hair	Rock a Little	1
+I Sing for the Things	home	Rock a Little	1
+I Sing for the Things	inside	Rock a Little	3
+I Sing for the Things	living	Rock a Little	2
+I Sing for the Things	love	Rock a Little	8
+I Sing for the Things	money	Rock a Little	2
+I Sing for the Things	run	Rock a Little	3
+I Sing for the Things	sing	Rock a Little	2
+I Sing for the Things	sit	Rock a Little	1
+I Sing for the Things	soul	Rock a Little	3
+I Sing for the Things	touched	Rock a Little	3
+I Sing for the Things	wait	Rock a Little	1
+I Will Run to You	accused	The Wild Heart	1
+I Will Run to You	baby	The Wild Heart	1
+I Will Run to You	changed	The Wild Heart	1
+I Will Run to You	choose	The Wild Heart	3
+I Will Run to You	confess	The Wild Heart	1
+I Will Run to You	easy	The Wild Heart	1
+I Will Run to You	follow	The Wild Heart	3
+I Will Run to You	honey	The Wild Heart	1
+I Will Run to You	left	The Wild Heart	2
+I Will Run to You	lonely	The Wild Heart	2
+I Will Run to You	love	The Wild Heart	1
+I Will Run to You	mercy	The Wild Heart	1
+I Will Run to You	mind	The Wild Heart	2
+I Will Run to You	nights	The Wild Heart	1
+I Will Run to You	road	The Wild Heart	3
+I Will Run to You	run	The Wild Heart	6
+I Will Run to You	runnin	The Wild Heart	1
+I Will Run to You	stand	The Wild Heart	1
+I Will Run to You	time	The Wild Heart	1
+I Will Run to You	trial	The Wild Heart	1
+I’m So Afraid	afraid	Fleetwood Mac	5
+I’m So Afraid	agony's	Fleetwood Mac	3
+I’m So Afraid	black	Fleetwood Mac	3
+I’m So Afraid	cared	Fleetwood Mac	1
+I’m So Afraid	change	Fleetwood Mac	2
+I’m So Afraid	count	Fleetwood Mac	1
+I’m So Afraid	days	Fleetwood Mac	3
+I’m So Afraid	die	Fleetwood Mac	3
+I’m So Afraid	fall	Fleetwood Mac	3
+I’m So Afraid	feel	Fleetwood Mac	3
+I’m So Afraid	heart	Fleetwood Mac	3
+I’m So Afraid	night	Fleetwood Mac	3
+I’m So Afraid	rain	Fleetwood Mac	3
+I’m So Afraid	slip	Fleetwood Mac	3
+I’m So Afraid	stay	Fleetwood Mac	1
+I’m So Afraid	sun	Fleetwood Mac	3
+I’m So Afraid	tears	Fleetwood Mac	1
+I’m So Afraid	torn	Fleetwood Mac	3
+If Anyone Falls	baby	The Wild Heart	1
+If Anyone Falls	closes	The Wild Heart	2
+If Anyone Falls	dealing	The Wild Heart	2
+If Anyone Falls	deep	The Wild Heart	3
+If Anyone Falls	door	The Wild Heart	4
+If Anyone Falls	dream	The Wild Heart	4
+If Anyone Falls	eyes	The Wild Heart	1
+If Anyone Falls	falls	The Wild Heart	10
+If Anyone Falls	feels	The Wild Heart	2
+If Anyone Falls	gonna	The Wild Heart	2
+If Anyone Falls	hear	The Wild Heart	2
+If Anyone Falls	heard	The Wild Heart	1
+If Anyone Falls	heart	The Wild Heart	3
+If Anyone Falls	inside	The Wild Heart	3
+If Anyone Falls	love	The Wild Heart	6
+If Anyone Falls	loved	The Wild Heart	1
+If Anyone Falls	mind	The Wild Heart	6
+If Anyone Falls	mine	The Wild Heart	2
+If Anyone Falls	ooh	The Wild Heart	2
+If Anyone Falls	run	The Wild Heart	1
+If Anyone Falls	shadow	The Wild Heart	4
+If Anyone Falls	sounds	The Wild Heart	2
+If Anyone Falls	stays	The Wild Heart	2
+If Anyone Falls	time	The Wild Heart	4
+If Anyone Falls	times	The Wild Heart	1
+If Anyone Falls	true	The Wild Heart	1
+If Anyone Falls	twilight	The Wild Heart	4
+If Anyone Falls	voice	The Wild Heart	4
+If Anyone Falls	wall	The Wild Heart	2
+If Anyone Falls	women	The Wild Heart	1
+If Anyone Falls	words	The Wild Heart	1
+If I Were You	arise	Rock a Little	1
+If I Were You	baby	Rock a Little	1
+If I Were You	born	Rock a Little	1
+If I Were You	boy	Rock a Little	1
+If I Were You	closer	Rock a Little	1
+If I Were You	destinies	Rock a Little	1
+If I Were You	dreaming	Rock a Little	1
+If I Were You	eyes	Rock a Little	1
+If I Were You	feel	Rock a Little	1
+If I Were You	forever	Rock a Little	1
+If I Were You	giving	Rock a Little	3
+If I Were You	grows	Rock a Little	1
+If I Were You	inspiration	Rock a Little	1
+If I Were You	learn	Rock a Little	1
+If I Were You	life	Rock a Little	1
+If I Were You	living	Rock a Little	1
+If I Were You	love	Rock a Little	4
+If I Were You	moment	Rock a Little	1
+If I Were You	morning	Rock a Little	1
+If I Were You	reflection	Rock a Little	1
+If I Were You	secrets	Rock a Little	1
+If I Were You	single	Rock a Little	1
+If I Were You	sleep	Rock a Little	1
+If I Were You	swear	Rock a Little	1
+If I Were You	true	Rock a Little	1
+If I Were You	trust	Rock a Little	3
+If I Were You	trusted	Rock a Little	3
+Imperial Hotel	baby	Rock a Little	10
+Imperial Hotel	call	Rock a Little	2
+Imperial Hotel	catch	Rock a Little	2
+Imperial Hotel	chosen	Rock a Little	1
+Imperial Hotel	cries	Rock a Little	2
+Imperial Hotel	cry	Rock a Little	4
+Imperial Hotel	explain	Rock a Little	1
+Imperial Hotel	fall	Rock a Little	2
+Imperial Hotel	friend	Rock a Little	2
+Imperial Hotel	glass	Rock a Little	2
+Imperial Hotel	hate	Rock a Little	3
+Imperial Hotel	heart	Rock a Little	1
+Imperial Hotel	home	Rock a Little	1
+Imperial Hotel	hotel	Rock a Little	2
+Imperial Hotel	idea	Rock a Little	1
+Imperial Hotel	imperial	Rock a Little	3
+Imperial Hotel	lives	Rock a Little	2
+Imperial Hotel	path	Rock a Little	1
+Imperial Hotel	save	Rock a Little	3
+Imperial Hotel	sits	Rock a Little	2
+Imperial Hotel	stand	Rock a Little	1
+Imperial Hotel	stay	Rock a Little	1
+Imperial Hotel	table	Rock a Little	4
+Imperial Hotel	unspoken	Rock a Little	1
+Imperial Hotel	wo	Rock a Little	3
+Imperial Hotel	words	Rock a Little	1
+Kind of Woman	ago	Bella Donna	1
+Kind of Woman	close	Bella Donna	1
+Kind of Woman	cry	Bella Donna	1
+Kind of Woman	difficult	Bella Donna	1
+Kind of Woman	falls	Bella Donna	1
+Kind of Woman	fingers	Bella Donna	1
+Kind of Woman	haunt	Bella Donna	7
+Kind of Woman	heaven	Bella Donna	4
+Kind of Woman	hesitation	Bella Donna	1
+Kind of Woman	home	Bella Donna	1
+Kind of Woman	matters	Bella Donna	5
+Kind of Woman	meet	Bella Donna	1
+Kind of Woman	night	Bella Donna	1
+Kind of Woman	path	Bella Donna	1
+Kind of Woman	promised	Bella Donna	1
+Kind of Woman	sun	Bella Donna	1
+Kind of Woman	temptation	Bella Donna	1
+Kind of Woman	that'll	Bella Donna	7
+Kind of Woman	time	Bella Donna	1
+Kind of Woman	touch	Bella Donna	1
+Kind of Woman	waiting	Bella Donna	1
+Kind of Woman	woman	Bella Donna	7
+Landslide	afraid	Fleetwood Mac	2
+Landslide	ah	Fleetwood Mac	1
+Landslide	bolder	Fleetwood Mac	2
+Landslide	bring	Fleetwood Mac	3
+Landslide	brought	Fleetwood Mac	1
+Landslide	built	Fleetwood Mac	2
+Landslide	changing	Fleetwood Mac	3
+Landslide	child	Fleetwood Mac	1
+Landslide	children	Fleetwood Mac	2
+Landslide	climb	Fleetwood Mac	1
+Landslide	climbed	Fleetwood Mac	1
+Landslide	covered	Fleetwood Mac	3
+Landslide	handle	Fleetwood Mac	1
+Landslide	heart	Fleetwood Mac	1
+Landslide	hills	Fleetwood Mac	3
+Landslide	hmm	Fleetwood Mac	4
+Landslide	landslide	Fleetwood Mac	4
+Landslide	life	Fleetwood Mac	3
+Landslide	love	Fleetwood Mac	3
+Landslide	makes	Fleetwood Mac	2
+Landslide	mirror	Fleetwood Mac	1
+Landslide	mountain	Fleetwood Mac	2
+Landslide	ocean	Fleetwood Mac	1
+Landslide	reflection	Fleetwood Mac	3
+Landslide	rise	Fleetwood Mac	1
+Landslide	sail	Fleetwood Mac	1
+Landslide	seasons	Fleetwood Mac	1
+Landslide	sky	Fleetwood Mac	1
+Landslide	snow	Fleetwood Mac	3
+Landslide	tides	Fleetwood Mac	1
+Landslide	til	Fleetwood Mac	1
+Landslide	time	Fleetwood Mac	2
+Leather and Lace	carry	Bella Donna	2
+Leather and Lace	city	Bella Donna	3
+Leather and Lace	cold	Bella Donna	1
+Leather and Lace	cry	Bella Donna	1
+Leather and Lace	door	Bella Donna	2
+Leather and Lace	eyes	Bella Donna	1
+Leather and Lace	feeling	Bella Donna	2
+Leather and Lace	follow	Bella Donna	1
+Leather and Lace	forever	Bella Donna	3
+Leather and Lace	fragile	Bella Donna	2
+Leather and Lace	heart	Bella Donna	1
+Leather and Lace	hollow	Bella Donna	1
+Leather and Lace	house	Bella Donna	3
+Leather and Lace	impossible	Bella Donna	1
+Leather and Lace	lace	Bella Donna	5
+Leather and Lace	leather	Bella Donna	3
+Leather and Lace	leave	Bella Donna	1
+Leather and Lace	life	Bella Donna	1
+Leather and Lace	light	Bella Donna	2
+Leather and Lace	love	Bella Donna	5
+Leather and Lace	lovers	Bella Donna	3
+Leather and Lace	moonlight	Bella Donna	1
+Leather and Lace	mountains	Bella Donna	3
+Leather and Lace	nights	Bella Donna	2
+Leather and Lace	scared	Bella Donna	1
+Leather and Lace	search	Bella Donna	1
+Leather and Lace	shatter	Bella Donna	1
+Leather and Lace	sleepy	Bella Donna	1
+Leather and Lace	stay	Bella Donna	6
+Leather and Lace	strong	Bella Donna	1
+Leather and Lace	stronger	Bella Donna	1
+Leather and Lace	time	Bella Donna	2
+Leather and Lace	walked	Bella Donna	3
+Leather and Lace	walking	Bella Donna	2
+Leather and Lace	wanna	Bella Donna	1
+Leather and Lace	words	Bella Donna	1
+Monday Morning	believing	Fleetwood Mac	2
+Monday Morning	fade	Fleetwood Mac	1
+Monday Morning	fine	Fleetwood Mac	2
+Monday Morning	friday	Fleetwood Mac	2
+Monday Morning	line	Fleetwood Mac	3
+Monday Morning	love	Fleetwood Mac	6
+Monday Morning	mind	Fleetwood Mac	11
+Monday Morning	monday	Fleetwood Mac	2
+Monday Morning	morning	Fleetwood Mac	2
+Monday Morning	peace	Fleetwood Mac	3
+Monday Morning	travelin	Fleetwood Mac	2
+Monday Morning	true	Fleetwood Mac	2
+Monday Morning	wrong	Fleetwood Mac	1
+Monday Morning	yeah	Fleetwood Mac	3
+Never Going Back Again	broke	Rumours	1
+Never Going Back Again	means	Rumours	1
+Never Going Back Again	round	Rumours	1
+Never Going Back Again	time	Rumours	2
+Never Going Back Again	times	Rumours	2
+Never Going Back Again	win	Rumours	1
+Nightbird	bird	The Wild Heart	2
+Nightbird	blankets	The Wild Heart	1
+Nightbird	boots	The Wild Heart	1
+Nightbird	call	The Wild Heart	4
+Nightbird	capes	The Wild Heart	3
+Nightbird	careless	The Wild Heart	1
+Nightbird	circles	The Wild Heart	1
+Nightbird	color	The Wild Heart	1
+Nightbird	cry	The Wild Heart	3
+Nightbird	crying	The Wild Heart	3
+Nightbird	dark	The Wild Heart	1
+Nightbird	darkened	The Wild Heart	1
+Nightbird	darkness	The Wild Heart	1
+Nightbird	difference	The Wild Heart	1
+Nightbird	dream	The Wild Heart	4
+Nightbird	eye	The Wild Heart	1
+Nightbird	eyes	The Wild Heart	5
+Nightbird	fall	The Wild Heart	1
+Nightbird	feel	The Wild Heart	1
+Nightbird	finally	The Wild Heart	2
+Nightbird	fingers	The Wild Heart	1
+Nightbird	gently	The Wild Heart	4
+Nightbird	hard	The Wild Heart	1
+Nightbird	lace	The Wild Heart	1
+Nightbird	love	The Wild Heart	2
+Nightbird	makes	The Wild Heart	1
+Nightbird	makeup	The Wild Heart	1
+Nightbird	net	The Wild Heart	2
+Nightbird	night	The Wild Heart	13
+Nightbird	nightbird	The Wild Heart	4
+Nightbird	pulled	The Wild Heart	3
+Nightbird	pulls	The Wild Heart	1
+Nightbird	ready	The Wild Heart	1
+Nightbird	real	The Wild Heart	1
+Nightbird	shadow	The Wild Heart	5
+Nightbird	sing	The Wild Heart	8
+Nightbird	skin	The Wild Heart	1
+Nightbird	summer	The Wild Heart	2
+Nightbird	surrounded	The Wild Heart	1
+Nightbird	tight	The Wild Heart	3
+Nightbird	tonight	The Wild Heart	4
+Nightbird	touch	The Wild Heart	1
+Nightbird	walk	The Wild Heart	7
+Nightbird	wear	The Wild Heart	1
+Nightbird	winter	The Wild Heart	1
+Nightbird	winter's	The Wild Heart	1
+No Spoken Word	ah	Rock a Little	1
+No Spoken Word	august	Rock a Little	1
+No Spoken Word	awhile	Rock a Little	1
+No Spoken Word	baby	Rock a Little	3
+No Spoken Word	book	Rock a Little	1
+No Spoken Word	child	Rock a Little	1
+No Spoken Word	command	Rock a Little	5
+No Spoken Word	dark	Rock a Little	2
+No Spoken Word	darkened	Rock a Little	1
+No Spoken Word	day	Rock a Little	1
+No Spoken Word	deal	Rock a Little	2
+No Spoken Word	disasterous	Rock a Little	1
+No Spoken Word	easy	Rock a Little	1
+No Spoken Word	everyting	Rock a Little	1
+No Spoken Word	faith	Rock a Little	1
+No Spoken Word	faithless	Rock a Little	1
+No Spoken Word	fill	Rock a Little	2
+No Spoken Word	ha	Rock a Little	1
+No Spoken Word	hard	Rock a Little	1
+No Spoken Word	heard	Rock a Little	1
+No Spoken Word	indecent	Rock a Little	2
+No Spoken Word	learn	Rock a Little	1
+No Spoken Word	night	Rock a Little	4
+No Spoken Word	ooh	Rock a Little	3
+No Spoken Word	pages	Rock a Little	1
+No Spoken Word	people	Rock a Little	1
+No Spoken Word	play	Rock a Little	1
+No Spoken Word	rain	Rock a Little	2
+No Spoken Word	sound	Rock a Little	1
+No Spoken Word	spoken	Rock a Little	5
+No Spoken Word	street	Rock a Little	1
+No Spoken Word	swear	Rock a Little	2
+No Spoken Word	time	Rock a Little	1
+No Spoken Word	tonight	Rock a Little	2
+No Spoken Word	tough	Rock a Little	1
+No Spoken Word	walk	Rock a Little	1
+No Spoken Word	water	Rock a Little	2
+No Spoken Word	wind	Rock a Little	2
+No Spoken Word	wiser	Rock a Little	1
+No Spoken Word	word	Rock a Little	5
+Nothing Ever Changes	alive	The Wild Heart	2
+Nothing Ever Changes	baby	The Wild Heart	8
+Nothing Ever Changes	boy	The Wild Heart	6
+Nothing Ever Changes	dancer	The Wild Heart	1
+Nothing Ever Changes	dreams	The Wild Heart	1
+Nothing Ever Changes	driving	The Wild Heart	1
+Nothing Ever Changes	feel	The Wild Heart	2
+Nothing Ever Changes	heart	The Wild Heart	1
+Nothing Ever Changes	lies	The Wild Heart	1
+Nothing Ever Changes	life	The Wild Heart	1
+Nothing Ever Changes	lovers	The Wild Heart	1
+Nothing Ever Changes	madness	The Wild Heart	1
+Nothing Ever Changes	music	The Wild Heart	2
+Nothing Ever Changes	ooh	The Wild Heart	3
+Nothing Ever Changes	played	The Wild Heart	1
+Nothing Ever Changes	saved	The Wild Heart	1
+Nothing Ever Changes	straight	The Wild Heart	2
+Nothing Ever Changes	time	The Wild Heart	3
+Nothing Ever Changes	waiting	The Wild Heart	1
+Nothing Ever Changes	yeah	The Wild Heart	4
+Oh Daddy	baby	Rumours	2
+Oh Daddy	cry	Rumours	1
+Oh Daddy	daddy	Rumours	6
+Oh Daddy	fool	Rumours	3
+Oh Daddy	letting	Rumours	2
+Oh Daddy	life	Rumours	2
+Oh Daddy	love	Rumours	1
+Oh Daddy	smile	Rumours	2
+Oh Daddy	soothe	Rumours	2
+Oh Daddy	strong	Rumours	4
+Oh Daddy	understand	Rumours	1
+Oh Daddy	walk	Rumours	2
+Oh Daddy	weak	Rumours	2
+Oh Daddy	wrong	Rumours	4
+Outside the Rain	baby	Bella Donna	2
+Outside the Rain	beat	Bella Donna	2
+Outside the Rain	chain	Bella Donna	1
+Outside the Rain	change	Bella Donna	1
+Outside the Rain	changing	Bella Donna	1
+Outside the Rain	creature	Bella Donna	2
+Outside the Rain	dream	Bella Donna	7
+Outside the Rain	dying	Bella Donna	1
+Outside the Rain	entertain	Bella Donna	1
+Outside the Rain	eyes	Bella Donna	2
+Outside the Rain	feel	Bella Donna	1
+Outside the Rain	forever	Bella Donna	1
+Outside the Rain	game	Bella Donna	1
+Outside the Rain	hard	Bella Donna	1
+Outside the Rain	heart	Bella Donna	2
+Outside the Rain	heartache	Bella Donna	2
+Outside the Rain	link	Bella Donna	1
+Outside the Rain	lonely	Bella Donna	3
+Outside the Rain	love	Bella Donna	4
+Outside the Rain	love's	Bella Donna	1
+Outside the Rain	matter	Bella Donna	2
+Outside the Rain	night	Bella Donna	2
+Outside the Rain	rain	Bella Donna	3
+Outside the Rain	replace	Bella Donna	1
+Outside the Rain	skips	Bella Donna	2
+Outside the Rain	time	Bella Donna	1
+Outside the Rain	tired	Bella Donna	3
+Outside the Rain	touch	Bella Donna	2
+Outside the Rain	week	Bella Donna	2
+Outside the Rain	won	Bella Donna	1
+Outside the Rain	word	Bella Donna	2
+Outside the Rain	words	Bella Donna	1
+Outside the Rain	wrong	Bella Donna	1
+Over My Head	anytime	Fleetwood Mac	1
+Over My Head	baby	Fleetwood Mac	1
+Over My Head	break	Fleetwood Mac	1
+Over My Head	changing	Fleetwood Mac	2
+Over My Head	circus	Fleetwood Mac	2
+Over My Head	cold	Fleetwood Mac	1
+Over My Head	dark	Fleetwood Mac	1
+Over My Head	day	Fleetwood Mac	1
+Over My Head	feel	Fleetwood Mac	2
+Over My Head	feels	Fleetwood Mac	4
+Over My Head	head	Fleetwood Mac	9
+Over My Head	hold	Fleetwood Mac	1
+Over My Head	hurt	Fleetwood Mac	1
+Over My Head	ice	Fleetwood Mac	1
+Over My Head	instrumental	Fleetwood Mac	1
+Over My Head	intro	Fleetwood Mac	1
+Over My Head	love	Fleetwood Mac	1
+Over My Head	mood	Fleetwood Mac	2
+Over My Head	nice	Fleetwood Mac	4
+Over My Head	outro	Fleetwood Mac	1
+Over My Head	paradise	Fleetwood Mac	1
+Over My Head	pride	Fleetwood Mac	1
+Over My Head	tight	Fleetwood Mac	1
+Over My Head	time	Fleetwood Mac	4
+Over My Head	wasting	Fleetwood Mac	2
+Over My Head	wheel	Fleetwood Mac	2
+Rhiannon	bell	Fleetwood Mac	2
+Rhiannon	bird	Fleetwood Mac	2
+Rhiannon	cat	Fleetwood Mac	1
+Rhiannon	dark	Fleetwood Mac	1
+Rhiannon	darkness	Fleetwood Mac	1
+Rhiannon	dreams	Fleetwood Mac	2
+Rhiannon	fine	Fleetwood Mac	1
+Rhiannon	flight	Fleetwood Mac	2
+Rhiannon	heaven	Fleetwood Mac	3
+Rhiannon	life	Fleetwood Mac	5
+Rhiannon	love	Fleetwood Mac	4
+Rhiannon	love's	Fleetwood Mac	2
+Rhiannon	lover	Fleetwood Mac	2
+Rhiannon	mind	Fleetwood Mac	2
+Rhiannon	night	Fleetwood Mac	2
+Rhiannon	promised	Fleetwood Mac	3
+Rhiannon	rhiannon	Fleetwood Mac	8
+Rhiannon	rings	Fleetwood Mac	2
+Rhiannon	rules	Fleetwood Mac	2
+Rhiannon	sky	Fleetwood Mac	5
+Rhiannon	skylark	Fleetwood Mac	1
+Rhiannon	starless	Fleetwood Mac	1
+Rhiannon	stay	Fleetwood Mac	3
+Rhiannon	takes	Fleetwood Mac	1
+Rhiannon	unwind	Fleetwood Mac	2
+Rhiannon	win	Fleetwood Mac	5
+Rhiannon	wind	Fleetwood Mac	3
+Rhiannon	woman	Fleetwood Mac	3
+Rock a Little (Go Ahead Lily)	ahead	Rock a Little	3
+Rock a Little (Go Ahead Lily)	ballerina	Rock a Little	1
+Rock a Little (Go Ahead Lily)	calm	Rock a Little	1
+Rock a Little (Go Ahead Lily)	dancer	Rock a Little	1
+Rock a Little (Go Ahead Lily)	dancin	Rock a Little	2
+Rock a Little (Go Ahead Lily)	daughter	Rock a Little	1
+Rock a Little (Go Ahead Lily)	explanations	Rock a Little	1
+Rock a Little (Go Ahead Lily)	funny	Rock a Little	1
+Rock a Little (Go Ahead Lily)	hit	Rock a Little	13
+Rock a Little (Go Ahead Lily)	learn	Rock a Little	1
+Rock a Little (Go Ahead Lily)	lily	Rock a Little	9
+Rock a Little (Go Ahead Lily)	live	Rock a Little	1
+Rock a Little (Go Ahead Lily)	lots	Rock a Little	1
+Rock a Little (Go Ahead Lily)	loved	Rock a Little	1
+Rock a Little (Go Ahead Lily)	mind	Rock a Little	1
+Rock a Little (Go Ahead Lily)	night	Rock a Little	1
+Rock a Little (Go Ahead Lily)	pale	Rock a Little	1
+Rock a Little (Go Ahead Lily)	pink	Rock a Little	1
+Rock a Little (Go Ahead Lily)	rages	Rock a Little	1
+Rock a Little (Go Ahead Lily)	rock	Rock a Little	8
+Rock a Little (Go Ahead Lily)	roll	Rock a Little	1
+Rock a Little (Go Ahead Lily)	rumours	Rock a Little	1
+Rock a Little (Go Ahead Lily)	satin	Rock a Little	1
+Rock a Little (Go Ahead Lily)	sea	Rock a Little	1
+Rock a Little (Go Ahead Lily)	song	Rock a Little	1
+Rock a Little (Go Ahead Lily)	songs	Rock a Little	1
+Rock a Little (Go Ahead Lily)	stage	Rock a Little	4
+Rock a Little (Go Ahead Lily)	started	Rock a Little	1
+Rock a Little (Go Ahead Lily)	stories	Rock a Little	1
+Rock a Little (Go Ahead Lily)	tangled	Rock a Little	1
+Rock a Little (Go Ahead Lily)	teachers	Rock a Little	1
+Rock a Little (Go Ahead Lily)	time	Rock a Little	3
+Rock a Little (Go Ahead Lily)	told	Rock a Little	1
+Rock a Little (Go Ahead Lily)	watched	Rock a Little	1
+Rock a Little (Go Ahead Lily)	week	Rock a Little	1
+Rock a Little (Go Ahead Lily)	worn	Rock a Little	1
+Rock a Little (Go Ahead Lily)	written	Rock a Little	1
+Sable on Blond	babe	The Wild Heart	2
+Sable on Blond	baby	The Wild Heart	6
+Sable on Blond	beg	The Wild Heart	2
+Sable on Blond	blond	The Wild Heart	3
+Sable on Blond	brave	The Wild Heart	1
+Sable on Blond	calling	The Wild Heart	1
+Sable on Blond	choice	The Wild Heart	1
+Sable on Blond	covered	The Wild Heart	1
+Sable on Blond	dark	The Wild Heart	1
+Sable on Blond	deep	The Wild Heart	2
+Sable on Blond	dream	The Wild Heart	2
+Sable on Blond	excalibur	The Wild Heart	1
+Sable on Blond	fallen	The Wild Heart	1
+Sable on Blond	feather	The Wild Heart	1
+Sable on Blond	fell	The Wild Heart	3
+Sable on Blond	force	The Wild Heart	1
+Sable on Blond	freedom	The Wild Heart	1
+Sable on Blond	frost	The Wild Heart	1
+Sable on Blond	goin	The Wild Heart	1
+Sable on Blond	hands	The Wild Heart	5
+Sable on Blond	heard	The Wild Heart	1
+Sable on Blond	hide	The Wild Heart	1
+Sable on Blond	hold	The Wild Heart	2
+Sable on Blond	hurts	The Wild Heart	2
+Sable on Blond	leaf	The Wild Heart	1
+Sable on Blond	learn	The Wild Heart	1
+Sable on Blond	light	The Wild Heart	1
+Sable on Blond	love	The Wild Heart	2
+Sable on Blond	night	The Wild Heart	5
+Sable on Blond	ooh	The Wild Heart	9
+Sable on Blond	remember	The Wild Heart	1
+Sable on Blond	sable	The Wild Heart	1
+Sable on Blond	sacred	The Wild Heart	1
+Sable on Blond	save	The Wild Heart	1
+Sable on Blond	silence	The Wild Heart	1
+Sable on Blond	stranger	The Wild Heart	2
+Sable on Blond	thorn	The Wild Heart	1
+Sable on Blond	time	The Wild Heart	9
+Sable on Blond	touch	The Wild Heart	1
+Sable on Blond	voice	The Wild Heart	2
+Sable on Blond	whoa	The Wild Heart	1
+Sable on Blond	windows	The Wild Heart	1
+Say You Love Me	baby	Fleetwood Mac	4
+Say You Love Me	begging	Fleetwood Mac	1
+Say You Love Me	break	Fleetwood Mac	1
+Say You Love Me	cover	Fleetwood Mac	1
+Say You Love Me	everyday	Fleetwood Mac	1
+Say You Love Me	falling	Fleetwood Mac	21
+Say You Love Me	feeling	Fleetwood Mac	1
+Say You Love Me	feet	Fleetwood Mac	1
+Say You Love Me	girl	Fleetwood Mac	1
+Say You Love Me	gonna	Fleetwood Mac	1
+Say You Love Me	guess	Fleetwood Mac	1
+Say You Love Me	head	Fleetwood Mac	1
+Say You Love Me	hope	Fleetwood Mac	1
+Say You Love Me	instrumental	Fleetwood Mac	1
+Say You Love Me	lights	Fleetwood Mac	4
+Say You Love Me	living	Fleetwood Mac	4
+Say You Love Me	love	Fleetwood Mac	6
+Say You Love Me	loving	Fleetwood Mac	4
+Say You Love Me	mercy	Fleetwood Mac	1
+Say You Love Me	pity	Fleetwood Mac	1
+Say You Love Me	poor	Fleetwood Mac	1
+Say You Love Me	running	Fleetwood Mac	3
+Say You Love Me	soul	Fleetwood Mac	4
+Say You Love Me	starts	Fleetwood Mac	4
+Say You Love Me	stay	Fleetwood Mac	1
+Say You Love Me	strong	Fleetwood Mac	1
+Say You Love Me	sun	Fleetwood Mac	4
+Say You Love Me	sympathy	Fleetwood Mac	1
+Say You Love Me	tingling	Fleetwood Mac	1
+Say You Love Me	toes	Fleetwood Mac	1
+Say You Love Me	weaker	Fleetwood Mac	2
+Say You Love Me	woo	Fleetwood Mac	4
+Say You Love Me	yeah	Fleetwood Mac	1
+Second Hand News	bad	Rumours	3
+Second Hand News	bow	Rumours	108
+Second Hand News	buh	Rumours	30
+Second Hand News	da	Rumours	3
+Second Hand News	doo	Rumours	3
+Second Hand News	doodladoo	Rumours	3
+Second Hand News	gonna	Rumours	1
+Second Hand News	grass	Rumours	3
+Second Hand News	hand	Rumours	8
+Second Hand News	hoping	Rumours	1
+Second Hand News	lay	Rumours	3
+Second Hand News	mind	Rumours	1
+Second Hand News	miss	Rumours	1
+Second Hand News	news	Rumours	8
+Second Hand News	peace	Rumours	1
+Second Hand News	rough	Rumours	2
+Second Hand News	stuff	Rumours	4
+Second Hand News	tall	Rumours	3
+Second Hand News	times	Rumours	5
+Second Hand News	tossed	Rumours	1
+Second Hand News	yeah	Rumours	6
+Silver Springs	ago	Rumours	1
+Silver Springs	autumn	Rumours	1
+Silver Springs	baby	Rumours	3
+Silver Springs	begin	Rumours	1
+Silver Springs	blue	Rumours	1
+Silver Springs	cast	Rumours	3
+Silver Springs	chance	Rumours	2
+Silver Springs	colors	Rumours	1
+Silver Springs	crashing	Rumours	1
+Silver Springs	dream	Rumours	1
+Silver Springs	flashing	Rumours	1
+Silver Springs	follow	Rumours	2
+Silver Springs	fool	Rumours	1
+Silver Springs	forget	Rumours	3
+Silver Springs	green	Rumours	1
+Silver Springs	haunt	Rumours	2
+Silver Springs	love	Rumours	1
+Silver Springs	loved	Rumours	9
+Silver Springs	ocean	Rumours	1
+Silver Springs	pretty	Rumours	2
+Silver Springs	running	Rumours	1
+Silver Springs	shining	Rumours	1
+Silver Springs	silver	Rumours	1
+Silver Springs	sound	Rumours	4
+Silver Springs	spell	Rumours	3
+Silver Springs	spring	Rumours	1
+Silver Springs	til	Rumours	2
+Silver Springs	time	Rumours	3
+Silver Springs	voice	Rumours	2
+Silver Springs	wanna	Rumours	3
+Silver Springs	woman	Rumours	2
+Silver Springs	worth	Rumours	1
+Sister Honey	allowed	Rock a Little	1
+Sister Honey	alright	Rock a Little	1
+Sister Honey	answer's	Rock a Little	2
+Sister Honey	baby	Rock a Little	4
+Sister Honey	believes	Rock a Little	1
+Sister Honey	brother	Rock a Little	2
+Sister Honey	chance	Rock a Little	1
+Sister Honey	crossed	Rock a Little	1
+Sister Honey	day	Rock a Little	2
+Sister Honey	fascination	Rock a Little	1
+Sister Honey	fast	Rock a Little	2
+Sister Honey	fool	Rock a Little	1
+Sister Honey	friends	Rock a Little	2
+Sister Honey	fury	Rock a Little	1
+Sister Honey	glory	Rock a Little	1
+Sister Honey	golden	Rock a Little	2
+Sister Honey	hair	Rock a Little	2
+Sister Honey	hit	Rock a Little	1
+Sister Honey	honey	Rock a Little	1
+Sister Honey	intentions	Rock a Little	2
+Sister Honey	jet	Rock a Little	1
+Sister Honey	leaving	Rock a Little	1
+Sister Honey	mind	Rock a Little	2
+Sister Honey	nobody's	Rock a Little	1
+Sister Honey	plane	Rock a Little	1
+Sister Honey	pleasure	Rock a Little	1
+Sister Honey	real	Rock a Little	1
+Sister Honey	ride	Rock a Little	1
+Sister Honey	sister	Rock a Little	2
+Sister Honey	solemn	Rock a Little	1
+Sister Honey	soul	Rock a Little	1
+Sister Honey	star	Rock a Little	1
+Sister Honey	story	Rock a Little	1
+Sister Honey	strange	Rock a Little	1
+Sister Honey	stranger	Rock a Little	1
+Sister Honey	stream	Rock a Little	1
+Sister Honey	temptation	Rock a Little	1
+Sister Honey	time	Rock a Little	4
+Sister Honey	true	Rock a Little	1
+Sister Honey	understand	Rock a Little	1
+Sister Honey	whispering	Rock a Little	1
+Sister Honey	word	Rock a Little	1
+Sister Honey	words	Rock a Little	1
+Some Become Strangers	baby	Rock a Little	1
+Some Become Strangers	beginning	Rock a Little	1
+Some Become Strangers	believed	Rock a Little	1
+Some Become Strangers	changed	Rock a Little	1
+Some Become Strangers	easy	Rock a Little	1
+Some Become Strangers	eyes	Rock a Little	1
+Some Become Strangers	forget	Rock a Little	1
+Some Become Strangers	giving	Rock a Little	2
+Some Become Strangers	goodbye	Rock a Little	1
+Some Become Strangers	happened	Rock a Little	1
+Some Become Strangers	hoping	Rock a Little	1
+Some Become Strangers	hurricane	Rock a Little	1
+Some Become Strangers	life	Rock a Little	1
+Some Become Strangers	light	Rock a Little	3
+Some Become Strangers	live	Rock a Little	1
+Some Become Strangers	love	Rock a Little	4
+Some Become Strangers	memory	Rock a Little	1
+Some Become Strangers	remember	Rock a Little	1
+Some Become Strangers	smile	Rock a Little	1
+Some Become Strangers	soul	Rock a Little	2
+Some Become Strangers	stranger	Rock a Little	6
+Some Become Strangers	stranger's	Rock a Little	1
+Some Become Strangers	strangers	Rock a Little	3
+Some Become Strangers	time	Rock a Little	3
+Songbird	alright	Rumours	2
+Songbird	cold	Rumours	1
+Songbird	crying	Rumours	1
+Songbird	feel	Rumours	2
+Songbird	love	Rumours	7
+Songbird	score	Rumours	2
+Songbird	shining	Rumours	1
+Songbird	singing	Rumours	2
+Songbird	songbirds	Rumours	2
+Songbird	sun	Rumours	1
+Songbird	there'll	Rumours	1
+Songbird	world	Rumours	2
+Stand Back	ah	The Wild Heart	1
+Stand Back	alright	The Wild Heart	8
+Stand Back	attention	The Wild Heart	2
+Stand Back	bend	The Wild Heart	1
+Stand Back	call	The Wild Heart	2
+Stand Back	calls	The Wild Heart	1
+Stand Back	cry	The Wild Heart	4
+Stand Back	doo	The Wild Heart	4
+Stand Back	feel	The Wild Heart	1
+Stand Back	fine	The Wild Heart	1
+Stand Back	friend	The Wild Heart	1
+Stand Back	hand	The Wild Heart	1
+Stand Back	hear	The Wild Heart	3
+Stand Back	heart	The Wild Heart	1
+Stand Back	home	The Wild Heart	9
+Stand Back	invitation	The Wild Heart	1
+Stand Back	la	The Wild Heart	52
+Stand Back	line	The Wild Heart	10
+Stand Back	lines	The Wild Heart	1
+Stand Back	looked	The Wild Heart	1
+Stand Back	love	The Wild Heart	2
+Stand Back	middle	The Wild Heart	3
+Stand Back	ran	The Wild Heart	1
+Stand Back	read	The Wild Heart	1
+Stand Back	stand	The Wild Heart	13
+Stand Back	standing	The Wild Heart	13
+Stand Back	sympathy	The Wild Heart	4
+Stand Back	walked	The Wild Heart	5
+Stand Back	willow	The Wild Heart	1
+Stand Back	wo	The Wild Heart	1
+Stop Draggin’ My Heart Around	baby	Bella Donna	3
+Stop Draggin’ My Heart Around	bright	Bella Donna	1
+Stop Draggin’ My Heart Around	buckle	Bella Donna	2
+Stop Draggin’ My Heart Around	demons	Bella Donna	1
+Stop Draggin’ My Heart Around	door	Bella Donna	1
+Stop Draggin’ My Heart Around	draggin	Bella Donna	13
+Stop Draggin’ My Heart Around	eye	Bella Donna	2
+Stop Draggin’ My Heart Around	eyed	Bella Donna	1
+Stop Draggin’ My Heart Around	front	Bella Donna	1
+Stop Draggin’ My Heart Around	girl	Bella Donna	2
+Stop Draggin’ My Heart Around	goodbye	Bella Donna	2
+Stop Draggin’ My Heart Around	hard	Bella Donna	2
+Stop Draggin’ My Heart Around	heart	Bella Donna	7
+Stop Draggin’ My Heart Around	keeping	Bella Donna	1
+Stop Draggin’ My Heart Around	kid	Bella Donna	1
+Stop Draggin’ My Heart Around	knocking	Bella Donna	1
+Stop Draggin’ My Heart Around	line	Bella Donna	1
+Stop Draggin’ My Heart Around	loose	Bella Donna	1
+Stop Draggin’ My Heart Around	lost	Bella Donna	1
+Stop Draggin’ My Heart Around	meal	Bella Donna	1
+Stop Draggin’ My Heart Around	people	Bella Donna	1
+Stop Draggin’ My Heart Around	round	Bella Donna	1
+Stop Draggin’ My Heart Around	running	Bella Donna	1
+Stop Draggin’ My Heart Around	stop	Bella Donna	13
+Stop Draggin’ My Heart Around	supposed	Bella Donna	1
+Stop Draggin’ My Heart Around	town	Bella Donna	1
+Stop Draggin’ My Heart Around	trouble	Bella Donna	1
+Stop Draggin’ My Heart Around	wanna	Bella Donna	4
+Stop Draggin’ My Heart Around	weight	Bella Donna	2
+Stop Draggin’ My Heart Around	world	Bella Donna	3
+Stop Draggin’ My Heart Around	yeah	Bella Donna	3
+Sugar Daddy	baby	Fleetwood Mac	3
+Sugar Daddy	car	Fleetwood Mac	1
+Sugar Daddy	care	Fleetwood Mac	2
+Sugar Daddy	daddy	Fleetwood Mac	1
+Sugar Daddy	eat	Fleetwood Mac	1
+Sugar Daddy	fancy	Fleetwood Mac	1
+Sugar Daddy	friend	Fleetwood Mac	1
+Sugar Daddy	hand	Fleetwood Mac	1
+Sugar Daddy	hungry	Fleetwood Mac	1
+Sugar Daddy	leave	Fleetwood Mac	3
+Sugar Daddy	lend	Fleetwood Mac	2
+Sugar Daddy	love	Fleetwood Mac	17
+Sugar Daddy	money	Fleetwood Mac	1
+Sugar Daddy	movie	Fleetwood Mac	1
+Sugar Daddy	neat	Fleetwood Mac	1
+Sugar Daddy	pick	Fleetwood Mac	1
+Sugar Daddy	pretend	Fleetwood Mac	1
+Sugar Daddy	serve	Fleetwood Mac	1
+Sugar Daddy	star	Fleetwood Mac	1
+Sugar Daddy	sugar	Fleetwood Mac	1
+Sugar Daddy	sympathy	Fleetwood Mac	3
+Sugar Daddy	whiskey	Fleetwood Mac	1
+Talk to Me	baby	Rock a Little	4
+Talk to Me	bounds	Rock a Little	1
+Talk to Me	bout	Rock a Little	2
+Talk to Me	break	Rock a Little	1
+Talk to Me	burn	Rock a Little	1
+Talk to Me	cards	Rock a Little	1
+Talk to Me	carpets	Rock a Little	1
+Talk to Me	cheek	Rock a Little	2
+Talk to Me	common	Rock a Little	1
+Talk to Me	dancing	Rock a Little	1
+Talk to Me	danger	Rock a Little	1
+Talk to Me	deep	Rock a Little	1
+Talk to Me	doubt	Rock a Little	1
+Talk to Me	dreams	Rock a Little	1
+Talk to Me	dusty	Rock a Little	1
+Talk to Me	expression	Rock a Little	3
+Talk to Me	fear	Rock a Little	1
+Talk to Me	free	Rock a Little	3
+Talk to Me	ground	Rock a Little	1
+Talk to Me	happening	Rock a Little	1
+Talk to Me	hard	Rock a Little	2
+Talk to Me	heard	Rock a Little	1
+Talk to Me	hidden	Rock a Little	1
+Talk to Me	hide	Rock a Little	1
+Talk to Me	hurt	Rock a Little	1
+Talk to Me	inside	Rock a Little	1
+Talk to Me	lay	Rock a Little	1
+Talk to Me	locked	Rock a Little	1
+Talk to Me	lose	Rock a Little	1
+Talk to Me	lying	Rock a Little	1
+Talk to Me	meet	Rock a Little	1
+Talk to Me	neglect	Rock a Little	1
+Talk to Me	phone	Rock a Little	3
+Talk to Me	rings	Rock a Little	3
+Talk to Me	round	Rock a Little	1
+Talk to Me	run	Rock a Little	1
+Talk to Me	safe	Rock a Little	1
+Talk to Me	secret	Rock a Little	1
+Talk to Me	secrets	Rock a Little	3
+Talk to Me	seldom	Rock a Little	1
+Talk to Me	sense	Rock a Little	1
+Talk to Me	set	Rock a Little	3
+Talk to Me	shown	Rock a Little	1
+Talk to Me	stray	Rock a Little	1
+Talk to Me	subject	Rock a Little	1
+Talk to Me	swelling	Rock a Little	1
+Talk to Me	talk	Rock a Little	11
+Talk to Me	tear	Rock a Little	4
+Talk to Me	thinkin	Rock a Little	2
+Talk to Me	tough	Rock a Little	2
+Talk to Me	treated	Rock a Little	1
+Talk to Me	veil	Rock a Little	1
+Talk to Me	view	Rock a Little	1
+Talk to Me	voices	Rock a Little	1
+Talk to Me	walls	Rock a Little	2
+Talk to Me	words	Rock a Little	1
+Talk to Me	worse	Rock a Little	1
+Talk to Me	wound	Rock a Little	1
+Talk to Me	yeah	Rock a Little	1
+The Chain	blow	Rumours	2
+The Chain	break	Rumours	11
+The Chain	chain	Rumours	15
+The Chain	damn	Rumours	6
+The Chain	dark	Rumours	1
+The Chain	fuck	Rumours	1
+The Chain	hear	Rumours	8
+The Chain	lies	Rumours	2
+The Chain	light	Rumours	1
+The Chain	listen	Rumours	2
+The Chain	love	Rumours	15
+The Chain	night	Rumours	1
+The Chain	rise	Rumours	1
+The Chain	run	Rumours	5
+The Chain	runnin	Rumours	2
+The Chain	shadow	Rumours	5
+The Chain	shadows	Rumours	2
+The Chain	silence	Rumours	1
+The Chain	sun	Rumours	1
+The Chain	watch	Rumours	1
+The Chain	wind	Rumours	2
+The Highwayman	ahead	Bella Donna	1
+The Highwayman	alas	Bella Donna	1
+The Highwayman	begun	Bella Donna	1
+The Highwayman	beneath	Bella Donna	1
+The Highwayman	burn	Bella Donna	1
+The Highwayman	challenge	Bella Donna	1
+The Highwayman	chases	Bella Donna	1
+The Highwayman	coming	Bella Donna	1
+The Highwayman	competition	Bella Donna	1
+The Highwayman	considers	Bella Donna	1
+The Highwayman	disappears	Bella Donna	1
+The Highwayman	distance	Bella Donna	1
+The Highwayman	dragonfly	Bella Donna	1
+The Highwayman	dream	Bella Donna	4
+The Highwayman	enter	Bella Donna	1
+The Highwayman	eyes	Bella Donna	1
+The Highwayman	feels	Bella Donna	2
+The Highwayman	fights	Bella Donna	2
+The Highwayman	fool	Bella Donna	1
+The Highwayman	glory	Bella Donna	4
+The Highwayman	hands	Bella Donna	1
+The Highwayman	heartbeats	Bella Donna	1
+The Highwayman	highway	Bella Donna	1
+The Highwayman	highwayman	Bella Donna	2
+The Highwayman	horse	Bella Donna	1
+The Highwayman	life	Bella Donna	1
+The Highwayman	light	Bella Donna	1
+The Highwayman	likes	Bella Donna	1
+The Highwayman	lived	Bella Donna	1
+The Highwayman	love	Bella Donna	3
+The Highwayman	magic	Bella Donna	1
+The Highwayman	moon	Bella Donna	1
+The Highwayman	night	Bella Donna	1
+The Highwayman	pale	Bella Donna	1
+The Highwayman	queen	Bella Donna	2
+The Highwayman	quick	Bella Donna	1
+The Highwayman	real	Bella Donna	2
+The Highwayman	ride	Bella Donna	1
+The Highwayman	rider	Bella Donna	1
+The Highwayman	sky	Bella Donna	1
+The Highwayman	slowing	Bella Donna	1
+The Highwayman	tears	Bella Donna	1
+The Highwayman	thunder	Bella Donna	1
+The Highwayman	violent	Bella Donna	1
+The Highwayman	wakes	Bella Donna	1
+The Highwayman	welled	Bella Donna	1
+The Highwayman	win	Bella Donna	2
+The Highwayman	wind	Bella Donna	1
+The Highwayman	wine	Bella Donna	1
+The Highwayman	wishes	Bella Donna	1
+The Highwayman	woman	Bella Donna	1
+The Highwayman	wonders	Bella Donna	2
+The Nightmare	ancient	Rock a Little	1
+The Nightmare	anytime	Rock a Little	2
+The Nightmare	arms	Rock a Little	1
+The Nightmare	blinded	Rock a Little	5
+The Nightmare	call	Rock a Little	2
+The Nightmare	called	Rock a Little	1
+The Nightmare	calling	Rock a Little	2
+The Nightmare	care	Rock a Little	1
+The Nightmare	children	Rock a Little	1
+The Nightmare	cry	Rock a Little	1
+The Nightmare	dare	Rock a Little	1
+The Nightmare	day	Rock a Little	5
+The Nightmare	deep	Rock a Little	1
+The Nightmare	dream	Rock a Little	9
+The Nightmare	drowning	Rock a Little	2
+The Nightmare	fell	Rock a Little	1
+The Nightmare	fight	Rock a Little	1
+The Nightmare	flung	Rock a Little	1
+The Nightmare	friend	Rock a Little	1
+The Nightmare	heart	Rock a Little	1
+The Nightmare	ivory	Rock a Little	1
+The Nightmare	leave	Rock a Little	1
+The Nightmare	light	Rock a Little	4
+The Nightmare	love	Rock a Little	1
+The Nightmare	moon	Rock a Little	1
+The Nightmare	morning	Rock a Little	1
+The Nightmare	mystery	Rock a Little	1
+The Nightmare	night	Rock a Little	2
+The Nightmare	nightmare	Rock a Little	9
+The Nightmare	paled	Rock a Little	1
+The Nightmare	prisoner	Rock a Little	3
+The Nightmare	real	Rock a Little	1
+The Nightmare	sea	Rock a Little	1
+The Nightmare	share	Rock a Little	1
+The Nightmare	sisters	Rock a Little	1
+The Nightmare	sleep	Rock a Little	1
+The Nightmare	stand	Rock a Little	1
+The Nightmare	stood	Rock a Little	1
+The Nightmare	storm	Rock a Little	1
+The Nightmare	thrown	Rock a Little	1
+The Nightmare	till	Rock a Little	1
+The Nightmare	times	Rock a Little	1
+The Nightmare	understand	Rock a Little	1
+The Nightmare	wake	Rock a Little	1
+The Nightmare	wakes	Rock a Little	1
+The Nightmare	walks	Rock a Little	1
+The Nightmare	warm	Rock a Little	1
+The Nightmare	waters	Rock a Little	1
+The Nightmare	win	Rock a Little	1
+The Nightmare	wisdom	Rock a Little	1
+The Nightmare	world	Rock a Little	6
+Think About It	anytime	Bella Donna	3
+Think About It	baby	Bella Donna	3
+Think About It	bad	Bella Donna	1
+Think About It	catcher	Bella Donna	2
+Think About It	danger	Bella Donna	3
+Think About It	dreams	Bella Donna	1
+Think About It	endless	Bella Donna	2
+Think About It	fading	Bella Donna	2
+Think About It	falling	Bella Donna	2
+Think About It	feel	Bella Donna	2
+Think About It	forever	Bella Donna	4
+Think About It	fortune	Bella Donna	5
+Think About It	heart	Bella Donna	6
+Think About It	heartbreak	Bella Donna	2
+Think About It	honey	Bella Donna	2
+Think About It	lay	Bella Donna	1
+Think About It	leaving	Bella Donna	3
+Think About It	life	Bella Donna	2
+Think About It	life's	Bella Donna	5
+Think About It	love	Bella Donna	5
+Think About It	moment	Bella Donna	2
+Think About It	morning	Bella Donna	1
+Think About It	situation	Bella Donna	1
+Think About It	star	Bella Donna	4
+Think About It	step	Bella Donna	1
+Think About It	torment	Bella Donna	1
+Think About It	velvet	Bella Donna	1
+Think About It	whoa	Bella Donna	1
+Warm Ways	dream	Fleetwood Mac	1
+Warm Ways	easy	Fleetwood Mac	1
+Warm Ways	forever	Fleetwood Mac	4
+Warm Ways	gentle	Fleetwood Mac	1
+Warm Ways	hide	Fleetwood Mac	1
+Warm Ways	light	Fleetwood Mac	1
+Warm Ways	love	Fleetwood Mac	4
+Warm Ways	morning	Fleetwood Mac	1
+Warm Ways	sleep	Fleetwood Mac	3
+Warm Ways	slumber	Fleetwood Mac	1
+Warm Ways	sun	Fleetwood Mac	2
+Warm Ways	tonight	Fleetwood Mac	1
+Warm Ways	waiting	Fleetwood Mac	2
+Warm Ways	warm	Fleetwood Mac	2
+Warm Ways	woman	Fleetwood Mac	1
+Wild Heart	ago	The Wild Heart	1
+Wild Heart	angels	The Wild Heart	2
+Wild Heart	baby	The Wild Heart	7
+Wild Heart	beginning	The Wild Heart	1
+Wild Heart	blame	The Wild Heart	21
+Wild Heart	broke	The Wild Heart	1
+Wild Heart	broken	The Wild Heart	1
+Wild Heart	children	The Wild Heart	3
+Wild Heart	chip	The Wild Heart	1
+Wild Heart	danger	The Wild Heart	2
+Wild Heart	dare	The Wild Heart	2
+Wild Heart	dark	The Wild Heart	1
+Wild Heart	darkest	The Wild Heart	7
+Wild Heart	died	The Wild Heart	1
+Wild Heart	enchanted	The Wild Heart	3
+Wild Heart	fall	The Wild Heart	1
+Wild Heart	fearlessness	The Wild Heart	2
+Wild Heart	fever	The Wild Heart	1
+Wild Heart	fire	The Wild Heart	2
+Wild Heart	flight	The Wild Heart	1
+Wild Heart	forget	The Wild Heart	1
+Wild Heart	fought	The Wild Heart	1
+Wild Heart	gaze	The Wild Heart	1
+Wild Heart	heart	The Wild Heart	22
+Wild Heart	hopelessly	The Wild Heart	3
+Wild Heart	leave	The Wild Heart	1
+Wild Heart	leaving	The Wild Heart	1
+Wild Heart	love	The Wild Heart	1
+Wild Heart	mind	The Wild Heart	6
+Wild Heart	night	The Wild Heart	2
+Wild Heart	ooh	The Wild Heart	9
+Wild Heart	rain	The Wild Heart	1
+Wild Heart	reason	The Wild Heart	3
+Wild Heart	reasons	The Wild Heart	1
+Wild Heart	run	The Wild Heart	1
+Wild Heart	seasons	The Wild Heart	1
+Wild Heart	sorrow	The Wild Heart	1
+Wild Heart	soul	The Wild Heart	1
+Wild Heart	spirit	The Wild Heart	1
+Wild Heart	start	The Wild Heart	3
+Wild Heart	tear	The Wild Heart	1
+Wild Heart	whoa	The Wild Heart	2
+Wild Heart	wild	The Wild Heart	23
+World Turning	belong	Fleetwood Mac	1
+World Turning	everybody's	Fleetwood Mac	6
+World Turning	feet	Fleetwood Mac	3
+World Turning	gotta	Fleetwood Mac	3
+World Turning	ground	Fleetwood Mac	3
+World Turning	night	Fleetwood Mac	2
+World Turning	umm	Fleetwood Mac	1
+World Turning	wanna	Fleetwood Mac	1
+World Turning	world	Fleetwood Mac	7
+World Turning	wrong	Fleetwood Mac	3
+You Make Loving Fun	beginning	Rumours	2
+You Make Loving Fun	break	Rumours	1
+You Make Loving Fun	feeling	Rumours	3
+You Make Loving Fun	fun	Rumours	5
+You Make Loving Fun	happy	Rumours	1
+You Make Loving Fun	loving	Rumours	5
+You Make Loving Fun	magic	Rumours	2
+You Make Loving Fun	miracles	Rumours	2
+You Make Loving Fun	spell	Rumours	1
+You Make Loving Fun	sweet	Rumours	1
+You Make Loving Fun	time	Rumours	2
+You Make Loving Fun	wonderful	Rumours	1

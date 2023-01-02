@@ -1,0 +1,2860 @@
+song_name	word	album	n
+A Perfect Life	aching	I Don t Want The Goldfire Sessions	1
+A Perfect Life	ain’t	I Don t Want The Goldfire Sessions	1
+A Perfect Life	applause	I Don t Want The Goldfire Sessions	1
+A Perfect Life	army	I Don t Want The Goldfire Sessions	1
+A Perfect Life	blooming	I Don t Want The Goldfire Sessions	1
+A Perfect Life	bug	I Don t Want The Goldfire Sessions	1
+A Perfect Life	buzz	I Don t Want The Goldfire Sessions	1
+A Perfect Life	can’t	I Don t Want The Goldfire Sessions	4
+A Perfect Life	caught	I Don t Want The Goldfire Sessions	1
+A Perfect Life	chase	I Don t Want The Goldfire Sessions	2
+A Perfect Life	close	I Don t Want The Goldfire Sessions	4
+A Perfect Life	command	I Don t Want The Goldfire Sessions	1
+A Perfect Life	cover	I Don t Want The Goldfire Sessions	1
+A Perfect Life	create	I Don t Want The Goldfire Sessions	1
+A Perfect Life	day	I Don t Want The Goldfire Sessions	2
+A Perfect Life	debutante	I Don t Want The Goldfire Sessions	1
+A Perfect Life	disguise	I Don t Want The Goldfire Sessions	2
+A Perfect Life	doey	I Don t Want The Goldfire Sessions	2
+A Perfect Life	don’t	I Don t Want The Goldfire Sessions	3
+A Perfect Life	dreaming	I Don t Want The Goldfire Sessions	2
+A Perfect Life	em	I Don t Want The Goldfire Sessions	1
+A Perfect Life	entertain	I Don t Want The Goldfire Sessions	1
+A Perfect Life	eyed	I Don t Want The Goldfire Sessions	2
+A Perfect Life	eyes	I Don t Want The Goldfire Sessions	4
+A Perfect Life	fall	I Don t Want The Goldfire Sessions	1
+A Perfect Life	flaunt	I Don t Want The Goldfire Sessions	1
+A Perfect Life	flawless	I Don t Want The Goldfire Sessions	1
+A Perfect Life	fuss	I Don t Want The Goldfire Sessions	1
+A Perfect Life	glove	I Don t Want The Goldfire Sessions	1
+A Perfect Life	guarded	I Don t Want The Goldfire Sessions	1
+A Perfect Life	hot	I Don t Want The Goldfire Sessions	1
+A Perfect Life	i’ll	I Don t Want The Goldfire Sessions	2
+A Perfect Life	i’m	I Don t Want The Goldfire Sessions	5
+A Perfect Life	i’ve	I Don t Want The Goldfire Sessions	1
+A Perfect Life	it’s	I Don t Want The Goldfire Sessions	2
+A Perfect Life	life	I Don t Want The Goldfire Sessions	4
+A Perfect Life	love	I Don t Want The Goldfire Sessions	3
+A Perfect Life	move	I Don t Want The Goldfire Sessions	1
+A Perfect Life	nearer	I Don t Want The Goldfire Sessions	2
+A Perfect Life	nuance	I Don t Want The Goldfire Sessions	1
+A Perfect Life	oo	I Don t Want The Goldfire Sessions	4
+A Perfect Life	ooo	I Don t Want The Goldfire Sessions	2
+A Perfect Life	perfect	I Don t Want The Goldfire Sessions	7
+A Perfect Life	pretty	I Don t Want The Goldfire Sessions	1
+A Perfect Life	real	I Don t Want The Goldfire Sessions	1
+A Perfect Life	reel	I Don t Want The Goldfire Sessions	1
+A Perfect Life	speci	I Don t Want The Goldfire Sessions	1
+A Perfect Life	spots	I Don t Want The Goldfire Sessions	1
+A Perfect Life	sun	I Don t Want The Goldfire Sessions	1
+A Perfect Life	surely	I Don t Want The Goldfire Sessions	1
+A Perfect Life	til	I Don t Want The Goldfire Sessions	2
+A Perfect Life	time	I Don t Want The Goldfire Sessions	8
+A Perfect Life	upfront	I Don t Want The Goldfire Sessions	1
+A Perfect Life	wake	I Don t Want The Goldfire Sessions	2
+A Perfect Life	wear	I Don t Want The Goldfire Sessions	1
+A Perfect Life	what’s	I Don t Want The Goldfire Sessions	1
+Ain’t Ready	beneath	Spirituals	1
+Ain’t Ready	blame	Spirituals	1
+Ain’t Ready	blind	Spirituals	1
+Ain’t Ready	blow	Spirituals	3
+Ain’t Ready	boy	Spirituals	1
+Ain’t Ready	buddies	Spirituals	1
+Ain’t Ready	call	Spirituals	1
+Ain’t Ready	comin	Spirituals	4
+Ain’t Ready	dash	Spirituals	1
+Ain’t Ready	days	Spirituals	1
+Ain’t Ready	door	Spirituals	1
+Ain’t Ready	drivin	Spirituals	1
+Ain’t Ready	ears	Spirituals	1
+Ain’t Ready	ego	Spirituals	1
+Ain’t Ready	em	Spirituals	3
+Ain’t Ready	eye	Spirituals	3
+Ain’t Ready	faith	Spirituals	1
+Ain’t Ready	feel	Spirituals	2
+Ain’t Ready	floor	Spirituals	1
+Ain’t Ready	fools	Spirituals	1
+Ain’t Ready	fussin	Spirituals	1
+Ain’t Ready	gettin	Spirituals	4
+Ain’t Ready	gotta	Spirituals	1
+Ain’t Ready	guard	Spirituals	1
+Ain’t Ready	hard	Spirituals	3
+Ain’t Ready	headstrong	Spirituals	1
+Ain’t Ready	hear	Spirituals	1
+Ain’t Ready	heart	Spirituals	3
+Ain’t Ready	heavy	Spirituals	1
+Ain’t Ready	hey	Spirituals	21
+Ain’t Ready	hits	Spirituals	1
+Ain’t Ready	home	Spirituals	1
+Ain’t Ready	hoo	Spirituals	3
+Ain’t Ready	kick	Spirituals	3
+Ain’t Ready	leave	Spirituals	1
+Ain’t Ready	lettin	Spirituals	3
+Ain’t Ready	lies	Spirituals	1
+Ain’t Ready	love	Spirituals	1
+Ain’t Ready	makin	Spirituals	1
+Ain’t Ready	maze	Spirituals	1
+Ain’t Ready	mighty	Spirituals	3
+Ain’t Ready	nеver	Spirituals	1
+Ain’t Ready	ooh	Spirituals	6
+Ain’t Ready	play	Spirituals	3
+Ain’t Ready	ready	Spirituals	9
+Ain’t Ready	reigns	Spirituals	3
+Ain’t Ready	ride	Spirituals	1
+Ain’t Ready	runnin	Spirituals	1
+Ain’t Ready	savior	Spirituals	1
+Ain’t Ready	sayin	Spirituals	1
+Ain’t Ready	sekin	Spirituals	1
+Ain’t Ready	siren	Spirituals	1
+Ain’t Ready	spill	Spirituals	1
+Ain’t Ready	stand	Spirituals	1
+Ain’t Ready	stop	Spirituals	3
+Ain’t Ready	takin	Spirituals	4
+Ain’t Ready	time	Spirituals	4
+Ain’t Ready	top	Spirituals	1
+Ain’t Ready	trapped	Spirituals	1
+Ain’t Ready	wastin	Spirituals	1
+Ain’t Ready	workin	Spirituals	1
+Ain’t Ready	wе	Spirituals	1
+Ain’t Ready	y'all	Spirituals	4
+Ain’t Ready	ya	Spirituals	3
+Ain’t Ready	yeah	Spirituals	26
+All I Got	ahead	99	3
+All I Got	ain’t	99	1
+All I Got	baby	99	1
+All I Got	bring	99	2
+All I Got	build	99	1
+All I Got	can’t	99	2
+All I Got	crowd’s	99	1
+All I Got	cut	99	1
+All I Got	da	99	3
+All I Got	devout	99	1
+All I Got	dignity	99	1
+All I Got	don’t	99	2
+All I Got	dum	99	8
+All I Got	em	99	2
+All I Got	empire	99	1
+All I Got	encore	99	1
+All I Got	eye	99	1
+All I Got	folk	99	1
+All I Got	gon	99	1
+All I Got	gonna	99	3
+All I Got	grim	99	1
+All I Got	hard	99	1
+All I Got	hell	99	1
+All I Got	heya	99	4
+All I Got	i’ll	99	8
+All I Got	i’m	99	3
+All I Got	knees	99	1
+All I Got	knock	99	1
+All I Got	leave	99	1
+All I Got	live	99	2
+All I Got	low	99	1
+All I Got	motto	99	1
+All I Got	personal	99	1
+All I Got	perspire	99	1
+All I Got	play	99	1
+All I Got	post	99	1
+All I Got	scraping	99	1
+All I Got	smarter	99	1
+All I Got	surround	99	1
+All I Got	they’ll	99	1
+All I Got	til	99	1
+All I Got	trace	99	1
+All I Got	ya	99	1
+Anne	ah	Santigold	5
+Anne	ahead	Santigold	2
+Anne	anne	Santigold	2
+Anne	bad	Santigold	1
+Anne	bait	Santigold	1
+Anne	calling	Santigold	1
+Anne	complicated	Santigold	2
+Anne	dig	Santigold	1
+Anne	easy	Santigold	1
+Anne	head	Santigold	1
+Anne	hear	Santigold	1
+Anne	hell	Santigold	2
+Anne	hold	Santigold	1
+Anne	i’ll	Santigold	3
+Anne	i’m	Santigold	1
+Anne	it’s	Santigold	3
+Anne	jesus	Santigold	4
+Anne	lack	Santigold	1
+Anne	lose	Santigold	1
+Anne	mind	Santigold	1
+Anne	numb	Santigold	1
+Anne	ooooh	Santigold	4
+Anne	oooooooh	Santigold	1
+Anne	penitent	Santigold	1
+Anne	pieces	Santigold	4
+Anne	plan	Santigold	1
+Anne	rescue	Santigold	4
+Anne	shadow	Santigold	1
+Anne	stand	Santigold	1
+Anne	takes	Santigold	4
+Anne	there’s	Santigold	1
+Anne	virtue	Santigold	1
+Anne	weight	Santigold	1
+Banshee	ain’t	99	3
+Banshee	alright	99	3
+Banshee	banshee	99	2
+Banshee	choir	99	3
+Banshee	dancing	99	3
+Banshee	don’t	99	4
+Banshee	edge	99	4
+Banshee	fire	99	3
+Banshee	gon	99	2
+Banshee	hear	99	5
+Banshee	hey	99	2
+Banshee	i’ll	99	4
+Banshee	i’m	99	3
+Banshee	leave	99	1
+Banshee	light	99	2
+Banshee	mirror	99	2
+Banshee	nearer	99	1
+Banshee	petrified	99	1
+Banshee	play	99	3
+Banshee	preachin	99	3
+Banshee	push	99	3
+Banshee	rip	99	6
+Banshee	shoulder	99	2
+Banshee	siren	99	3
+Banshee	sleep	99	2
+Banshee	staring	99	2
+Banshee	step	99	4
+Banshee	sweat	99	2
+Banshee	there’s	99	15
+Banshee	time	99	6
+Banshee	told	99	1
+Banshee	tonight	99	5
+Banshee	trouble	99	1
+Banshee	whisper	99	1
+Banshee	ya	99	5
+Banshee	yeah	99	2
+Banshee	you’re	99	4
+Before the Fire	burned	99	8
+Before the Fire	color	99	1
+Before the Fire	complained	99	1
+Before the Fire	day	99	1
+Before the Fire	don’t	99	5
+Before the Fire	fire	99	6
+Before the Fire	flames	99	2
+Before the Fire	forget	99	1
+Before the Fire	greyscale	99	1
+Before the Fire	hard	99	1
+Before the Fire	healer	99	2
+Before the Fire	heart	99	1
+Before the Fire	house	99	2
+Before the Fire	i’m	99	2
+Before the Fire	inhale	99	1
+Before the Fire	it’s	99	2
+Before the Fire	late	99	2
+Before the Fire	leave	99	1
+Before the Fire	love	99	1
+Before the Fire	remember	99	1
+Before the Fire	save	99	2
+Before the Fire	stay	99	2
+Before the Fire	touch	99	1
+Before the Fire	wasn’t	99	1
+Big Boss Big Time Business	army	99	1
+Big Boss Big Time Business	baby	99	1
+Big Boss Big Time Business	bark	99	1
+Big Boss Big Time Business	beats	99	3
+Big Boss Big Time Business	boss	99	12
+Big Boss Big Time Business	bulldozer	99	1
+Big Boss Big Time Business	business	99	12
+Big Boss Big Time Business	cry	99	1
+Big Boss Big Time Business	cuz	99	2
+Big Boss Big Time Business	deep	99	1
+Big Boss Big Time Business	dem	99	3
+Big Boss Big Time Business	don’t	99	3
+Big Boss Big Time Business	elephant	99	1
+Big Boss Big Time Business	fore	99	1
+Big Boss Big Time Business	gotta	99	1
+Big Boss Big Time Business	heavy	99	6
+Big Boss Big Time Business	hit	99	4
+Big Boss Big Time Business	hubby	99	1
+Big Boss Big Time Business	huffin	99	1
+Big Boss Big Time Business	hush	99	1
+Big Boss Big Time Business	i’ll	99	12
+Big Boss Big Time Business	i’m	99	3
+Big Boss Big Time Business	it’s	99	2
+Big Boss Big Time Business	key	99	3
+Big Boss Big Time Business	mama	99	4
+Big Boss Big Time Business	mark	99	12
+Big Boss Big Time Business	matter	99	1
+Big Boss Big Time Business	mess	99	1
+Big Boss Big Time Business	mouth	99	3
+Big Boss Big Time Business	rake	99	1
+Big Boss Big Time Business	rub	99	1
+Big Boss Big Time Business	run	99	1
+Big Boss Big Time Business	shit	99	1
+Big Boss Big Time Business	shoot	99	4
+Big Boss Big Time Business	steady	99	6
+Big Boss Big Time Business	straight	99	2
+Big Boss Big Time Business	sycophant	99	1
+Big Boss Big Time Business	system	99	3
+Big Boss Big Time Business	testy	99	3
+Big Boss Big Time Business	time	99	14
+Big Boss Big Time Business	underestimate	99	1
+Big Boss Big Time Business	venom	99	3
+Big Boss Big Time Business	wait	99	1
+Big Boss Big Time Business	win	99	1
+Big Boss Big Time Business	wit	99	1
+Big Boss Big Time Business	woman	99	1
+Big Boss Big Time Business	wreckin	99	1
+Big Boss Big Time Business	wrestlin	99	1
+Big Boss Big Time Business	wrong	99	1
+Big Boss Big Time Business	ya	99	2
+Big Mouth	berate	Master of My Make Believe	1
+Big Mouth	blah	Master of My Make Believe	3
+Big Mouth	calls	Master of My Make Believe	1
+Big Mouth	cyber	Master of My Make Believe	1
+Big Mouth	debutant	Master of My Make Believe	1
+Big Mouth	deep	Master of My Make Believe	1
+Big Mouth	dismount	Master of My Make Believe	1
+Big Mouth	doesn’t	Master of My Make Believe	1
+Big Mouth	don’t	Master of My Make Believe	2
+Big Mouth	duty	Master of My Make Believe	1
+Big Mouth	em	Master of My Make Believe	1
+Big Mouth	front	Master of My Make Believe	1
+Big Mouth	ga	Master of My Make Believe	3
+Big Mouth	guts	Master of My Make Believe	1
+Big Mouth	i’ll	Master of My Make Believe	1
+Big Mouth	i’m	Master of My Make Believe	1
+Big Mouth	lead	Master of My Make Believe	1
+Big Mouth	loss	Master of My Make Believe	1
+Big Mouth	lost	Master of My Make Believe	1
+Big Mouth	mouth	Master of My Make Believe	8
+Big Mouth	nonstop	Master of My Make Believe	1
+Big Mouth	payoff	Master of My Make Believe	1
+Big Mouth	pee	Master of My Make Believe	1
+Big Mouth	play	Master of My Make Believe	1
+Big Mouth	ring	Master of My Make Believe	3
+Big Mouth	rock	Master of My Make Believe	1
+Big Mouth	shit	Master of My Make Believe	1
+Big Mouth	slightly	Master of My Make Believe	1
+Big Mouth	strong	Master of My Make Believe	1
+Big Mouth	talk	Master of My Make Believe	1
+Big Mouth	tall	Master of My Make Believe	1
+Big Mouth	tear	Master of My Make Believe	6
+Big Mouth	that’s	Master of My Make Believe	1
+Big Mouth	thinking	Master of My Make Believe	3
+Big Mouth	throw	Master of My Make Believe	1
+Big Mouth	tick	Master of My Make Believe	1
+Big Mouth	tip	Master of My Make Believe	1
+Big Mouth	tock	Master of My Make Believe	1
+Big Mouth	toe	Master of My Make Believe	1
+Big Mouth	wahat	Master of My Make Believe	1
+Big Mouth	walk	Master of My Make Believe	6
+Big Mouth	wall	Master of My Make Believe	1
+Big Mouth	watch	Master of My Make Believe	6
+Big Mouth	wee	Master of My Make Believe	1
+Big Mouth	what’s	Master of My Make Believe	4
+Big Mouth	word	Master of My Make Believe	1
+Big Mouth	you’re	Master of My Make Believe	3
+Can’t Get Enough of Myself	ain’t	99	2
+Can’t Get Enough of Myself	baby	99	1
+Can’t Get Enough of Myself	biggest	99	1
+Can’t Get Enough of Myself	bottle	99	2
+Can’t Get Enough of Myself	brand	99	2
+Can’t Get Enough of Myself	buffet	99	1
+Can’t Get Enough of Myself	call	99	1
+Can’t Get Enough of Myself	calling	99	1
+Can’t Get Enough of Myself	can’t	99	16
+Can’t Get Enough of Myself	cup	99	1
+Can’t Get Enough of Myself	cuz	99	2
+Can’t Get Enough of Myself	don’t	99	3
+Can’t Get Enough of Myself	eating	99	1
+Can’t Get Enough of Myself	fan	99	1
+Can’t Get Enough of Myself	fantasy	99	2
+Can’t Get Enough of Myself	filling	99	1
+Can’t Get Enough of Myself	fire	99	1
+Can’t Get Enough of Myself	flavor	99	1
+Can’t Get Enough of Myself	funny	99	1
+Can’t Get Enough of Myself	gambler	99	2
+Can’t Get Enough of Myself	ha	99	2
+Can’t Get Enough of Myself	health	99	2
+Can’t Get Enough of Myself	hey	99	4
+Can’t Get Enough of Myself	honey	99	2
+Can’t Get Enough of Myself	hot	99	2
+Can’t Get Enough of Myself	i’d	99	3
+Can’t Get Enough of Myself	i’ll	99	1
+Can’t Get Enough of Myself	i’m	99	9
+Can’t Get Enough of Myself	it’s	99	3
+Can’t Get Enough of Myself	judge	99	1
+Can’t Get Enough of Myself	life	99	1
+Can’t Get Enough of Myself	life’s	99	1
+Can’t Get Enough of Myself	liking	99	2
+Can’t Get Enough of Myself	listen	99	2
+Can’t Get Enough of Myself	live	99	4
+Can’t Get Enough of Myself	living	99	4
+Can’t Get Enough of Myself	loud	99	1
+Can’t Get Enough of Myself	major	99	1
+Can’t Get Enough of Myself	mom	99	2
+Can’t Get Enough of Myself	money	99	2
+Can’t Get Enough of Myself	neighbors	99	1
+Can’t Get Enough of Myself	oohhh	99	6
+Can’t Get Enough of Myself	oooh	99	13
+Can’t Get Enough of Myself	paparazzi	99	1
+Can’t Get Enough of Myself	party	99	2
+Can’t Get Enough of Myself	pretty	99	1
+Can’t Get Enough of Myself	roll	99	1
+Can’t Get Enough of Myself	selfie	99	1
+Can’t Get Enough of Myself	sell	99	2
+Can’t Get Enough of Myself	sight	99	2
+Can’t Get Enough of Myself	ticket	99	1
+Can’t Get Enough of Myself	true	99	3
+Can’t Get Enough of Myself	vainglory	99	2
+Can’t Get Enough of Myself	vanity	99	2
+Can’t Get Enough of Myself	vip	99	1
+Can’t Get Enough of Myself	wasn’t	99	1
+Can’t Get Enough of Myself	wiping	99	2
+Can’t Get Enough of Myself	woah	99	1
+Can’t Get Enough of Myself	you’re	99	1
+Chasing Shadows	360	99	1
+Chasing Shadows	5	99	1
+Chasing Shadows	batting	99	1
+Chasing Shadows	beast	99	1
+Chasing Shadows	bed	99	2
+Chasing Shadows	break	99	1
+Chasing Shadows	broke	99	1
+Chasing Shadows	bucking	99	1
+Chasing Shadows	can’t	99	6
+Chasing Shadows	chasing	99	2
+Chasing Shadows	counting	99	1
+Chasing Shadows	damnit	99	1
+Chasing Shadows	day	99	1
+Chasing Shadows	don’t	99	1
+Chasing Shadows	dream	99	1
+Chasing Shadows	eating	99	2
+Chasing Shadows	em	99	2
+Chasing Shadows	fall	99	2
+Chasing Shadows	fallin	99	1
+Chasing Shadows	fear	99	2
+Chasing Shadows	flashing	99	2
+Chasing Shadows	flying	99	2
+Chasing Shadows	follow	99	1
+Chasing Shadows	fools	99	2
+Chasing Shadows	free	99	1
+Chasing Shadows	gainst	99	1
+Chasing Shadows	globe	99	2
+Chasing Shadows	gon	99	2
+Chasing Shadows	guard	99	1
+Chasing Shadows	haul	99	1
+Chasing Shadows	heart	99	1
+Chasing Shadows	hold	99	1
+Chasing Shadows	home	99	1
+Chasing Shadows	i’d	99	2
+Chasing Shadows	i’ll	99	1
+Chasing Shadows	i’m	99	10
+Chasing Shadows	ideas	99	1
+Chasing Shadows	idols	99	2
+Chasing Shadows	international	99	2
+Chasing Shadows	island	99	2
+Chasing Shadows	isn’t	99	1
+Chasing Shadows	lady	99	1
+Chasing Shadows	leave	99	1
+Chasing Shadows	left	99	1
+Chasing Shadows	light	99	2
+Chasing Shadows	limousines	99	2
+Chasing Shadows	line	99	1
+Chasing Shadows	living	99	1
+Chasing Shadows	lot	99	1
+Chasing Shadows	neon	99	2
+Chasing Shadows	parties	99	2
+Chasing Shadows	patience	99	1
+Chasing Shadows	people	99	2
+Chasing Shadows	petty	99	1
+Chasing Shadows	program	99	1
+Chasing Shadows	race	99	2
+Chasing Shadows	racin	99	1
+Chasing Shadows	red	99	2
+Chasing Shadows	remember	99	1
+Chasing Shadows	rodeo	99	1
+Chasing Shadows	round	99	1
+Chasing Shadows	rules	99	1
+Chasing Shadows	sell	99	1
+Chasing Shadows	sellin	99	1
+Chasing Shadows	selling	99	1
+Chasing Shadows	shadows	99	2
+Chasing Shadows	shakers	99	2
+Chasing Shadows	shelf	99	1
+Chasing Shadows	sign	99	2
+Chasing Shadows	smother	99	1
+Chasing Shadows	someplace	99	1
+Chasing Shadows	standards	99	1
+Chasing Shadows	steal	99	1
+Chasing Shadows	taking	99	1
+Chasing Shadows	talking	99	1
+Chasing Shadows	thinking	99	1
+Chasing Shadows	til	99	1
+Chasing Shadows	time	99	1
+Chasing Shadows	time’ll	99	1
+Chasing Shadows	told	99	1
+Chasing Shadows	tom	99	1
+Chasing Shadows	trouble	99	2
+Chasing Shadows	waitin	99	1
+Chasing Shadows	waits	99	1
+Chasing Shadows	walk	99	1
+Chasing Shadows	watching	99	2
+Chasing Shadows	window	99	2
+Chasing Shadows	won’t	99	2
+Chasing Shadows	words	99	1
+Chasing Shadows	wrong	99	1
+Chasing Shadows	ya	99	1
+Chasing Shadows	you’ll	99	2
+Coo Coo Coo	babe	I Don t Want The Goldfire Sessions	3
+Coo Coo Coo	baby	I Don t Want The Goldfire Sessions	4
+Coo Coo Coo	bout	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	boy	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	brought	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	cake	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	call	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	can’t	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	care	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	cat	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	caught	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	chatter	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	clout	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	coo	I Don t Want The Goldfire Sessions	10
+Coo Coo Coo	day	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	don’t	I Don t Want The Goldfire Sessions	8
+Coo Coo Coo	downtown	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	feel	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	fool	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	harm	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	head	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	hear	I Don t Want The Goldfire Sessions	4
+Coo Coo Coo	heart	I Don t Want The Goldfire Sessions	5
+Coo Coo Coo	holla	I Don t Want The Goldfire Sessions	4
+Coo Coo Coo	hopeless	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	interrupts	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	it’s	I Don t Want The Goldfire Sessions	3
+Coo Coo Coo	keeping	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	laughing	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	listen	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	loud	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	love	I Don t Want The Goldfire Sessions	5
+Coo Coo Coo	mind	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	money	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	mouth	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	nother	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	ogle	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	real	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	score	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	share	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	shot	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	sincere	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	smile	I Don t Want The Goldfire Sessions	3
+Coo Coo Coo	someplace	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	space	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	stalkin	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	starts	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	stay	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	talk	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	talkin	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	telling	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	thinking	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	time	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	tv	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	walk	I Don t Want The Goldfire Sessions	1
+Coo Coo Coo	walking	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	wanna	I Don t Want The Goldfire Sessions	2
+Coo Coo Coo	ya	I Don t Want The Goldfire Sessions	2
+Crashing Your Party	ain’t	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	arms	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	babies	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	beast	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	behavior	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	belly	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	bow	I Don t Want The Goldfire Sessions	4
+Crashing Your Party	call	I Don t Want The Goldfire Sessions	3
+Crashing Your Party	check	I Don t Want The Goldfire Sessions	2
+Crashing Your Party	contagious	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	cops	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	courageous	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	crashing	I Don t Want The Goldfire Sessions	4
+Crashing Your Party	cuz	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	deal	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	don’t	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	dream	I Don t Want The Goldfire Sessions	2
+Crashing Your Party	eyes	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	formation	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	future’s	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	gonna	I Don t Want The Goldfire Sessions	8
+Crashing Your Party	hazmat	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	i’m	I Don t Want The Goldfire Sessions	18
+Crashing Your Party	it’s	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	joes	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	kill	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	living	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	love	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	momma	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	paper	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	party	I Don t Want The Goldfire Sessions	4
+Crashing Your Party	pillage	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	poor	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	quit	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	rake	I Don t Want The Goldfire Sessions	4
+Crashing Your Party	run	I Don t Want The Goldfire Sessions	2
+Crashing Your Party	savior	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	sedation	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	shaken	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	she’ll	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	statesman	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	stone	I Don t Want The Goldfire Sessions	4
+Crashing Your Party	tele	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	tellin	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	vacation	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	waiting	I Don t Want The Goldfire Sessions	1
+Crashing Your Party	yell	I Don t Want The Goldfire Sessions	1
+Creator	attention	Santigold	1
+Creator	bad	Santigold	1
+Creator	band	Santigold	1
+Creator	bitch	Santigold	1
+Creator	blind	Santigold	1
+Creator	body	Santigold	1
+Creator	break	Santigold	2
+Creator	bright	Santigold	1
+Creator	brings	Santigold	1
+Creator	cards	Santigold	1
+Creator	chosen	Santigold	1
+Creator	creator	Santigold	1
+Creator	creepin	Santigold	1
+Creator	crush	Santigold	1
+Creator	d.o.a	Santigold	1
+Creator	decay	Santigold	1
+Creator	deep	Santigold	2
+Creator	deliver	Santigold	1
+Creator	devours	Santigold	1
+Creator	dictate	Santigold	1
+Creator	doubt	Santigold	1
+Creator	dreams	Santigold	1
+Creator	em	Santigold	1
+Creator	explosion	Santigold	1
+Creator	fakin	Santigold	1
+Creator	fancy	Santigold	1
+Creator	fare	Santigold	1
+Creator	fast	Santigold	1
+Creator	flame	Santigold	1
+Creator	flow	Santigold	1
+Creator	folks	Santigold	1
+Creator	friction	Santigold	1
+Creator	gig	Santigold	1
+Creator	gleam	Santigold	1
+Creator	gonna	Santigold	1
+Creator	grind	Santigold	1
+Creator	guard	Santigold	1
+Creator	hard	Santigold	1
+Creator	heed	Santigold	1
+Creator	hit	Santigold	1
+Creator	houses	Santigold	1
+Creator	hurt	Santigold	1
+Creator	i’m	Santigold	1
+Creator	idea	Santigold	1
+Creator	itch	Santigold	1
+Creator	laugh	Santigold	1
+Creator	live	Santigold	1
+Creator	locked	Santigold	1
+Creator	love	Santigold	1
+Creator	m.o	Santigold	1
+Creator	mad	Santigold	1
+Creator	moving	Santigold	1
+Creator	muzzle	Santigold	1
+Creator	pace	Santigold	1
+Creator	pipe	Santigold	1
+Creator	play	Santigold	1
+Creator	polish	Santigold	1
+Creator	radar	Santigold	1
+Creator	real	Santigold	2
+Creator	rich	Santigold	1
+Creator	ridin	Santigold	1
+Creator	rise	Santigold	1
+Creator	river	Santigold	1
+Creator	roll	Santigold	1
+Creator	rules	Santigold	1
+Creator	run	Santigold	1
+Creator	runs	Santigold	1
+Creator	screamin	Santigold	1
+Creator	shit	Santigold	1
+Creator	sit	Santigold	1
+Creator	smash	Santigold	1
+Creator	soul	Santigold	2
+Creator	speed	Santigold	1
+Creator	stakes	Santigold	1
+Creator	standard	Santigold	1
+Creator	star	Santigold	1
+Creator	steady	Santigold	1
+Creator	streets	Santigold	1
+Creator	tail	Santigold	1
+Creator	taker	Santigold	1
+Creator	talk	Santigold	1
+Creator	taste	Santigold	1
+Creator	tend	Santigold	1
+Creator	thrill	Santigold	1
+Creator	tight	Santigold	1
+Creator	til	Santigold	2
+Creator	true	Santigold	2
+Creator	understood	Santigold	1
+Creator	wagon	Santigold	1
+Creator	walk	Santigold	2
+Creator	warning	Santigold	1
+Creator	waste	Santigold	1
+Creator	whore	Santigold	1
+Creator	words	Santigold	1
+Disparate Youth	ah	Master of My Make Believe	28
+Disparate Youth	ahead	Master of My Make Believe	1
+Disparate Youth	ay	Master of My Make Believe	1
+Disparate Youth	beacon	Master of My Make Believe	1
+Disparate Youth	beneath	Master of My Make Believe	2
+Disparate Youth	bets	Master of My Make Believe	1
+Disparate Youth	block	Master of My Make Believe	1
+Disparate Youth	break	Master of My Make Believe	1
+Disparate Youth	breaks	Master of My Make Believe	1
+Disparate Youth	can’t	Master of My Make Believe	3
+Disparate Youth	carry	Master of My Make Believe	3
+Disparate Youth	core	Master of My Make Believe	1
+Disparate Youth	don’t	Master of My Make Believe	6
+Disparate Youth	dreams	Master of My Make Believe	3
+Disparate Youth	eyes	Master of My Make Believe	1
+Disparate Youth	fighting	Master of My Make Believe	7
+Disparate Youth	fly	Master of My Make Believe	3
+Disparate Youth	frozen	Master of My Make Believe	1
+Disparate Youth	hands	Master of My Make Believe	1
+Disparate Youth	hard	Master of My Make Believe	1
+Disparate Youth	heads	Master of My Make Believe	1
+Disparate Youth	hear	Master of My Make Believe	2
+Disparate Youth	hedging	Master of My Make Believe	1
+Disparate Youth	lay	Master of My Make Believe	1
+Disparate Youth	legacy’s	Master of My Make Believe	1
+Disparate Youth	life	Master of My Make Believe	7
+Disparate Youth	lost	Master of My Make Believe	3
+Disparate Youth	misled	Master of My Make Believe	1
+Disparate Youth	odds	Master of My Make Believe	2
+Disparate Youth	past	Master of My Make Believe	3
+Disparate Youth	push	Master of My Make Believe	3
+Disparate Youth	road	Master of My Make Believe	1
+Disparate Youth	rules	Master of My Make Believe	1
+Disparate Youth	rumble	Master of My Make Believe	1
+Disparate Youth	run	Master of My Make Believe	3
+Disparate Youth	sit	Master of My Make Believe	1
+Disparate Youth	stand	Master of My Make Believe	2
+Disparate Youth	stay	Master of My Make Believe	1
+Disparate Youth	stormy	Master of My Make Believe	1
+Disparate Youth	there’s	Master of My Make Believe	1
+Disparate Youth	they’re	Master of My Make Believe	1
+Disparate Youth	throw	Master of My Make Believe	1
+Disparate Youth	tied	Master of My Make Believe	1
+Disparate Youth	watch	Master of My Make Believe	1
+Disparate Youth	weather	Master of My Make Believe	1
+Disparate Youth	win	Master of My Make Believe	3
+Disparate Youth	wither	Master of My Make Believe	1
+Disparate Youth	worth	Master of My Make Believe	7
+Disparate Youth	yo	Master of My Make Believe	1
+Don’t Blame Me	address	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	affection	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	affi	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	appointment	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	babe	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	bag	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	bed	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	bitches	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	blame	I Don t Want The Goldfire Sessions	12
+Don’t Blame Me	bless	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	body	I Don t Want The Goldfire Sessions	2
+Don’t Blame Me	bottle	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	bout	I Don t Want The Goldfire Sessions	2
+Don’t Blame Me	boyfriend	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	bumpa	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	chalk	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	chorus	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	clean	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	clothes	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	cork	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	crush	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	cyaah	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	cyaan	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	da	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	dead	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	deep	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	dem	I Don t Want The Goldfire Sessions	4
+Don’t Blame Me	distance	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	doctor	I Don t Want The Goldfire Sessions	2
+Don’t Blame Me	doe	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	don’t	I Don t Want The Goldfire Sessions	15
+Don’t Blame Me	dutty	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	easy	I Don t Want The Goldfire Sessions	6
+Don’t Blame Me	extra	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	fall	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	fault	I Don t Want The Goldfire Sessions	6
+Don’t Blame Me	feel	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	fi	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	foe	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	foes	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	fun	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	gimme	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	girl	I Don t Want The Goldfire Sessions	7
+Don’t Blame Me	god	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	grip	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	guard	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	gwaan	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	gyal	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	heads	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	husband	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	i’ll	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	inna	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	line	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	love	I Don t Want The Goldfire Sessions	2
+Don’t Blame Me	mathematics	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	mek	I Don t Want The Goldfire Sessions	2
+Don’t Blame Me	mi	I Don t Want The Goldfire Sessions	20
+Don’t Blame Me	now’s	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	nuh	I Don t Want The Goldfire Sessions	10
+Don’t Blame Me	packin	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	pest	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	press	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	ray	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	run	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	sashay	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	sea	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	seh	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	sexy	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	shorts	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	stop	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	sweetheart	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	talk	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	talkin	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	test	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	threat	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	throw	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	tight	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	time	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	town	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	true	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	vex	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	walk	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wan	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	water	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	weh	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wha	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wild	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	witch	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wonderin	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wud	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	wuh	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	ya	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	yah	I Don t Want The Goldfire Sessions	3
+Don’t Blame Me	yeah	I Don t Want The Goldfire Sessions	1
+Don’t Blame Me	yuh	I Don t Want The Goldfire Sessions	6
+Fall First	awake	Spirituals	2
+Fall First	brakes	Spirituals	2
+Fall First	dance	Spirituals	2
+Fall First	earth	Spirituals	2
+Fall First	eyes	Spirituals	6
+Fall First	fall	Spirituals	6
+Fall First	faster	Spirituals	2
+Fall First	feel	Spirituals	2
+Fall First	fore	Spirituals	2
+Fall First	hand	Spirituals	6
+Fall First	heart	Spirituals	4
+Fall First	heaven	Spirituals	6
+Fall First	plans	Spirituals	2
+Fall First	quake	Spirituals	2
+Fall First	slam	Spirituals	2
+Fall First	time	Spirituals	2
+Fall First	wanna	Spirituals	2
+Fame	aim	Master of My Make Believe	1
+Fame	ain’t	Master of My Make Believe	2
+Fame	battle’s	Master of My Make Believe	1
+Fame	can’t	Master of My Make Believe	1
+Fame	claim	Master of My Make Believe	1
+Fame	close	Master of My Make Believe	1
+Fame	cuz	Master of My Make Believe	1
+Fame	don’t	Master of My Make Believe	4
+Fame	fame	Master of My Make Believe	16
+Fame	gain	Master of My Make Believe	3
+Fame	game	Master of My Make Believe	1
+Fame	gon	Master of My Make Believe	1
+Fame	hand	Master of My Make Believe	1
+Fame	hands	Master of My Make Believe	1
+Fame	head	Master of My Make Believe	1
+Fame	hearts	Master of My Make Believe	1
+Fame	herded	Master of My Make Believe	1
+Fame	hold	Master of My Make Believe	1
+Fame	holdiong	Master of My Make Believe	1
+Fame	hustle	Master of My Make Believe	8
+Fame	lane	Master of My Make Believe	1
+Fame	low	Master of My Make Believe	7
+Fame	mislead	Master of My Make Believe	1
+Fame	plan	Master of My Make Believe	1
+Fame	play	Master of My Make Believe	1
+Fame	rough	Master of My Make Believe	1
+Fame	sand	Master of My Make Believe	1
+Fame	sayin	Master of My Make Believe	3
+Fame	searching	Master of My Make Believe	1
+Fame	shame	Master of My Make Believe	2
+Fame	status	Master of My Make Believe	1
+Fame	there’s	Master of My Make Believe	1
+Fame	tight	Master of My Make Believe	1
+Fame	understand	Master of My Make Believe	1
+Fame	wasted	Master of My Make Believe	3
+Fame	we’re	Master of My Make Believe	5
+Fame	win	Master of My Make Believe	1
+Fame	won’t	Master of My Make Believe	1
+Freak Like Me	attire	Master of My Make Believe	1
+Freak Like Me	boys	Master of My Make Believe	1
+Freak Like Me	buy	Master of My Make Believe	1
+Freak Like Me	chance	Master of My Make Believe	1
+Freak Like Me	climbing	Master of My Make Believe	1
+Freak Like Me	coming	Master of My Make Believe	1
+Freak Like Me	crown	Master of My Make Believe	1
+Freak Like Me	cut	Master of My Make Believe	1
+Freak Like Me	cuz	Master of My Make Believe	1
+Freak Like Me	don’t	Master of My Make Believe	4
+Freak Like Me	famous	Master of My Make Believe	1
+Freak Like Me	fight	Master of My Make Believe	1
+Freak Like Me	freak	Master of My Make Believe	20
+Freak Like Me	funny	Master of My Make Believe	3
+Freak Like Me	game	Master of My Make Believe	1
+Freak Like Me	games	Master of My Make Believe	1
+Freak Like Me	ground	Master of My Make Believe	1
+Freak Like Me	guess	Master of My Make Believe	1
+Freak Like Me	hit	Master of My Make Believe	1
+Freak Like Me	honey	Master of My Make Believe	1
+Freak Like Me	it’s	Master of My Make Believe	3
+Freak Like Me	la	Master of My Make Believe	15
+Freak Like Me	lay	Master of My Make Believe	1
+Freak Like Me	matters	Master of My Make Believe	1
+Freak Like Me	means	Master of My Make Believe	1
+Freak Like Me	money	Master of My Make Believe	4
+Freak Like Me	ooh	Master of My Make Believe	2
+Freak Like Me	pass	Master of My Make Believe	1
+Freak Like Me	photoshop	Master of My Make Believe	1
+Freak Like Me	plays	Master of My Make Believe	1
+Freak Like Me	pound	Master of My Make Believe	1
+Freak Like Me	pretty	Master of My Make Believe	1
+Freak Like Me	puppet	Master of My Make Believe	1
+Freak Like Me	quick	Master of My Make Believe	1
+Freak Like Me	sittin	Master of My Make Believe	1
+Freak Like Me	smile	Master of My Make Believe	1
+Freak Like Me	stand	Master of My Make Believe	1
+Freak Like Me	stay	Master of My Make Believe	1
+Freak Like Me	stop	Master of My Make Believe	1
+Freak Like Me	sunny	Master of My Make Believe	1
+Freak Like Me	tan	Master of My Make Believe	1
+Freak Like Me	there’s	Master of My Make Believe	1
+Freak Like Me	top	Master of My Make Believe	1
+Freak Like Me	tv	Master of My Make Believe	1
+Freak Like Me	vote	Master of My Make Believe	1
+Freak Like Me	watching	Master of My Make Believe	1
+Freak Like Me	ya	Master of My Make Believe	1
+Freak Like Me	you’re	Master of My Make Believe	2
+Go!	ass	Master of My Make Believe	1
+Go!	awwww	Master of My Make Believe	1
+Go!	awwwww	Master of My Make Believe	1
+Go!	ay	Master of My Make Believe	12
+Go!	bases	Master of My Make Believe	1
+Go!	basics	Master of My Make Believe	1
+Go!	blow	Master of My Make Believe	1
+Go!	buddy	Master of My Make Believe	1
+Go!	can’t	Master of My Make Believe	1
+Go!	chicken	Master of My Make Believe	1
+Go!	couldn’t	Master of My Make Believe	8
+Go!	crash	Master of My Make Believe	4
+Go!	don’t	Master of My Make Believe	1
+Go!	fake	Master of My Make Believe	4
+Go!	fall	Master of My Make Believe	1
+Go!	forget	Master of My Make Believe	2
+Go!	gas	Master of My Make Believe	2
+Go!	grande	Master of My Make Believe	1
+Go!	ha	Master of My Make Believe	1
+Go!	hard	Master of My Make Believe	1
+Go!	i’m	Master of My Make Believe	4
+Go!	instrument	Master of My Make Believe	1
+Go!	itchin	Master of My Make Believe	1
+Go!	let’s	Master of My Make Believe	1
+Go!	lookin	Master of My Make Believe	1
+Go!	low	Master of My Make Believe	2
+Go!	palace	Master of My Make Believe	4
+Go!	paris	Master of My Make Believe	4
+Go!	party	Master of My Make Believe	1
+Go!	people	Master of My Make Believe	4
+Go!	power	Master of My Make Believe	4
+Go!	pull	Master of My Make Believe	5
+Go!	quo’s	Master of My Make Believe	2
+Go!	racin	Master of My Make Believe	1
+Go!	reputation	Master of My Make Believe	4
+Go!	ride	Master of My Make Believe	4
+Go!	sew	Master of My Make Believe	1
+Go!	shaken	Master of My Make Believe	1
+Go!	skip	Master of My Make Believe	2
+Go!	sliding	Master of My Make Believe	1
+Go!	slippin	Master of My Make Believe	1
+Go!	slow	Master of My Make Believe	1
+Go!	song	Master of My Make Believe	1
+Go!	station	Master of My Make Believe	4
+Go!	status	Master of My Make Believe	5
+Go!	storm	Master of My Make Believe	4
+Go!	throne	Master of My Make Believe	1
+Go!	throw	Master of My Make Believe	1
+Go!	ticket	Master of My Make Believe	1
+Go!	turbo	Master of My Make Believe	1
+Go!	widget	Master of My Make Believe	1
+Go!	winter	Master of My Make Believe	4
+Go!	witness	Master of My Make Believe	1
+Go!	won’t	Master of My Make Believe	2
+Go!	you’re	Master of My Make Believe	1
+GO! (Switch Remix)	ass	Master of My Make Believe	2
+GO! (Switch Remix)	bases	Master of My Make Believe	1
+GO! (Switch Remix)	basics	Master of My Make Believe	1
+GO! (Switch Remix)	blow	Master of My Make Believe	1
+GO! (Switch Remix)	bracelet	Master of My Make Believe	1
+GO! (Switch Remix)	checking	Master of My Make Believe	1
+GO! (Switch Remix)	closer	Master of My Make Believe	1
+GO! (Switch Remix)	couldn’t	Master of My Make Believe	8
+GO! (Switch Remix)	crash	Master of My Make Believe	10
+GO! (Switch Remix)	don’t	Master of My Make Believe	1
+GO! (Switch Remix)	fake	Master of My Make Believe	4
+GO! (Switch Remix)	forget	Master of My Make Believe	2
+GO! (Switch Remix)	found	Master of My Make Believe	1
+GO! (Switch Remix)	guys	Master of My Make Believe	2
+GO! (Switch Remix)	ha	Master of My Make Believe	6
+GO! (Switch Remix)	hard	Master of My Make Believe	1
+GO! (Switch Remix)	hey	Master of My Make Believe	128
+GO! (Switch Remix)	i’m	Master of My Make Believe	2
+GO! (Switch Remix)	instrument	Master of My Make Believe	2
+GO! (Switch Remix)	it’s	Master of My Make Believe	2
+GO! (Switch Remix)	itching	Master of My Make Believe	1
+GO! (Switch Remix)	let’s	Master of My Make Believe	1
+GO! (Switch Remix)	minute	Master of My Make Believe	1
+GO! (Switch Remix)	palace	Master of My Make Believe	4
+GO! (Switch Remix)	paris	Master of My Make Believe	4
+GO! (Switch Remix)	party’s	Master of My Make Believe	1
+GO! (Switch Remix)	people	Master of My Make Believe	4
+GO! (Switch Remix)	power	Master of My Make Believe	4
+GO! (Switch Remix)	pull	Master of My Make Believe	5
+GO! (Switch Remix)	reputation	Master of My Make Believe	4
+GO! (Switch Remix)	run	Master of My Make Believe	4
+GO! (Switch Remix)	running	Master of My Make Believe	1
+GO! (Switch Remix)	search	Master of My Make Believe	1
+GO! (Switch Remix)	shake	Master of My Make Believe	1
+GO! (Switch Remix)	sliding	Master of My Make Believe	1
+GO! (Switch Remix)	slipping	Master of My Make Believe	1
+GO! (Switch Remix)	solo	Master of My Make Believe	1
+GO! (Switch Remix)	station	Master of My Make Believe	4
+GO! (Switch Remix)	status	Master of My Make Believe	5
+GO! (Switch Remix)	stormed	Master of My Make Believe	4
+GO! (Switch Remix)	throne	Master of My Make Believe	1
+GO! (Switch Remix)	throw	Master of My Make Believe	1
+GO! (Switch Remix)	ticket	Master of My Make Believe	1
+GO! (Switch Remix)	turbo	Master of My Make Believe	1
+GO! (Switch Remix)	widget	Master of My Make Believe	1
+GO! (Switch Remix)	winter	Master of My Make Believe	4
+GO! (Switch Remix)	witness	Master of My Make Believe	1
+GO! (Switch Remix)	won’t	Master of My Make Believe	2
+GO! (Switch Remix)	you’re	Master of My Make Believe	2
+God From the Machine	ah	Master of My Make Believe	1
+God From the Machine	aiming	Master of My Make Believe	1
+God From the Machine	asylum	Master of My Make Believe	1
+God From the Machine	battle	Master of My Make Believe	1
+God From the Machine	beat	Master of My Make Believe	4
+God From the Machine	boat	Master of My Make Believe	1
+God From the Machine	broke	Master of My Make Believe	2
+God From the Machine	can’t	Master of My Make Believe	1
+God From the Machine	dark	Master of My Make Believe	1
+God From the Machine	don’t	Master of My Make Believe	1
+God From the Machine	fear	Master of My Make Believe	1
+God From the Machine	fire	Master of My Make Believe	4
+God From the Machine	flashlights	Master of My Make Believe	1
+God From the Machine	handing	Master of My Make Believe	1
+God From the Machine	hashing	Master of My Make Believe	1
+God From the Machine	heart	Master of My Make Believe	1
+God From the Machine	holding	Master of My Make Believe	1
+God From the Machine	home	Master of My Make Believe	4
+God From the Machine	it’s	Master of My Make Believe	1
+God From the Machine	leading	Master of My Make Believe	1
+God From the Machine	leave	Master of My Make Believe	1
+God From the Machine	lifeboat	Master of My Make Believe	1
+God From the Machine	light	Master of My Make Believe	1
+God From the Machine	mark	Master of My Make Believe	1
+God From the Machine	remote	Master of My Make Believe	1
+God From the Machine	rock	Master of My Make Believe	1
+God From the Machine	rumbling	Master of My Make Believe	1
+God From the Machine	scars	Master of My Make Believe	1
+God From the Machine	sing	Master of My Make Believe	4
+God From the Machine	smoke	Master of My Make Believe	1
+God From the Machine	something’s	Master of My Make Believe	1
+God From the Machine	soul	Master of My Make Believe	1
+God From the Machine	sour	Master of My Make Believe	1
+God From the Machine	start	Master of My Make Believe	1
+God From the Machine	they’ll	Master of My Make Believe	2
+God From the Machine	they’re	Master of My Make Believe	1
+God From the Machine	til	Master of My Make Believe	8
+God From the Machine	torn	Master of My Make Believe	1
+God From the Machine	wait	Master of My Make Believe	1
+God From the Machine	wear	Master of My Make Believe	1
+God From the Machine	wire	Master of My Make Believe	1
+God From the Machine	wrote	Master of My Make Believe	1
+God From the Machine	ya	Master of My Make Believe	4
+God From the Machine	yo	Master of My Make Believe	2
+God From the Machine	you’ll	Master of My Make Believe	6
+God From the Machine	you’re	Master of My Make Believe	4
+Gold Fire	ahhhh	I Don t Want The Goldfire Sessions	8
+Gold Fire	ain’t	I Don t Want The Goldfire Sessions	1
+Gold Fire	borders	I Don t Want The Goldfire Sessions	2
+Gold Fire	bore	I Don t Want The Goldfire Sessions	1
+Gold Fire	bounds	I Don t Want The Goldfire Sessions	1
+Gold Fire	break	I Don t Want The Goldfire Sessions	2
+Gold Fire	burning	I Don t Want The Goldfire Sessions	2
+Gold Fire	can’t	I Don t Want The Goldfire Sessions	2
+Gold Fire	care	I Don t Want The Goldfire Sessions	1
+Gold Fire	cell	I Don t Want The Goldfire Sessions	1
+Gold Fire	couldn’t	I Don t Want The Goldfire Sessions	1
+Gold Fire	dare	I Don t Want The Goldfire Sessions	1
+Gold Fire	disorder	I Don t Want The Goldfire Sessions	2
+Gold Fire	doesn’t	I Don t Want The Goldfire Sessions	1
+Gold Fire	earthquake	I Don t Want The Goldfire Sessions	2
+Gold Fire	fall	I Don t Want The Goldfire Sessions	1
+Gold Fire	feel	I Don t Want The Goldfire Sessions	2
+Gold Fire	fire	I Don t Want The Goldfire Sessions	5
+Gold Fire	flames	I Don t Want The Goldfire Sessions	1
+Gold Fire	forward	I Don t Want The Goldfire Sessions	1
+Gold Fire	frettin	I Don t Want The Goldfire Sessions	1
+Gold Fire	fuel	I Don t Want The Goldfire Sessions	1
+Gold Fire	gold	I Don t Want The Goldfire Sessions	4
+Gold Fire	hand	I Don t Want The Goldfire Sessions	1
+Gold Fire	handouts	I Don t Want The Goldfire Sessions	1
+Gold Fire	hard	I Don t Want The Goldfire Sessions	2
+Gold Fire	head	I Don t Want The Goldfire Sessions	1
+Gold Fire	hemmed	I Don t Want The Goldfire Sessions	2
+Gold Fire	i’d	I Don t Want The Goldfire Sessions	2
+Gold Fire	i’ll	I Don t Want The Goldfire Sessions	1
+Gold Fire	i’m	I Don t Want The Goldfire Sessions	8
+Gold Fire	inciting	I Don t Want The Goldfire Sessions	2
+Gold Fire	let’s	I Don t Want The Goldfire Sessions	1
+Gold Fire	lie	I Don t Want The Goldfire Sessions	1
+Gold Fire	line	I Don t Want The Goldfire Sessions	2
+Gold Fire	locked	I Don t Want The Goldfire Sessions	1
+Gold Fire	numb	I Don t Want The Goldfire Sessions	1
+Gold Fire	outta	I Don t Want The Goldfire Sessions	1
+Gold Fire	rally	I Don t Want The Goldfire Sessions	1
+Gold Fire	ready	I Don t Want The Goldfire Sessions	1
+Gold Fire	ring	I Don t Want The Goldfire Sessions	2
+Gold Fire	round	I Don t Want The Goldfire Sessions	2
+Gold Fire	run	I Don t Want The Goldfire Sessions	2
+Gold Fire	sincere	I Don t Want The Goldfire Sessions	1
+Gold Fire	stay	I Don t Want The Goldfire Sessions	1
+Gold Fire	taunt	I Don t Want The Goldfire Sessions	2
+Gold Fire	telling	I Don t Want The Goldfire Sessions	1
+Gold Fire	there’s	I Don t Want The Goldfire Sessions	2
+Gold Fire	til	I Don t Want The Goldfire Sessions	1
+Gold Fire	walkin	I Don t Want The Goldfire Sessions	2
+Gold Fire	water	I Don t Want The Goldfire Sessions	3
+Gold Fire	you’re	I Don t Want The Goldfire Sessions	1
+High Priestess	5'5	Spirituals	1
+High Priestess	answer	Spirituals	1
+High Priestess	ascended	Spirituals	1
+High Priestess	aw	Spirituals	6
+High Priestess	bahama	Spirituals	1
+High Priestess	bake	Spirituals	1
+High Priestess	bitches	Spirituals	2
+High Priestess	blink	Spirituals	1
+High Priestess	bow	Spirituals	1
+High Priestess	deep	Spirituals	1
+High Priestess	dig	Spirituals	1
+High Priestess	drama	Spirituals	1
+High Priestess	dry	Spirituals	1
+High Priestess	flip	Spirituals	1
+High Priestess	follow	Spirituals	1
+High Priestess	fool	Spirituals	1
+High Priestess	freak	Spirituals	1
+High Priestess	fry	Spirituals	1
+High Priestess	gates	Spirituals	6
+High Priestess	golden	Spirituals	1
+High Priestess	guard	Spirituals	12
+High Priestess	hey	Spirituals	6
+High Priestess	honor	Spirituals	1
+High Priestess	hеre	Spirituals	1
+High Priestess	i'ma	Spirituals	1
+High Priestess	jztbyizemarzay	Spirituals	1
+High Priestess	mama	Spirituals	1
+High Priestess	manna	Spirituals	1
+High Priestess	minute	Spirituals	1
+High Priestess	money	Spirituals	1
+High Priestess	nuh	Spirituals	1
+High Priestess	pissed	Spirituals	1
+High Priestess	presence	Spirituals	1
+High Priestess	pretty	Spirituals	6
+High Priestess	queen	Spirituals	1
+High Priestess	reach	Spirituals	1
+High Priestess	roast	Spirituals	1
+High Priestess	rеally	Spirituals	1
+High Priestess	secrets	Spirituals	6
+High Priestess	send	Spirituals	1
+High Priestess	shit	Spirituals	1
+High Priestess	sleep	Spirituals	1
+High Priestess	stand	Spirituals	1
+High Priestess	stop	Spirituals	1
+High Priestess	takin	Spirituals	1
+High Priestess	talk	Spirituals	4
+High Priestess	thunder	Spirituals	6
+High Priestess	ticket	Spirituals	1
+High Priestess	til	Spirituals	1
+High Priestess	tongues	Spirituals	1
+High Priestess	top	Spirituals	1
+High Priestess	uh	Spirituals	1
+High Priestess	vids	Spirituals	1
+High Priestess	watch	Spirituals	3
+High Priestess	witches	Spirituals	1
+I Don’t Want	ahead	I Don t Want The Goldfire Sessions	1
+I Don’t Want	ain’t	I Don t Want The Goldfire Sessions	1
+I Don’t Want	assault	I Don t Want The Goldfire Sessions	1
+I Don’t Want	bank	I Don t Want The Goldfire Sessions	1
+I Don’t Want	beg	I Don t Want The Goldfire Sessions	1
+I Don’t Want	blood	I Don t Want The Goldfire Sessions	1
+I Don’t Want	bout	I Don t Want The Goldfire Sessions	1
+I Don’t Want	break	I Don t Want The Goldfire Sessions	2
+I Don’t Want	buckin	I Don t Want The Goldfire Sessions	1
+I Don’t Want	calm	I Don t Want The Goldfire Sessions	2
+I Don’t Want	can’t	I Don t Want The Goldfire Sessions	2
+I Don’t Want	chatter	I Don t Want The Goldfire Sessions	2
+I Don’t Want	conscience	I Don t Want The Goldfire Sessions	1
+I Don’t Want	crossing	I Don t Want The Goldfire Sessions	1
+I Don’t Want	day	I Don t Want The Goldfire Sessions	1
+I Don’t Want	dem	I Don t Want The Goldfire Sessions	2
+I Don’t Want	don’t	I Don t Want The Goldfire Sessions	28
+I Don’t Want	drab	I Don t Want The Goldfire Sessions	1
+I Don’t Want	em	I Don t Want The Goldfire Sessions	4
+I Don’t Want	eye	I Don t Want The Goldfire Sessions	1
+I Don’t Want	fake	I Don t Want The Goldfire Sessions	1
+I Don’t Want	fast	I Don t Want The Goldfire Sessions	1
+I Don’t Want	fight	I Don t Want The Goldfire Sessions	4
+I Don’t Want	foolin	I Don t Want The Goldfire Sessions	2
+I Don’t Want	fuckin	I Don t Want The Goldfire Sessions	1
+I Don’t Want	gotta	I Don t Want The Goldfire Sessions	4
+I Don’t Want	head	I Don t Want The Goldfire Sessions	1
+I Don’t Want	headlights	I Don t Want The Goldfire Sessions	1
+I Don’t Want	heads	I Don t Want The Goldfire Sessions	1
+I Don’t Want	hear	I Don t Want The Goldfire Sessions	2
+I Don’t Want	hide	I Don t Want The Goldfire Sessions	4
+I Don’t Want	hold	I Don t Want The Goldfire Sessions	9
+I Don’t Want	honch	I Don t Want The Goldfire Sessions	1
+I Don’t Want	i’m	I Don t Want The Goldfire Sessions	2
+I Don’t Want	jet	I Don t Want The Goldfire Sessions	1
+I Don’t Want	judgment	I Don t Want The Goldfire Sessions	1
+I Don’t Want	lie	I Don t Want The Goldfire Sessions	1
+I Don’t Want	light	I Don t Want The Goldfire Sessions	2
+I Don’t Want	line	I Don t Want The Goldfire Sessions	1
+I Don’t Want	listen	I Don t Want The Goldfire Sessions	2
+I Don’t Want	lock	I Don t Want The Goldfire Sessions	1
+I Don’t Want	mark	I Don t Want The Goldfire Sessions	2
+I Don’t Want	meant	I Don t Want The Goldfire Sessions	1
+I Don’t Want	millionaire	I Don t Want The Goldfire Sessions	1
+I Don’t Want	regrets	I Don t Want The Goldfire Sessions	1
+I Don’t Want	rules	I Don t Want The Goldfire Sessions	2
+I Don’t Want	run	I Don t Want The Goldfire Sessions	20
+I Don’t Want	running	I Don t Want The Goldfire Sessions	2
+I Don’t Want	set	I Don t Want The Goldfire Sessions	2
+I Don’t Want	shore	I Don t Want The Goldfire Sessions	1
+I Don’t Want	sincere	I Don t Want The Goldfire Sessions	1
+I Don’t Want	sore	I Don t Want The Goldfire Sessions	1
+I Don’t Want	star	I Don t Want The Goldfire Sessions	1
+I Don’t Want	street	I Don t Want The Goldfire Sessions	1
+I Don’t Want	sweat	I Don t Want The Goldfire Sessions	1
+I Don’t Want	talkin	I Don t Want The Goldfire Sessions	2
+I Don’t Want	thinkin	I Don t Want The Goldfire Sessions	4
+I Don’t Want	tier	I Don t Want The Goldfire Sessions	1
+I Don’t Want	time	I Don t Want The Goldfire Sessions	1
+I Don’t Want	top	I Don t Want The Goldfire Sessions	1
+I Don’t Want	walkin	I Don t Want The Goldfire Sessions	1
+I Don’t Want	wanna	I Don t Want The Goldfire Sessions	1
+I Don’t Want	waste	I Don t Want The Goldfire Sessions	1
+I Don’t Want	wasting	I Don t Want The Goldfire Sessions	1
+I Don’t Want	winners	I Don t Want The Goldfire Sessions	4
+I Don’t Want	won	I Don t Want The Goldfire Sessions	4
+I Don’t Want	won’t	I Don t Want The Goldfire Sessions	2
+I Don’t Want	y’all	I Don t Want The Goldfire Sessions	6
+I Don’t Want	yeah	I Don t Want The Goldfire Sessions	2
+I’m a Lady	blows	Santigold	1
+I’m a Lady	boyfriend	Santigold	1
+I’m a Lady	breakin	Santigold	1
+I’m a Lady	breath	Santigold	1
+I’m a Lady	chorus	Santigold	3
+I’m a Lady	don’t	Santigold	2
+I’m a Lady	dream’s	Santigold	4
+I’m a Lady	fine	Santigold	2
+I’m a Lady	head	Santigold	1
+I’m a Lady	hearts	Santigold	1
+I’m a Lady	hold	Santigold	2
+I’m a Lady	i’ll	Santigold	1
+I’m a Lady	i’m	Santigold	2
+I’m a Lady	lady	Santigold	2
+I’m a Lady	light	Santigold	1
+I’m a Lady	magic	Santigold	1
+I’m a Lady	martyr	Santigold	2
+I’m a Lady	mind	Santigold	4
+I’m a Lady	money	Santigold	1
+I’m a Lady	ooh	Santigold	1
+I’m a Lady	pretty	Santigold	1
+I’m a Lady	reel	Santigold	1
+I’m a Lady	run	Santigold	1
+I’m a Lady	saving	Santigold	1
+I’m a Lady	she’s	Santigold	2
+I’m a Lady	someday	Santigold	2
+I’m a Lady	spend	Santigold	1
+I’m a Lady	sweet	Santigold	1
+I’m a Lady	they’ll	Santigold	2
+I’m a Lady	watch	Santigold	1
+I’m a Lady	wave	Santigold	1
+I’m a Lady	what’s	Santigold	1
+I’m a Lady	wind	Santigold	1
+I’m a Lady	won’t	Santigold	1
+I’m a Lady	you’re	Santigold	1
+L.E.S. Artistes	avenues	Santigold	1
+L.E.S. Artistes	bring	Santigold	1
+L.E.S. Artistes	build	Santigold	2
+L.E.S. Artistes	catch	Santigold	1
+L.E.S. Artistes	change	Santigold	6
+L.E.S. Artistes	creep	Santigold	1
+L.E.S. Artistes	disappear	Santigold	1
+L.E.S. Artistes	dodgy	Santigold	1
+L.E.S. Artistes	dreamin	Santigold	2
+L.E.S. Artistes	dropper	Santigold	1
+L.E.S. Artistes	duckin	Santigold	1
+L.E.S. Artistes	easy	Santigold	1
+L.E.S. Artistes	elevators	Santigold	1
+L.E.S. Artistes	enemy	Santigold	1
+L.E.S. Artistes	excavator	Santigold	1
+L.E.S. Artistes	eye	Santigold	1
+L.E.S. Artistes	faker	Santigold	1
+L.E.S. Artistes	fast	Santigold	1
+L.E.S. Artistes	fit	Santigold	1
+L.E.S. Artistes	forced	Santigold	1
+L.E.S. Artistes	found	Santigold	1
+L.E.S. Artistes	goin	Santigold	1
+L.E.S. Artistes	home	Santigold	1
+L.E.S. Artistes	hope	Santigold	8
+L.E.S. Artistes	i'ma	Santigold	2
+L.E.S. Artistes	innovator	Santigold	1
+L.E.S. Artistes	introvert	Santigold	1
+L.E.S. Artistes	kill	Santigold	1
+L.E.S. Artistes	leave	Santigold	1
+L.E.S. Artistes	left	Santigold	1
+L.E.S. Artistes	pass	Santigold	1
+L.E.S. Artistes	reek	Santigold	1
+L.E.S. Artistes	searchin	Santigold	1
+L.E.S. Artistes	shake	Santigold	2
+L.E.S. Artistes	skin	Santigold	2
+L.E.S. Artistes	somethin	Santigold	2
+L.E.S. Artistes	stand	Santigold	7
+L.E.S. Artistes	stop	Santigold	1
+L.E.S. Artistes	straight	Santigold	1
+L.E.S. Artistes	suddenly	Santigold	1
+L.E.S. Artistes	talker	Santigold	1
+L.E.S. Artistes	time	Santigold	1
+L.E.S. Artistes	tryin	Santigold	2
+L.E.S. Artistes	walkin	Santigold	1
+L.E.S. Artistes	wall	Santigold	1
+L.E.S. Artistes	waver	Santigold	1
+L.E.S. Artistes	worth	Santigold	9
+L.E.S. Artistes (Switch Remix)	avenues	Santigold	1
+L.E.S. Artistes (Switch Remix)	bring	Santigold	1
+L.E.S. Artistes (Switch Remix)	build	Santigold	2
+L.E.S. Artistes (Switch Remix)	catch	Santigold	1
+L.E.S. Artistes (Switch Remix)	change	Santigold	9
+L.E.S. Artistes (Switch Remix)	creep	Santigold	1
+L.E.S. Artistes (Switch Remix)	disappear	Santigold	1
+L.E.S. Artistes (Switch Remix)	dodgy	Santigold	1
+L.E.S. Artistes (Switch Remix)	dreaming	Santigold	3
+L.E.S. Artistes (Switch Remix)	dropper	Santigold	1
+L.E.S. Artistes (Switch Remix)	duckin	Santigold	1
+L.E.S. Artistes (Switch Remix)	easy	Santigold	1
+L.E.S. Artistes (Switch Remix)	elevators	Santigold	1
+L.E.S. Artistes (Switch Remix)	enemy	Santigold	1
+L.E.S. Artistes (Switch Remix)	excavator	Santigold	1
+L.E.S. Artistes (Switch Remix)	eye	Santigold	1
+L.E.S. Artistes (Switch Remix)	faker	Santigold	1
+L.E.S. Artistes (Switch Remix)	fast	Santigold	1
+L.E.S. Artistes (Switch Remix)	fit	Santigold	1
+L.E.S. Artistes (Switch Remix)	forced	Santigold	1
+L.E.S. Artistes (Switch Remix)	found	Santigold	1
+L.E.S. Artistes (Switch Remix)	home	Santigold	1
+L.E.S. Artistes (Switch Remix)	hope	Santigold	8
+L.E.S. Artistes (Switch Remix)	innovator	Santigold	1
+L.E.S. Artistes (Switch Remix)	introvert	Santigold	1
+L.E.S. Artistes (Switch Remix)	kill	Santigold	1
+L.E.S. Artistes (Switch Remix)	leave	Santigold	1
+L.E.S. Artistes (Switch Remix)	left	Santigold	1
+L.E.S. Artistes (Switch Remix)	pass	Santigold	1
+L.E.S. Artistes (Switch Remix)	reek	Santigold	1
+L.E.S. Artistes (Switch Remix)	searching	Santigold	1
+L.E.S. Artistes (Switch Remix)	shake	Santigold	3
+L.E.S. Artistes (Switch Remix)	skin	Santigold	3
+L.E.S. Artistes (Switch Remix)	stand	Santigold	7
+L.E.S. Artistes (Switch Remix)	stop	Santigold	1
+L.E.S. Artistes (Switch Remix)	straight	Santigold	1
+L.E.S. Artistes (Switch Remix)	suddenly	Santigold	1
+L.E.S. Artistes (Switch Remix)	talker	Santigold	1
+L.E.S. Artistes (Switch Remix)	time	Santigold	1
+L.E.S. Artistes (Switch Remix)	walking	Santigold	1
+L.E.S. Artistes (Switch Remix)	wall	Santigold	1
+L.E.S. Artistes (Switch Remix)	waver	Santigold	1
+L.E.S. Artistes (Switch Remix)	worth	Santigold	10
+Lights Out	account	Santigold	1
+Lights Out	ahead	Santigold	1
+Lights Out	basking	Santigold	1
+Lights Out	can’t	Santigold	1
+Lights Out	casualty	Santigold	1
+Lights Out	chorus	Santigold	3
+Lights Out	concentration	Santigold	1
+Lights Out	darlin	Santigold	2
+Lights Out	dead	Santigold	1
+Lights Out	don’t	Santigold	2
+Lights Out	doubt	Santigold	1
+Lights Out	easy	Santigold	1
+Lights Out	form	Santigold	1
+Lights Out	front	Santigold	1
+Lights Out	fun	Santigold	1
+Lights Out	guess	Santigold	1
+Lights Out	head	Santigold	1
+Lights Out	i’ll	Santigold	1
+Lights Out	i’m	Santigold	1
+Lights Out	it’s	Santigold	2
+Lights Out	lights	Santigold	3
+Lights Out	locked	Santigold	1
+Lights Out	loses	Santigold	1
+Lights Out	reason	Santigold	1
+Lights Out	round	Santigold	1
+Lights Out	run	Santigold	2
+Lights Out	shake	Santigold	1
+Lights Out	shaking	Santigold	1
+Lights Out	shoot	Santigold	1
+Lights Out	station	Santigold	1
+Lights Out	step	Santigold	1
+Lights Out	storm	Santigold	1
+Lights Out	there’s	Santigold	1
+Lights Out	thinking	Santigold	1
+Lights Out	tight	Santigold	1
+Lights Out	tv’s	Santigold	1
+Lights Out	undone	Santigold	1
+Lights Out	uneven	Santigold	1
+Lights Out	watch	Santigold	2
+Lights Out	where’s	Santigold	1
+Lights Out	wiped	Santigold	1
+Lights Out	won	Santigold	1
+Lights Out	won’t	Santigold	1
+Lights Out	worry	Santigold	2
+Lights Out	worth	Santigold	1
+Lights Out	you’re	Santigold	1
+Look at These Hoes	ain’t	Master of My Make Believe	3
+Look at These Hoes	bar	Master of My Make Believe	1
+Look at These Hoes	bitches	Master of My Make Believe	3
+Look at These Hoes	built	Master of My Make Believe	1
+Look at These Hoes	can’t	Master of My Make Believe	1
+Look at These Hoes	class	Master of My Make Believe	1
+Look at These Hoes	clothes	Master of My Make Believe	3
+Look at These Hoes	damn	Master of My Make Believe	2
+Look at These Hoes	dark	Master of My Make Believe	1
+Look at These Hoes	don’t	Master of My Make Believe	4
+Look at These Hoes	dough	Master of My Make Believe	3
+Look at These Hoes	drivin	Master of My Make Believe	1
+Look at These Hoes	evil	Master of My Make Believe	3
+Look at These Hoes	fall	Master of My Make Believe	1
+Look at These Hoes	flame	Master of My Make Believe	1
+Look at These Hoes	follow	Master of My Make Believe	1
+Look at These Hoes	fuckin’wit	Master of My Make Believe	3
+Look at These Hoes	glow	Master of My Make Believe	1
+Look at These Hoes	gold	Master of My Make Believe	5
+Look at These Hoes	ha	Master of My Make Believe	24
+Look at These Hoes	heart	Master of My Make Believe	1
+Look at These Hoes	hoes	Master of My Make Believe	3
+Look at These Hoes	hold	Master of My Make Believe	1
+Look at These Hoes	i’m	Master of My Make Believe	2
+Look at These Hoes	killer	Master of My Make Believe	12
+Look at These Hoes	lead	Master of My Make Believe	1
+Look at These Hoes	lookin	Master of My Make Believe	3
+Look at These Hoes	low	Master of My Make Believe	1
+Look at These Hoes	mine	Master of My Make Believe	1
+Look at These Hoes	money	Master of My Make Believe	1
+Look at These Hoes	motto	Master of My Make Believe	1
+Look at These Hoes	pretending	Master of My Make Believe	1
+Look at These Hoes	pros	Master of My Make Believe	3
+Look at These Hoes	ride	Master of My Make Believe	1
+Look at These Hoes	round	Master of My Make Believe	1
+Look at These Hoes	run	Master of My Make Believe	1
+Look at These Hoes	set	Master of My Make Believe	1
+Look at These Hoes	sinking	Master of My Make Believe	1
+Look at These Hoes	stride	Master of My Make Believe	1
+Look at These Hoes	tailspin	Master of My Make Believe	1
+Look at These Hoes	tear	Master of My Make Believe	2
+Look at These Hoes	that’s	Master of My Make Believe	1
+Look at These Hoes	they’ll	Master of My Make Believe	1
+Look at These Hoes	they’re	Master of My Make Believe	2
+Look at These Hoes	wall	Master of My Make Believe	1
+Look at These Hoes	won’t	Master of My Make Believe	1
+My Horror	bed	Spirituals	2
+My Horror	blossoming	Spirituals	1
+My Horror	day	Spirituals	8
+My Horror	dead	Spirituals	1
+My Horror	death	Spirituals	1
+My Horror	decay	Spirituals	4
+My Horror	dream	Spirituals	1
+My Horror	fast	Spirituals	1
+My Horror	feel	Spirituals	2
+My Horror	finally	Spirituals	2
+My Horror	happen	Spirituals	1
+My Horror	head	Spirituals	7
+My Horror	heart	Spirituals	1
+My Horror	hell	Spirituals	4
+My Horror	hey	Spirituals	4
+My Horror	hole	Spirituals	2
+My Horror	home	Spirituals	4
+My Horror	horror	Spirituals	12
+My Horror	inside	Spirituals	1
+My Horror	insidе	Spirituals	1
+My Horror	left	Spirituals	1
+My Horror	life	Spirituals	1
+My Horror	move	Spirituals	1
+My Horror	numbness	Spirituals	2
+My Horror	ooh	Spirituals	18
+My Horror	paralyzed	Spirituals	1
+My Horror	passengеr	Spirituals	1
+My Horror	roll	Spirituals	2
+My Horror	runnin	Spirituals	1
+My Horror	sank	Spirituals	2
+My Horror	screamin	Spirituals	2
+My Horror	story	Spirituals	1
+My Horror	telling	Spirituals	1
+My Horror	town	Spirituals	1
+My Horror	walk	Spirituals	2
+My Horror	wind	Spirituals	2
+My Superman	2x	Santigold	1
+My Superman	3x	Santigold	2
+My Superman	bless	Santigold	1
+My Superman	breaking	Santigold	1
+My Superman	can’t	Santigold	3
+My Superman	capture	Santigold	1
+My Superman	count	Santigold	1
+My Superman	cues	Santigold	1
+My Superman	fly	Santigold	1
+My Superman	hey	Santigold	3
+My Superman	hold	Santigold	1
+My Superman	it’s	Santigold	1
+My Superman	liar	Santigold	1
+My Superman	sense	Santigold	1
+My Superman	soul	Santigold	1
+My Superman	static	Santigold	1
+My Superman	stay	Santigold	1
+My Superman	superman	Santigold	2
+My Superman	watch	Santigold	1
+My Superman	woo	Santigold	1
+My Superman	wrong	Santigold	1
+My Superman	you’re	Santigold	1
+Never Enough	ahead	Master of My Make Believe	1
+Never Enough	bets	Master of My Make Believe	1
+Never Enough	bold	Master of My Make Believe	2
+Never Enough	calling	Master of My Make Believe	4
+Never Enough	create	Master of My Make Believe	1
+Never Enough	crowd	Master of My Make Believe	1
+Never Enough	dead	Master of My Make Believe	1
+Never Enough	deep	Master of My Make Believe	4
+Never Enough	dreams	Master of My Make Believe	2
+Never Enough	entangle	Master of My Make Believe	1
+Never Enough	falling	Master of My Make Believe	4
+Never Enough	follow	Master of My Make Believe	1
+Never Enough	grow	Master of My Make Believe	2
+Never Enough	hear	Master of My Make Believe	4
+Never Enough	lead	Master of My Make Believe	1
+Never Enough	life	Master of My Make Believe	1
+Never Enough	light	Master of My Make Believe	1
+Never Enough	losing	Master of My Make Believe	1
+Never Enough	measure	Master of My Make Believe	1
+Never Enough	mess	Master of My Make Believe	1
+Never Enough	reach	Master of My Make Believe	1
+Never Enough	reading	Master of My Make Believe	1
+Never Enough	rough	Master of My Make Believe	2
+Never Enough	round	Master of My Make Believe	1
+Never Enough	run	Master of My Make Believe	1
+Never Enough	set	Master of My Make Believe	1
+Never Enough	step	Master of My Make Believe	1
+Never Enough	takes	Master of My Make Believe	2
+Never Enough	taking	Master of My Make Believe	1
+Never Enough	time	Master of My Make Believe	2
+Never Enough	tumbling	Master of My Make Believe	2
+Never Enough	words	Master of My Make Believe	1
+No Paradise	afraid	Spirituals	1
+No Paradise	baby	Spirituals	1
+No Paradise	bad	Spirituals	1
+No Paradise	blind	Spirituals	1
+No Paradise	blinding	Spirituals	1
+No Paradise	blood	Spirituals	1
+No Paradise	break	Spirituals	1
+No Paradise	change	Spirituals	1
+No Paradise	cheat	Spirituals	1
+No Paradise	covered	Spirituals	1
+No Paradise	crush	Spirituals	6
+No Paradise	day	Spirituals	1
+No Paradise	dirt	Spirituals	1
+No Paradise	door	Spirituals	1
+No Paradise	fear	Spirituals	1
+No Paradise	finally	Spirituals	1
+No Paradise	floor	Spirituals	1
+No Paradise	future	Spirituals	1
+No Paradise	hearts	Spirituals	1
+No Paradise	hold	Spirituals	1
+No Paradise	lie	Spirituals	1
+No Paradise	life	Spirituals	8
+No Paradise	live	Spirituals	1
+No Paradise	love	Spirituals	1
+No Paradise	matter	Spirituals	1
+No Paradise	paradise	Spirituals	16
+No Paradise	people	Spirituals	6
+No Paradise	possibility	Spirituals	1
+No Paradise	power	Spirituals	7
+No Paradise	seize	Spirituals	1
+No Paradise	shake	Spirituals	1
+No Paradise	shape	Spirituals	1
+No Paradise	shuffling	Spirituals	3
+No Paradise	sink	Spirituals	1
+No Paradise	steal	Spirituals	1
+No Paradise	struggle	Spirituals	12
+No Paradise	suffering	Spirituals	12
+No Paradise	thieve	Spirituals	1
+No Paradise	waiting	Spirituals	9
+No Paradise	wrap	Spirituals	1
+Nothing	beat	Spirituals	2
+Nothing	day	Spirituals	2
+Nothing	fight	Spirituals	2
+Nothing	free	Spirituals	1
+Nothing	gotta	Spirituals	2
+Nothing	hangs	Spirituals	2
+Nothing	hate	Spirituals	1
+Nothing	head	Spirituals	2
+Nothing	hear	Spirituals	1
+Nothing	hold	Spirituals	1
+Nothing	imagine	Spirituals	1
+Nothing	inside	Spirituals	2
+Nothing	lose	Spirituals	1
+Nothing	loud	Spirituals	1
+Nothing	outdo	Spirituals	1
+Nothing	outdoing	Spirituals	1
+Nothing	proving	Spirituals	1
+Nothing	push	Spirituals	1
+Nothing	rise	Spirituals	1
+Nothing	talking	Spirituals	1
+Nothing	telling	Spirituals	2
+Nothing	told	Spirituals	1
+Nothing	unsaid	Spirituals	1
+Nothing	ya	Spirituals	16
+Nothing	yeah	Spirituals	4
+Outside the War	anymore	99	1
+Outside the War	bay	99	2
+Outside the War	blows	99	1
+Outside the War	bone	99	1
+Outside the War	born	99	2
+Outside the War	bout	99	1
+Outside the War	break	99	1
+Outside the War	bring	99	6
+Outside the War	child	99	1
+Outside the War	cold	99	1
+Outside the War	coming	99	1
+Outside the War	core	99	1
+Outside the War	day	99	1
+Outside the War	dike	99	1
+Outside the War	don’t	99	3
+Outside the War	flowing	99	1
+Outside the War	fright	99	1
+Outside the War	gon	99	8
+Outside the War	gonna	99	5
+Outside the War	hold	99	2
+Outside the War	home	99	6
+Outside the War	moving	99	1
+Outside the War	ooooooohhhh	99	2
+Outside the War	sea	99	1
+Outside the War	seize	99	1
+Outside the War	striker’s	99	1
+Outside the War	throne	99	1
+Outside the War	throw	99	3
+Outside the War	war	99	12
+Outside the War	warn	99	5
+Outside the War	waste	99	13
+Outside the War	we’re	99	2
+Outside the War	window	99	2
+Outside the War	won’t	99	4
+Outside the War	you’ll	99	2
+Outside the War	you’re	99	1
+Pirate in the Water	ah	Master of My Make Believe	4
+Pirate in the Water	bring	Master of My Make Believe	1
+Pirate in the Water	buccaneers	Master of My Make Believe	2
+Pirate in the Water	burning	Master of My Make Believe	7
+Pirate in the Water	dark	Master of My Make Believe	1
+Pirate in the Water	dock	Master of My Make Believe	1
+Pirate in the Water	don’t	Master of My Make Believe	2
+Pirate in the Water	em	Master of My Make Believe	2
+Pirate in the Water	fumigated	Master of My Make Believe	1
+Pirate in the Water	gotta	Master of My Make Believe	2
+Pirate in the Water	harbor	Master of My Make Believe	1
+Pirate in the Water	heart	Master of My Make Believe	1
+Pirate in the Water	hooks	Master of My Make Believe	1
+Pirate in the Water	hoped	Master of My Make Believe	1
+Pirate in the Water	it’s	Master of My Make Believe	1
+Pirate in the Water	kill	Master of My Make Believe	1
+Pirate in the Water	life	Master of My Make Believe	1
+Pirate in the Water	light	Master of My Make Believe	2
+Pirate in the Water	lose	Master of My Make Believe	1
+Pirate in the Water	move	Master of My Make Believe	13
+Pirate in the Water	na	Master of My Make Believe	14
+Pirate in the Water	pay	Master of My Make Believe	1
+Pirate in the Water	pillage	Master of My Make Believe	1
+Pirate in the Water	pirate	Master of My Make Believe	1
+Pirate in the Water	price	Master of My Make Believe	1
+Pirate in the Water	racing	Master of My Make Believe	1
+Pirate in the Water	ride	Master of My Make Believe	1
+Pirate in the Water	ruthless	Master of My Make Believe	1
+Pirate in the Water	sea	Master of My Make Believe	1
+Pirate in the Water	smooth	Master of My Make Believe	1
+Pirate in the Water	sunken	Master of My Make Believe	1
+Pirate in the Water	tainted	Master of My Make Believe	1
+Pirate in the Water	tear	Master of My Make Believe	1
+Pirate in the Water	telling	Master of My Make Believe	1
+Pirate in the Water	there’s	Master of My Make Believe	2
+Pirate in the Water	they’ll	Master of My Make Believe	1
+Pirate in the Water	thrown	Master of My Make Believe	1
+Pirate in the Water	time	Master of My Make Believe	1
+Pirate in the Water	tonight	Master of My Make Believe	1
+Pirate in the Water	vessel	Master of My Make Believe	1
+Pirate in the Water	water	Master of My Make Believe	1
+Pirate in the Water	you’re	Master of My Make Believe	9
+Rendezvous Girl	adore	99	1
+Rendezvous Girl	ain’t	99	1
+Rendezvous Girl	avenues	99	1
+Rendezvous Girl	beautiful	99	1
+Rendezvous Girl	break	99	1
+Rendezvous Girl	calendar	99	6
+Rendezvous Girl	call	99	6
+Rendezvous Girl	can’t	99	1
+Rendezvous Girl	casket	99	1
+Rendezvous Girl	change	99	2
+Rendezvous Girl	chips	99	1
+Rendezvous Girl	cigarettes	99	1
+Rendezvous Girl	circles	99	1
+Rendezvous Girl	confident	99	1
+Rendezvous Girl	cuz	99	2
+Rendezvous Girl	deck	99	1
+Rendezvous Girl	don’t	99	2
+Rendezvous Girl	dress	99	1
+Rendezvous Girl	easy	99	1
+Rendezvous Girl	em	99	2
+Rendezvous Girl	girl	99	7
+Rendezvous Girl	glove	99	1
+Rendezvous Girl	gonna	99	1
+Rendezvous Girl	he’s	99	1
+Rendezvous Girl	hear	99	1
+Rendezvous Girl	hot	99	1
+Rendezvous Girl	hunt	99	1
+Rendezvous Girl	hurt	99	1
+Rendezvous Girl	hype	99	1
+Rendezvous Girl	i’ll	99	1
+Rendezvous Girl	i’m	99	1
+Rendezvous Girl	incontinent	99	1
+Rendezvous Girl	legit	99	1
+Rendezvous Girl	lookin	99	1
+Rendezvous Girl	love	99	1
+Rendezvous Girl	luck	99	2
+Rendezvous Girl	manolos	99	1
+Rendezvous Girl	mistook	99	1
+Rendezvous Girl	nipped	99	2
+Rendezvous Girl	past	99	1
+Rendezvous Girl	power	99	6
+Rendezvous Girl	queen	99	6
+Rendezvous Girl	question	99	1
+Rendezvous Girl	rendezvous	99	6
+Rendezvous Girl	running	99	1
+Rendezvous Girl	sashay	99	6
+Rendezvous Girl	shake	99	2
+Rendezvous Girl	stop	99	2
+Rendezvous Girl	stuck	99	2
+Rendezvous Girl	talk	99	1
+Rendezvous Girl	that’s	99	2
+Rendezvous Girl	they’d	99	1
+Rendezvous Girl	thinkin	99	1
+Rendezvous Girl	thrill	99	2
+Rendezvous Girl	ticket	99	1
+Rendezvous Girl	told	99	1
+Rendezvous Girl	tonight	99	1
+Rendezvous Girl	town	99	6
+Rendezvous Girl	trot	99	1
+Rendezvous Girl	tucked	99	2
+Rendezvous Girl	velvet	99	1
+Rendezvous Girl	walk	99	1
+Rendezvous Girl	warning	99	1
+Rendezvous Girl	we’ll	99	6
+Rendezvous Girl	wondering	99	1
+Rendezvous Girl	wore	99	1
+Rendezvous Girl	workin	99	1
+Rendezvous Girl	ya	99	3
+Run the Races	ahead	99	4
+Run the Races	body	99	1
+Run the Races	break	99	1
+Run the Races	build	99	1
+Run the Races	can’t	99	4
+Run the Races	coming	99	1
+Run the Races	cuz	99	4
+Run the Races	dare	99	2
+Run the Races	day	99	1
+Run the Races	days	99	3
+Run the Races	don’t	99	1
+Run the Races	dream	99	1
+Run the Races	dreamin	99	1
+Run the Races	ease	99	1
+Run the Races	edge	99	1
+Run the Races	faith	99	2
+Run the Races	feet	99	1
+Run the Races	forward	99	1
+Run the Races	game	99	1
+Run the Races	gonna	99	4
+Run the Races	gotta	99	1
+Run the Races	hallowed	99	1
+Run the Races	head	99	5
+Run the Races	headin	99	1
+Run the Races	heart	99	4
+Run the Races	hide	99	2
+Run the Races	i’d	99	1
+Run the Races	i’m	99	13
+Run the Races	i’ve	99	2
+Run the Races	it’ll	99	1
+Run the Races	it’s	99	2
+Run the Races	line	99	1
+Run the Races	lookin	99	1
+Run the Races	lord	99	2
+Run the Races	meet	99	1
+Run the Races	night	99	1
+Run the Races	piece	99	4
+Run the Races	playin	99	1
+Run the Races	push	99	1
+Run the Races	race	99	1
+Run the Races	races	99	2
+Run the Races	round	99	1
+Run the Races	run	99	2
+Run the Races	runaway	99	4
+Run the Races	safe	99	2
+Run the Races	sane	99	2
+Run the Races	save	99	1
+Run the Races	spark	99	1
+Run the Races	start	99	4
+Run the Races	steady	99	1
+Run the Races	steep	99	1
+Run the Races	strange	99	1
+Run the Races	tie	99	1
+Run the Races	times	99	1
+Run the Races	told	99	4
+Run the Races	wanna	99	1
+Run the Races	world	99	1
+Run the Road	ain’t	I Don t Want The Goldfire Sessions	1
+Run the Road	awake	I Don t Want The Goldfire Sessions	1
+Run the Road	bit	I Don t Want The Goldfire Sessions	1
+Run the Road	call	I Don t Want The Goldfire Sessions	1
+Run the Road	can’t	I Don t Want The Goldfire Sessions	1
+Run the Road	circle	I Don t Want The Goldfire Sessions	1
+Run the Road	copy	I Don t Want The Goldfire Sessions	1
+Run the Road	cost	I Don t Want The Goldfire Sessions	1
+Run the Road	cross	I Don t Want The Goldfire Sessions	1
+Run the Road	days	I Don t Want The Goldfire Sessions	1
+Run the Road	deal	I Don t Want The Goldfire Sessions	1
+Run the Road	didn’t	I Don t Want The Goldfire Sessions	1
+Run the Road	don’t	I Don t Want The Goldfire Sessions	5
+Run the Road	earn	I Don t Want The Goldfire Sessions	1
+Run the Road	eh	I Don t Want The Goldfire Sessions	4
+Run the Road	em	I Don t Want The Goldfire Sessions	2
+Run the Road	fine	I Don t Want The Goldfire Sessions	1
+Run the Road	flash	I Don t Want The Goldfire Sessions	1
+Run the Road	flight	I Don t Want The Goldfire Sessions	1
+Run the Road	free	I Don t Want The Goldfire Sessions	2
+Run the Road	freedom	I Don t Want The Goldfire Sessions	1
+Run the Road	gainst	I Don t Want The Goldfire Sessions	1
+Run the Road	glory	I Don t Want The Goldfire Sessions	1
+Run the Road	gonna	I Don t Want The Goldfire Sessions	1
+Run the Road	hang	I Don t Want The Goldfire Sessions	1
+Run the Road	headin	I Don t Want The Goldfire Sessions	3
+Run the Road	highway	I Don t Want The Goldfire Sessions	1
+Run the Road	home	I Don t Want The Goldfire Sessions	3
+Run the Road	hour	I Don t Want The Goldfire Sessions	1
+Run the Road	humor’s	I Don t Want The Goldfire Sessions	1
+Run the Road	i’m	I Don t Want The Goldfire Sessions	3
+Run the Road	industry	I Don t Want The Goldfire Sessions	1
+Run the Road	it’s	I Don t Want The Goldfire Sessions	3
+Run the Road	kill	I Don t Want The Goldfire Sessions	1
+Run the Road	lie	I Don t Want The Goldfire Sessions	1
+Run the Road	line	I Don t Want The Goldfire Sessions	1
+Run the Road	lost	I Don t Want The Goldfire Sessions	1
+Run the Road	low	I Don t Want The Goldfire Sessions	3
+Run the Road	mind	I Don t Want The Goldfire Sessions	3
+Run the Road	monkey	I Don t Want The Goldfire Sessions	1
+Run the Road	neck	I Don t Want The Goldfire Sessions	2
+Run the Road	night	I Don t Want The Goldfire Sessions	1
+Run the Road	past	I Don t Want The Goldfire Sessions	1
+Run the Road	pay	I Don t Want The Goldfire Sessions	2
+Run the Road	people	I Don t Want The Goldfire Sessions	2
+Run the Road	racin	I Don t Want The Goldfire Sessions	1
+Run the Road	rhyme	I Don t Want The Goldfire Sessions	1
+Run the Road	rhythm	I Don t Want The Goldfire Sessions	1
+Run the Road	ride	I Don t Want The Goldfire Sessions	1
+Run the Road	road	I Don t Want The Goldfire Sessions	5
+Run the Road	rockin	I Don t Want The Goldfire Sessions	1
+Run the Road	rolls	I Don t Want The Goldfire Sessions	1
+Run the Road	rough	I Don t Want The Goldfire Sessions	1
+Run the Road	round	I Don t Want The Goldfire Sessions	1
+Run the Road	run	I Don t Want The Goldfire Sessions	4
+Run the Road	sayin	I Don t Want The Goldfire Sessions	1
+Run the Road	service	I Don t Want The Goldfire Sessions	1
+Run the Road	set	I Don t Want The Goldfire Sessions	1
+Run the Road	slow	I Don t Want The Goldfire Sessions	3
+Run the Road	smile	I Don t Want The Goldfire Sessions	1
+Run the Road	talk	I Don t Want The Goldfire Sessions	1
+Run the Road	talking	I Don t Want The Goldfire Sessions	1
+Run the Road	that’s	I Don t Want The Goldfire Sessions	1
+Run the Road	there’s	I Don t Want The Goldfire Sessions	2
+Run the Road	tight	I Don t Want The Goldfire Sessions	1
+Run the Road	time	I Don t Want The Goldfire Sessions	2
+Run the Road	tired	I Don t Want The Goldfire Sessions	1
+Run the Road	town	I Don t Want The Goldfire Sessions	1
+Run the Road	tryin	I Don t Want The Goldfire Sessions	1
+Run the Road	wake	I Don t Want The Goldfire Sessions	1
+Run the Road	walk	I Don t Want The Goldfire Sessions	1
+Run the Road	wall	I Don t Want The Goldfire Sessions	1
+Run the Road	we’re	I Don t Want The Goldfire Sessions	11
+Say Aha	aha	Santigold	16
+Say Aha	aim’s	Santigold	1
+Say Aha	alright	Santigold	1
+Say Aha	army	Santigold	1
+Say Aha	ass	Santigold	1
+Say Aha	blow	Santigold	2
+Say Aha	brigade	Santigold	1
+Say Aha	called	Santigold	1
+Say Aha	charade	Santigold	1
+Say Aha	cure	Santigold	1
+Say Aha	cuz	Santigold	3
+Say Aha	defense	Santigold	1
+Say Aha	doesn’t	Santigold	1
+Say Aha	don’t	Santigold	1
+Say Aha	eating	Santigold	1
+Say Aha	feel	Santigold	1
+Say Aha	fence	Santigold	1
+Say Aha	fighting	Santigold	1
+Say Aha	gonna	Santigold	1
+Say Aha	head	Santigold	1
+Say Aha	hole	Santigold	1
+Say Aha	i’m	Santigold	2
+Say Aha	involved	Santigold	1
+Say Aha	it’s	Santigold	5
+Say Aha	losing	Santigold	1
+Say Aha	louder	Santigold	24
+Say Aha	night	Santigold	1
+Say Aha	ooooohhh	Santigold	1
+Say Aha	picking	Santigold	1
+Say Aha	pure	Santigold	1
+Say Aha	send	Santigold	1
+Say Aha	sense	Santigold	2
+Say Aha	shake	Santigold	1
+Say Aha	streak	Santigold	1
+Say Aha	tight	Santigold	1
+Say Aha	time	Santigold	1
+Say Aha	torpedos	Santigold	1
+Say Aha	wall	Santigold	1
+Say Aha	you’d	Santigold	1
+Say Aha	you’re	Santigold	2
+Shake	alright	Spirituals	1
+Shake	analyze	Spirituals	1
+Shake	buck	Spirituals	1
+Shake	buckle	Spirituals	1
+Shake	follow	Spirituals	1
+Shake	free	Spirituals	1
+Shake	gotta	Spirituals	6
+Shake	i'ma	Spirituals	1
+Shake	level	Spirituals	1
+Shake	moving	Spirituals	6
+Shake	pressure	Spirituals	1
+Shake	ride	Spirituals	1
+Shake	rise	Spirituals	1
+Shake	set	Spirituals	1
+Shake	shake	Spirituals	43
+Shake	time	Spirituals	1
+Shake	track	Spirituals	1
+Shake	worry	Spirituals	1
+Shake	ya	Spirituals	3
+Shake	yeah	Spirituals	3
+Shove It	4x	Santigold	2
+Shove It	advantage	Santigold	1
+Shove It	bit	Santigold	1
+Shove It	broke	Santigold	1
+Shove It	brooklyn	Santigold	1
+Shove It	called	Santigold	1
+Shove It	choke	Santigold	1
+Shove It	eccentricity	Santigold	1
+Shove It	em	Santigold	1
+Shove It	evolve	Santigold	1
+Shove It	fire	Santigold	1
+Shove It	guns	Santigold	1
+Shove It	hard	Santigold	2
+Shove It	hear	Santigold	1
+Shove It	heart	Santigold	3
+Shove It	hold	Santigold	1
+Shove It	hope	Santigold	2
+Shove It	joke	Santigold	2
+Shove It	lack	Santigold	1
+Shove It	lights	Santigold	1
+Shove It	mind	Santigold	1
+Shove It	pay	Santigold	1
+Shove It	payroll	Santigold	1
+Shove It	pull	Santigold	1
+Shove It	reel	Santigold	1
+Shove It	rich	Santigold	1
+Shove It	rough	Santigold	1
+Shove It	run	Santigold	1
+Shove It	sell	Santigold	1
+Shove It	shine	Santigold	2
+Shove It	shove	Santigold	2
+Shove It	sick	Santigold	1
+Shove It	smile	Santigold	1
+Shove It	soul	Santigold	1
+Shove It	strength	Santigold	1
+Shove It	tactics	Santigold	1
+Shove It	taint	Santigold	1
+Shove It	takes	Santigold	1
+Shove It	time	Santigold	1
+Shove It	undermine	Santigold	1
+Shove It	war	Santigold	1
+Starstruck	2x	Santigold	1
+Starstruck	abuse	Santigold	1
+Starstruck	ain’t	Santigold	1
+Starstruck	amuse	Santigold	1
+Starstruck	borrow	Santigold	1
+Starstruck	buy	Santigold	1
+Starstruck	can’t	Santigold	1
+Starstruck	chorus	Santigold	3
+Starstruck	cigarette	Santigold	1
+Starstruck	don’t	Santigold	4
+Starstruck	dreams	Santigold	1
+Starstruck	dreamy	Santigold	1
+Starstruck	easy	Santigold	2
+Starstruck	fade	Santigold	2
+Starstruck	feel	Santigold	1
+Starstruck	fumbling	Santigold	1
+Starstruck	heady	Santigold	1
+Starstruck	hollow	Santigold	1
+Starstruck	i’ll	Santigold	1
+Starstruck	ingredient	Santigold	1
+Starstruck	it’s	Santigold	1
+Starstruck	luck	Santigold	1
+Starstruck	measure	Santigold	1
+Starstruck	missed	Santigold	1
+Starstruck	ooh	Santigold	1
+Starstruck	oooh	Santigold	2
+Starstruck	reel	Santigold	1
+Starstruck	skin	Santigold	1
+Starstruck	starstruck	Santigold	1
+Starstruck	swallow	Santigold	1
+Starstruck	that’s	Santigold	1
+Starstruck	tomorrow	Santigold	1
+Starstruck	true	Santigold	1
+Starstruck	watch	Santigold	1
+Starstruck	wee	Santigold	2
+Starstruck	you’re	Santigold	1
+Starstruck	you’ve	Santigold	1
+The Keepers	abates	Master of My Make Believe	2
+The Keepers	ails	Master of My Make Believe	1
+The Keepers	america	Master of My Make Believe	6
+The Keepers	blind	Master of My Make Believe	1
+The Keepers	bottom	Master of My Make Believe	1
+The Keepers	boy	Master of My Make Believe	1
+The Keepers	burning	Master of My Make Believe	15
+The Keepers	burns	Master of My Make Believe	3
+The Keepers	can’t	Master of My Make Believe	1
+The Keepers	dangerous	Master of My Make Believe	1
+The Keepers	don’t	Master of My Make Believe	2
+The Keepers	dream	Master of My Make Believe	1
+The Keepers	eyes	Master of My Make Believe	1
+The Keepers	fear	Master of My Make Believe	2
+The Keepers	hands	Master of My Make Believe	1
+The Keepers	hang	Master of My Make Believe	1
+The Keepers	hearts	Master of My Make Believe	1
+The Keepers	heels	Master of My Make Believe	1
+The Keepers	house	Master of My Make Believe	15
+The Keepers	i’m	Master of My Make Believe	1
+The Keepers	i’ve	Master of My Make Believe	2
+The Keepers	illusion	Master of My Make Believe	1
+The Keepers	it’s	Master of My Make Believe	3
+The Keepers	keepers	Master of My Make Believe	6
+The Keepers	move	Master of My Make Believe	1
+The Keepers	past	Master of My Make Believe	1
+The Keepers	roots	Master of My Make Believe	1
+The Keepers	rules	Master of My Make Believe	1
+The Keepers	run	Master of My Make Believe	1
+The Keepers	shook	Master of My Make Believe	1
+The Keepers	sleep	Master of My Make Believe	6
+The Keepers	smoke	Master of My Make Believe	1
+The Keepers	snakes	Master of My Make Believe	1
+The Keepers	stuck	Master of My Make Believe	1
+The Keepers	sucks	Master of My Make Believe	1
+The Keepers	that’s	Master of My Make Believe	1
+The Keepers	throw	Master of My Make Believe	1
+The Keepers	tough	Master of My Make Believe	1
+The Keepers	walk	Master of My Make Believe	1
+The Keepers	watch	Master of My Make Believe	1
+The Keepers	we’re	Master of My Make Believe	6
+The Keepers	weight‘ll	Master of My Make Believe	1
+The Keepers	wrong	Master of My Make Believe	1
+The Keepers	you’re	Master of My Make Believe	2
+The Lasty	beast	Spirituals	1
+The Lasty	coming	Spirituals	1
+The Lasty	dark	Spirituals	6
+The Lasty	die	Spirituals	1
+The Lasty	door	Spirituals	1
+The Lasty	drive	Spirituals	1
+The Lasty	em	Spirituals	6
+The Lasty	eye	Spirituals	1
+The Lasty	fall	Spirituals	1
+The Lasty	feeling	Spirituals	6
+The Lasty	fire	Spirituals	1
+The Lasty	fool	Spirituals	1
+The Lasty	foot	Spirituals	1
+The Lasty	gon	Spirituals	5
+The Lasty	ground	Spirituals	1
+The Lasty	head	Spirituals	1
+The Lasty	heart	Spirituals	1
+The Lasty	heat	Spirituals	6
+The Lasty	hip	Spirituals	1
+The Lasty	ignite	Spirituals	3
+The Lasty	knees	Spirituals	6
+The Lasty	laid	Spirituals	1
+The Lasty	lasty	Spirituals	1
+The Lasty	left	Spirituals	6
+The Lasty	light	Spirituals	1
+The Lasty	lose	Spirituals	1
+The Lasty	lost	Spirituals	1
+The Lasty	mark	Spirituals	1
+The Lasty	mother	Spirituals	2
+The Lasty	night	Spirituals	1
+The Lasty	officer	Spirituals	1
+The Lasty	ooh	Spirituals	6
+The Lasty	pass	Spirituals	1
+The Lasty	pin	Spirituals	1
+The Lasty	prize	Spirituals	1
+The Lasty	run	Spirituals	1
+The Lasty	save	Spirituals	1
+The Lasty	set	Spirituals	1
+The Lasty	sky	Spirituals	1
+The Lasty	spark	Spirituals	3
+The Lasty	taking	Spirituals	2
+The Lasty	this'll	Spirituals	1
+The Lasty	watch	Spirituals	1
+The Lasty	watched	Spirituals	1
+The Lasty	woke	Spirituals	1
+The Lasty	y'all	Spirituals	1
+The Riot’s Gone	ain’t	Master of My Make Believe	1
+The Riot’s Gone	angle	Master of My Make Believe	1
+The Riot’s Gone	armed	Master of My Make Believe	2
+The Riot’s Gone	beat	Master of My Make Believe	3
+The Riot’s Gone	blow	Master of My Make Believe	2
+The Riot’s Gone	brink	Master of My Make Believe	1
+The Riot’s Gone	can’t	Master of My Make Believe	2
+The Riot’s Gone	close	Master of My Make Believe	1
+The Riot’s Gone	coming	Master of My Make Believe	1
+The Riot’s Gone	command	Master of My Make Believe	1
+The Riot’s Gone	control	Master of My Make Believe	1
+The Riot’s Gone	dangerous	Master of My Make Believe	2
+The Riot’s Gone	day	Master of My Make Believe	5
+The Riot’s Gone	deafened	Master of My Make Believe	1
+The Riot’s Gone	defend	Master of My Make Believe	1
+The Riot’s Gone	don’t	Master of My Make Believe	1
+The Riot’s Gone	fight	Master of My Make Believe	1
+The Riot’s Gone	fray	Master of My Make Believe	1
+The Riot’s Gone	ghost	Master of My Make Believe	1
+The Riot’s Gone	god	Master of My Make Believe	1
+The Riot’s Gone	grappling	Master of My Make Believe	1
+The Riot’s Gone	haunted	Master of My Make Believe	1
+The Riot’s Gone	hear	Master of My Make Believe	1
+The Riot’s Gone	heard	Master of My Make Believe	2
+The Riot’s Gone	hey	Master of My Make Believe	2
+The Riot’s Gone	i’m	Master of My Make Believe	5
+The Riot’s Gone	i’ve	Master of My Make Believe	2
+The Riot’s Gone	inside	Master of My Make Believe	1
+The Riot’s Gone	it’s	Master of My Make Believe	1
+The Riot’s Gone	life	Master of My Make Believe	1
+The Riot’s Gone	lose	Master of My Make Believe	1
+The Riot’s Gone	moment	Master of My Make Believe	2
+The Riot’s Gone	people	Master of My Make Believe	1
+The Riot’s Gone	quiet	Master of My Make Believe	1
+The Riot’s Gone	riot’s	Master of My Make Believe	8
+The Riot’s Gone	searching	Master of My Make Believe	1
+The Riot’s Gone	set	Master of My Make Believe	1
+The Riot’s Gone	swallow	Master of My Make Believe	1
+The Riot’s Gone	til	Master of My Make Believe	6
+The Riot’s Gone	trouble	Master of My Make Believe	1
+The Riot’s Gone	waiting	Master of My Make Believe	1
+The Riot’s Gone	wake	Master of My Make Believe	1
+The Riot’s Gone	whim	Master of My Make Believe	1
+The Riot’s Gone	wild	Master of My Make Believe	1
+This Isn’t Our Parade	bridled	Master of My Make Believe	1
+This Isn’t Our Parade	cage	Master of My Make Believe	1
+This Isn’t Our Parade	call	Master of My Make Believe	1
+This Isn’t Our Parade	calling	Master of My Make Believe	3
+This Isn’t Our Parade	falling	Master of My Make Believe	2
+This Isn’t Our Parade	hand	Master of My Make Believe	1
+This Isn’t Our Parade	hear	Master of My Make Believe	5
+This Isn’t Our Parade	hey	Master of My Make Believe	36
+This Isn’t Our Parade	heya	Master of My Make Believe	2
+This Isn’t Our Parade	i’ll	Master of My Make Believe	2
+This Isn’t Our Parade	i’m	Master of My Make Believe	2
+This Isn’t Our Parade	i’ve	Master of My Make Believe	1
+This Isn’t Our Parade	isn’t	Master of My Make Believe	4
+This Isn’t Our Parade	landing	Master of My Make Believe	1
+This Isn’t Our Parade	love	Master of My Make Believe	2
+This Isn’t Our Parade	parade	Master of My Make Believe	4
+This Isn’t Our Parade	rage	Master of My Make Believe	1
+This Isn’t Our Parade	reaching	Master of My Make Believe	1
+This Isn’t Our Parade	rehearse	Master of My Make Believe	1
+This Isn’t Our Parade	rough	Master of My Make Believe	1
+This Isn’t Our Parade	standing	Master of My Make Believe	1
+This Isn’t Our Parade	time	Master of My Make Believe	2
+This Isn’t Our Parade	understand	Master of My Make Believe	1
+This Isn’t Our Parade	wake	Master of My Make Believe	1
+This Isn’t Our Parade	watch	Master of My Make Believe	1
+This Isn’t Our Parade	won’t	Master of My Make Believe	13
+This Isn’t Our Parade	you’re	Master of My Make Believe	1
+Unstoppable	007	Santigold	1
+Unstoppable	ass	Santigold	2
+Unstoppable	bass	Santigold	1
+Unstoppable	beacon	Santigold	1
+Unstoppable	beats	Santigold	1
+Unstoppable	block	Santigold	3
+Unstoppable	boots	Santigold	1
+Unstoppable	boy	Santigold	1
+Unstoppable	boys	Santigold	1
+Unstoppable	break	Santigold	2
+Unstoppable	brick	Santigold	1
+Unstoppable	can’t	Santigold	1
+Unstoppable	cash	Santigold	1
+Unstoppable	chorus	Santigold	3
+Unstoppable	cops	Santigold	1
+Unstoppable	cross	Santigold	1
+Unstoppable	cuz	Santigold	2
+Unstoppable	day	Santigold	1
+Unstoppable	dollar	Santigold	1
+Unstoppable	domino	Santigold	1
+Unstoppable	don’t	Santigold	4
+Unstoppable	ey	Santigold	8
+Unstoppable	eyes	Santigold	1
+Unstoppable	fiyah	Santigold	1
+Unstoppable	fly	Santigold	1
+Unstoppable	franklin	Santigold	1
+Unstoppable	fresh	Santigold	1
+Unstoppable	game	Santigold	1
+Unstoppable	guns	Santigold	1
+Unstoppable	hey	Santigold	1
+Unstoppable	hipster	Santigold	1
+Unstoppable	hot	Santigold	1
+Unstoppable	i’ll	Santigold	1
+Unstoppable	it’s	Santigold	2
+Unstoppable	joker	Santigold	1
+Unstoppable	knockoffs	Santigold	1
+Unstoppable	lie	Santigold	2
+Unstoppable	locked	Santigold	1
+Unstoppable	lose	Santigold	1
+Unstoppable	makes	Santigold	1
+Unstoppable	marked	Santigold	1
+Unstoppable	mask	Santigold	1
+Unstoppable	meet	Santigold	1
+Unstoppable	mission	Santigold	1
+Unstoppable	move	Santigold	1
+Unstoppable	pace	Santigold	1
+Unstoppable	pants	Santigold	1
+Unstoppable	parker	Santigold	1
+Unstoppable	parking	Santigold	1
+Unstoppable	past	Santigold	1
+Unstoppable	pepper	Santigold	1
+Unstoppable	play	Santigold	1
+Unstoppable	pocket	Santigold	1
+Unstoppable	position	Santigold	1
+Unstoppable	ra	Santigold	1
+Unstoppable	race	Santigold	1
+Unstoppable	ran	Santigold	1
+Unstoppable	shit	Santigold	1
+Unstoppable	sick	Santigold	1
+Unstoppable	smell	Santigold	1
+Unstoppable	speed	Santigold	1
+Unstoppable	spend	Santigold	1
+Unstoppable	spot	Santigold	1
+Unstoppable	spots	Santigold	1
+Unstoppable	spray	Santigold	1
+Unstoppable	stay	Santigold	1
+Unstoppable	stop	Santigold	2
+Unstoppable	street	Santigold	2
+Unstoppable	talk	Santigold	1
+Unstoppable	ticket	Santigold	1
+Unstoppable	tight	Santigold	1
+Unstoppable	top	Santigold	1
+Unstoppable	unstoppable	Santigold	2
+Unstoppable	vision	Santigold	1
+Unstoppable	walking	Santigold	1
+Ushers of The New World	awake	Spirituals	2
+Ushers of The New World	buy	Spirituals	1
+Ushers of The New World	carry	Spirituals	1
+Ushers of The New World	change	Spirituals	1
+Ushers of The New World	coming	Spirituals	10
+Ushers of The New World	day	Spirituals	1
+Ushers of The New World	die	Spirituals	1
+Ushers of The New World	em	Spirituals	2
+Ushers of The New World	feel	Spirituals	1
+Ushers of The New World	fight	Spirituals	2
+Ushers of The New World	fit	Spirituals	1
+Ushers of The New World	fly	Spirituals	2
+Ushers of The New World	gather	Spirituals	1
+Ushers of The New World	god	Spirituals	1
+Ushers of The New World	gonna	Spirituals	4
+Ushers of The New World	grow	Spirituals	1
+Ushers of The New World	hands	Spirituals	2
+Ushers of The New World	harnessing	Spirituals	1
+Ushers of The New World	hiding	Spirituals	1
+Ushers of The New World	hit	Spirituals	1
+Ushers of The New World	hoarse	Spirituals	1
+Ushers of The New World	homes	Spirituals	1
+Ushers of The New World	i'ma	Spirituals	1
+Ushers of The New World	inside	Spirituals	1
+Ushers of The New World	lay	Spirituals	2
+Ushers of The New World	makes	Spirituals	1
+Ushers of The New World	money	Spirituals	1
+Ushers of The New World	night	Spirituals	2
+Ushers of The New World	overture	Spirituals	1
+Ushers of The New World	rich	Spirituals	1
+Ushers of The New World	risk	Spirituals	1
+Ushers of The New World	running	Spirituals	2
+Ushers of The New World	save	Spirituals	1
+Ushers of The New World	sick	Spirituals	1
+Ushers of The New World	singing	Spirituals	1
+Ushers of The New World	sirens	Spirituals	1
+Ushers of The New World	smart	Spirituals	1
+Ushers of The New World	spend	Spirituals	1
+Ushers of The New World	stop	Spirituals	2
+Ushers of The New World	survival	Spirituals	1
+Ushers of The New World	til	Spirituals	1
+Ushers of The New World	time	Spirituals	12
+Ushers of The New World	unknown	Spirituals	1
+Ushers of The New World	ushers	Spirituals	9
+Ushers of The New World	vicious	Spirituals	2
+Ushers of The New World	weight	Spirituals	1
+Ushers of The New World	wind	Spirituals	1
+Ushers of The New World	wings	Spirituals	1
+Ushers of The New World	world	Spirituals	18
+Valley of the Dolls	ahead	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	attack	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	baby	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	bee	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	can’t	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	cursing	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	day	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	dolls	I Don t Want The Goldfire Sessions	16
+Valley of the Dolls	don’t	I Don t Want The Goldfire Sessions	4
+Valley of the Dolls	drop	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	dropped	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	em	I Don t Want The Goldfire Sessions	11
+Valley of the Dolls	entered	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	eyes	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	floor	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	fuck	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	game	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	guard	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	half	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	heart	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	i’ll	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	i’m	I Don t Want The Goldfire Sessions	8
+Valley of the Dolls	it’d	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	jaws	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	life	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	living	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	mouth	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	pass	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	play	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	pom	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	poms	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	puppet	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	queen	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	rip	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	shit	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	simulates	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	star	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	stats	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	straight	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	tear	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	tethers	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	they’re	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	top	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	town	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	tricked	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	uh	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	uproar	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	valley	I Don t Want The Goldfire Sessions	15
+Valley of the Dolls	walk	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	watch	I Don t Want The Goldfire Sessions	2
+Valley of the Dolls	watchin	I Don t Want The Goldfire Sessions	3
+Valley of the Dolls	we’ve	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	win	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	wind	I Don t Want The Goldfire Sessions	1
+Valley of the Dolls	wit	I Don t Want The Goldfire Sessions	1
+Walking in a Circle	accept	99	1
+Walking in a Circle	ahead	99	2
+Walking in a Circle	aiming	99	1
+Walking in a Circle	awake	99	2
+Walking in a Circle	built	99	2
+Walking in a Circle	buying	99	1
+Walking in a Circle	call	99	1
+Walking in a Circle	can’t	99	1
+Walking in a Circle	circle	99	3
+Walking in a Circle	complicated	99	3
+Walking in a Circle	counting	99	1
+Walking in a Circle	destiny	99	1
+Walking in a Circle	disappear	99	3
+Walking in a Circle	don’t	99	2
+Walking in a Circle	dream	99	2
+Walking in a Circle	drive	99	1
+Walking in a Circle	em	99	2
+Walking in a Circle	empty	99	2
+Walking in a Circle	eternal	99	2
+Walking in a Circle	feel	99	1
+Walking in a Circle	fortress	99	1
+Walking in a Circle	futile	99	1
+Walking in a Circle	gon	99	2
+Walking in a Circle	hades	99	1
+Walking in a Circle	hate	99	3
+Walking in a Circle	hey	99	2
+Walking in a Circle	hitting	99	1
+Walking in a Circle	home	99	1
+Walking in a Circle	hurdles	99	1
+Walking in a Circle	i’m	99	5
+Walking in a Circle	it’s	99	10
+Walking in a Circle	lies	99	1
+Walking in a Circle	light	99	2
+Walking in a Circle	lights	99	12
+Walking in a Circle	livin	99	2
+Walking in a Circle	magic	99	2
+Walking in a Circle	means	99	2
+Walking in a Circle	mothers	99	1
+Walking in a Circle	nobody’s	99	1
+Walking in a Circle	overrated	99	3
+Walking in a Circle	overshot	99	1
+Walking in a Circle	queen	99	1
+Walking in a Circle	rescue	99	1
+Walking in a Circle	ride	99	1
+Walking in a Circle	round	99	1
+Walking in a Circle	sadist	99	1
+Walking in a Circle	searching	99	1
+Walking in a Circle	seer	99	3
+Walking in a Circle	sleeve	99	2
+Walking in a Circle	spite	99	1
+Walking in a Circle	suffocates	99	3
+Walking in a Circle	time	99	1
+Walking in a Circle	tonight	99	1
+Walking in a Circle	touch	99	2
+Walking in a Circle	tricks	99	2
+Walking in a Circle	upgrade	99	3
+Walking in a Circle	walking	99	3
+Walking in a Circle	won’t	99	1
+Walking in a Circle	you’re	99	3
+Walking in a Circle	zombie	99	2
+Wha’ You Feel Like	3	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	actin	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	alright	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	arm	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	bashy	I Don t Want The Goldfire Sessions	14
+Wha’ You Feel Like	bend	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	body	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	bombshell	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	boy	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	boys	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	club	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	cock	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	confessing	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	don’t	I Don t Want The Goldfire Sessions	3
+Wha’ You Feel Like	driver	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	em	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	eye	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	feel	I Don t Want The Goldfire Sessions	8
+Wha’ You Feel Like	fightin	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	front	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	girl	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	girls	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	gonna	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	heart	I Don t Want The Goldfire Sessions	3
+Wha’ You Feel Like	hee	I Don t Want The Goldfire Sessions	4
+Wha’ You Feel Like	ignite	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	king	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	knight	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	life	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	light	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	live	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	lonely	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	love	I Don t Want The Goldfire Sessions	4
+Wha’ You Feel Like	mad	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	mi	I Don t Want The Goldfire Sessions	3
+Wha’ You Feel Like	million	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	nah	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	neon	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	night	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	playin	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	pull	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	rev	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	ride	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	ring	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	rolling	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	rough	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	rub	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	spike	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	stone	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	stride	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	stuntin	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	telephone	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	tied	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	told	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	tongue	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	true	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	wandering	I Don t Want The Goldfire Sessions	2
+Wha’ You Feel Like	wantin	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	wha	I Don t Want The Goldfire Sessions	6
+Wha’ You Feel Like	who’s	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	wild	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	wit	I Don t Want The Goldfire Sessions	4
+Wha’ You Feel Like	ya	I Don t Want The Goldfire Sessions	1
+Wha’ You Feel Like	you’re	I Don t Want The Goldfire Sessions	2
+Who Be Lovin’ Me	alpaca	99	1
+Who Be Lovin’ Me	arm	99	1
+Who Be Lovin’ Me	baby	99	1
+Who Be Lovin’ Me	blowin	99	1
+Who Be Lovin’ Me	body	99	1
+Who Be Lovin’ Me	bout	99	1
+Who Be Lovin’ Me	boys	99	8
+Who Be Lovin’ Me	bright	99	1
+Who Be Lovin’ Me	call	99	2
+Who Be Lovin’ Me	called	99	1
+Who Be Lovin’ Me	captain	99	1
+Who Be Lovin’ Me	chef	99	1
+Who Be Lovin’ Me	city	99	1
+Who Be Lovin’ Me	compute	99	1
+Who Be Lovin’ Me	crazy	99	1
+Who Be Lovin’ Me	curls	99	1
+Who Be Lovin’ Me	dear	99	10
+Who Be Lovin’ Me	deep	99	1
+Who Be Lovin’ Me	drop	99	1
+Who Be Lovin’ Me	em	99	2
+Who Be Lovin’ Me	fashion	99	1
+Who Be Lovin’ Me	france	99	1
+Who Be Lovin’ Me	frown	99	1
+Who Be Lovin’ Me	gainst	99	1
+Who Be Lovin’ Me	girls	99	15
+Who Be Lovin’ Me	goddamn	99	1
+Who Be Lovin’ Me	goin	99	3
+Who Be Lovin’ Me	gonna	99	10
+Who Be Lovin’ Me	hair	99	1
+Who Be Lovin’ Me	happen	99	1
+Who Be Lovin’ Me	happened	99	1
+Who Be Lovin’ Me	hear	99	1
+Who Be Lovin’ Me	home	99	1
+Who Be Lovin’ Me	hon	99	1
+Who Be Lovin’ Me	house	99	1
+Who Be Lovin’ Me	japan	99	1
+Who Be Lovin’ Me	jetsetter	99	2
+Who Be Lovin’ Me	knee	99	1
+Who Be Lovin’ Me	lackin	99	1
+Who Be Lovin’ Me	languages	99	1
+Who Be Lovin’ Me	law	99	1
+Who Be Lovin’ Me	letters	99	1
+Who Be Lovin’ Me	lights	99	1
+Who Be Lovin’ Me	lil	99	1
+Who Be Lovin’ Me	llama	99	1
+Who Be Lovin’ Me	lost	99	1
+Who Be Lovin’ Me	love	99	3
+Who Be Lovin’ Me	lovin	99	22
+Who Be Lovin’ Me	mama	99	1
+Who Be Lovin’ Me	move	99	1
+Who Be Lovin’ Me	phone	99	1
+Who Be Lovin’ Me	picture	99	1
+Who Be Lovin’ Me	plate	99	1
+Who Be Lovin’ Me	playin	99	1
+Who Be Lovin’ Me	pullin	99	1
+Who Be Lovin’ Me	rowdy	99	1
+Who Be Lovin’ Me	rub	99	1
+Who Be Lovin’ Me	sea	99	1
+Who Be Lovin’ Me	shit	99	2
+Who Be Lovin’ Me	smiles	99	1
+Who Be Lovin’ Me	snow	99	1
+Who Be Lovin’ Me	songs	99	1
+Who Be Lovin’ Me	stadium	99	1
+Who Be Lovin’ Me	stayin	99	1
+Who Be Lovin’ Me	storm	99	1
+Who Be Lovin’ Me	stunts	99	1
+Who Be Lovin’ Me	super	99	1
+Who Be Lovin’ Me	swerve	99	1
+Who Be Lovin’ Me	takin	99	1
+Who Be Lovin’ Me	talk	99	1
+Who Be Lovin’ Me	talkin	99	1
+Who Be Lovin’ Me	time	99	3
+Who Be Lovin’ Me	top	99	1
+Who Be Lovin’ Me	tug	99	1
+Who Be Lovin’ Me	turnin	99	1
+Who Be Lovin’ Me	twenty	99	1
+Who Be Lovin’ Me	walk	99	1
+Who Be Lovin’ Me	wanna	99	1
+Who Be Lovin’ Me	warm	99	1
+Who Be Lovin’ Me	wasting	99	1
+Who Be Lovin’ Me	wild	99	1
+Who Be Lovin’ Me	win	99	1
+Who Be Lovin’ Me	world	99	18
+Who Be Lovin’ Me	yeah	99	12
+Who I Thought You Were	actin	99	3
+Who I Thought You Were	appalled	99	1
+Who I Thought You Were	attitude	99	1
+Who I Thought You Were	borer	99	3
+Who I Thought You Were	bottom	99	1
+Who I Thought You Were	boy	99	1
+Who I Thought You Were	breath	99	1
+Who I Thought You Were	call	99	1
+Who I Thought You Were	can’t	99	3
+Who I Thought You Were	car	99	1
+Who I Thought You Were	clue	99	1
+Who I Thought You Were	couldn’t	99	1
+Who I Thought You Were	cuz	99	2
+Who I Thought You Were	days	99	1
+Who I Thought You Were	dollar	99	1
+Who I Thought You Were	don’t	99	3
+Who I Thought You Were	driving	99	1
+Who I Thought You Were	enemies	99	1
+Who I Thought You Were	fast	99	1
+Who I Thought You Were	fine	99	1
+Who I Thought You Were	frankly	99	1
+Who I Thought You Were	funny	99	1
+Who I Thought You Were	gall	99	1
+Who I Thought You Were	girls	99	1
+Who I Thought You Were	gonna	99	3
+Who I Thought You Were	hey	99	1
+Who I Thought You Were	hold	99	1
+Who I Thought You Were	hosed	99	1
+Who I Thought You Were	i’m	99	1
+Who I Thought You Were	id	99	3
+Who I Thought You Were	it’s	99	3
+Who I Thought You Were	lackeys	99	1
+Who I Thought You Were	ladder	99	1
+Who I Thought You Were	left	99	1
+Who I Thought You Were	line	99	2
+Who I Thought You Were	lot	99	1
+Who I Thought You Were	loved	99	1
+Who I Thought You Were	million	99	1
+Who I Thought You Were	minutes	99	1
+Who I Thought You Were	ooooh	99	3
+Who I Thought You Were	oooooohh	99	3
+Who I Thought You Were	owe	99	3
+Who I Thought You Were	poorer	99	3
+Who I Thought You Were	reach	99	1
+Who I Thought You Were	rude	99	1
+Who I Thought You Were	runnin	99	1
+Who I Thought You Were	spin	99	1
+Who I Thought You Were	star	99	1
+Who I Thought You Were	stuck	99	1
+Who I Thought You Were	suit	99	1
+Who I Thought You Were	they’re	99	1
+Who I Thought You Were	thin	99	1
+Who I Thought You Were	thirsty	99	1
+Who I Thought You Were	time	99	2
+Who I Thought You Were	walkin	99	1
+Who I Thought You Were	wasn’t	99	1
+Who I Thought You Were	watch	99	1
+Who I Thought You Were	wouldn’t	99	1
+Who I Thought You Were	ya	99	3
+Why Me	adds	I Don t Want The Goldfire Sessions	1
+Why Me	admit	I Don t Want The Goldfire Sessions	2
+Why Me	air	I Don t Want The Goldfire Sessions	1
+Why Me	alright	I Don t Want The Goldfire Sessions	2
+Why Me	amaze	I Don t Want The Goldfire Sessions	2
+Why Me	art	I Don t Want The Goldfire Sessions	1
+Why Me	bomb	I Don t Want The Goldfire Sessions	1
+Why Me	budge	I Don t Want The Goldfire Sessions	1
+Why Me	can’t	I Don t Want The Goldfire Sessions	1
+Why Me	care	I Don t Want The Goldfire Sessions	1
+Why Me	cease	I Don t Want The Goldfire Sessions	2
+Why Me	check	I Don t Want The Goldfire Sessions	1
+Why Me	circumstance	I Don t Want The Goldfire Sessions	1
+Why Me	couldn’t	I Don t Want The Goldfire Sessions	2
+Why Me	cup	I Don t Want The Goldfire Sessions	1
+Why Me	cut	I Don t Want The Goldfire Sessions	1
+Why Me	dance	I Don t Want The Goldfire Sessions	1
+Why Me	don’t	I Don t Want The Goldfire Sessions	5
+Why Me	drop	I Don t Want The Goldfire Sessions	1
+Why Me	fall	I Don t Want The Goldfire Sessions	2
+Why Me	fight	I Don t Want The Goldfire Sessions	2
+Why Me	fill	I Don t Want The Goldfire Sessions	1
+Why Me	follow	I Don t Want The Goldfire Sessions	1
+Why Me	fools	I Don t Want The Goldfire Sessions	1
+Why Me	footsteps	I Don t Want The Goldfire Sessions	1
+Why Me	fuck	I Don t Want The Goldfire Sessions	1
+Why Me	harder	I Don t Want The Goldfire Sessions	2
+Why Me	head	I Don t Want The Goldfire Sessions	1
+Why Me	hold	I Don t Want The Goldfire Sessions	2
+Why Me	i’m	I Don t Want The Goldfire Sessions	2
+Why Me	jam	I Don t Want The Goldfire Sessions	1
+Why Me	keys	I Don t Want The Goldfire Sessions	2
+Why Me	luck	I Don t Want The Goldfire Sessions	1
+Why Me	marked	I Don t Want The Goldfire Sessions	2
+Why Me	martyr	I Don t Want The Goldfire Sessions	2
+Why Me	mate	I Don t Want The Goldfire Sessions	1
+Why Me	mess	I Don t Want The Goldfire Sessions	1
+Why Me	pavement	I Don t Want The Goldfire Sessions	2
+Why Me	pick	I Don t Want The Goldfire Sessions	2
+Why Me	pieces	I Don t Want The Goldfire Sessions	2
+Why Me	pinch	I Don t Want The Goldfire Sessions	1
+Why Me	positive	I Don t Want The Goldfire Sessions	1
+Why Me	push	I Don t Want The Goldfire Sessions	2
+Why Me	regret	I Don t Want The Goldfire Sessions	1
+Why Me	rock	I Don t Want The Goldfire Sessions	1
+Why Me	rules	I Don t Want The Goldfire Sessions	1
+Why Me	short	I Don t Want The Goldfire Sessions	1
+Why Me	stall	I Don t Want The Goldfire Sessions	2
+Why Me	stay	I Don t Want The Goldfire Sessions	1
+Why Me	steal	I Don t Want The Goldfire Sessions	2
+Why Me	stop	I Don t Want The Goldfire Sessions	1
+Why Me	success	I Don t Want The Goldfire Sessions	2
+Why Me	talk	I Don t Want The Goldfire Sessions	1
+Why Me	that’s	I Don t Want The Goldfire Sessions	2
+Why Me	there’s	I Don t Want The Goldfire Sessions	1
+Why Me	they’re	I Don t Want The Goldfire Sessions	1
+Why Me	thin	I Don t Want The Goldfire Sessions	1
+Why Me	time	I Don t Want The Goldfire Sessions	1
+Why Me	town	I Don t Want The Goldfire Sessions	1
+Why Me	trend	I Don t Want The Goldfire Sessions	1
+Why Me	walk	I Don t Want The Goldfire Sessions	1
+Why Me	walking	I Don t Want The Goldfire Sessions	1
+Why Me	wall	I Don t Want The Goldfire Sessions	2
+Why Me	won’t	I Don t Want The Goldfire Sessions	2
+Why Me	write	I Don t Want The Goldfire Sessions	1
+Witness	air	Spirituals	1
+Witness	amen	Spirituals	1
+Witness	bare	Spirituals	1
+Witness	breaking	Spirituals	1
+Witness	costs	Spirituals	1
+Witness	crowd	Spirituals	1
+Witness	day	Spirituals	1
+Witness	deep	Spirituals	1
+Witness	dig	Spirituals	1
+Witness	don’t	Spirituals	1
+Witness	feel	Spirituals	2
+Witness	flailing	Spirituals	1
+Witness	gift	Spirituals	1
+Witness	harder	Spirituals	1
+Witness	hear	Spirituals	1
+Witness	lay	Spirituals	1
+Witness	loud	Spirituals	1
+Witness	naked	Spirituals	1
+Witness	praying	Spirituals	1
+Witness	reflection	Spirituals	2
+Witness	safe	Spirituals	1
+Witness	sane	Spirituals	1
+Witness	saving	Spirituals	1
+Witness	shadow	Spirituals	1
+Witness	shaken	Spirituals	1
+Witness	shaking	Spirituals	1
+Witness	slip	Spirituals	2
+Witness	talk	Spirituals	1
+Witness	talking	Spirituals	1
+Witness	wanna	Spirituals	1
+Witness	when’s	Spirituals	1
+Witness	witness	Spirituals	5
+You’ll Find a Way	ahead	Santigold	4
+You’ll Find a Way	bed	Santigold	1
+You’ll Find a Way	bleed	Santigold	1
+You’ll Find a Way	boy	Santigold	1
+You’ll Find a Way	call	Santigold	2
+You’ll Find a Way	cover	Santigold	2
+You’ll Find a Way	deplete	Santigold	1
+You’ll Find a Way	discover	Santigold	2
+You’ll Find a Way	dump	Santigold	1
+You’ll Find a Way	fall	Santigold	2
+You’ll Find a Way	fear	Santigold	2
+You’ll Find a Way	heads	Santigold	1
+You’ll Find a Way	heap	Santigold	1
+You’ll Find a Way	hit	Santigold	1
+You’ll Find a Way	itch	Santigold	1
+You’ll Find a Way	junkie	Santigold	1
+You’ll Find a Way	life	Santigold	1
+You’ll Find a Way	minute	Santigold	1
+You’ll Find a Way	nevermind	Santigold	1
+You’ll Find a Way	nodding	Santigold	1
+You’ll Find a Way	prove	Santigold	1
+You’ll Find a Way	pull	Santigold	2
+You’ll Find a Way	quiet	Santigold	1
+You’ll Find a Way	reach	Santigold	2
+You’ll Find a Way	rubbish	Santigold	1
+You’ll Find a Way	run	Santigold	2
+You’ll Find a Way	speak	Santigold	1
+You’ll Find a Way	surprised	Santigold	2
+You’ll Find a Way	swear	Santigold	1
+You’ll Find a Way	throw	Santigold	1
+You’ll Find a Way	til	Santigold	1
+You’ll Find a Way	town	Santigold	1
+You’ll Find a Way	wait	Santigold	1
+You’ll Find a Way	watch	Santigold	2
+You’ll Find a Way	yell	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	ahead	Santigold	4
+You’ll Find a Way (Switch & Sinden Remix)	bed	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	bleed	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	boy	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	call	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	cover	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	deplete	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	discover	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	dump	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	fall	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	fear	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	heads	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	heap	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	hit	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	itch	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	junkie	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	life	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	mind	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	minute	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	nodding	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	prove	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	pull	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	quiet	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	reach	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	rubbish	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	run	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	speak	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	surprised	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	swear	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	throw	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	til	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	town	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	wait	Santigold	1
+You’ll Find a Way (Switch & Sinden Remix)	watch	Santigold	6
+You’ll Find a Way (Switch & Sinden Remix)	yell	Santigold	1
+Your Voice	baby	Santigold	1
+Your Voice	bad	Santigold	1
+Your Voice	cold	Santigold	2
+Your Voice	coming	Santigold	2
+Your Voice	cry	Santigold	1
+Your Voice	fire	Santigold	1
+Your Voice	gonna	Santigold	1
+Your Voice	head	Santigold	2
+Your Voice	hear	Santigold	5
+Your Voice	heed	Santigold	1
+Your Voice	home	Santigold	1
+Your Voice	i'm'a	Santigold	1
+Your Voice	lay	Santigold	2
+Your Voice	leave	Santigold	1
+Your Voice	mind	Santigold	1
+Your Voice	nod	Santigold	1
+Your Voice	render	Santigold	1
+Your Voice	robe	Santigold	2
+Your Voice	run	Santigold	13
+Your Voice	stay	Santigold	1
+Your Voice	voice	Santigold	5

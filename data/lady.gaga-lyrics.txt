@@ -1,0 +1,3461 @@
+song_name	word	album	n
+1000 Doves	arms	Chromatica	3
+1000 Doves	baby	Chromatica	1
+1000 Doves	bleeding	Chromatica	1
+1000 Doves	broken	Chromatica	3
+1000 Doves	cage	Chromatica	1
+1000 Doves	catch	Chromatica	3
+1000 Doves	completely	Chromatica	1
+1000 Doves	cry	Chromatica	1
+1000 Doves	day	Chromatica	1
+1000 Doves	doves	Chromatica	11
+1000 Doves	fall	Chromatica	3
+1000 Doves	falling	Chromatica	2
+1000 Doves	flying	Chromatica	18
+1000 Doves	free	Chromatica	2
+1000 Doves	game	Chromatica	1
+1000 Doves	hard	Chromatica	1
+1000 Doves	heart's	Chromatica	1
+1000 Doves	human	Chromatica	1
+1000 Doves	hurting	Chromatica	1
+1000 Doves	inside	Chromatica	2
+1000 Doves	invisibly	Chromatica	1
+1000 Doves	judge	Chromatica	1
+1000 Doves	leave	Chromatica	2
+1000 Doves	life	Chromatica	1
+1000 Doves	lift	Chromatica	6
+1000 Doves	listen	Chromatica	2
+1000 Doves	lonely	Chromatica	1
+1000 Doves	love	Chromatica	2
+1000 Doves	nudge	Chromatica	3
+1000 Doves	oves	Chromatica	6
+1000 Doves	perfect	Chromatica	1
+1000 Doves	rage	Chromatica	1
+1000 Doves	save	Chromatica	1
+1000 Doves	set	Chromatica	2
+1000 Doves	shaking	Chromatica	1
+1000 Doves	smile	Chromatica	1
+1000 Doves	start	Chromatica	3
+1000 Doves	stuck	Chromatica	1
+1000 Doves	stupid	Chromatica	1
+1000 Doves	tears	Chromatica	2
+1000 Doves	thousand	Chromatica	12
+1000 Doves	time	Chromatica	1
+1000 Doves	waiting's	Chromatica	1
+911	911	Chromatica	12
+911	beautiful	Chromatica	1
+911	biggest	Chromatica	9
+911	biological	Chromatica	1
+911	boxes	Chromatica	1
+911	built	Chromatica	1
+911	choice	Chromatica	1
+911	cry	Chromatica	12
+911	day	Chromatica	3
+911	diamond	Chromatica	1
+911	dolls	Chromatica	1
+911	drop	Chromatica	1
+911	em	Chromatica	1
+911	emotional	Chromatica	1
+911	enemy	Chromatica	9
+911	faders	Chromatica	1
+911	friendships	Chromatica	1
+911	front	Chromatica	1
+911	gon	Chromatica	1
+911	grab	Chromatica	1
+911	hands	Chromatica	2
+911	hating	Chromatica	1
+911	heard	Chromatica	1
+911	holdin	Chromatica	1
+911	inside	Chromatica	1
+911	laughed	Chromatica	1
+911	life	Chromatica	1
+911	line	Chromatica	6
+911	manic	Chromatica	1
+911	mood's	Chromatica	1
+911	oasis	Chromatica	1
+911	ooh	Chromatica	8
+911	paradise	Chromatica	2
+911	patch	Chromatica	6
+911	phrases	Chromatica	1
+911	pop	Chromatica	16
+911	real	Chromatica	1
+911	repeating	Chromatica	1
+911	save	Chromatica	1
+911	shifting	Chromatica	1
+911	stasis	Chromatica	1
+911	status	Chromatica	1
+911	tight	Chromatica	1
+911	til	Chromatica	1
+911	turnin	Chromatica	1
+911	voices	Chromatica	1
+911	watch	Chromatica	1
+A-YO	aaaa	Joanne	1
+A-YO	baby	Joanne	1
+A-YO	blaze	Joanne	1
+A-YO	blow	Joanne	4
+A-YO	body's	Joanne	6
+A-YO	breathe	Joanne	6
+A-YO	burns	Joanne	1
+A-YO	cast	Joanne	1
+A-YO	ceilin	Joanne	13
+A-YO	city	Joanne	1
+A-YO	covered	Joanne	1
+A-YO	da	Joanne	2
+A-YO	drippin	Joanne	1
+A-YO	em	Joanne	13
+A-YO	fake	Joanne	1
+A-YO	faster	Joanne	2
+A-YO	ferrari	Joanne	1
+A-YO	gravel	Joanne	1
+A-YO	gravy	Joanne	1
+A-YO	hate	Joanne	2
+A-YO	hey	Joanne	2
+A-YO	laced	Joanne	1
+A-YO	light	Joanne	6
+A-YO	marlboro	Joanne	1
+A-YO	mirror	Joanne	13
+A-YO	pack	Joanne	1
+A-YO	party	Joanne	1
+A-YO	play	Joanne	2
+A-YO	pleadin	Joanne	6
+A-YO	rail	Joanne	1
+A-YO	real	Joanne	1
+A-YO	rev	Joanne	1
+A-YO	road	Joanne	1
+A-YO	shook	Joanne	1
+A-YO	smoke	Joanne	1
+A-YO	smokin	Joanne	13
+A-YO	southern	Joanne	1
+A-YO	spell	Joanne	1
+A-YO	spin	Joanne	2
+A-YO	tearin	Joanne	1
+A-YO	track	Joanne	1
+A-YO	unravel	Joanne	1
+A-YO	wait	Joanne	5
+A-YO	watch	Joanne	1
+A-YO	yo	Joanne	40
+Alice	ah	Chromatica	52
+Alice	alice	Chromatica	6
+Alice	alive	Chromatica	1
+Alice	body	Chromatica	1
+Alice	dj	Chromatica	1
+Alice	falling	Chromatica	1
+Alice	free	Chromatica	5
+Alice	hole	Chromatica	1
+Alice	home	Chromatica	6
+Alice	left	Chromatica	1
+Alice	listen	Chromatica	1
+Alice	lungs	Chromatica	2
+Alice	ma	Chromatica	12
+Alice	maestro	Chromatica	1
+Alice	might've	Chromatica	1
+Alice	mind	Chromatica	2
+Alice	mother	Chromatica	2
+Alice	play	Chromatica	1
+Alice	pull	Chromatica	1
+Alice	screaming	Chromatica	2
+Alice	set	Chromatica	4
+Alice	sick	Chromatica	1
+Alice	stuck	Chromatica	1
+Alice	symphony	Chromatica	1
+Alice	tired	Chromatica	2
+Alice	top	Chromatica	2
+Alice	trip	Chromatica	1
+Alice	waking	Chromatica	1
+Alice	wonderland	Chromatica	21
+Americano	agosto	Born This Way	1
+Americano	ah	Born This Way	48
+Americano	américa	Born This Way	8
+Americano	americano	Born This Way	9
+Americano	barrio	Born This Way	1
+Americano	besando	Born This Way	1
+Americano	campanas	Born This Way	1
+Americano	canciones	Born This Way	1
+Americano	care	Born This Way	1
+Americano	catch	Born This Way	4
+Americano	chicas	Born This Way	2
+Americano	chicos	Born This Way	2
+Americano	chords	Born This Way	1
+Americano	coast	Born This Way	1
+Americano	corazón	Born This Way	1
+Americano	court	Born This Way	1
+Americano	cried	Born This Way	1
+Americano	cristo	Born This Way	3
+Americano	de	Born This Way	1
+Americano	die	Born This Way	1
+Americano	duele	Born This Way	1
+Americano	east	Born This Way	1
+Americano	edge	Born This Way	3
+Americano	eights	Born This Way	1
+Americano	en	Born This Way	2
+Americano	están	Born This Way	2
+Americano	fell	Born This Way	1
+Americano	fight	Born This Way	1
+Americano	floral	Born This Way	1
+Americano	fought	Born This Way	1
+Americano	generación	Born This Way	1
+Americano	girl	Born This Way	1
+Americano	jesús	Born This Way	3
+Americano	la	Born This Way	114
+Americano	language	Born This Way	2
+Americano	las	Born This Way	1
+Americano	law	Born This Way	8
+Americano	living	Born This Way	3
+Americano	los	Born This Way	2
+Americano	love	Born This Way	3
+Americano	marry	Born This Way	1
+Americano	met	Born This Way	1
+Americano	mi	Born This Way	2
+Americano	mis	Born This Way	1
+Americano	mountains	Born This Way	1
+Americano	por	Born This Way	1
+Americano	revolución	Born This Way	1
+Americano	sang	Born This Way	1
+Americano	se	Born This Way	1
+Americano	shorts	Born This Way	1
+Americano	son	Born This Way	1
+Americano	sonando	Born This Way	1
+Americano	speak	Born This Way	20
+Americano	sweet	Born This Way	1
+Americano	todos	Born This Way	1
+Americano	verano	Born This Way	1
+Americano	wednesday	Born This Way	1
+Americano	west	Born This Way	1
+Angel Down	age	Joanne	1
+Angel Down	angel	Joanne	19
+Angel Down	arms	Joanne	1
+Angel Down	believer	Joanne	6
+Angel Down	belong	Joanne	1
+Angel Down	catch	Joanne	5
+Angel Down	chaos	Joanne	3
+Angel Down	church	Joanne	2
+Angel Down	confess	Joanne	1
+Angel Down	courage	Joanne	1
+Angel Down	faded	Joanne	1
+Angel Down	fired	Joanne	2
+Angel Down	foolish	Joanne	3
+Angel Down	grateful	Joanne	1
+Angel Down	hoo	Joanne	40
+Angel Down	knees	Joanne	1
+Angel Down	leaders	Joanne	3
+Angel Down	lost	Joanne	1
+Angel Down	lovin	Joanne	1
+Angel Down	meet	Joanne	2
+Angel Down	people	Joanne	2
+Angel Down	pretend	Joanne	1
+Angel Down	sacred	Joanne	1
+Angel Down	save	Joanne	10
+Angel Down	shots	Joanne	2
+Angel Down	social	Joanne	1
+Angel Down	stand	Joanne	1
+Angel Down	stood	Joanne	1
+Angel Down	street	Joanne	2
+Angel Down	test	Joanne	1
+Angel Down	trial	Joanne	3
+Angel Down	weaker	Joanne	3
+Angel Down	wrong	Joanne	1
+Applause	applause	ARTPOP	24
+Applause	art	ARTPOP	1
+Applause	art's	ARTPOP	1
+Applause	baby	ARTPOP	1
+Applause	bang	ARTPOP	1
+Applause	bear	ARTPOP	1
+Applause	cheer	ARTPOP	3
+Applause	crash	ARTPOP	1
+Applause	critic	ARTPOP	1
+Applause	culture	ARTPOP	2
+Applause	em	ARTPOP	12
+Applause	fame	ARTPOP	1
+Applause	found	ARTPOP	1
+Applause	geeks	ARTPOP	1
+Applause	gong	ARTPOP	1
+Applause	guess	ARTPOP	1
+Applause	hands	ARTPOP	12
+Applause	iv	ARTPOP	1
+Applause	koons	ARTPOP	2
+Applause	lights	ARTPOP	6
+Applause	live	ARTPOP	12
+Applause	loud	ARTPOP	12
+Applause	love	ARTPOP	6
+Applause	nostalgia's	ARTPOP	1
+Applause	overheard	ARTPOP	1
+Applause	plause	ARTPOP	6
+Applause	pop	ARTPOP	2
+Applause	read	ARTPOP	1
+Applause	real	ARTPOP	12
+Applause	scream	ARTPOP	3
+Applause	sir	ARTPOP	1
+Applause	stand	ARTPOP	1
+Applause	suddenly	ARTPOP	1
+Applause	theory	ARTPOP	1
+Applause	touch	ARTPOP	28
+Applause	vein	ARTPOP	1
+Applause	waiting	ARTPOP	1
+Applause	woo	ARTPOP	4
+Applause	wrong	ARTPOP	1
+Applause (Empire of the Sun Remix)	applause	ARTPOP	21
+Applause (Empire of the Sun Remix)	art	ARTPOP	1
+Applause (Empire of the Sun Remix)	art's	ARTPOP	1
+Applause (Empire of the Sun Remix)	baby	ARTPOP	1
+Applause (Empire of the Sun Remix)	bang	ARTPOP	1
+Applause (Empire of the Sun Remix)	bear	ARTPOP	1
+Applause (Empire of the Sun Remix)	cheer	ARTPOP	2
+Applause (Empire of the Sun Remix)	crash	ARTPOP	1
+Applause (Empire of the Sun Remix)	critic	ARTPOP	1
+Applause (Empire of the Sun Remix)	culture	ARTPOP	2
+Applause (Empire of the Sun Remix)	die	ARTPOP	2
+Applause (Empire of the Sun Remix)	em	ARTPOP	12
+Applause (Empire of the Sun Remix)	fame	ARTPOP	1
+Applause (Empire of the Sun Remix)	found	ARTPOP	1
+Applause (Empire of the Sun Remix)	geeks	ARTPOP	1
+Applause (Empire of the Sun Remix)	gong	ARTPOP	1
+Applause (Empire of the Sun Remix)	guess	ARTPOP	1
+Applause (Empire of the Sun Remix)	hands	ARTPOP	12
+Applause (Empire of the Sun Remix)	iv	ARTPOP	1
+Applause (Empire of the Sun Remix)	koons	ARTPOP	2
+Applause (Empire of the Sun Remix)	lights	ARTPOP	8
+Applause (Empire of the Sun Remix)	live	ARTPOP	11
+Applause (Empire of the Sun Remix)	loud	ARTPOP	12
+Applause (Empire of the Sun Remix)	love	ARTPOP	6
+Applause (Empire of the Sun Remix)	meant	ARTPOP	2
+Applause (Empire of the Sun Remix)	nostalgia's	ARTPOP	1
+Applause (Empire of the Sun Remix)	overheard	ARTPOP	1
+Applause (Empire of the Sun Remix)	plause	ARTPOP	6
+Applause (Empire of the Sun Remix)	pop	ARTPOP	2
+Applause (Empire of the Sun Remix)	read	ARTPOP	1
+Applause (Empire of the Sun Remix)	real	ARTPOP	12
+Applause (Empire of the Sun Remix)	scream	ARTPOP	2
+Applause (Empire of the Sun Remix)	sir	ARTPOP	1
+Applause (Empire of the Sun Remix)	stand	ARTPOP	1
+Applause (Empire of the Sun Remix)	suddenly	ARTPOP	1
+Applause (Empire of the Sun Remix)	theory	ARTPOP	1
+Applause (Empire of the Sun Remix)	touch	ARTPOP	20
+Applause (Empire of the Sun Remix)	vein	ARTPOP	1
+Applause (Empire of the Sun Remix)	waiting	ARTPOP	4
+Applause (Empire of the Sun Remix)	worth	ARTPOP	2
+Applause (Empire of the Sun Remix)	wrong	ARTPOP	1
+ARTPOP	artpop	ARTPOP	25
+ARTPOP	beaches	ARTPOP	1
+ARTPOP	beat	ARTPOP	2
+ARTPOP	belong	ARTPOP	12
+ARTPOP	bling	ARTPOP	2
+ARTPOP	bricks	ARTPOP	2
+ARTPOP	brushes	ARTPOP	1
+ARTPOP	choose	ARTPOP	2
+ARTPOP	color	ARTPOP	1
+ARTPOP	create	ARTPOP	1
+ARTPOP	cruelty	ARTPOP	1
+ARTPOP	darkness	ARTPOP	1
+ARTPOP	destiny	ARTPOP	1
+ARTPOP	fantasy	ARTPOP	1
+ARTPOP	flown	ARTPOP	1
+ARTPOP	free	ARTPOP	1
+ARTPOP	glamour	ARTPOP	1
+ARTPOP	heart	ARTPOP	3
+ARTPOP	hue	ARTPOP	1
+ARTPOP	hybrid	ARTPOP	2
+ARTPOP	kites	ARTPOP	1
+ARTPOP	laughing	ARTPOP	1
+ARTPOP	love	ARTPOP	1
+ARTPOP	lovers	ARTPOP	1
+ARTPOP	melody	ARTPOP	1
+ARTPOP	mind	ARTPOP	1
+ARTPOP	move	ARTPOP	1
+ARTPOP	music	ARTPOP	2
+ARTPOP	palette	ARTPOP	1
+ARTPOP	perverse	ARTPOP	1
+ARTPOP	profit	ARTPOP	1
+ARTPOP	public	ARTPOP	1
+ARTPOP	reasons	ARTPOP	1
+ARTPOP	rescue	ARTPOP	1
+ARTPOP	sell	ARTPOP	2
+ARTPOP	sight	ARTPOP	1
+ARTPOP	simplest	ARTPOP	1
+ARTPOP	stop	ARTPOP	1
+ARTPOP	strings	ARTPOP	2
+ARTPOP	subtext	ARTPOP	1
+ARTPOP	tight	ARTPOP	1
+ARTPOP	undress	ARTPOP	1
+ARTPOP	withstand	ARTPOP	2
+Aura	10	ARTPOP	1
+Aura	arranged	ARTPOP	1
+Aura	art	ARTPOP	3
+Aura	aura	ARTPOP	16
+Aura	bedroom	ARTPOP	1
+Aura	burqa	ARTPOP	2
+Aura	choice	ARTPOP	1
+Aura	cosmic	ARTPOP	2
+Aura	cover	ARTPOP	4
+Aura	curtain	ARTPOP	1
+Aura	dance	ARTPOP	2
+Aura	enigma	ARTPOP	1
+Aura	fashion	ARTPOP	1
+Aura	fun	ARTPOP	1
+Aura	girl	ARTPOP	4
+Aura	gorgeousness	ARTPOP	1
+Aura	gun	ARTPOP	1
+Aura	ha	ARTPOP	36
+Aura	hear	ARTPOP	1
+Aura	highway	ARTPOP	1
+Aura	him's	ARTPOP	1
+Aura	hollywood	ARTPOP	1
+Aura	hood	ARTPOP	1
+Aura	killed	ARTPOP	1
+Aura	knife	ARTPOP	1
+Aura	left	ARTPOP	1
+Aura	lives	ARTPOP	4
+Aura	love	ARTPOP	1
+Aura	lover	ARTPOP	4
+Aura	move	ARTPOP	1
+Aura	naked	ARTPOP	2
+Aura	passion	ARTPOP	1
+Aura	peek	ARTPOP	4
+Aura	pity	ARTPOP	1
+Aura	pleasure	ARTPOP	1
+Aura	pop	ARTPOP	3
+Aura	popstar	ARTPOP	1
+Aura	protection	ARTPOP	1
+Aura	screaming	ARTPOP	1
+Aura	send	ARTPOP	1
+Aura	sex	ARTPOP	2
+Aura	shoot	ARTPOP	1
+Aura	size	ARTPOP	1
+Aura	slave	ARTPOP	1
+Aura	soil	ARTPOP	1
+Aura	statement	ARTPOP	1
+Aura	straight	ARTPOP	1
+Aura	street	ARTPOP	1
+Aura	tech	ARTPOP	2
+Aura	toil	ARTPOP	1
+Aura	touch	ARTPOP	2
+Aura	trunk	ARTPOP	1
+Aura	underneath	ARTPOP	4
+Aura	veil	ARTPOP	1
+Aura	walk	ARTPOP	1
+Aura	wandering	ARTPOP	1
+Aura	wanna	ARTPOP	12
+Aura	wear	ARTPOP	1
+Aura	woman	ARTPOP	1
+Babylon	ancient	Chromatica	5
+Babylon	b.c	Chromatica	1
+Babylon	ba	Chromatica	16
+Babylon	babble	Chromatica	8
+Babylon	babel	Chromatica	1
+Babylon	babylon	Chromatica	17
+Babylon	battle	Chromatica	11
+Babylon	bloodpop	Chromatica	1
+Babylon	bodies	Chromatica	1
+Babylon	bring	Chromatica	6
+Babylon	century	Chromatica	1
+Babylon	city	Chromatica	5
+Babylon	climbing	Chromatica	1
+Babylon	gossip	Chromatica	23
+Babylon	heaven	Chromatica	2
+Babylon	languages	Chromatica	1
+Babylon	life	Chromatica	11
+Babylon	mile	Chromatica	4
+Babylon	money	Chromatica	4
+Babylon	moonlight	Chromatica	1
+Babylon	moving	Chromatica	1
+Babylon	ooh	Chromatica	1
+Babylon	party	Chromatica	1
+Babylon	pretty	Chromatica	1
+Babylon	rip	Chromatica	4
+Babylon	sculpture	Chromatica	1
+Babylon	serve	Chromatica	5
+Babylon	sixteenth	Chromatica	1
+Babylon	smile	Chromatica	1
+Babylon	song	Chromatica	4
+Babylon	speak	Chromatica	1
+Babylon	strut	Chromatica	4
+Babylon	style	Chromatica	5
+Babylon	talk	Chromatica	8
+Babylon	tonight	Chromatica	1
+Babylon	top	Chromatica	1
+Babylon	tower	Chromatica	1
+Babylon	walk	Chromatica	4
+Babylon	weekend	Chromatica	1
+Bad Kids	absurd	Born This Way	1
+Bad Kids	baby	Born This Way	17
+Bad Kids	bad	Born This Way	29
+Bad Kids	bitch	Born This Way	1
+Bad Kids	born	Born This Way	1
+Bad Kids	brat	Born This Way	1
+Bad Kids	breath	Born This Way	1
+Bad Kids	care	Born This Way	1
+Bad Kids	chew	Born This Way	1
+Bad Kids	cool	Born This Way	1
+Bad Kids	dad	Born This Way	1
+Bad Kids	damn	Born This Way	1
+Bad Kids	degenerate	Born This Way	1
+Bad Kids	disastrous	Born This Way	1
+Bad Kids	divorced	Born This Way	1
+Bad Kids	fist	Born This Way	1
+Bad Kids	freak	Born This Way	1
+Bad Kids	free	Born This Way	1
+Bad Kids	freedom	Born This Way	1
+Bad Kids	gum	Born This Way	1
+Bad Kids	gun	Born This Way	1
+Bad Kids	hate	Born This Way	1
+Bad Kids	heart	Born This Way	6
+Bad Kids	hold	Born This Way	1
+Bad Kids	horse	Born This Way	1
+Bad Kids	insecure	Born This Way	8
+Bad Kids	jerk	Born This Way	1
+Bad Kids	kid	Born This Way	25
+Bad Kids	kids	Born This Way	3
+Bad Kids	life	Born This Way	4
+Bad Kids	lives	Born This Way	1
+Bad Kids	loser	Born This Way	1
+Bad Kids	love	Born This Way	1
+Bad Kids	mad	Born This Way	3
+Bad Kids	mess	Born This Way	1
+Bad Kids	mom	Born This Way	1
+Bad Kids	money	Born This Way	2
+Bad Kids	nerd	Born This Way	1
+Bad Kids	parents	Born This Way	1
+Bad Kids	people	Born This Way	1
+Bad Kids	proud	Born This Way	1
+Bad Kids	pump	Born This Way	1
+Bad Kids	punk	Born This Way	1
+Bad Kids	pure	Born This Way	6
+Bad Kids	quit	Born This Way	1
+Bad Kids	rebel	Born This Way	1
+Bad Kids	ruined	Born This Way	1
+Bad Kids	selfish	Born This Way	1
+Bad Kids	shit	Born This Way	1
+Bad Kids	smacked	Born This Way	1
+Bad Kids	smoke	Born This Way	1
+Bad Kids	survive	Born This Way	3
+Bad Kids	til	Born This Way	1
+Bad Kids	truth	Born This Way	1
+Bad Kids	twit	Born This Way	1
+Bad Kids	typical	Born This Way	1
+Bad Kids	wrong	Born This Way	7
+Beautiful, Dirty, Rich	automatic	The Fame	1
+Beautiful, Dirty, Rich	bang	The Fame	36
+Beautiful, Dirty, Rich	beautiful	The Fame	20
+Beautiful, Dirty, Rich	cream	The Fame	1
+Beautiful, Dirty, Rich	cute	The Fame	1
+Beautiful, Dirty, Rich	daddy	The Fame	2
+Beautiful, Dirty, Rich	dance	The Fame	2
+Beautiful, Dirty, Rich	dirty	The Fame	44
+Beautiful, Dirty, Rich	fanatic	The Fame	1
+Beautiful, Dirty, Rich	fight	The Fame	1
+Beautiful, Dirty, Rich	hair	The Fame	1
+Beautiful, Dirty, Rich	honey	The Fame	4
+Beautiful, Dirty, Rich	ice	The Fame	1
+Beautiful, Dirty, Rich	life	The Fame	1
+Beautiful, Dirty, Rich	live	The Fame	1
+Beautiful, Dirty, Rich	money	The Fame	4
+Beautiful, Dirty, Rich	pants	The Fame	1
+Beautiful, Dirty, Rich	party	The Fame	4
+Beautiful, Dirty, Rich	perfect	The Fame	1
+Beautiful, Dirty, Rich	plastic	The Fame	1
+Beautiful, Dirty, Rich	pornographic	The Fame	1
+Beautiful, Dirty, Rich	redlight	The Fame	1
+Beautiful, Dirty, Rich	rich	The Fame	31
+Beautiful, Dirty, Rich	shit	The Fame	1
+Beautiful, Dirty, Rich	sound	The Fame	1
+Beautiful, Dirty, Rich	systematic	The Fame	1
+Beautiful, Dirty, Rich	tighter	The Fame	1
+Beautiful, Dirty, Rich	topped	The Fame	1
+Beautiful, Dirty, Rich	uh	The Fame	2
+Beautiful, Dirty, Rich	wrecked	The Fame	1
+Beautiful, Dirty, Rich	yeah	The Fame	4
+Bloody Mary	aggro	Born This Way	1
+Bloody Mary	amor	Born This Way	1
+Bloody Mary	art	Born This Way	1
+Bloody Mary	bloody	Born This Way	4
+Bloody Mary	carve	Born This Way	1
+Bloody Mary	cold	Born This Way	1
+Bloody Mary	crucify	Born This Way	3
+Bloody Mary	cry	Born This Way	6
+Bloody Mary	da	Born This Way	16
+Bloody Mary	dadda	Born This Way	2
+Bloody Mary	dance	Born This Way	12
+Bloody Mary	dead	Born This Way	2
+Bloody Mary	di	Born This Way	8
+Bloody Mary	dum	Born This Way	12
+Bloody Mary	forgive	Born This Way	2
+Bloody Mary	furied	Born This Way	1
+Bloody Mary	gaga	Born This Way	16
+Bloody Mary	gonna	Born This Way	2
+Bloody Mary	hands	Born This Way	14
+Bloody Mary	head	Born This Way	8
+Bloody Mary	heart	Born This Way	1
+Bloody Mary	history	Born This Way	1
+Bloody Mary	j'veux	Born This Way	1
+Bloody Mary	jesus	Born This Way	2
+Bloody Mary	kill	Born This Way	1
+Bloody Mary	king	Born This Way	1
+Bloody Mary	libérate	Born This Way	1
+Bloody Mary	love	Born This Way	3
+Bloody Mary	mary	Born This Way	3
+Bloody Mary	mi	Born This Way	1
+Bloody Mary	michelangelo	Born This Way	1
+Bloody Mary	mountain	Born This Way	1
+Bloody Mary	mourir	Born This Way	1
+Bloody Mary	paris	Born This Way	1
+Bloody Mary	pas	Born This Way	1
+Bloody Mary	prove	Born This Way	1
+Bloody Mary	punktious	Born This Way	1
+Bloody Mary	ready	Born This Way	1
+Bloody Mary	religion's	Born This Way	1
+Bloody Mary	rewrite	Born This Way	1
+Bloody Mary	seule	Born This Way	1
+Bloody Mary	stones	Born This Way	1
+Bloody Mary	throne	Born This Way	1
+Bloody Mary	tops	Born This Way	1
+Bloody Mary	toute	Born This Way	1
+Bloody Mary	wait	Born This Way	1
+Born This Way	amore	Born This Way	1
+Born This Way	babe	Born This Way	1
+Born This Way	baby	Born This Way	24
+Born This Way	beautiful	Born This Way	3
+Born This Way	beige	Born This Way	2
+Born This Way	bi	Born This Way	1
+Born This Way	black	Born This Way	2
+Born This Way	born	Born This Way	36
+Born This Way	boudoir	Born This Way	1
+Born This Way	brave	Born This Way	1
+Born This Way	broke	Born This Way	1
+Born This Way	bullied	Born This Way	1
+Born This Way	capital	Born This Way	2
+Born This Way	chola	Born This Way	1
+Born This Way	cholo	Born This Way	1
+Born This Way	church	Born This Way	1
+Born This Way	descent	Born This Way	1
+Born This Way	disabilities	Born This Way	1
+Born This Way	dna	Born This Way	3
+Born This Way	drag	Born This Way	4
+Born This Way	evergreen	Born This Way	1
+Born This Way	fe	Born This Way	1
+Born This Way	friends	Born This Way	1
+Born This Way	gay	Born This Way	1
+Born This Way	girl	Born This Way	1
+Born This Way	glass	Born This Way	1
+Born This Way	god	Born This Way	3
+Born This Way	hair	Born This Way	1
+Born This Way	head	Born This Way	1
+Born This Way	hey	Born This Way	15
+Born This Way	hide	Born This Way	3
+Born This Way	hold	Born This Way	1
+Born This Way	insecure	Born This Way	1
+Born This Way	kid	Born This Way	1
+Born This Way	lebanese	Born This Way	1
+Born This Way	left	Born This Way	1
+Born This Way	lesbian	Born This Way	1
+Born This Way	life	Born This Way	2
+Born This Way	life's	Born This Way	1
+Born This Way	lipstick	Born This Way	1
+Born This Way	listen	Born This Way	1
+Born This Way	love	Born This Way	8
+Born This Way	lover	Born This Way	1
+Born This Way	loving	Born This Way	1
+Born This Way	makes	Born This Way	3
+Born This Way	mama	Born This Way	1
+Born This Way	matter	Born This Way	3
+Born This Way	mi	Born This Way	1
+Born This Way	mistakes	Born This Way	3
+Born This Way	ooh	Born This Way	6
+Born This Way	orient	Born This Way	2
+Born This Way	outcast	Born This Way	1
+Born This Way	paws	Born This Way	1
+Born This Way	perfect	Born This Way	1
+Born This Way	prudence	Born This Way	1
+Born This Way	queen	Born This Way	4
+Born This Way	record	Born This Way	1
+Born This Way	regret	Born This Way	3
+Born This Way	rejoice	Born This Way	2
+Born This Way	religion	Born This Way	1
+Born This Way	respect	Born This Way	1
+Born This Way	rolled	Born This Way	1
+Born This Way	set	Born This Way	3
+Born This Way	sin	Born This Way	1
+Born This Way	straight	Born This Way	1
+Born This Way	subway	Born This Way	1
+Born This Way	superstars	Born This Way	1
+Born This Way	survive	Born This Way	1
+Born This Way	teased	Born This Way	1
+Born This Way	told	Born This Way	1
+Born This Way	track	Born This Way	13
+Born This Way	transgender	Born This Way	1
+Born This Way	truth	Born This Way	1
+Born This Way	vole	Born This Way	1
+Born This Way	white	Born This Way	2
+Born This Way	wrong	Born This Way	1
+Born This Way	yah	Born This Way	1
+Born This Way	yeah	Born This Way	1
+Born This Way	youth	Born This Way	1
+Boys Boys Boys	ashtray	The Fame	1
+Boys Boys Boys	baby	The Fame	3
+Boys Boys Boys	bad	The Fame	1
+Boys Boys Boys	bars	The Fame	6
+Boys Boys Boys	bleachers	The Fame	1
+Boys Boys Boys	boy	The Fame	1
+Boys Boys Boys	boys	The Fame	80
+Boys Boys Boys	buddy's	The Fame	1
+Boys Boys Boys	buy	The Fame	7
+Boys Boys Boys	call	The Fame	1
+Boys Boys Boys	cars	The Fame	6
+Boys Boys Boys	crazy	The Fame	1
+Boys Boys Boys	dance	The Fame	1
+Boys Boys Boys	denim	The Fame	6
+Boys Boys Boys	disco	The Fame	1
+Boys Boys Boys	dj	The Fame	1
+Boys Boys Boys	dramatic	The Fame	1
+Boys Boys Boys	drinks	The Fame	6
+Boys Boys Boys	eggs	The Fame	1
+Boys Boys Boys	electronic	The Fame	1
+Boys Boys Boys	ferrari	The Fame	1
+Boys Boys Boys	forever	The Fame	1
+Boys Boys Boys	forget	The Fame	1
+Boys Boys Boys	glam	The Fame	1
+Boys Boys Boys	glitter	The Fame	1
+Boys Boys Boys	hairspray	The Fame	6
+Boys Boys Boys	heard	The Fame	1
+Boys Boys Boys	heart	The Fame	1
+Boys Boys Boys	hey	The Fame	1
+Boys Boys Boys	hot	The Fame	8
+Boys Boys Boys	killers	The Fame	1
+Boys Boys Boys	left	The Fame	1
+Boys Boys Boys	legs	The Fame	1
+Boys Boys Boys	lipstick	The Fame	1
+Boys Boys Boys	loose	The Fame	1
+Boys Boys Boys	lost	The Fame	1
+Boys Boys Boys	lot	The Fame	8
+Boys Boys Boys	love	The Fame	14
+Boys Boys Boys	mixed	The Fame	1
+Boys Boys Boys	morning	The Fame	1
+Boys Boys Boys	ophonic	The Fame	1
+Boys Boys Boys	party	The Fame	2
+Boys Boys Boys	pop	The Fame	1
+Boys Boys Boys	psychotic	The Fame	1
+Boys Boys Boys	real	The Fame	1
+Boys Boys Boys	retro	The Fame	1
+Boys Boys Boys	rock	The Fame	1
+Boys Boys Boys	roll	The Fame	1
+Boys Boys Boys	sneakers	The Fame	1
+Boys Boys Boys	special	The Fame	1
+Boys Boys Boys	sugar	The Fame	1
+Boys Boys Boys	taste	The Fame	1
+Boys Boys Boys	uh	The Fame	2
+Boys Boys Boys	watch	The Fame	1
+Boys Boys Boys	whoa	The Fame	11
+Brown Eyes	baby	The Fame	2
+Brown Eyes	brown	The Fame	20
+Brown Eyes	eyes	The Fame	17
+Brown Eyes	feeling	The Fame	1
+Brown Eyes	fix	The Fame	1
+Brown Eyes	girl	The Fame	1
+Brown Eyes	goodbye	The Fame	1
+Brown Eyes	grab	The Fame	1
+Brown Eyes	guess	The Fame	2
+Brown Eyes	hit	The Fame	1
+Brown Eyes	honey	The Fame	1
+Brown Eyes	lost	The Fame	3
+Brown Eyes	low	The Fame	1
+Brown Eyes	play	The Fame	1
+Brown Eyes	record	The Fame	2
+Brown Eyes	silly	The Fame	2
+Brown Eyes	song	The Fame	3
+Brown Eyes	stay	The Fame	1
+Brown Eyes	surprise	The Fame	1
+Brown Eyes	time	The Fame	2
+Brown Eyes	tricks	The Fame	1
+Brown Eyes	walked	The Fame	1
+Brown Eyes	watch	The Fame	1
+Brown Eyes	wrong	The Fame	3
+Brown Eyes	yeah	The Fame	1
+Chromatica I	NA	Chromatica	1
+Chromatica II	NA	Chromatica	1
+Chromatica III	NA	Chromatica	1
+Come to Mama	aah	Joanne	3
+Come to Mama	ago	Joanne	1
+Come to Mama	ayi	Joanne	1
+Come to Mama	baby	Joanne	1
+Come to Mama	bought	Joanne	1
+Come to Mama	brothers	Joanne	1
+Come to Mama	catch	Joanne	1
+Come to Mama	catches	Joanne	1
+Come to Mama	caught	Joanne	1
+Come to Mama	coat	Joanne	1
+Come to Mama	day	Joanne	1
+Come to Mama	dude	Joanne	1
+Come to Mama	em	Joanne	2
+Come to Mama	everybody's	Joanne	1
+Come to Mama	exist	Joanne	2
+Come to Mama	fight	Joanne	1
+Come to Mama	figure	Joanne	5
+Come to Mama	flood	Joanne	1
+Come to Mama	follow	Joanne	2
+Come to Mama	forty	Joanne	1
+Come to Mama	fought	Joanne	1
+Come to Mama	freedom	Joanne	1
+Come to Mama	future	Joanne	5
+Come to Mama	god	Joanne	1
+Come to Mama	gonna	Joanne	7
+Come to Mama	gotta	Joanne	5
+Come to Mama	guru	Joanne	1
+Come to Mama	harbor	Joanne	1
+Come to Mama	harder	Joanne	1
+Come to Mama	hey	Joanne	1
+Come to Mama	hoo	Joanne	15
+Come to Mama	hurt	Joanne	3
+Come to Mama	ideas	Joanne	1
+Come to Mama	jungle	Joanne	1
+Come to Mama	lab	Joanne	1
+Come to Mama	live	Joanne	3
+Come to Mama	living	Joanne	1
+Come to Mama	love	Joanne	2
+Come to Mama	mama	Joanne	15
+Come to Mama	minnows	Joanne	1
+Come to Mama	oo	Joanne	12
+Come to Mama	ooh	Joanne	5
+Come to Mama	prisms	Joanne	1
+Come to Mama	prisons	Joanne	2
+Come to Mama	psychic	Joanne	1
+Come to Mama	rainbow	Joanne	1
+Come to Mama	rainbows	Joanne	1
+Come to Mama	shit	Joanne	1
+Come to Mama	sisters	Joanne	1
+Come to Mama	stones	Joanne	1
+Come to Mama	stop	Joanne	1
+Come to Mama	talkin	Joanne	1
+Come to Mama	tells	Joanne	1
+Come to Mama	throwin	Joanne	1
+Come to Mama	tomorrow	Joanne	2
+Come to Mama	wanna	Joanne	3
+Come to Mama	woah	Joanne	2
+Come to Mama	woohoo	Joanne	10
+Come to Mama	ya	Joanne	3
+Come to Mama	yi	Joanne	2
+Dancin’ in Circles	ahh	Joanne	8
+Dancin’ in Circles	alive	Joanne	2
+Dancin’ in Circles	baby	Joanne	12
+Dancin’ in Circles	beat	Joanne	12
+Dancin’ in Circles	boots	Joanne	12
+Dancin’ in Circles	breath	Joanne	1
+Dancin’ in Circles	call	Joanne	6
+Dancin’ in Circles	circles	Joanne	6
+Dancin’ in Circles	clicks	Joanne	1
+Dancin’ in Circles	close	Joanne	1
+Dancin’ in Circles	cry	Joanne	12
+Dancin’ in Circles	dancin	Joanne	6
+Dancin’ in Circles	downtown	Joanne	12
+Dancin’ in Circles	eyes	Joanne	1
+Dancin’ in Circles	feel	Joanne	1
+Dancin’ in Circles	feels	Joanne	6
+Dancin’ in Circles	fire	Joanne	2
+Dancin’ in Circles	fool	Joanne	1
+Dancin’ in Circles	funk	Joanne	12
+Dancin’ in Circles	hands	Joanne	1
+Dancin’ in Circles	hear	Joanne	1
+Dancin’ in Circles	hurts	Joanne	1
+Dancin’ in Circles	inside	Joanne	1
+Dancin’ in Circles	lay	Joanne	1
+Dancin’ in Circles	lonely	Joanne	6
+Dancin’ in Circles	loud	Joanne	1
+Dancin’ in Circles	mind	Joanne	1
+Dancin’ in Circles	mine	Joanne	2
+Dancin’ in Circles	night	Joanne	2
+Dancin’ in Circles	oo	Joanne	4
+Dancin’ in Circles	pain	Joanne	3
+Dancin’ in Circles	pass	Joanne	1
+Dancin’ in Circles	picture	Joanne	1
+Dancin’ in Circles	pretend	Joanne	1
+Dancin’ in Circles	recognize	Joanne	1
+Dancin’ in Circles	rub	Joanne	3
+Dancin’ in Circles	singin	Joanne	7
+Dancin’ in Circles	swirl	Joanne	1
+Dancin’ in Circles	tap	Joanne	12
+Dancin’ in Circles	time	Joanne	2
+Dancin’ in Circles	touch	Joanne	2
+Dancin’ in Circles	trick	Joanne	1
+Dancin’ in Circles	tryin	Joanne	2
+Dancin’ in Circles	vanish	Joanne	1
+Diamond Heart	american	Joanne	5
+Diamond Heart	asshole	Joanne	1
+Diamond Heart	baby	Joanne	4
+Diamond Heart	bad	Joanne	1
+Diamond Heart	breaking	Joanne	1
+Diamond Heart	broke	Joanne	1
+Diamond Heart	cruel	Joanne	1
+Diamond Heart	daddy's	Joanne	1
+Diamond Heart	dance	Joanne	2
+Diamond Heart	diamond	Joanne	10
+Diamond Heart	flawless	Joanne	9
+Diamond Heart	girl's	Joanne	2
+Diamond Heart	girlfriend	Joanne	3
+Diamond Heart	go'n	Joanne	3
+Diamond Heart	head	Joanne	1
+Diamond Heart	heart	Joanne	10
+Diamond Heart	hundred	Joanne	1
+Diamond Heart	innocence	Joanne	1
+Diamond Heart	jameson	Joanne	1
+Diamond Heart	king	Joanne	1
+Diamond Heart	lay	Joanne	2
+Diamond Heart	lookin	Joanne	1
+Diamond Heart	million	Joanne	5
+Diamond Heart	money	Joanne	1
+Diamond Heart	pay	Joanne	1
+Diamond Heart	playin	Joanne	1
+Diamond Heart	rain	Joanne	3
+Diamond Heart	school	Joanne	1
+Diamond Heart	somethin	Joanne	1
+Diamond Heart	song	Joanne	2
+Diamond Heart	ten	Joanne	2
+Diamond Heart	tough	Joanne	1
+Diamond Heart	wild	Joanne	5
+Diamond Heart	worth	Joanne	1
+Diamond Heart	wrecked	Joanne	1
+Disco Heaven	300	The Fame	1
+Disco Heaven	air	The Fame	1
+Disco Heaven	arrow	The Fame	1
+Disco Heaven	baby	The Fame	1
+Disco Heaven	ball	The Fame	1
+Disco Heaven	banging	The Fame	1
+Disco Heaven	bow	The Fame	1
+Disco Heaven	bring	The Fame	1
+Disco Heaven	bunny	The Fame	1
+Disco Heaven	burning	The Fame	1
+Disco Heaven	cold	The Fame	1
+Disco Heaven	crowd	The Fame	1
+Disco Heaven	cupid's	The Fame	1
+Disco Heaven	dance	The Fame	2
+Disco Heaven	dancin	The Fame	6
+Disco Heaven	dim	The Fame	6
+Disco Heaven	disco	The Fame	35
+Disco Heaven	dress	The Fame	2
+Disco Heaven	fancy	The Fame	1
+Disco Heaven	feels	The Fame	1
+Disco Heaven	floor	The Fame	6
+Disco Heaven	girls	The Fame	1
+Disco Heaven	girly	The Fame	1
+Disco Heaven	hairspray	The Fame	1
+Disco Heaven	head	The Fame	1
+Disco Heaven	hearts	The Fame	1
+Disco Heaven	heaven	The Fame	35
+Disco Heaven	hips	The Fame	1
+Disco Heaven	hit	The Fame	1
+Disco Heaven	honey	The Fame	1
+Disco Heaven	hot	The Fame	1
+Disco Heaven	lights	The Fame	6
+Disco Heaven	line	The Fame	1
+Disco Heaven	minute	The Fame	2
+Disco Heaven	mirror's	The Fame	1
+Disco Heaven	movies	The Fame	1
+Disco Heaven	muzak	The Fame	2
+Disco Heaven	pants	The Fame	3
+Disco Heaven	people	The Fame	1
+Disco Heaven	relax	The Fame	6
+Disco Heaven	shakin	The Fame	6
+Disco Heaven	throw	The Fame	2
+Disco Heaven	track	The Fame	1
+Disco Heaven	yeah	The Fame	7
+Do What U Want	blunt	ARTPOP	1
+Do What U Want	body	ARTPOP	33
+Do What U Want	bout	ARTPOP	1
+Do What U Want	break	ARTPOP	1
+Do What U Want	can’t	ARTPOP	3
+Do What U Want	club	ARTPOP	1
+Do What U Want	crazy	ARTPOP	2
+Do What U Want	cup	ARTPOP	1
+Do What U Want	cut	ARTPOP	1
+Do What U Want	drink	ARTPOP	1
+Do What U Want	eh	ARTPOP	14
+Do What U Want	em	ARTPOP	1
+Do What U Want	escape	ARTPOP	1
+Do What U Want	fall	ARTPOP	2
+Do What U Want	fast	ARTPOP	1
+Do What U Want	feel	ARTPOP	1
+Do What U Want	flights	ARTPOP	1
+Do What U Want	ford	ARTPOP	1
+Do What U Want	fuck	ARTPOP	1
+Do What U Want	gettin	ARTPOP	1
+Do What U Want	girl	ARTPOP	1
+Do What U Want	green	ARTPOP	1
+Do What U Want	haters	ARTPOP	1
+Do What U Want	hear	ARTPOP	1
+Do What U Want	heart	ARTPOP	4
+Do What U Want	invitations	ARTPOP	1
+Do What U Want	layin	ARTPOP	1
+Do What U Want	life	ARTPOP	5
+Do What U Want	love	ARTPOP	1
+Do What U Want	makes	ARTPOP	1
+Do What U Want	marilyn	ARTPOP	1
+Do What U Want	mic	ARTPOP	1
+Do What U Want	mind	ARTPOP	4
+Do What U Want	morning	ARTPOP	1
+Do What U Want	naughty	ARTPOP	1
+Do What U Want	nights	ARTPOP	1
+Do What U Want	party	ARTPOP	3
+Do What U Want	president	ARTPOP	1
+Do What U Want	print	ARTPOP	1
+Do What U Want	private	ARTPOP	2
+Do What U Want	pusher	ARTPOP	1
+Do What U Want	roughin	ARTPOP	1
+Do What U Want	scared	ARTPOP	1
+Do What U Want	schedule	ARTPOP	1
+Do What U Want	scream	ARTPOP	1
+Do What U Want	shit	ARTPOP	2
+Do What U Want	shots	ARTPOP	1
+Do What U Want	sing	ARTPOP	1
+Do What U Want	slow	ARTPOP	1
+Do What U Want	stand	ARTPOP	1
+Do What U Want	stop	ARTPOP	5
+Do What U Want	suppose	ARTPOP	1
+Do What U Want	taking	ARTPOP	2
+Do What U Want	tom	ARTPOP	1
+Do What U Want	trade	ARTPOP	1
+Do What U Want	trip	ARTPOP	1
+Do What U Want	voice	ARTPOP	3
+Do What U Want	walk	ARTPOP	1
+Do What U Want	wanna	ARTPOP	2
+Do What U Want	wondering	ARTPOP	1
+Do What U Want	world	ARTPOP	3
+Do What U Want	write	ARTPOP	1
+Do What U Want	yeah	ARTPOP	8
+Donatella	advice	ARTPOP	1
+Donatella	babe	ARTPOP	2
+Donatella	bad	ARTPOP	3
+Donatella	bella	ARTPOP	2
+Donatella	bit	ARTPOP	1
+Donatella	bitch	ARTPOP	4
+Donatella	black	ARTPOP	1
+Donatella	blonde	ARTPOP	2
+Donatella	boulangerie	ARTPOP	1
+Donatella	card	ARTPOP	1
+Donatella	champagne	ARTPOP	4
+Donatella	check	ARTPOP	2
+Donatella	class	ARTPOP	2
+Donatella	clothes	ARTPOP	1
+Donatella	day	ARTPOP	3
+Donatella	designer	ARTPOP	1
+Donatella	dolce	ARTPOP	1
+Donatella	don	ARTPOP	4
+Donatella	don’t	ARTPOP	1
+Donatella	donatella	ARTPOP	8
+Donatella	dress	ARTPOP	1
+Donatella	drink	ARTPOP	4
+Donatella	em	ARTPOP	2
+Donatella	fab	ARTPOP	2
+Donatella	feels	ARTPOP	3
+Donatella	fit	ARTPOP	1
+Donatella	forget	ARTPOP	1
+Donatella	friends	ARTPOP	1
+Donatella	gas	ARTPOP	2
+Donatella	gay	ARTPOP	1
+Donatella	gonna	ARTPOP	3
+Donatella	guilt	ARTPOP	1
+Donatella	hey	ARTPOP	7
+Donatella	hold	ARTPOP	1
+Donatella	holiday	ARTPOP	1
+Donatella	i’m	ARTPOP	9
+Donatella	it’s	ARTPOP	2
+Donatella	la	ARTPOP	3
+Donatella	lights	ARTPOP	2
+Donatella	listen	ARTPOP	3
+Donatella	magic	ARTPOP	3
+Donatella	marlboro	ARTPOP	4
+Donatella	mi	ARTPOP	4
+Donatella	misunderstood	ARTPOP	3
+Donatella	na	ARTPOP	8
+Donatella	ooh	ARTPOP	1
+Donatella	oyster	ARTPOP	2
+Donatella	pearl	ARTPOP	2
+Donatella	promises	ARTPOP	1
+Donatella	puke	ARTPOP	1
+Donatella	purse	ARTPOP	1
+Donatella	radiate	ARTPOP	3
+Donatella	reds	ARTPOP	2
+Donatella	rich	ARTPOP	4
+Donatella	runway	ARTPOP	1
+Donatella	salad	ARTPOP	1
+Donatella	season	ARTPOP	3
+Donatella	she’s	ARTPOP	5
+Donatella	silk	ARTPOP	1
+Donatella	size	ARTPOP	1
+Donatella	skinny	ARTPOP	1
+Donatella	smoke	ARTPOP	4
+Donatella	smoking	ARTPOP	2
+Donatella	spray	ARTPOP	1
+Donatella	spring	ARTPOP	3
+Donatella	taffeta	ARTPOP	1
+Donatella	tailor	ARTPOP	1
+Donatella	taipei	ARTPOP	1
+Donatella	tan	ARTPOP	1
+Donatella	tank	ARTPOP	2
+Donatella	thin	ARTPOP	1
+Donatella	tiara	ARTPOP	1
+Donatella	upper	ARTPOP	2
+Donatella	versace	ARTPOP	1
+Donatella	vita	ARTPOP	1
+Donatella	voo	ARTPOP	4
+Donatella	voodoo	ARTPOP	6
+Donatella	walk	ARTPOP	1
+Donatella	walks	ARTPOP	3
+Donatella	wanna	ARTPOP	7
+Donatella	wear	ARTPOP	7
+Dope	answer	ARTPOP	2
+Dope	awake	ARTPOP	2
+Dope	begun	ARTPOP	1
+Dope	bell	ARTPOP	2
+Dope	blue	ARTPOP	2
+Dope	bottom	ARTPOP	2
+Dope	break	ARTPOP	2
+Dope	coal	ARTPOP	1
+Dope	cork's	ARTPOP	1
+Dope	cry	ARTPOP	1
+Dope	day	ARTPOP	1
+Dope	die	ARTPOP	1
+Dope	dope	ARTPOP	11
+Dope	drink	ARTPOP	1
+Dope	feel	ARTPOP	1
+Dope	forgive	ARTPOP	1
+Dope	friend	ARTPOP	1
+Dope	fucked	ARTPOP	1
+Dope	god	ARTPOP	1
+Dope	gold	ARTPOP	1
+Dope	hate	ARTPOP	1
+Dope	heart	ARTPOP	2
+Dope	heaven's	ARTPOP	1
+Dope	hurting	ARTPOP	2
+Dope	leave	ARTPOP	1
+Dope	living	ARTPOP	3
+Dope	lonely	ARTPOP	1
+Dope	lost	ARTPOP	1
+Dope	love	ARTPOP	2
+Dope	low	ARTPOP	3
+Dope	mine	ARTPOP	1
+Dope	mountain	ARTPOP	1
+Dope	party's	ARTPOP	1
+Dope	promise	ARTPOP	1
+Dope	puff	ARTPOP	1
+Dope	regrets	ARTPOP	1
+Dope	searching	ARTPOP	2
+Dope	sing	ARTPOP	2
+Dope	sins	ARTPOP	1
+Dope	soul	ARTPOP	1
+Dope	spirits	ARTPOP	1
+Dope	stairway	ARTPOP	1
+Dope	steps	ARTPOP	1
+Dope	toast	ARTPOP	1
+Dope	twelve	ARTPOP	1
+Eh, Eh (Nothing Else I Can Say)	boom	The Fame	4
+Eh, Eh (Nothing Else I Can Say)	boy	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	care	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	cherry	The Fame	4
+Eh, Eh (Nothing Else I Can Say)	compliquées	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	cute	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	eh	The Fame	102
+Eh, Eh (Nothing Else I Can Say)	ey	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	fall	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	friends	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	funny	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	gaga	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	hey	The Fame	7
+Eh, Eh (Nothing Else I Can Say)	hurt	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	keepa	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	looked	The Fame	4
+Eh, Eh (Nothing Else I Can Say)	love	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	met	The Fame	4
+Eh, Eh (Nothing Else I Can Say)	money	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	ooh	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	real	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	something's	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	tellin	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	time	The Fame	1
+Eh, Eh (Nothing Else I Can Say)	wrong	The Fame	3
+Eh, Eh (Nothing Else I Can Say)	yeah	The Fame	3
+Electric Chapel	baby	Born This Way	3
+Electric Chapel	bad	Born This Way	1
+Electric Chapel	ball	Born This Way	1
+Electric Chapel	bar	Born This Way	1
+Electric Chapel	blood	Born This Way	1
+Electric Chapel	body	Born This Way	1
+Electric Chapel	champagne	Born This Way	1
+Electric Chapel	chapel	Born This Way	9
+Electric Chapel	confess	Born This Way	1
+Electric Chapel	cool	Born This Way	1
+Electric Chapel	dirty	Born This Way	1
+Electric Chapel	disco	Born This Way	1
+Electric Chapel	doo	Born This Way	35
+Electric Chapel	electric	Born This Way	9
+Electric Chapel	follow	Born This Way	4
+Electric Chapel	fool	Born This Way	3
+Electric Chapel	glass	Born This Way	1
+Electric Chapel	heart	Born This Way	3
+Electric Chapel	holy	Born This Way	3
+Electric Chapel	love	Born This Way	1
+Electric Chapel	meet	Born This Way	34
+Electric Chapel	pray	Born This Way	1
+Electric Chapel	pure	Born This Way	2
+Electric Chapel	sacred	Born This Way	1
+Electric Chapel	safe	Born This Way	3
+Electric Chapel	sanctuary	Born This Way	1
+Electric Chapel	sex	Born This Way	1
+Electric Chapel	sins	Born This Way	1
+Electric Chapel	steal	Born This Way	3
+Electric Chapel	uh	Born This Way	31
+Electric Chapel	wanna	Born This Way	4
+Enigma	atmosphere	Chromatica	1
+Enigma	blinded	Chromatica	1
+Enigma	break	Chromatica	3
+Enigma	breathing	Chromatica	1
+Enigma	brought	Chromatica	5
+Enigma	daylight	Chromatica	6
+Enigma	dragon's	Chromatica	1
+Enigma	enigma	Chromatica	12
+Enigma	eyes	Chromatica	1
+Enigma	goddess	Chromatica	1
+Enigma	head	Chromatica	3
+Enigma	hear	Chromatica	2
+Enigma	heart	Chromatica	1
+Enigma	jokers	Chromatica	3
+Enigma	light	Chromatica	1
+Enigma	lovers	Chromatica	3
+Enigma	minded	Chromatica	1
+Enigma	mystery	Chromatica	1
+Enigma	naked	Chromatica	1
+Enigma	ooh	Chromatica	1
+Enigma	phantom	Chromatica	1
+Enigma	races	Chromatica	1
+Enigma	real	Chromatica	2
+Enigma	scared	Chromatica	1
+Enigma	shadows	Chromatica	1
+Enigma	sign	Chromatica	2
+Enigma	smears	Chromatica	1
+Enigma	standing	Chromatica	1
+Enigma	staring	Chromatica	1
+Enigma	stigma	Chromatica	3
+Enigma	stop	Chromatica	1
+Enigma	tonight	Chromatica	5
+Enigma	violet	Chromatica	1
+Enigma	virtual	Chromatica	2
+Enigma	watch	Chromatica	1
+Enigma	woman	Chromatica	1
+Enigma	wrapped	Chromatica	1
+Enigma	yeah	Chromatica	2
+Fashion!	à	ARTPOP	1
+Fashion!	alive	ARTPOP	1
+Fashion!	au	ARTPOP	1
+Fashion!	c'est	ARTPOP	1
+Fashion!	catwalk	ARTPOP	1
+Fashion!	christian	ARTPOP	1
+Fashion!	company	ARTPOP	1
+Fashion!	couture	ARTPOP	2
+Fashion!	designer	ARTPOP	1
+Fashion!	diamonds	ARTPOP	1
+Fashion!	displayin	ARTPOP	1
+Fashion!	donnez	ARTPOP	1
+Fashion!	dress	ARTPOP	1
+Fashion!	en	ARTPOP	4
+Fashion!	est	ARTPOP	1
+Fashion!	ethereal	ARTPOP	1
+Fashion!	fashion	ARTPOP	24
+Fashion!	feel	ARTPOP	5
+Fashion!	feeling	ARTPOP	24
+Fashion!	fine	ARTPOP	24
+Fashion!	haute	ARTPOP	1
+Fashion!	je	ARTPOP	2
+Fashion!	la	ARTPOP	1
+Fashion!	le	ARTPOP	1
+Fashion!	life	ARTPOP	1
+Fashion!	light	ARTPOP	1
+Fashion!	look's	ARTPOP	1
+Fashion!	louboutins	ARTPOP	1
+Fashion!	love's	ARTPOP	1
+Fashion!	makeup	ARTPOP	1
+Fashion!	married	ARTPOP	2
+Fashion!	mars	ARTPOP	1
+Fashion!	material	ARTPOP	1
+Fashion!	moi	ARTPOP	2
+Fashion!	monde	ARTPOP	1
+Fashion!	night	ARTPOP	1
+Fashion!	paradis	ARTPOP	1
+Fashion!	pearls	ARTPOP	1
+Fashion!	sens	ARTPOP	1
+Fashion!	singing	ARTPOP	1
+Fashion!	slay	ARTPOP	15
+Fashion!	stars	ARTPOP	1
+Fashion!	step	ARTPOP	1
+Fashion!	suis	ARTPOP	1
+Fashion!	talking	ARTPOP	1
+Fashion!	top	ARTPOP	4
+Fashion!	transform	ARTPOP	1
+Fashion!	tune	ARTPOP	1
+Fashion!	vie	ARTPOP	1
+Fashion!	walk	ARTPOP	1
+Fashion!	world	ARTPOP	8
+Fashion!	wrong	ARTPOP	1
+Fashion!	zip	ARTPOP	1
+Free Woman	body	Chromatica	1
+Free Woman	bound	Chromatica	1
+Free Woman	dancefloor	Chromatica	1
+Free Woman	downtown	Chromatica	3
+Free Woman	feeling	Chromatica	1
+Free Woman	fight	Chromatica	8
+Free Woman	fought	Chromatica	1
+Free Woman	free	Chromatica	22
+Free Woman	gonna	Chromatica	4
+Free Woman	hand	Chromatica	3
+Free Woman	hear	Chromatica	3
+Free Woman	heart	Chromatica	1
+Free Woman	kiss	Chromatica	1
+Free Woman	light	Chromatica	1
+Free Woman	livin	Chromatica	1
+Free Woman	motion	Chromatica	1
+Free Woman	remember	Chromatica	10
+Free Woman	set	Chromatica	1
+Free Woman	sound	Chromatica	3
+Free Woman	steady	Chromatica	3
+Free Woman	walk	Chromatica	2
+Free Woman	woman	Chromatica	12
+Free Woman	woo	Chromatica	1
+Free Woman	yeah	Chromatica	2
+Fun Tonight	bars	Chromatica	1
+Fun Tonight	caught	Chromatica	1
+Fun Tonight	days	Chromatica	1
+Fun Tonight	entertain	Chromatica	1
+Fun Tonight	explain	Chromatica	1
+Fun Tonight	fame	Chromatica	1
+Fun Tonight	feel	Chromatica	1
+Fun Tonight	feelin	Chromatica	16
+Fun Tonight	fire	Chromatica	1
+Fun Tonight	flame	Chromatica	1
+Fun Tonight	fun	Chromatica	5
+Fun Tonight	girl	Chromatica	2
+Fun Tonight	goodbye	Chromatica	3
+Fun Tonight	guess	Chromatica	1
+Fun Tonight	hands	Chromatica	1
+Fun Tonight	havin	Chromatica	5
+Fun Tonight	hell	Chromatica	1
+Fun Tonight	hijacked	Chromatica	1
+Fun Tonight	hurt	Chromatica	1
+Fun Tonight	love	Chromatica	2
+Fun Tonight	mirror	Chromatica	2
+Fun Tonight	moment's	Chromatica	1
+Fun Tonight	numb	Chromatica	1
+Fun Tonight	ooh	Chromatica	4
+Fun Tonight	pain	Chromatica	1
+Fun Tonight	paparazzi	Chromatica	1
+Fun Tonight	plans	Chromatica	1
+Fun Tonight	play	Chromatica	1
+Fun Tonight	prison	Chromatica	1
+Fun Tonight	pulled	Chromatica	3
+Fun Tonight	sad	Chromatica	1
+Fun Tonight	scream	Chromatica	1
+Fun Tonight	stare	Chromatica	2
+Fun Tonight	stay	Chromatica	1
+Fun Tonight	steel	Chromatica	1
+Fun Tonight	stick	Chromatica	1
+Fun Tonight	straight	Chromatica	1
+Fun Tonight	talks	Chromatica	2
+Fun Tonight	time	Chromatica	3
+Fun Tonight	tonight	Chromatica	5
+Fun Tonight	walk	Chromatica	1
+Fun Tonight	wanna	Chromatica	1
+Fun Tonight	weight	Chromatica	3
+Fun Tonight	wound	Chromatica	1
+Fun Tonight	yeah	Chromatica	3
+Fun Tonight	yell	Chromatica	1
+G.U.Y.	achtzehn	ARTPOP	1
+G.U.Y.	aimin	ARTPOP	2
+G.U.Y.	aphrodite	ARTPOP	1
+G.U.Y.	atmosphere	ARTPOP	1
+G.U.Y.	audio	ARTPOP	1
+G.U.Y.	charge	ARTPOP	1
+G.U.Y.	control	ARTPOP	2
+G.U.Y.	cry	ARTPOP	2
+G.U.Y.	desire	ARTPOP	1
+G.U.Y.	don’t	ARTPOP	1
+G.U.Y.	earth	ARTPOP	1
+G.U.Y.	exciting	ARTPOP	1
+G.U.Y.	feast	ARTPOP	1
+G.U.Y.	fourteen	ARTPOP	1
+G.U.Y.	freiheit	ARTPOP	1
+G.U.Y.	g.i.r.l	ARTPOP	1
+G.U.Y.	g.u.y	ARTPOP	18
+G.U.Y.	girl	ARTPOP	7
+G.U.Y.	god	ARTPOP	1
+G.U.Y.	goddess	ARTPOP	1
+G.U.Y.	gonna	ARTPOP	3
+G.U.Y.	grave	ARTPOP	1
+G.U.Y.	guides	ARTPOP	1
+G.U.Y.	guy	ARTPOP	17
+G.U.Y.	himeros	ARTPOP	1
+G.U.Y.	hold	ARTPOP	1
+G.U.Y.	hot	ARTPOP	1
+G.U.Y.	lay	ARTPOP	2
+G.U.Y.	leave	ARTPOP	2
+G.U.Y.	lie	ARTPOP	1
+G.U.Y.	lies	ARTPOP	1
+G.U.Y.	love	ARTPOP	10
+G.U.Y.	loves	ARTPOP	1
+G.U.Y.	makes	ARTPOP	2
+G.U.Y.	makeup	ARTPOP	1
+G.U.Y.	mars	ARTPOP	1
+G.U.Y.	moon	ARTPOP	1
+G.U.Y.	mount	ARTPOP	1
+G.U.Y.	nein	ARTPOP	4
+G.U.Y.	phase	ARTPOP	1
+G.U.Y.	positions	ARTPOP	1
+G.U.Y.	power	ARTPOP	2
+G.U.Y.	rams	ARTPOP	1
+G.U.Y.	retweet	ARTPOP	2
+G.U.Y.	romancin	ARTPOP	1
+G.U.Y.	sechzehn	ARTPOP	1
+G.U.Y.	sex	ARTPOP	1
+G.U.Y.	sexual	ARTPOP	1
+G.U.Y.	shy	ARTPOP	1
+G.U.Y.	son	ARTPOP	1
+G.U.Y.	spirit	ARTPOP	1
+G.U.Y.	strong	ARTPOP	1
+G.U.Y.	summer	ARTPOP	1
+G.U.Y.	sweet	ARTPOP	2
+G.U.Y.	tie	ARTPOP	2
+G.U.Y.	time	ARTPOP	1
+G.U.Y.	top	ARTPOP	2
+G.U.Y.	touch	ARTPOP	10
+G.U.Y.	truth	ARTPOP	1
+G.U.Y.	vierzehn	ARTPOP	1
+G.U.Y.	wanna	ARTPOP	13
+G.U.Y.	warring	ARTPOP	1
+G.U.Y.	wear	ARTPOP	3
+G.U.Y.	word	ARTPOP	1
+G.U.Y.	worth	ARTPOP	1
+G.U.Y.	wreck	ARTPOP	1
+G.U.Y.	yeah	ARTPOP	5
+G.U.Y.	zedd	ARTPOP	4
+Government Hooker	ah	Born This Way	1
+Government Hooker	ay	Born This Way	1
+Government Hooker	baby	Born This Way	6
+Government Hooker	bad	Born This Way	1
+Government Hooker	cool	Born This Way	1
+Government Hooker	cry	Born This Way	2
+Government Hooker	dad	Born This Way	2
+Government Hooker	drink	Born This Way	4
+Government Hooker	eh	Born This Way	1
+Government Hooker	fuck	Born This Way	2
+Government Hooker	ga	Born This Way	2
+Government Hooker	gaga	Born This Way	2
+Government Hooker	girl	Born This Way	2
+Government Hooker	gonna	Born This Way	4
+Government Hooker	government	Born This Way	11
+Government Hooker	ground	Born This Way	3
+Government Hooker	hahahaha	Born This Way	2
+Government Hooker	hands	Born This Way	6
+Government Hooker	hold	Born This Way	2
+Government Hooker	hooker	Born This Way	37
+Government Hooker	iku	Born This Way	2
+Government Hooker	io	Born This Way	4
+Government Hooker	john	Born This Way	1
+Government Hooker	kennedy	Born This Way	1
+Government Hooker	love	Born This Way	4
+Government Hooker	mad	Born This Way	1
+Government Hooker	mi	Born This Way	1
+Government Hooker	mom	Born This Way	2
+Government Hooker	ow	Born This Way	1
+Government Hooker	papito	Born This Way	1
+Government Hooker	pay	Born This Way	1
+Government Hooker	ritorne	Born This Way	4
+Government Hooker	sad	Born This Way	1
+Government Hooker	sex	Born This Way	2
+Government Hooker	shitting	Born This Way	2
+Government Hooker	squeal	Born This Way	1
+Government Hooker	stop	Born This Way	2
+Government Hooker	tears	Born This Way	4
+Government Hooker	tonight	Born This Way	2
+Government Hooker	touch	Born This Way	1
+Government Hooker	wanna	Born This Way	5
+Government Hooker	yeah	Born This Way	6
+Gypsy	africa	ARTPOP	1
+Gypsy	american	ARTPOP	2
+Gypsy	asian	ARTPOP	1
+Gypsy	australian	ARTPOP	1
+Gypsy	baby	ARTPOP	2
+Gypsy	baggage	ARTPOP	1
+Gypsy	bags	ARTPOP	1
+Gypsy	bangkok	ARTPOP	1
+Gypsy	brick	ARTPOP	1
+Gypsy	bust	ARTPOP	1
+Gypsy	chase	ARTPOP	1
+Gypsy	day	ARTPOP	1
+Gypsy	dorothy	ARTPOP	1
+Gypsy	family	ARTPOP	1
+Gypsy	finland	ARTPOP	1
+Gypsy	fire	ARTPOP	1
+Gypsy	forever	ARTPOP	9
+Gypsy	friends	ARTPOP	2
+Gypsy	front	ARTPOP	1
+Gypsy	future	ARTPOP	1
+Gypsy	german	ARTPOP	1
+Gypsy	goodbye	ARTPOP	1
+Gypsy	gypsy	ARTPOP	31
+Gypsy	hey	ARTPOP	4
+Gypsy	home	ARTPOP	3
+Gypsy	honey	ARTPOP	1
+Gypsy	hope	ARTPOP	1
+Gypsy	india	ARTPOP	1
+Gypsy	italian	ARTPOP	1
+Gypsy	jakarta	ARTPOP	1
+Gypsy	jets	ARTPOP	1
+Gypsy	latin	ARTPOP	1
+Gypsy	left	ARTPOP	1
+Gypsy	life	ARTPOP	5
+Gypsy	love	ARTPOP	5
+Gypsy	makes	ARTPOP	1
+Gypsy	malaysia	ARTPOP	1
+Gypsy	mother	ARTPOP	1
+Gypsy	norway	ARTPOP	1
+Gypsy	pack	ARTPOP	1
+Gypsy	packed	ARTPOP	1
+Gypsy	paris	ARTPOP	1
+Gypsy	plans	ARTPOP	1
+Gypsy	princess	ARTPOP	1
+Gypsy	quick	ARTPOP	1
+Gypsy	rearview	ARTPOP	1
+Gypsy	road	ARTPOP	1
+Gypsy	ruby	ARTPOP	1
+Gypsy	russia	ARTPOP	1
+Gypsy	sense	ARTPOP	1
+Gypsy	shoes	ARTPOP	1
+Gypsy	simple	ARTPOP	1
+Gypsy	someday	ARTPOP	1
+Gypsy	speak	ARTPOP	1
+Gypsy	spend	ARTPOP	1
+Gypsy	story	ARTPOP	1
+Gypsy	sunset	ARTPOP	1
+Gypsy	sweden	ARTPOP	1
+Gypsy	tonight	ARTPOP	7
+Gypsy	treat	ARTPOP	1
+Gypsy	uk	ARTPOP	1
+Gypsy	wandering	ARTPOP	1
+Gypsy	wanna	ARTPOP	8
+Gypsy	world	ARTPOP	4
+Gypsy	yellow	ARTPOP	1
+Gypsy	かんぱい	ARTPOP	1
+Hair	ashamed	Born This Way	1
+Hair	bangs	Born This Way	1
+Hair	bare	Born This Way	6
+Hair	chance	Born This Way	2
+Hair	change	Born This Way	1
+Hair	city	Born This Way	1
+Hair	cool	Born This Way	4
+Hair	cut	Born This Way	1
+Hair	dad	Born This Way	1
+Hair	dance	Born This Way	1
+Hair	die	Born This Way	6
+Hair	dressed	Born This Way	1
+Hair	dynamite	Born This Way	1
+Hair	fight	Born This Way	1
+Hair	fightin	Born This Way	3
+Hair	freak	Born This Way	3
+Hair	free	Born This Way	17
+Hair	friday	Born This Way	1
+Hair	friends	Born This Way	2
+Hair	glory	Born This Way	6
+Hair	hair	Born This Way	113
+Hair	hide	Born This Way	1
+Hair	highlights	Born This Way	1
+Hair	hot	Born This Way	1
+Hair	huh	Born This Way	16
+Hair	identity	Born This Way	1
+Hair	invite	Born This Way	1
+Hair	it’s	Born This Way	1
+Hair	living	Born This Way	6
+Hair	lots	Born This Way	1
+Hair	love	Born This Way	2
+Hair	mom	Born This Way	2
+Hair	morning	Born This Way	1
+Hair	night	Born This Way	1
+Hair	ooh	Born This Way	17
+Hair	parents	Born This Way	1
+Hair	parties	Born This Way	1
+Hair	prayer	Born This Way	9
+Hair	raccoon	Born This Way	1
+Hair	red	Born This Way	1
+Hair	rock	Born This Way	1
+Hair	school	Born This Way	1
+Hair	scream	Born This Way	1
+Hair	short	Born This Way	1
+Hair	shot	Born This Way	1
+Hair	spirit	Born This Way	1
+Hair	stand	Born This Way	1
+Hair	stay	Born This Way	3
+Hair	streets	Born This Way	3
+Hair	swear	Born This Way	3
+Hair	uh	Born This Way	16
+Hair	wanna	Born This Way	9
+Hair	whoa	Born This Way	2
+Hair	yeah	Born This Way	8
+Heavy Metal Lover	baby	Born This Way	1
+Heavy Metal Lover	baptism	Born This Way	1
+Heavy Metal Lover	bar	Born This Way	1
+Heavy Metal Lover	beer	Born This Way	1
+Heavy Metal Lover	blonde	Born This Way	1
+Heavy Metal Lover	born	Born This Way	1
+Heavy Metal Lover	bring	Born This Way	1
+Heavy Metal Lover	bud	Born This Way	1
+Heavy Metal Lover	bump	Born This Way	1
+Heavy Metal Lover	cheap	Born This Way	1
+Heavy Metal Lover	clubbers	Born This Way	1
+Heavy Metal Lover	dirty	Born This Way	2
+Heavy Metal Lover	drink	Born This Way	1
+Heavy Metal Lover	drunk	Born This Way	1
+Heavy Metal Lover	earn	Born This Way	1
+Heavy Metal Lover	filthy	Born This Way	1
+Heavy Metal Lover	friends	Born This Way	1
+Heavy Metal Lover	funk	Born This Way	1
+Heavy Metal Lover	girl	Born This Way	12
+Heavy Metal Lover	heavy	Born This Way	27
+Heavy Metal Lover	hell	Born This Way	1
+Heavy Metal Lover	hose	Born This Way	1
+Heavy Metal Lover	house	Born This Way	1
+Heavy Metal Lover	jam	Born This Way	1
+Heavy Metal Lover	jame	Born This Way	1
+Heavy Metal Lover	leather	Born This Way	2
+Heavy Metal Lover	liquors	Born This Way	1
+Heavy Metal Lover	lite	Born This Way	1
+Heavy Metal Lover	love	Born This Way	2
+Heavy Metal Lover	lover	Born This Way	25
+Heavy Metal Lover	lovers	Born This Way	1
+Heavy Metal Lover	metal	Born This Way	27
+Heavy Metal Lover	mouth	Born This Way	1
+Heavy Metal Lover	move	Born This Way	1
+Heavy Metal Lover	night	Born This Way	1
+Heavy Metal Lover	ooh	Born This Way	99
+Heavy Metal Lover	pair	Born This Way	1
+Heavy Metal Lover	patch	Born This Way	1
+Heavy Metal Lover	pearls	Born This Way	1
+Heavy Metal Lover	perfume	Born This Way	1
+Heavy Metal Lover	play	Born This Way	1
+Heavy Metal Lover	pony	Born This Way	1
+Heavy Metal Lover	pout	Born This Way	1
+Heavy Metal Lover	punk	Born This Way	1
+Heavy Metal Lover	raise	Born This Way	1
+Heavy Metal Lover	rebels	Born This Way	1
+Heavy Metal Lover	red	Born This Way	1
+Heavy Metal Lover	river	Born This Way	1
+Heavy Metal Lover	rivington	Born This Way	1
+Heavy Metal Lover	ruled	Born This Way	2
+Heavy Metal Lover	slam	Born This Way	1
+Heavy Metal Lover	slap	Born This Way	1
+Heavy Metal Lover	son	Born This Way	1
+Heavy Metal Lover	south	Born This Way	1
+Heavy Metal Lover	st	Born This Way	1
+Heavy Metal Lover	streets	Born This Way	1
+Heavy Metal Lover	tonight	Born This Way	1
+Heavy Metal Lover	town	Born This Way	1
+Heavy Metal Lover	trouble	Born This Way	1
+Heavy Metal Lover	wait	Born This Way	1
+Heavy Metal Lover	wash	Born This Way	1
+Heavy Metal Lover	whip	Born This Way	1
+Heavy Metal Lover	whiskey	Born This Way	1
+Heavy Metal Lover	wine	Born This Way	1
+Heavy Metal Lover	world	Born This Way	6
+Heavy Metal Lover	york	Born This Way	1
+Hey Girl	17	Joanne	2
+Hey Girl	4am	Joanne	1
+Hey Girl	baby	Joanne	2
+Hey Girl	bowery	Joanne	2
+Hey Girl	cab	Joanne	2
+Hey Girl	callin	Joanne	1
+Hey Girl	creepin	Joanne	1
+Hey Girl	dance	Joanne	2
+Hey Girl	darlin	Joanne	1
+Hey Girl	darling	Joanne	1
+Hey Girl	easy	Joanne	4
+Hey Girl	everyday	Joanne	1
+Hey Girl	feel	Joanne	1
+Hey Girl	girl	Joanne	27
+Hey Girl	hair	Joanne	2
+Hey Girl	hands	Joanne	2
+Hey Girl	hear	Joanne	1
+Hey Girl	heart	Joanne	1
+Hey Girl	heartache	Joanne	1
+Hey Girl	held	Joanne	2
+Hey Girl	hey	Joanne	27
+Hey Girl	hold	Joanne	2
+Hey Girl	holding	Joanne	1
+Hey Girl	home	Joanne	2
+Hey Girl	lady	Joanne	1
+Hey Girl	leave	Joanne	5
+Hey Girl	lift	Joanne	3
+Hey Girl	lonely	Joanne	1
+Hey Girl	lose	Joanne	3
+Hey Girl	pulling	Joanne	1
+Hey Girl	sane	Joanne	1
+Hey Girl	sun	Joanne	1
+Hey Girl	tryin	Joanne	1
+Hey Girl	walk	Joanne	2
+Highway Unicorn (Road to Love)	american	Born This Way	1
+Highway Unicorn (Road to Love)	baby	Born This Way	2
+Highway Unicorn (Road to Love)	bleeds	Born This Way	1
+Highway Unicorn (Road to Love)	blonde	Born This Way	1
+Highway Unicorn (Road to Love)	bra	Born This Way	1
+Highway Unicorn (Road to Love)	burning	Born This Way	1
+Highway Unicorn (Road to Love)	care	Born This Way	1
+Highway Unicorn (Road to Love)	cha	Born This Way	3
+Highway Unicorn (Road to Love)	die	Born This Way	2
+Highway Unicorn (Road to Love)	dream	Born This Way	1
+Highway Unicorn (Road to Love)	drink	Born This Way	2
+Highway Unicorn (Road to Love)	eyes	Born This Way	1
+Highway Unicorn (Road to Love)	fall	Born This Way	2
+Highway Unicorn (Road to Love)	flag	Born This Way	1
+Highway Unicorn (Road to Love)	flies	Born This Way	1
+Highway Unicorn (Road to Love)	follow	Born This Way	3
+Highway Unicorn (Road to Love)	free	Born This Way	1
+Highway Unicorn (Road to Love)	fury	Born This Way	1
+Highway Unicorn (Road to Love)	gonna	Born This Way	4
+Highway Unicorn (Road to Love)	gun	Born This Way	1
+Highway Unicorn (Road to Love)	ha	Born This Way	1
+Highway Unicorn (Road to Love)	hair	Born This Way	1
+Highway Unicorn (Road to Love)	heart	Born This Way	1
+Highway Unicorn (Road to Love)	hoah	Born This Way	8
+Highway Unicorn (Road to Love)	hot	Born This Way	4
+Highway Unicorn (Road to Love)	law	Born This Way	1
+Highway Unicorn (Road to Love)	lonely	Born This Way	3
+Highway Unicorn (Road to Love)	love	Born This Way	13
+Highway Unicorn (Road to Love)	oo	Born This Way	20
+Highway Unicorn (Road to Love)	papers	Born This Way	1
+Highway Unicorn (Road to Love)	pony	Born This Way	4
+Highway Unicorn (Road to Love)	rainbow	Born This Way	1
+Highway Unicorn (Road to Love)	ready	Born This Way	4
+Highway Unicorn (Road to Love)	ride	Born This Way	12
+Highway Unicorn (Road to Love)	riding	Born This Way	1
+Highway Unicorn (Road to Love)	road	Born This Way	14
+Highway Unicorn (Road to Love)	roads	Born This Way	1
+Highway Unicorn (Road to Love)	rods	Born This Way	4
+Highway Unicorn (Road to Love)	rumble	Born This Way	4
+Highway Unicorn (Road to Love)	run	Born This Way	24
+Highway Unicorn (Road to Love)	saint	Born This Way	1
+Highway Unicorn (Road to Love)	smoking	Born This Way	1
+Highway Unicorn (Road to Love)	soul	Born This Way	1
+Highway Unicorn (Road to Love)	strong	Born This Way	12
+Highway Unicorn (Road to Love)	syrup	Born This Way	1
+Highway Unicorn (Road to Love)	toes	Born This Way	1
+Highway Unicorn (Road to Love)	tonight	Born This Way	4
+Highway Unicorn (Road to Love)	top	Born This Way	1
+Highway Unicorn (Road to Love)	unicorn	Born This Way	3
+Highway Unicorn (Road to Love)	woah	Born This Way	16
+I Like It Rough	baby	The Fame	2
+I Like It Rough	bangin	The Fame	1
+I Like It Rough	banging	The Fame	1
+I Like It Rough	bedroom	The Fame	2
+I Like It Rough	blow	The Fame	2
+I Like It Rough	boom	The Fame	2
+I Like It Rough	cherry	The Fame	2
+I Like It Rough	chewing	The Fame	1
+I Like It Rough	curls	The Fame	1
+I Like It Rough	dims	The Fame	1
+I Like It Rough	feel	The Fame	2
+I Like It Rough	fight	The Fame	1
+I Like It Rough	fix	The Fame	1
+I Like It Rough	gaga	The Fame	2
+I Like It Rough	girl	The Fame	3
+I Like It Rough	hard	The Fame	4
+I Like It Rough	initiating	The Fame	1
+I Like It Rough	lady	The Fame	2
+I Like It Rough	life	The Fame	2
+I Like It Rough	likes	The Fame	8
+I Like It Rough	lines	The Fame	1
+I Like It Rough	love	The Fame	3
+I Like It Rough	loving	The Fame	2
+I Like It Rough	me's	The Fame	2
+I Like It Rough	pearls	The Fame	1
+I Like It Rough	prom	The Fame	1
+I Like It Rough	rough	The Fame	41
+I Like It Rough	shine	The Fame	1
+I Like It Rough	shiny	The Fame	2
+I Like It Rough	silver	The Fame	1
+I Like It Rough	sleep	The Fame	1
+I Like It Rough	straightening	The Fame	1
+I Like It Rough	tears	The Fame	1
+I Like It Rough	tissues	The Fame	2
+I Like It Rough	tonight	The Fame	1
+I Like It Rough	wanna	The Fame	2
+I Like It Rough	wipes	The Fame	1
+I Like It Rough	wondering	The Fame	10
+I Like It Rough	world	The Fame	2
+I Like It Rough	yeah	The Fame	4
+Jewels N’ Drugs	60	ARTPOP	1
+Jewels N’ Drugs	accessories	ARTPOP	1
+Jewels N’ Drugs	acted	ARTPOP	1
+Jewels N’ Drugs	admit	ARTPOP	2
+Jewels N’ Drugs	alright	ARTPOP	1
+Jewels N’ Drugs	anomaly	ARTPOP	1
+Jewels N’ Drugs	antimatter	ARTPOP	1
+Jewels N’ Drugs	approach	ARTPOP	1
+Jewels N’ Drugs	atoms	ARTPOP	1
+Jewels N’ Drugs	attractive	ARTPOP	1
+Jewels N’ Drugs	ayy	ARTPOP	1
+Jewels N’ Drugs	bad	ARTPOP	4
+Jewels N’ Drugs	bands	ARTPOP	1
+Jewels N’ Drugs	bankhead	ARTPOP	1
+Jewels N’ Drugs	beat	ARTPOP	1
+Jewels N’ Drugs	bills	ARTPOP	1
+Jewels N’ Drugs	birds	ARTPOP	1
+Jewels N’ Drugs	bitch	ARTPOP	1
+Jewels N’ Drugs	blowin	ARTPOP	1
+Jewels N’ Drugs	breakin	ARTPOP	1
+Jewels N’ Drugs	brother	ARTPOP	1
+Jewels N’ Drugs	business	ARTPOP	1
+Jewels N’ Drugs	carpet	ARTPOP	1
+Jewels N’ Drugs	cats	ARTPOP	1
+Jewels N’ Drugs	club	ARTPOP	2
+Jewels N’ Drugs	comin	ARTPOP	2
+Jewels N’ Drugs	creating	ARTPOP	1
+Jewels N’ Drugs	dandiville	ARTPOP	1
+Jewels N’ Drugs	day	ARTPOP	1
+Jewels N’ Drugs	deal	ARTPOP	1
+Jewels N’ Drugs	desire	ARTPOP	1
+Jewels N’ Drugs	diamond	ARTPOP	1
+Jewels N’ Drugs	diamonds	ARTPOP	1
+Jewels N’ Drugs	die	ARTPOP	2
+Jewels N’ Drugs	dimension	ARTPOP	1
+Jewels N’ Drugs	dirty	ARTPOP	1
+Jewels N’ Drugs	doe	ARTPOP	1
+Jewels N’ Drugs	dollar	ARTPOP	2
+Jewels N’ Drugs	drug	ARTPOP	1
+Jewels N’ Drugs	drugs	ARTPOP	11
+Jewels N’ Drugs	em	ARTPOP	6
+Jewels N’ Drugs	events	ARTPOP	1
+Jewels N’ Drugs	expensive	ARTPOP	1
+Jewels N’ Drugs	family	ARTPOP	3
+Jewels N’ Drugs	father	ARTPOP	1
+Jewels N’ Drugs	feel	ARTPOP	2
+Jewels N’ Drugs	finna	ARTPOP	1
+Jewels N’ Drugs	freaks	ARTPOP	1
+Jewels N’ Drugs	friend	ARTPOP	1
+Jewels N’ Drugs	fuckin	ARTPOP	1
+Jewels N’ Drugs	fun	ARTPOP	1
+Jewels N’ Drugs	gaga	ARTPOP	2
+Jewels N’ Drugs	gang	ARTPOP	1
+Jewels N’ Drugs	gateway	ARTPOP	1
+Jewels N’ Drugs	givin	ARTPOP	1
+Jewels N’ Drugs	goin	ARTPOP	1
+Jewels N’ Drugs	habit's	ARTPOP	1
+Jewels N’ Drugs	haha	ARTPOP	1
+Jewels N’ Drugs	hands	ARTPOP	1
+Jewels N’ Drugs	hang	ARTPOP	1
+Jewels N’ Drugs	hell	ARTPOP	1
+Jewels N’ Drugs	hit	ARTPOP	1
+Jewels N’ Drugs	hold	ARTPOP	1
+Jewels N’ Drugs	homies	ARTPOP	1
+Jewels N’ Drugs	honey	ARTPOP	2
+Jewels N’ Drugs	hop	ARTPOP	2
+Jewels N’ Drugs	huh	ARTPOP	1
+Jewels N’ Drugs	hustle	ARTPOP	5
+Jewels N’ Drugs	i'ma	ARTPOP	1
+Jewels N’ Drugs	influenced	ARTPOP	1
+Jewels N’ Drugs	jersey	ARTPOP	1
+Jewels N’ Drugs	jewelry	ARTPOP	1
+Jewels N’ Drugs	jewels	ARTPOP	11
+Jewels N’ Drugs	kick	ARTPOP	1
+Jewels N’ Drugs	lady	ARTPOP	1
+Jewels N’ Drugs	legacy	ARTPOP	1
+Jewels N’ Drugs	leggo	ARTPOP	1
+Jewels N’ Drugs	life	ARTPOP	1
+Jewels N’ Drugs	lil	ARTPOP	1
+Jewels N’ Drugs	lived	ARTPOP	1
+Jewels N’ Drugs	love	ARTPOP	5
+Jewels N’ Drugs	middle	ARTPOP	1
+Jewels N’ Drugs	mil	ARTPOP	1
+Jewels N’ Drugs	money	ARTPOP	11
+Jewels N’ Drugs	mother	ARTPOP	1
+Jewels N’ Drugs	move	ARTPOP	1
+Jewels N’ Drugs	murder	ARTPOP	2
+Jewels N’ Drugs	nothin	ARTPOP	2
+Jewels N’ Drugs	o.g	ARTPOP	1
+Jewels N’ Drugs	offensive	ARTPOP	1
+Jewels N’ Drugs	outer	ARTPOP	1
+Jewels N’ Drugs	pancake	ARTPOP	2
+Jewels N’ Drugs	partner	ARTPOP	3
+Jewels N’ Drugs	party	ARTPOP	1
+Jewels N’ Drugs	passenger	ARTPOP	1
+Jewels N’ Drugs	passin	ARTPOP	1
+Jewels N’ Drugs	perpetrate	ARTPOP	1
+Jewels N’ Drugs	pimps	ARTPOP	1
+Jewels N’ Drugs	planned	ARTPOP	1
+Jewels N’ Drugs	play	ARTPOP	5
+Jewels N’ Drugs	pockets	ARTPOP	1
+Jewels N’ Drugs	pop	ARTPOP	1
+Jewels N’ Drugs	provoke	ARTPOP	1
+Jewels N’ Drugs	pull	ARTPOP	2
+Jewels N’ Drugs	pussy	ARTPOP	1
+Jewels N’ Drugs	ready	ARTPOP	1
+Jewels N’ Drugs	recipe	ARTPOP	1
+Jewels N’ Drugs	red	ARTPOP	1
+Jewels N’ Drugs	round	ARTPOP	2
+Jewels N’ Drugs	rubber	ARTPOP	1
+Jewels N’ Drugs	rules	ARTPOP	1
+Jewels N’ Drugs	seat	ARTPOP	1
+Jewels N’ Drugs	servin	ARTPOP	1
+Jewels N’ Drugs	shawty	ARTPOP	1
+Jewels N’ Drugs	shine	ARTPOP	2
+Jewels N’ Drugs	shut	ARTPOP	1
+Jewels N’ Drugs	sister	ARTPOP	1
+Jewels N’ Drugs	sit	ARTPOP	1
+Jewels N’ Drugs	slap	ARTPOP	2
+Jewels N’ Drugs	smoke	ARTPOP	1
+Jewels N’ Drugs	smother	ARTPOP	4
+Jewels N’ Drugs	somethin	ARTPOP	1
+Jewels N’ Drugs	speed	ARTPOP	1
+Jewels N’ Drugs	strange	ARTPOP	1
+Jewels N’ Drugs	stupid	ARTPOP	1
+Jewels N’ Drugs	surveyed	ARTPOP	1
+Jewels N’ Drugs	takin	ARTPOP	1
+Jewels N’ Drugs	talkin	ARTPOP	1
+Jewels N’ Drugs	time	ARTPOP	4
+Jewels N’ Drugs	trappin	ARTPOP	1
+Jewels N’ Drugs	tryna	ARTPOP	1
+Jewels N’ Drugs	twista	ARTPOP	1
+Jewels N’ Drugs	uh	ARTPOP	1
+Jewels N’ Drugs	wanna	ARTPOP	4
+Jewels N’ Drugs	warp	ARTPOP	1
+Jewels N’ Drugs	week	ARTPOP	1
+Jewels N’ Drugs	weekend	ARTPOP	1
+Jewels N’ Drugs	yay	ARTPOP	1
+Jewels N’ Drugs	yeah	ARTPOP	4
+Jewels N’ Drugs	yup	ARTPOP	1
+Joanne	aching	Joanne	1
+Joanne	angels	Joanne	1
+Joanne	anymore	Joanne	1
+Joanne	baby	Joanne	1
+Joanne	girl	Joanne	12
+Joanne	goin	Joanne	19
+Joanne	goodbye	Joanne	1
+Joanne	grin	Joanne	1
+Joanne	hand	Joanne	1
+Joanne	heart	Joanne	1
+Joanne	heaven's	Joanne	1
+Joanne	honestly	Joanne	1
+Joanne	joanne	Joanne	1
+Joanne	love	Joanne	1
+Joanne	movin	Joanne	1
+Joanne	promised	Joanne	1
+Joanne	ready	Joanne	1
+Joanne	soar	Joanne	1
+Joanne	stay	Joanne	2
+Joanne	thin	Joanne	1
+Joanne	voice	Joanne	1
+Joanne	wait	Joanne	1
+John Wayne	1	Joanne	1
+John Wayne	2	Joanne	1
+John Wayne	3	Joanne	1
+John Wayne	baby	Joanne	6
+John Wayne	bad	Joanne	1
+John Wayne	beer	Joanne	1
+John Wayne	bender	Joanne	1
+John Wayne	blue	Joanne	1
+John Wayne	broke	Joanne	1
+John Wayne	called	Joanne	1
+John Wayne	charged	Joanne	1
+John Wayne	city	Joanne	2
+John Wayne	collar	Joanne	1
+John Wayne	cowboy	Joanne	1
+John Wayne	crave	Joanne	2
+John Wayne	cried	Joanne	1
+John Wayne	dat	Joanne	18
+John Wayne	day	Joanne	1
+John Wayne	dead	Joanne	1
+John Wayne	deet	Joanne	18
+John Wayne	doe	Joanne	18
+John Wayne	doo	Joanne	18
+John Wayne	eye	Joanne	1
+John Wayne	eyes	Joanne	1
+John Wayne	fast	Joanne	1
+John Wayne	faster	Joanne	1
+John Wayne	feel	Joanne	1
+John Wayne	games	Joanne	2
+John Wayne	gears	Joanne	1
+John Wayne	glare	Joanne	1
+John Wayne	grip	Joanne	1
+John Wayne	hang	Joanne	1
+John Wayne	hard	Joanne	1
+John Wayne	headed	Joanne	1
+John Wayne	hold	Joanne	1
+John Wayne	hollerin	Joanne	1
+John Wayne	horse	Joanne	1
+John Wayne	john	Joanne	10
+John Wayne	junkie	Joanne	1
+John Wayne	knock	Joanne	1
+John Wayne	laughs	Joanne	1
+John Wayne	lights	Joanne	1
+John Wayne	lit	Joanne	1
+John Wayne	love	Joanne	4
+John Wayne	lovers	Joanne	1
+John Wayne	man's	Joanne	1
+John Wayne	mission	Joanne	1
+John Wayne	moonlight	Joanne	2
+John Wayne	mug	Joanne	1
+John Wayne	mustang	Joanne	1
+John Wayne	prayin	Joanne	1
+John Wayne	racin	Joanne	1
+John Wayne	real	Joanne	2
+John Wayne	red	Joanne	2
+John Wayne	rubber	Joanne	1
+John Wayne	runnin	Joanne	1
+John Wayne	shiftin	Joanne	1
+John Wayne	shot	Joanne	1
+John Wayne	sick	Joanne	2
+John Wayne	speedin	Joanne	1
+John Wayne	spinnin	Joanne	1
+John Wayne	storm	Joanne	2
+John Wayne	strung	Joanne	2
+John Wayne	swig	Joanne	1
+John Wayne	tight	Joanne	1
+John Wayne	tonight	Joanne	1
+John Wayne	toss	Joanne	1
+John Wayne	treasure	Joanne	1
+John Wayne	trouble	Joanne	1
+John Wayne	wayne	Joanne	8
+John Wayne	wild	Joanne	2
+John Wayne	ya	Joanne	1
+Judas	ah	Born This Way	72
+Judas	baby	Born This Way	12
+Judas	betrays	Born This Way	1
+Judas	biblical	Born This Way	1
+Judas	body	Born This Way	1
+Judas	brain	Born This Way	1
+Judas	brick	Born This Way	1
+Judas	bring	Born This Way	4
+Judas	build	Born This Way	1
+Judas	calls	Born This Way	1
+Judas	cling	Born This Way	2
+Judas	condom	Born This Way	1
+Judas	crown	Born This Way	4
+Judas	cruel	Born This Way	6
+Judas	cultural	Born This Way	1
+Judas	dead	Born This Way	1
+Judas	demon	Born This Way	1
+Judas	ear	Born This Way	1
+Judas	ew	Born This Way	2
+Judas	fame	Born This Way	1
+Judas	feet	Born This Way	1
+Judas	fool	Born This Way	7
+Judas	forgave	Born This Way	1
+Judas	forgive	Born This Way	1
+Judas	future	Born This Way	1
+Judas	gaga	Born This Way	4
+Judas	goofy	Born This Way	1
+Judas	hair	Born This Way	1
+Judas	holy	Born This Way	7
+Judas	hooker	Born This Way	1
+Judas	house	Born This Way	1
+Judas	jesus	Born This Way	1
+Judas	juda	Born This Way	30
+Judas	judas	Born This Way	24
+Judas	king	Born This Way	4
+Judas	kiss	Born This Way	1
+Judas	learned	Born This Way	1
+Judas	lies	Born This Way	1
+Judas	love	Born This Way	17
+Judas	mind	Born This Way	1
+Judas	offenced	Born This Way	1
+Judas	prophets	Born This Way	1
+Judas	prostitute	Born This Way	1
+Judas	pulling	Born This Way	1
+Judas	purely	Born This Way	1
+Judas	ready	Born This Way	1
+Judas	repentance	Born This Way	1
+Judas	sense	Born This Way	2
+Judas	sink	Born This Way	1
+Judas	something's	Born This Way	1
+Judas	speak	Born This Way	1
+Judas	tense	Born This Way	1
+Judas	time	Born This Way	1
+Judas	times	Born This Way	1
+Judas	tongue	Born This Way	1
+Judas	virtue	Born This Way	1
+Judas	vomits	Born This Way	1
+Judas	wanna	Born This Way	1
+Judas	wash	Born This Way	1
+Judas	wear	Born This Way	1
+Judas	wench	Born This Way	1
+Judas	whoa	Born This Way	43
+Just Dance	alright	The Fame	4
+Just Dance	amazing	The Fame	1
+Just Dance	anymore	The Fame	2
+Just Dance	babe	The Fame	7
+Just Dance	baby	The Fame	5
+Just Dance	beat	The Fame	1
+Just Dance	bit	The Fame	1
+Just Dance	bleed	The Fame	1
+Just Dance	blueprint	The Fame	4
+Just Dance	break	The Fame	1
+Just Dance	call	The Fame	1
+Just Dance	carve	The Fame	1
+Just Dance	catalogue	The Fame	1
+Just Dance	checking	The Fame	1
+Just Dance	clean	The Fame	1
+Just Dance	close	The Fame	1
+Just Dance	club	The Fame	2
+Just Dance	control	The Fame	1
+Just Dance	cool	The Fame	2
+Just Dance	da	The Fame	36
+Just Dance	dance	The Fame	33
+Just Dance	dizzy	The Fame	1
+Just Dance	doo	The Fame	12
+Just Dance	doot	The Fame	12
+Just Dance	dough	The Fame	1
+Just Dance	drink	The Fame	1
+Just Dance	drive	The Fame	1
+Just Dance	eh	The Fame	1
+Just Dance	electronic	The Fame	2
+Just Dance	energy	The Fame	1
+Just Dance	eyes	The Fame	1
+Just Dance	flaw	The Fame	1
+Just Dance	floor	The Fame	3
+Just Dance	gaga	The Fame	1
+Just Dance	gettin	The Fame	1
+Just Dance	goin	The Fame	2
+Just Dance	gon	The Fame	1
+Just Dance	gonna	The Fame	11
+Just Dance	half	The Fame	4
+Just Dance	hey	The Fame	3
+Just Dance	hips	The Fame	1
+Just Dance	hit	The Fame	1
+Just Dance	hosed	The Fame	1
+Just Dance	how'd	The Fame	1
+Just Dance	hustle	The Fame	1
+Just Dance	hypnotic	The Fame	4
+Just Dance	i'ma	The Fame	2
+Just Dance	incredible	The Fame	1
+Just Dance	inside	The Fame	2
+Just Dance	keys	The Fame	1
+Just Dance	konvict	The Fame	1
+Just Dance	latch	The Fame	1
+Just Dance	leave	The Fame	1
+Just Dance	lost	The Fame	1
+Just Dance	love	The Fame	2
+Just Dance	lysol	The Fame	1
+Just Dance	meantime	The Fame	1
+Just Dance	mouth	The Fame	1
+Just Dance	muscle	The Fame	1
+Just Dance	music	The Fame	1
+Just Dance	ooh	The Fame	4
+Just Dance	people	The Fame	1
+Just Dance	phone	The Fame	2
+Just Dance	pick	The Fame	1
+Just Dance	playboy	The Fame	1
+Just Dance	pock	The Fame	1
+Just Dance	poison	The Fame	1
+Just Dance	psychotic	The Fame	4
+Just Dance	reason	The Fame	1
+Just Dance	record	The Fame	9
+Just Dance	redone	The Fame	1
+Just Dance	remember	The Fame	2
+Just Dance	roses	The Fame	1
+Just Dance	round	The Fame	2
+Just Dance	rush	The Fame	2
+Just Dance	shirt	The Fame	1
+Just Dance	shorty	The Fame	1
+Just Dance	shut	The Fame	1
+Just Dance	sick	The Fame	4
+Just Dance	slow	The Fame	1
+Just Dance	spend	The Fame	1
+Just Dance	spin	The Fame	7
+Just Dance	start	The Fame	2
+Just Dance	stay	The Fame	2
+Just Dance	steady	The Fame	1
+Just Dance	straight	The Fame	2
+Just Dance	symphonic	The Fame	2
+Just Dance	thorns	The Fame	1
+Just Dance	tomorrow	The Fame	1
+Just Dance	tonight	The Fame	1
+Just Dance	truth	The Fame	1
+Just Dance	tryna	The Fame	1
+Just Dance	twirlin	The Fame	1
+Just Dance	twister	The Fame	1
+Just Dance	watch	The Fame	1
+Just Dance	women	The Fame	1
+Just Dance	woo	The Fame	1
+Just Dance	yeah	The Fame	8
+LoveGame	ass	The Fame	1
+LoveGame	babe	The Fame	1
+LoveGame	bad	The Fame	2
+LoveGame	beat	The Fame	5
+LoveGame	block	The Fame	1
+LoveGame	boy	The Fame	1
+LoveGame	bust	The Fame	3
+LoveGame	complicated	The Fame	1
+LoveGame	cupid	The Fame	1
+LoveGame	dans	The Fame	9
+LoveGame	disco	The Fame	8
+LoveGame	educated	The Fame	1
+LoveGame	fame	The Fame	8
+LoveGame	fun	The Fame	5
+LoveGame	game	The Fame	12
+LoveGame	girl	The Fame	1
+LoveGame	guess	The Fame	1
+LoveGame	hand	The Fame	1
+LoveGame	heart	The Fame	2
+LoveGame	heavy	The Fame	1
+LoveGame	hold	The Fame	2
+LoveGame	huh	The Fame	7
+LoveGame	involves	The Fame	1
+LoveGame	kick	The Fame	3
+LoveGame	kiss	The Fame	1
+LoveGame	love	The Fame	10
+LoveGame	lovegame	The Fame	30
+LoveGame	minute	The Fame	2
+LoveGame	miss	The Fame	1
+LoveGame	mission	The Fame	1
+LoveGame	mouth	The Fame	1
+LoveGame	play	The Fame	18
+LoveGame	quit	The Fame	2
+LoveGame	ride	The Fame	8
+LoveGame	sex	The Fame	1
+LoveGame	sexy	The Fame	1
+LoveGame	sick	The Fame	5
+LoveGame	smile	The Fame	1
+LoveGame	squeezed	The Fame	1
+LoveGame	staring	The Fame	1
+LoveGame	starts	The Fame	1
+LoveGame	stick	The Fame	8
+LoveGame	story	The Fame	1
+LoveGame	stupid	The Fame	1
+LoveGame	touch	The Fame	2
+LoveGame	touching	The Fame	1
+LoveGame	wanna	The Fame	11
+LoveGame	yeah	The Fame	1
+MANiCURE	addicted	ARTPOP	5
+MANiCURE	ah	ARTPOP	4
+MANiCURE	bed	ARTPOP	1
+MANiCURE	body	ARTPOP	1
+MANiCURE	care'n	ARTPOP	3
+MANiCURE	coming	ARTPOP	2
+MANiCURE	cure	ARTPOP	9
+MANiCURE	cured	ARTPOP	9
+MANiCURE	curl	ARTPOP	1
+MANiCURE	dark	ARTPOP	1
+MANiCURE	dress	ARTPOP	1
+MANiCURE	feel	ARTPOP	23
+MANiCURE	garner	ARTPOP	3
+MANiCURE	gon	ARTPOP	3
+MANiCURE	goner	ARTPOP	3
+MANiCURE	hair	ARTPOP	1
+MANiCURE	hands	ARTPOP	1
+MANiCURE	heal	ARTPOP	3
+MANiCURE	heels	ARTPOP	1
+MANiCURE	hips	ARTPOP	1
+MANiCURE	insecure	ARTPOP	3
+MANiCURE	killer	ARTPOP	3
+MANiCURE	lipstick	ARTPOP	1
+MANiCURE	loosen	ARTPOP	1
+MANiCURE	love	ARTPOP	7
+MANiCURE	ma	ARTPOP	18
+MANiCURE	manicure	ARTPOP	6
+MANiCURE	manicured	ARTPOP	3
+MANiCURE	medicine	ARTPOP	2
+MANiCURE	neck	ARTPOP	1
+MANiCURE	perfume	ARTPOP	1
+MANiCURE	rinse	ARTPOP	1
+MANiCURE	round	ARTPOP	2
+MANiCURE	salon’s	ARTPOP	3
+MANiCURE	save	ARTPOP	1
+MANiCURE	serial	ARTPOP	3
+MANiCURE	slip	ARTPOP	1
+MANiCURE	squeeze	ARTPOP	1
+MANiCURE	tease	ARTPOP	1
+MANiCURE	throw	ARTPOP	1
+MANiCURE	touch	ARTPOP	1
+MANiCURE	trick	ARTPOP	1
+MANiCURE	wanna	ARTPOP	12
+MANiCURE	wear	ARTPOP	1
+Marry the Night	anymore	Born This Way	3
+Marry the Night	attic	Born This Way	1
+Marry the Night	bar	Born This Way	1
+Marry the Night	bartender	Born This Way	1
+Marry the Night	bells	Born This Way	1
+Marry the Night	black	Born This Way	1
+Marry the Night	boots	Born This Way	1
+Marry the Night	burn	Born This Way	1
+Marry the Night	camino	Born This Way	1
+Marry the Night	car	Born This Way	1
+Marry the Night	climb	Born This Way	1
+Marry the Night	cool	Born This Way	1
+Marry the Night	cruise	Born This Way	1
+Marry the Night	cry	Born This Way	3
+Marry the Night	dark	Born This Way	1
+Marry the Night	denim	Born This Way	1
+Marry the Night	el	Born This Way	1
+Marry the Night	emptiness	Born This Way	1
+Marry the Night	explore	Born This Way	3
+Marry the Night	fishnet	Born This Way	1
+Marry the Night	front	Born This Way	1
+Marry the Night	ginger	Born This Way	1
+Marry the Night	gloves	Born This Way	1
+Marry the Night	gonna	Born This Way	52
+Marry the Night	guns	Born This Way	1
+Marry the Night	heels	Born This Way	1
+Marry the Night	hold	Born This Way	1
+Marry the Night	hole	Born This Way	1
+Marry the Night	holes	Born This Way	1
+Marry the Night	kiss	Born This Way	1
+Marry the Night	lace	Born This Way	1
+Marry the Night	leather	Born This Way	1
+Marry the Night	leave	Born This Way	3
+Marry the Night	life	Born This Way	1
+Marry the Night	live	Born This Way	1
+Marry the Night	lose	Born This Way	1
+Marry the Night	loser	Born This Way	1
+Marry the Night	love	Born This Way	4
+Marry the Night	ma	Born This Way	63
+Marry the Night	marry	Born This Way	41
+Marry the Night	night	Born This Way	40
+Marry the Night	nothing's	Born This Way	1
+Marry the Night	passionately	Born This Way	1
+Marry the Night	poke	Born This Way	1
+Marry the Night	queen	Born This Way	1
+Marry the Night	ready	Born This Way	1
+Marry the Night	road	Born This Way	1
+Marry the Night	run	Born This Way	2
+Marry the Night	seat	Born This Way	1
+Marry the Night	sinner	Born This Way	1
+Marry the Night	skeleton	Born This Way	1
+Marry the Night	soldier	Born This Way	1
+Marry the Night	stark	Born This Way	1
+Marry the Night	streets	Born This Way	4
+Marry the Night	tan	Born This Way	1
+Marry the Night	throw	Born This Way	1
+Marry the Night	tonight	Born This Way	1
+Marry the Night	warrior	Born This Way	1
+Marry the Night	wedding	Born This Way	1
+Marry the Night	whiskey	Born This Way	1
+Marry the Night	winner	Born This Way	1
+Marry the Night	won’t	Born This Way	1
+Marry the Night	york	Born This Way	1
+Mary Jane Holland	alright	ARTPOP	1
+Mary Jane Holland	amsterdam	ARTPOP	1
+Mary Jane Holland	apollo	ARTPOP	1
+Mary Jane Holland	blonde	ARTPOP	1
+Mary Jane Holland	boast	ARTPOP	1
+Mary Jane Holland	brunette	ARTPOP	1
+Mary Jane Holland	cheap	ARTPOP	2
+Mary Jane Holland	culture	ARTPOP	1
+Mary Jane Holland	dad	ARTPOP	1
+Mary Jane Holland	dam	ARTPOP	1
+Mary Jane Holland	darkest	ARTPOP	2
+Mary Jane Holland	deals	ARTPOP	1
+Mary Jane Holland	devil	ARTPOP	1
+Mary Jane Holland	eats	ARTPOP	1
+Mary Jane Holland	fear	ARTPOP	1
+Mary Jane Holland	fine	ARTPOP	3
+Mary Jane Holland	flame	ARTPOP	1
+Mary Jane Holland	fly	ARTPOP	1
+Mary Jane Holland	gentleman	ARTPOP	1
+Mary Jane Holland	gin	ARTPOP	2
+Mary Jane Holland	grass	ARTPOP	1
+Mary Jane Holland	holland	ARTPOP	15
+Mary Jane Holland	hoo	ARTPOP	8
+Mary Jane Holland	hookers	ARTPOP	2
+Mary Jane Holland	ignite	ARTPOP	1
+Mary Jane Holland	inside	ARTPOP	1
+Mary Jane Holland	insides	ARTPOP	1
+Mary Jane Holland	introducing	ARTPOP	1
+Mary Jane Holland	jane	ARTPOP	15
+Mary Jane Holland	ladies	ARTPOP	1
+Mary Jane Holland	lady	ARTPOP	1
+Mary Jane Holland	love	ARTPOP	8
+Mary Jane Holland	lyre	ARTPOP	1
+Mary Jane Holland	mad	ARTPOP	1
+Mary Jane Holland	magical	ARTPOP	1
+Mary Jane Holland	mary	ARTPOP	15
+Mary Jane Holland	meet	ARTPOP	3
+Mary Jane Holland	mess	ARTPOP	1
+Mary Jane Holland	mom	ARTPOP	1
+Mary Jane Holland	mouth	ARTPOP	1
+Mary Jane Holland	piano	ARTPOP	1
+Mary Jane Holland	piss	ARTPOP	1
+Mary Jane Holland	play	ARTPOP	1
+Mary Jane Holland	popular	ARTPOP	1
+Mary Jane Holland	radar	ARTPOP	1
+Mary Jane Holland	rich	ARTPOP	1
+Mary Jane Holland	russian	ARTPOP	2
+Mary Jane Holland	sin	ARTPOP	2
+Mary Jane Holland	sing	ARTPOP	1
+Mary Jane Holland	sit	ARTPOP	1
+Mary Jane Holland	slave	ARTPOP	1
+Mary Jane Holland	sprout	ARTPOP	1
+Mary Jane Holland	starts	ARTPOP	1
+Mary Jane Holland	time	ARTPOP	3
+Mary Jane Holland	tonight	ARTPOP	7
+Mary Jane Holland	truffles	ARTPOP	1
+Mary Jane Holland	woo	ARTPOP	4
+Million Reasons	aware	Joanne	1
+Million Reasons	baby	Joanne	6
+Million Reasons	bleedin	Joanne	2
+Million Reasons	bow	Joanne	3
+Million Reasons	breathing	Joanne	1
+Million Reasons	completely	Joanne	1
+Million Reasons	cut	Joanne	3
+Million Reasons	cycle	Joanne	1
+Million Reasons	dry	Joanne	1
+Million Reasons	ehh	Joanne	3
+Million Reasons	ehhy	Joanne	1
+Million Reasons	eyy	Joanne	1
+Million Reasons	faith	Joanne	1
+Million Reasons	fathom	Joanne	1
+Million Reasons	forever	Joanne	1
+Million Reasons	givin	Joanne	5
+Million Reasons	giving	Joanne	5
+Million Reasons	hard	Joanne	2
+Million Reasons	head	Joanne	1
+Million Reasons	heartbreak	Joanne	1
+Million Reasons	hey	Joanne	1
+Million Reasons	highway	Joanne	1
+Million Reasons	hills	Joanne	1
+Million Reasons	hundred	Joanne	3
+Million Reasons	leather	Joanne	3
+Million Reasons	lord	Joanne	3
+Million Reasons	makes	Joanne	1
+Million Reasons	million	Joanne	21
+Million Reasons	needin	Joanne	2
+Million Reasons	pray	Joanne	3
+Million Reasons	quit	Joanne	1
+Million Reasons	reasons	Joanne	21
+Million Reasons	run	Joanne	1
+Million Reasons	stare	Joanne	1
+Million Reasons	stay	Joanne	4
+Million Reasons	stopped	Joanne	1
+Million Reasons	stuck	Joanne	1
+Million Reasons	walk	Joanne	3
+Million Reasons	worn	Joanne	3
+Million Reasons	worst	Joanne	3
+Money Honey	babe	The Fame	1
+Money Honey	baby	The Fame	8
+Money Honey	beach	The Fame	1
+Money Honey	boat	The Fame	1
+Money Honey	burn	The Fame	1
+Money Honey	candle	The Fame	1
+Money Honey	champagne	The Fame	1
+Money Honey	coast	The Fame	1
+Money Honey	damn	The Fame	2
+Money Honey	delicious	The Fame	5
+Money Honey	enjoy	The Fame	2
+Money Honey	expensive	The Fame	2
+Money Honey	fine	The Fame	1
+Money Honey	finer	The Fame	1
+Money Honey	gifts	The Fame	1
+Money Honey	girls	The Fame	1
+Money Honey	handle	The Fame	1
+Money Honey	happiest	The Fame	1
+Money Honey	honey	The Fame	20
+Money Honey	intensive	The Fame	2
+Money Honey	islands	The Fame	1
+Money Honey	jag	The Fame	1
+Money Honey	jet	The Fame	1
+Money Honey	kisses	The Fame	5
+Money Honey	knees	The Fame	2
+Money Honey	live	The Fame	2
+Money Honey	love	The Fame	2
+Money Honey	lover	The Fame	5
+Money Honey	loving's	The Fame	1
+Money Honey	makes	The Fame	1
+Money Honey	mansion	The Fame	1
+Money Honey	mistress	The Fame	5
+Money Honey	money	The Fame	20
+Money Honey	pieces	The Fame	5
+Money Honey	preciate	The Fame	1
+Money Honey	sexy	The Fame	3
+Money Honey	tear	The Fame	5
+Money Honey	tender	The Fame	1
+Money Honey	toast	The Fame	1
+Money Honey	touch	The Fame	5
+Money Honey	trips	The Fame	1
+Money Honey	weak	The Fame	2
+Money Honey	west	The Fame	1
+Money Honey	yeah	The Fame	4
+Paparazzi	baby	The Fame	8
+Paparazzi	backstage	The Fame	1
+Paparazzi	biggest	The Fame	3
+Paparazzi	boy	The Fame	3
+Paparazzi	burnt	The Fame	1
+Paparazzi	chase	The Fame	3
+Paparazzi	cherry	The Fame	1
+Paparazzi	cigarettes	The Fame	1
+Paparazzi	comin	The Fame	1
+Paparazzi	crowd	The Fame	1
+Paparazzi	cry	The Fame	1
+Paparazzi	dance	The Fame	2
+Paparazzi	dry	The Fame	1
+Paparazzi	eyeliner	The Fame	1
+Paparazzi	famous	The Fame	3
+Paparazzi	fan	The Fame	3
+Paparazzi	fantastical	The Fame	1
+Paparazzi	flash	The Fame	1
+Paparazzi	flashing	The Fame	1
+Paparazzi	follow	The Fame	3
+Paparazzi	fun	The Fame	1
+Paparazzi	garage	The Fame	1
+Paparazzi	girl	The Fame	1
+Paparazzi	glamorous	The Fame	1
+Paparazzi	guitars	The Fame	1
+Paparazzi	jeans	The Fame	1
+Paparazzi	lashes	The Fame	1
+Paparazzi	leather	The Fame	1
+Paparazzi	lights	The Fame	1
+Paparazzi	love	The Fame	6
+Paparazzi	loving	The Fame	1
+Paparazzi	magical	The Fame	1
+Paparazzi	means	The Fame	1
+Paparazzi	mine	The Fame	3
+Paparazzi	papa	The Fame	9
+Paparazzi	paparazzi	The Fame	9
+Paparazzi	photo	The Fame	1
+Paparazzi	picture	The Fame	1
+Paparazzi	pie	The Fame	1
+Paparazzi	plastic	The Fame	1
+Paparazzi	price	The Fame	2
+Paparazzi	promise	The Fame	3
+Paparazzi	purple	The Fame	1
+Paparazzi	radio	The Fame	1
+Paparazzi	ready	The Fame	1
+Paparazzi	real	The Fame	1
+Paparazzi	rock	The Fame	1
+Paparazzi	ropes	The Fame	1
+Paparazzi	sets	The Fame	1
+Paparazzi	shadow	The Fame	1
+Paparazzi	shit	The Fame	1
+Paparazzi	snap	The Fame	2
+Paparazzi	star	The Fame	1
+Paparazzi	stop	The Fame	4
+Paparazzi	studio	The Fame	1
+Paparazzi	superstar	The Fame	3
+Paparazzi	teardrops	The Fame	1
+Paparazzi	true	The Fame	1
+Paparazzi	velvet	The Fame	1
+Paparazzi	yeah	The Fame	1
+Paparazzi	yellow	The Fame	1
+Paper Gangsta	accept	The Fame	2
+Paper Gangsta	beat	The Fame	1
+Paper Gangsta	business	The Fame	4
+Paper Gangsta	california	The Fame	1
+Paper Gangsta	catch	The Fame	1
+Paper Gangsta	chick	The Fame	1
+Paper Gangsta	def	The Fame	1
+Paper Gangsta	diamond	The Fame	1
+Paper Gangsta	dinners	The Fame	1
+Paper Gangsta	drop	The Fame	1
+Paper Gangsta	empty	The Fame	1
+Paper Gangsta	fabulous	The Fame	2
+Paper Gangsta	fakers	The Fame	4
+Paper Gangsta	fan	The Fame	1
+Paper Gangsta	flavor	The Fame	4
+Paper Gangsta	fly	The Fame	1
+Paper Gangsta	follow	The Fame	4
+Paper Gangsta	funny	The Fame	4
+Paper Gangsta	gangsta	The Fame	27
+Paper Gangsta	ganster	The Fame	1
+Paper Gangsta	hand	The Fame	1
+Paper Gangsta	heard	The Fame	1
+Paper Gangsta	heart	The Fame	1
+Paper Gangsta	homegirl	The Fame	1
+Paper Gangsta	i’ve	The Fame	1
+Paper Gangsta	ice	The Fame	1
+Paper Gangsta	inkin	The Fame	1
+Paper Gangsta	jam	The Fame	1
+Paper Gangsta	life	The Fame	4
+Paper Gangsta	lincoln	The Fame	1
+Paper Gangsta	lookin	The Fame	1
+Paper Gangsta	love	The Fame	1
+Paper Gangsta	loved	The Fame	1
+Paper Gangsta	means	The Fame	1
+Paper Gangsta	melted	The Fame	1
+Paper Gangsta	midnight	The Fame	1
+Paper Gangsta	monkey	The Fame	4
+Paper Gangsta	nice	The Fame	1
+Paper Gangsta	nothin	The Fame	1
+Paper Gangsta	page	The Fame	1
+Paper Gangsta	paper	The Fame	23
+Paper Gangsta	papers	The Fame	4
+Paper Gangsta	pen	The Fame	1
+Paper Gangsta	played	The Fame	1
+Paper Gangsta	range	The Fame	1
+Paper Gangsta	rappin	The Fame	1
+Paper Gangsta	real	The Fame	2
+Paper Gangsta	rememberin	The Fame	1
+Paper Gangsta	rover	The Fame	1
+Paper Gangsta	rush	The Fame	1
+Paper Gangsta	sanskrit	The Fame	1
+Paper Gangsta	shiny	The Fame	1
+Paper Gangsta	shit	The Fame	2
+Paper Gangsta	shoulda	The Fame	1
+Paper Gangsta	sign	The Fame	9
+Paper Gangsta	song	The Fame	1
+Paper Gangsta	start	The Fame	1
+Paper Gangsta	stop	The Fame	1
+Paper Gangsta	stuff	The Fame	1
+Paper Gangsta	superwoman	The Fame	1
+Paper Gangsta	til	The Fame	1
+Paper Gangsta	told	The Fame	1
+Paper Gangsta	words	The Fame	1
+Paper Gangsta	yeah	The Fame	1
+Paper Gangsta	you’ve	The Fame	1
+Perfect Illusion	amphetamine	Joanne	1
+Perfect Illusion	baby	Joanne	1
+Perfect Illusion	blow	Joanne	1
+Perfect Illusion	caught	Joanne	1
+Perfect Illusion	confusion	Joanne	2
+Perfect Illusion	control	Joanne	1
+Perfect Illusion	crush	Joanne	1
+Perfect Illusion	dilated	Joanne	3
+Perfect Illusion	dream	Joanne	1
+Perfect Illusion	ecstasy	Joanne	5
+Perfect Illusion	eyes	Joanne	1
+Perfect Illusion	fallin	Joanne	1
+Perfect Illusion	falling	Joanne	2
+Perfect Illusion	feel	Joanne	7
+Perfect Illusion	free	Joanne	3
+Perfect Illusion	game	Joanne	1
+Perfect Illusion	guessing	Joanne	1
+Perfect Illusion	illusion	Joanne	24
+Perfect Illusion	love	Joanne	15
+Perfect Illusion	means	Joanne	1
+Perfect Illusion	middle	Joanne	1
+Perfect Illusion	mistaken	Joanne	6
+Perfect Illusion	modern	Joanne	5
+Perfect Illusion	perfect	Joanne	22
+Perfect Illusion	pressure's	Joanne	1
+Perfect Illusion	real	Joanne	1
+Perfect Illusion	strong	Joanne	1
+Perfect Illusion	stuck	Joanne	1
+Perfect Illusion	takin	Joanne	1
+Perfect Illusion	toll	Joanne	1
+Perfect Illusion	touchin	Joanne	1
+Perfect Illusion	tryin	Joanne	1
+Perfect Illusion	wakin	Joanne	1
+Perfect Illusion	watchin	Joanne	6
+Perfect Illusion	wrong	Joanne	1
+Perfect Illusion	yeah	Joanne	2
+Perfect Illusion	zone	Joanne	1
+Plastic Doll	art	Chromatica	1
+Plastic Doll	blonde	Chromatica	1
+Plastic Doll	bouncin	Chromatica	5
+Plastic Doll	box	Chromatica	1
+Plastic Doll	boy	Chromatica	4
+Plastic Doll	built	Chromatica	1
+Plastic Doll	cherry	Chromatica	1
+Plastic Doll	cryin	Chromatica	1
+Plastic Doll	cut	Chromatica	1
+Plastic Doll	dancing	Chromatica	4
+Plastic Doll	doll	Chromatica	10
+Plastic Doll	dressed	Chromatica	1
+Plastic Doll	gaga	Chromatica	1
+Plastic Doll	girl	Chromatica	1
+Plastic Doll	hair	Chromatica	1
+Plastic Doll	hat	Chromatica	1
+Plastic Doll	hurts	Chromatica	5
+Plastic Doll	la	Chromatica	30
+Plastic Doll	lips	Chromatica	1
+Plastic Doll	lived	Chromatica	1
+Plastic Doll	loose	Chromatica	1
+Plastic Doll	malibu	Chromatica	1
+Plastic Doll	microchipped	Chromatica	1
+Plastic Doll	oll	Chromatica	3
+Plastic Doll	ooh	Chromatica	20
+Plastic Doll	pink	Chromatica	1
+Plastic Doll	pl	Chromatica	9
+Plastic Doll	plastic	Chromatica	21
+Plastic Doll	play	Chromatica	5
+Plastic Doll	price	Chromatica	1
+Plastic Doll	purse	Chromatica	1
+Plastic Doll	real	Chromatica	4
+Plastic Doll	sad	Chromatica	1
+Plastic Doll	saga	Chromatica	1
+Plastic Doll	shelf	Chromatica	1
+Plastic Doll	shoes	Chromatica	1
+Plastic Doll	song	Chromatica	2
+Plastic Doll	spent	Chromatica	2
+Plastic Doll	strong	Chromatica	1
+Plastic Doll	tag	Chromatica	1
+Plastic Doll	technologic	Chromatica	3
+Plastic Doll	top	Chromatica	1
+Plastic Doll	toy	Chromatica	2
+Plastic Doll	type	Chromatica	6
+Plastic Doll	walls	Chromatica	5
+Plastic Doll	where'd	Chromatica	1
+Poker Face	baby	The Fame	2
+Poker Face	bank	The Fame	1
+Poker Face	bluffin	The Fame	1
+Poker Face	cards	The Fame	1
+Poker Face	casino	The Fame	1
+Poker Face	check	The Fame	1
+Poker Face	chick	The Fame	1
+Poker Face	em	The Fame	3
+Poker Face	fold	The Fame	1
+Poker Face	fuck	The Fame	10
+Poker Face	fun	The Fame	3
+Poker Face	gamblin	The Fame	1
+Poker Face	glue	The Fame	1
+Poker Face	gun	The Fame	1
+Poker Face	gunnin	The Fame	1
+Poker Face	hand	The Fame	1
+Poker Face	hard	The Fame	1
+Poker Face	heart	The Fame	1
+Poker Face	hit	The Fame	1
+Poker Face	hold	The Fame	1
+Poker Face	hooked	The Fame	1
+Poker Face	hot	The Fame	4
+Poker Face	hug	The Fame	1
+Poker Face	intuition	The Fame	1
+Poker Face	kiss	The Fame	1
+Poker Face	love	The Fame	5
+Poker Face	lovegame	The Fame	1
+Poker Face	lyin	The Fame	1
+Poker Face	mah	The Fame	15
+Poker Face	marvelous	The Fame	1
+Poker Face	muffin	The Fame	1
+Poker Face	mum	The Fame	45
+Poker Face	pair	The Fame	1
+Poker Face	pay	The Fame	1
+Poker Face	play	The Fame	2
+Poker Face	poker	The Fame	20
+Poker Face	promise	The Fame	2
+Poker Face	raise	The Fame	1
+Poker Face	read	The Fame	30
+Poker Face	roll	The Fame	1
+Poker Face	rough	The Fame	1
+Poker Face	roulette	The Fame	1
+Poker Face	russian	The Fame	1
+Poker Face	spades	The Fame	1
+Poker Face	start	The Fame	1
+Poker Face	stay	The Fame	1
+Poker Face	stunnin	The Fame	1
+Poker Face	texas	The Fame	1
+Poker Face	wanna	The Fame	2
+Poker Face	woah	The Fame	4
+Poker Face	woo	The Fame	3
+Rain On Me	alive	Chromatica	7
+Rain On Me	baby	Chromatica	3
+Rain On Me	bottled	Chromatica	1
+Rain On Me	comin	Chromatica	6
+Rain On Me	dry	Chromatica	6
+Rain On Me	eh	Chromatica	4
+Rain On Me	feel	Chromatica	1
+Rain On Me	fly	Chromatica	2
+Rain On Me	free	Chromatica	1
+Rain On Me	galaxy	Chromatica	2
+Rain On Me	gotta	Chromatica	1
+Rain On Me	hands	Chromatica	2
+Rain On Me	hear	Chromatica	2
+Rain On Me	innocent	Chromatica	1
+Rain On Me	live	Chromatica	1
+Rain On Me	livin	Chromatica	1
+Rain On Me	lose	Chromatica	1
+Rain On Me	mind	Chromatica	1
+Rain On Me	misery	Chromatica	2
+Rain On Me	mm	Chromatica	2
+Rain On Me	nothin	Chromatica	1
+Rain On Me	one's	Chromatica	1
+Rain On Me	ooh	Chromatica	2
+Rain On Me	rain	Chromatica	50
+Rain On Me	rainfall	Chromatica	1
+Rain On Me	ready	Chromatica	1
+Rain On Me	real	Chromatica	1
+Rain On Me	ride	Chromatica	1
+Rain On Me	sins	Chromatica	1
+Rain On Me	skin	Chromatica	1
+Rain On Me	sky	Chromatica	2
+Rain On Me	teardrops	Chromatica	1
+Rain On Me	thunder	Chromatica	2
+Rain On Me	time	Chromatica	1
+Rain On Me	truth	Chromatica	1
+Rain On Me	tsunami	Chromatica	1
+Rain On Me	wash	Chromatica	2
+Rain On Me	water	Chromatica	2
+Rain On Me	woo	Chromatica	1
+Rain On Me	world	Chromatica	1
+Rain On Me	yeah	Chromatica	9
+Replay	acting	Chromatica	1
+Replay	alive	Chromatica	1
+Replay	behave	Chromatica	1
+Replay	blame	Chromatica	1
+Replay	completely	Chromatica	1
+Replay	cry	Chromatica	1
+Replay	damage	Chromatica	1
+Replay	day	Chromatica	1
+Replay	dig	Chromatica	1
+Replay	dirt	Chromatica	1
+Replay	dumb	Chromatica	1
+Replay	eh	Chromatica	16
+Replay	explain	Chromatica	1
+Replay	game	Chromatica	1
+Replay	grave	Chromatica	1
+Replay	gun	Chromatica	4
+Replay	happened	Chromatica	1
+Replay	hate	Chromatica	1
+Replay	inside	Chromatica	4
+Replay	matter	Chromatica	4
+Replay	mind	Chromatica	9
+Replay	monster	Chromatica	3
+Replay	monsters	Chromatica	3
+Replay	nails	Chromatica	1
+Replay	numb	Chromatica	1
+Replay	play	Chromatica	1
+Replay	psychologically	Chromatica	1
+Replay	pull	Chromatica	1
+Replay	pulled	Chromatica	1
+Replay	replay	Chromatica	22
+Replay	scars	Chromatica	9
+Replay	scratch	Chromatica	1
+Replay	single	Chromatica	1
+Replay	sit	Chromatica	1
+Replay	torture	Chromatica	3
+Replay	torturing	Chromatica	3
+Replay	trigger	Chromatica	1
+Replay	wondering	Chromatica	1
+Replay	worst	Chromatica	1
+Replay	yeah	Chromatica	1
+Scheiße	ah	Born This Way	24
+Scheiße	aus	Born This Way	20
+Scheiße	austa	Born This Way	10
+Scheiße	bair	Born This Way	5
+Scheiße	begun	Born This Way	5
+Scheiße	blonde	Born This Way	1
+Scheiße	bullshit	Born This Way	1
+Scheiße	clair	Born This Way	15
+Scheiße	condition	Born This Way	2
+Scheiße	dance	Born This Way	6
+Scheiße	enlisting	Born This Way	1
+Scheiße	es	Born This Way	10
+Scheiße	express	Born This Way	1
+Scheiße	female	Born This Way	2
+Scheiße	feminists	Born This Way	1
+Scheiße	femmes	Born This Way	1
+Scheiße	fight	Born This Way	2
+Scheiße	flaugen	Born This Way	10
+Scheiße	fräulein	Born This Way	5
+Scheiße	german	Born This Way	5
+Scheiße	heeled	Born This Way	1
+Scheiße	ich	Born This Way	10
+Scheiße	kumpent	Born This Way	10
+Scheiße	love	Born This Way	1
+Scheiße	madre	Born This Way	5
+Scheiße	mine	Born This Way	7
+Scheiße	mission	Born This Way	2
+Scheiße	monstère	Born This Way	10
+Scheiße	objectified	Born This Way	1
+Scheiße	ow	Born This Way	3
+Scheiße	permission	Born This Way	3
+Scheiße	prayer	Born This Way	6
+Scheiße	rebuke	Born This Way	2
+Scheiße	scheiße	Born This Way	24
+Scheiße	schleiban	Born This Way	10
+Scheiße	single	Born This Way	6
+Scheiße	speak	Born This Way	5
+Scheiße	strong	Born This Way	8
+Scheiße	tonight	Born This Way	2
+Scheiße	uske	Born This Way	5
+Scheiße	üske	Born This Way	5
+Scheiße	üste	Born This Way	5
+Scheiße	womankind	Born This Way	1
+Scheiße	yeah	Born This Way	16
+Sexxx Dreams	aah	ARTPOP	1
+Sexxx Dreams	act	ARTPOP	2
+Sexxx Dreams	bed	ARTPOP	3
+Sexxx Dreams	boyfriend	ARTPOP	2
+Sexxx Dreams	broken	ARTPOP	1
+Sexxx Dreams	caught	ARTPOP	1
+Sexxx Dreams	color	ARTPOP	1
+Sexxx Dreams	convicted	ARTPOP	1
+Sexxx Dreams	couple	ARTPOP	1
+Sexxx Dreams	criminals	ARTPOP	1
+Sexxx Dreams	damn	ARTPOP	8
+Sexxx Dreams	dirty	ARTPOP	1
+Sexxx Dreams	dreams	ARTPOP	17
+Sexxx Dreams	drinks	ARTPOP	1
+Sexxx Dreams	evidence	ARTPOP	1
+Sexxx Dreams	feel	ARTPOP	1
+Sexxx Dreams	fool	ARTPOP	2
+Sexxx Dreams	glove	ARTPOP	1
+Sexxx Dreams	god	ARTPOP	1
+Sexxx Dreams	heads	ARTPOP	1
+Sexxx Dreams	heard	ARTPOP	4
+Sexxx Dreams	hide	ARTPOP	1
+Sexxx Dreams	hurts	ARTPOP	1
+Sexxx Dreams	lay	ARTPOP	3
+Sexxx Dreams	looked	ARTPOP	1
+Sexxx Dreams	love	ARTPOP	7
+Sexxx Dreams	lovers	ARTPOP	1
+Sexxx Dreams	meet	ARTPOP	2
+Sexxx Dreams	mind	ARTPOP	1
+Sexxx Dreams	nasty	ARTPOP	6
+Sexxx Dreams	naughty	ARTPOP	2
+Sexxx Dreams	night	ARTPOP	6
+Sexxx Dreams	party	ARTPOP	2
+Sexxx Dreams	perfect	ARTPOP	1
+Sexxx Dreams	petrified	ARTPOP	1
+Sexxx Dreams	quarrel	ARTPOP	1
+Sexxx Dreams	run	ARTPOP	3
+Sexxx Dreams	sex	ARTPOP	14
+Sexxx Dreams	stone	ARTPOP	1
+Sexxx Dreams	stop	ARTPOP	2
+Sexxx Dreams	telling	ARTPOP	1
+Sexxx Dreams	thinkin	ARTPOP	1
+Sexxx Dreams	tomorrow	ARTPOP	3
+Sexxx Dreams	touch	ARTPOP	2
+Sexxx Dreams	trashy	ARTPOP	2
+Sexxx Dreams	wanna	ARTPOP	2
+Sexxx Dreams	watch	ARTPOP	2
+Sexxx Dreams	weekend	ARTPOP	2
+Sexxx Dreams	white	ARTPOP	1
+Sexxx Dreams	woman	ARTPOP	1
+Sexxx Dreams	woo	ARTPOP	1
+Sexxx Dreams	yeah	ARTPOP	2
+Sine from Above	cared	Chromatica	1
+Sine from Above	created	Chromatica	3
+Sine from Above	day	Chromatica	1
+Sine from Above	days	Chromatica	1
+Sine from Above	eyes	Chromatica	2
+Sine from Above	filled	Chromatica	2
+Sine from Above	found	Chromatica	1
+Sine from Above	healed	Chromatica	10
+Sine from Above	heard	Chromatica	16
+Sine from Above	heart	Chromatica	10
+Sine from Above	immortal	Chromatica	2
+Sine from Above	lightning	Chromatica	2
+Sine from Above	lights	Chromatica	1
+Sine from Above	lived	Chromatica	1
+Sine from Above	looked	Chromatica	2
+Sine from Above	lost	Chromatica	2
+Sine from Above	love	Chromatica	4
+Sine from Above	mother	Chromatica	1
+Sine from Above	nights	Chromatica	1
+Sine from Above	prayed	Chromatica	2
+Sine from Above	prayer	Chromatica	1
+Sine from Above	signal	Chromatica	3
+Sine from Above	silence	Chromatica	3
+Sine from Above	sine	Chromatica	16
+Sine from Above	sky	Chromatica	2
+Sine from Above	sound	Chromatica	3
+Sine from Above	split	Chromatica	3
+Sine from Above	stared	Chromatica	2
+Sine from Above	stars	Chromatica	3
+Sine from Above	struggle	Chromatica	1
+Sine from Above	tears	Chromatica	2
+Sine from Above	yeah	Chromatica	4
+Sinner’s Prayer	affair	Joanne	1
+Sinner’s Prayer	baby	Joanne	1
+Sinner’s Prayer	beg	Joanne	2
+Sinner’s Prayer	blame	Joanne	1
+Sinner’s Prayer	break	Joanne	3
+Sinner’s Prayer	breaks	Joanne	1
+Sinner’s Prayer	brink	Joanne	1
+Sinner’s Prayer	carry	Joanne	1
+Sinner’s Prayer	cheap	Joanne	1
+Sinner’s Prayer	coming	Joanne	1
+Sinner’s Prayer	daddy's	Joanne	1
+Sinner’s Prayer	deep	Joanne	1
+Sinner’s Prayer	devil	Joanne	1
+Sinner’s Prayer	draggin	Joanne	1
+Sinner’s Prayer	drinks	Joanne	1
+Sinner’s Prayer	faith	Joanne	1
+Sinner’s Prayer	fast	Joanne	1
+Sinner’s Prayer	feast	Joanne	1
+Sinner’s Prayer	forever	Joanne	1
+Sinner’s Prayer	fulton	Joanne	1
+Sinner’s Prayer	funny	Joanne	1
+Sinner’s Prayer	gettin	Joanne	1
+Sinner’s Prayer	ghosts	Joanne	1
+Sinner’s Prayer	gift	Joanne	1
+Sinner’s Prayer	gold	Joanne	6
+Sinner’s Prayer	hear	Joanne	6
+Sinner’s Prayer	heart	Joanne	3
+Sinner’s Prayer	hell	Joanne	4
+Sinner’s Prayer	knees	Joanne	2
+Sinner’s Prayer	knockoff	Joanne	1
+Sinner’s Prayer	love	Joanne	2
+Sinner’s Prayer	mad	Joanne	1
+Sinner’s Prayer	man's	Joanne	1
+Sinner’s Prayer	mountain	Joanne	1
+Sinner’s Prayer	nothin	Joanne	1
+Sinner’s Prayer	piece	Joanne	1
+Sinner’s Prayer	prayer	Joanne	6
+Sinner’s Prayer	pretty	Joanne	1
+Sinner’s Prayer	red	Joanne	1
+Sinner’s Prayer	rhyme	Joanne	3
+Sinner’s Prayer	sayin	Joanne	1
+Sinner’s Prayer	scene	Joanne	1
+Sinner’s Prayer	sinner's	Joanne	6
+Sinner’s Prayer	sister	Joanne	1
+Sinner’s Prayer	somethin	Joanne	1
+Sinner’s Prayer	street	Joanne	1
+Sinner’s Prayer	thirsty	Joanne	1
+Sinner’s Prayer	throws	Joanne	1
+Sinner’s Prayer	tramp	Joanne	1
+Sinner’s Prayer	wanna	Joanne	3
+Sinner’s Prayer	wearing	Joanne	1
+Sour Candy	angry	Chromatica	2
+Sour Candy	bite	Chromatica	8
+Sour Candy	break	Chromatica	1
+Sour Candy	candy	Chromatica	16
+Sour Candy	close	Chromatica	1
+Sour Candy	crazy	Chromatica	2
+Sour Candy	extra	Chromatica	1
+Sour Candy	eyes	Chromatica	1
+Sour Candy	fake	Chromatica	1
+Sour Candy	fix	Chromatica	1
+Sour Candy	hard	Chromatica	4
+Sour Candy	huh	Chromatica	2
+Sour Candy	inside	Chromatica	6
+Sour Candy	lights	Chromatica	2
+Sour Candy	love	Chromatica	2
+Sour Candy	low	Chromatica	2
+Sour Candy	messed	Chromatica	1
+Sour Candy	nice	Chromatica	1
+Sour Candy	peek	Chromatica	1
+Sour Candy	psycho	Chromatica	2
+Sour Candy	real	Chromatica	1
+Sour Candy	sou	Chromatica	2
+Sour Candy	sour	Chromatica	16
+Sour Candy	super	Chromatica	2
+Sour Candy	sweet	Chromatica	2
+Sour Candy	taste	Chromatica	1
+Sour Candy	til	Chromatica	1
+Sour Candy	time	Chromatica	4
+Sour Candy	uh	Chromatica	4
+Sour Candy	undressing	Chromatica	1
+Sour Candy	unwrap	Chromatica	5
+Sour Candy	wanna	Chromatica	1
+Sour Candy	yeah	Chromatica	20
+Sour Candy	거리낌	Chromatica	1
+Sour Candy	거릴	Chromatica	1
+Sour Candy	건	Chromatica	1
+Sour Candy	까보면	Chromatica	1
+Sour Candy	날	Chromatica	1
+Sour Candy	너야	Chromatica	2
+Sour Candy	넌	Chromatica	2
+Sour Candy	눈빛에	Chromatica	1
+Sour Candy	당황하겠지	Chromatica	1
+Sour Candy	두니까	Chromatica	1
+Sour Candy	뜻밖의	Chromatica	1
+Sour Candy	말들로	Chromatica	1
+Sour Candy	비싼	Chromatica	1
+Sour Candy	소리질러와	Chromatica	1
+Sour Candy	어김없이	Chromatica	1
+Sour Candy	없는	Chromatica	1
+Sour Candy	척이란	Chromatica	1
+Sour Candy	툭	Chromatica	1
+Sour Candy	포장한	Chromatica	1
+Sour Candy	표정	Chromatica	1
+Sour Candy	하나에	Chromatica	1
+Starstruck	12	The Fame	1
+Starstruck	actor	The Fame	1
+Starstruck	adjust	The Fame	1
+Starstruck	baby	The Fame	26
+Starstruck	bachelor	The Fame	1
+Starstruck	balla	The Fame	1
+Starstruck	beat	The Fame	1
+Starstruck	blow	The Fame	20
+Starstruck	boom	The Fame	2
+Starstruck	breakdown	The Fame	2
+Starstruck	bump	The Fame	6
+Starstruck	call	The Fame	1
+Starstruck	cash	The Fame	1
+Starstruck	chapter	The Fame	1
+Starstruck	cherry	The Fame	4
+Starstruck	chevy	The Fame	1
+Starstruck	chorus	The Fame	2
+Starstruck	club	The Fame	1
+Starstruck	complete	The Fame	1
+Starstruck	cowboy	The Fame	1
+Starstruck	cue	The Fame	1
+Starstruck	dagger	The Fame	1
+Starstruck	dollars	The Fame	1
+Starstruck	dotted	The Fame	1
+Starstruck	dre	The Fame	2
+Starstruck	enter	The Fame	1
+Starstruck	fader	The Fame	3
+Starstruck	fanatic	The Fame	1
+Starstruck	fantasize	The Fame	1
+Starstruck	filter	The Fame	6
+Starstruck	flavor	The Fame	3
+Starstruck	flow	The Fame	1
+Starstruck	freakin	The Fame	1
+Starstruck	gaga	The Fame	1
+Starstruck	gal	The Fame	1
+Starstruck	goin	The Fame	1
+Starstruck	gotta	The Fame	2
+Starstruck	groove	The Fame	7
+Starstruck	hand	The Fame	1
+Starstruck	hands	The Fame	3
+Starstruck	happily	The Fame	1
+Starstruck	headphones	The Fame	2
+Starstruck	heart	The Fame	21
+Starstruck	hey	The Fame	1
+Starstruck	huh	The Fame	2
+Starstruck	hummers	The Fame	1
+Starstruck	impala	The Fame	1
+Starstruck	ke	The Fame	2
+Starstruck	left	The Fame	2
+Starstruck	line	The Fame	1
+Starstruck	loaded	The Fame	1
+Starstruck	mama	The Fame	1
+Starstruck	original	The Fame	3
+Starstruck	overdose	The Fame	1
+Starstruck	paper	The Fame	1
+Starstruck	play	The Fame	1
+Starstruck	playlist	The Fame	2
+Starstruck	pull	The Fame	3
+Starstruck	request	The Fame	2
+Starstruck	reverse	The Fame	1
+Starstruck	rims	The Fame	1
+Starstruck	rollin	The Fame	1
+Starstruck	run	The Fame	3
+Starstruck	scratch	The Fame	2
+Starstruck	shawty	The Fame	2
+Starstruck	shoulda	The Fame	1
+Starstruck	sign	The Fame	1
+Starstruck	signature	The Fame	1
+Starstruck	slam	The Fame	7
+Starstruck	son	The Fame	1
+Starstruck	space	The Fame	1
+Starstruck	spoilers	The Fame	1
+Starstruck	spotted	The Fame	1
+Starstruck	stack	The Fame	1
+Starstruck	starbucks	The Fame	1
+Starstruck	starstruck	The Fame	19
+Starstruck	stuck	The Fame	1
+Starstruck	stunners	The Fame	1
+Starstruck	styling	The Fame	1
+Starstruck	supposed	The Fame	1
+Starstruck	swagger	The Fame	1
+Starstruck	table	The Fame	1
+Starstruck	taller	The Fame	1
+Starstruck	top	The Fame	1
+Starstruck	track	The Fame	8
+Starstruck	trip	The Fame	1
+Starstruck	tweakin	The Fame	1
+Starstruck	uh	The Fame	2
+Starstruck	verse	The Fame	2
+Starstruck	waist	The Fame	3
+Starstruck	wanna	The Fame	2
+Starstruck	weekend	The Fame	1
+Stupid Love	battle	Chromatica	1
+Stupid Love	break	Chromatica	1
+Stupid Love	cryin	Chromatica	1
+Stupid Love	door	Chromatica	1
+Stupid Love	faith	Chromatica	1
+Stupid Love	freak	Chromatica	16
+Stupid Love	free	Chromatica	1
+Stupid Love	gonna	Chromatica	1
+Stupid Love	gotta	Chromatica	3
+Stupid Love	hard	Chromatica	1
+Stupid Love	heal	Chromatica	1
+Stupid Love	hey	Chromatica	32
+Stupid Love	kinda	Chromatica	1
+Stupid Love	late	Chromatica	1
+Stupid Love	love	Chromatica	25
+Stupid Love	nobody's	Chromatica	1
+Stupid Love	ooh	Chromatica	16
+Stupid Love	pain	Chromatica	1
+Stupid Love	peace	Chromatica	1
+Stupid Love	protect	Chromatica	1
+Stupid Love	quit	Chromatica	1
+Stupid Love	reason	Chromatica	2
+Stupid Love	shame	Chromatica	1
+Stupid Love	stupid	Chromatica	10
+Stupid Love	time	Chromatica	1
+Stupid Love	waiting	Chromatica	1
+Stupid Love	woo	Chromatica	1
+Stupid Love	yeah	Chromatica	32
+Summerboy	alright	The Fame	1
+Summerboy	ass	The Fame	1
+Summerboy	baby	The Fame	1
+Summerboy	bed	The Fame	1
+Summerboy	bikini	The Fame	3
+Summerboy	boy	The Fame	1
+Summerboy	boyfriend	The Fame	1
+Summerboy	busy	The Fame	1
+Summerboy	change	The Fame	1
+Summerboy	checking	The Fame	1
+Summerboy	close	The Fame	1
+Summerboy	comin	The Fame	1
+Summerboy	coming	The Fame	1
+Summerboy	cover	The Fame	1
+Summerboy	crazy	The Fame	2
+Summerboy	don’t	The Fame	5
+Summerboy	drive	The Fame	1
+Summerboy	eyes	The Fame	2
+Summerboy	fast	The Fame	1
+Summerboy	fight	The Fame	1
+Summerboy	fu	The Fame	2
+Summerboy	girl	The Fame	1
+Summerboy	glistens	The Fame	1
+Summerboy	goin	The Fame	1
+Summerboy	gonna	The Fame	1
+Summerboy	green	The Fame	1
+Summerboy	guys	The Fame	1
+Summerboy	happy	The Fame	1
+Summerboy	heels	The Fame	1
+Summerboy	hey	The Fame	3
+Summerboy	home	The Fame	4
+Summerboy	huh	The Fame	1
+Summerboy	hurry	The Fame	1
+Summerboy	i’ll	The Fame	1
+Summerboy	i’m	The Fame	7
+Summerboy	i’ve	The Fame	2
+Summerboy	let’s	The Fame	6
+Summerboy	lost	The Fame	4
+Summerboy	martini	The Fame	1
+Summerboy	mind	The Fame	1
+Summerboy	mine	The Fame	1
+Summerboy	nice	The Fame	4
+Summerboy	ooh	The Fame	4
+Summerboy	poppin	The Fame	1
+Summerboy	pretending	The Fame	1
+Summerboy	ride	The Fame	1
+Summerboy	run	The Fame	1
+Summerboy	sad	The Fame	4
+Summerboy	start	The Fame	1
+Summerboy	summer	The Fame	11
+Summerboy	summerboy	The Fame	8
+Summerboy	sun	The Fame	4
+Summerboy	sunglasses	The Fame	1
+Summerboy	taking	The Fame	1
+Summerboy	time	The Fame	2
+Summerboy	top’s	The Fame	3
+Summerboy	uh	The Fame	1
+Summerboy	wake	The Fame	4
+Summerboy	we’ll	The Fame	4
+Summerboy	we’re	The Fame	1
+Summerboy	yeah	The Fame	2
+Summerboy	you’ll	The Fame	6
+Swine	act	ARTPOP	7
+Swine	animal	ARTPOP	1
+Swine	ass	ARTPOP	1
+Swine	beat	ARTPOP	7
+Swine	body	ARTPOP	5
+Swine	catch	ARTPOP	7
+Swine	deep	ARTPOP	1
+Swine	disgusting	ARTPOP	4
+Swine	ecstasy	ARTPOP	1
+Swine	hear	ARTPOP	1
+Swine	hog	ARTPOP	1
+Swine	human	ARTPOP	4
+Swine	hush	ARTPOP	1
+Swine	inside	ARTPOP	8
+Swine	jiggle	ARTPOP	1
+Swine	loves	ARTPOP	1
+Swine	mind	ARTPOP	2
+Swine	paint	ARTPOP	5
+Swine	pig	ARTPOP	8
+Swine	real	ARTPOP	1
+Swine	shrew	ARTPOP	1
+Swine	skin	ARTPOP	1
+Swine	slap	ARTPOP	1
+Swine	speak	ARTPOP	1
+Swine	special	ARTPOP	1
+Swine	squeal	ARTPOP	4
+Swine	squealer	ARTPOP	9
+Swine	stay	ARTPOP	2
+Swine	sweat	ARTPOP	1
+Swine	swine	ARTPOP	19
+Swine	thinking	ARTPOP	2
+Swine	thrill	ARTPOP	1
+Swine	tryna	ARTPOP	1
+Swine	wanna	ARTPOP	1
+Swine	watch	ARTPOP	1
+Swine	weekend	ARTPOP	1
+Swine	wiggle	ARTPOP	1
+Swine	word	ARTPOP	1
+Swine	ya	ARTPOP	2
+The Edge of Glory	alright	Born This Way	4
+The Edge of Glory	baby	Born This Way	8
+The Edge of Glory	belong	Born This Way	1
+The Edge of Glory	brush	Born This Way	2
+The Edge of Glory	call	Born This Way	1
+The Edge of Glory	dancing	Born This Way	1
+The Edge of Glory	dangerous	Born This Way	2
+The Edge of Glory	edge	Born This Way	41
+The Edge of Glory	fall	Born This Way	2
+The Edge of Glory	feel	Born This Way	2
+The Edge of Glory	final	Born This Way	1
+The Edge of Glory	flames	Born This Way	1
+The Edge of Glory	glory	Born This Way	9
+The Edge of Glory	gonna	Born This Way	2
+The Edge of Glory	hangin	Born This Way	9
+The Edge of Glory	hell	Born This Way	1
+The Edge of Glory	home	Born This Way	1
+The Edge of Glory	hoo	Born This Way	1
+The Edge of Glory	hot	Born This Way	2
+The Edge of Glory	kiss	Born This Way	1
+The Edge of Glory	life	Born This Way	1
+The Edge of Glory	limit's	Born This Way	1
+The Edge of Glory	love	Born This Way	2
+The Edge of Glory	moment	Born This Way	9
+The Edge of Glory	reason	Born This Way	2
+The Edge of Glory	run	Born This Way	2
+The Edge of Glory	rush	Born This Way	2
+The Edge of Glory	shades	Born This Way	1
+The Edge of Glory	shot	Born This Way	1
+The Edge of Glory	tonight	Born This Way	12
+The Edge of Glory	truth	Born This Way	3
+The Edge of Glory	wrong	Born This Way	1
+The Edge of Glory	yeah	Born This Way	8
+The Fame	addicted	The Fame	1
+The Fame	baby	The Fame	8
+The Fame	blondes	The Fame	1
+The Fame	body	The Fame	1
+The Fame	bottles	The Fame	1
+The Fame	cadillacs	The Fame	1
+The Fame	care	The Fame	2
+The Fame	champagne	The Fame	4
+The Fame	city	The Fame	1
+The Fame	decide	The Fame	1
+The Fame	doin	The Fame	9
+The Fame	dream	The Fame	1
+The Fame	endless	The Fame	4
+The Fame	fame	The Fame	59
+The Fame	famous	The Fame	5
+The Fame	film	The Fame	1
+The Fame	fortune	The Fame	4
+The Fame	girls	The Fame	1
+The Fame	glamour	The Fame	1
+The Fame	gonna	The Fame	2
+The Fame	happen	The Fame	2
+The Fame	hollywood	The Fame	1
+The Fame	hot	The Fame	1
+The Fame	joke	The Fame	1
+The Fame	life	The Fame	6
+The Fame	lights	The Fame	1
+The Fame	liquor	The Fame	1
+The Fame	live	The Fame	8
+The Fame	material	The Fame	1
+The Fame	mind	The Fame	1
+The Fame	models	The Fame	1
+The Fame	movies	The Fame	1
+The Fame	obsessively	The Fame	1
+The Fame	odd	The Fame	1
+The Fame	opposed	The Fame	1
+The Fame	photograph	The Fame	1
+The Fame	picture	The Fame	1
+The Fame	plastic	The Fame	1
+The Fame	pornographic	The Fame	1
+The Fame	positions	The Fame	1
+The Fame	retro	The Fame	1
+The Fame	rich	The Fame	5
+The Fame	runway	The Fame	1
+The Fame	shame	The Fame	8
+The Fame	shoot	The Fame	1
+The Fame	taste	The Fame	4
+The Fame	teenage	The Fame	1
+The Fame	television	The Fame	1
+The Fame	time	The Fame	2
+The Fame	tonight	The Fame	1
+The Fame	typical	The Fame	1
+The Fame	wanna	The Fame	7
+The Fame	yeah	The Fame	1
+Venus	act	ARTPOP	1
+Venus	ah	ARTPOP	1
+Venus	aphrod	ARTPOP	1
+Venus	aphrodite	ARTPOP	2
+Venus	ass	ARTPOP	1
+Venus	baby	ARTPOP	1
+Venus	bedroom	ARTPOP	1
+Venus	bikini	ARTPOP	2
+Venus	blast	ARTPOP	1
+Venus	dancing	ARTPOP	2
+Venus	die	ARTPOP	3
+Venus	dimension	ARTPOP	1
+Venus	earth	ARTPOP	1
+Venus	famous	ARTPOP	1
+Venus	feeling	ARTPOP	2
+Venus	galaxy	ARTPOP	3
+Venus	garden	ARTPOP	1
+Venus	girl	ARTPOP	1
+Venus	goddess	ARTPOP	8
+Venus	gods	ARTPOP	1
+Venus	inside	ARTPOP	3
+Venus	ishy	ARTPOP	1
+Venus	jupiter	ARTPOP	1
+Venus	lady	ARTPOP	2
+Venus	land	ARTPOP	1
+Venus	leader	ARTPOP	8
+Venus	love	ARTPOP	25
+Venus	mars	ARTPOP	1
+Venus	mercury	ARTPOP	1
+Venus	neptune	ARTPOP	1
+Venus	oyster	ARTPOP	1
+Venus	panty	ARTPOP	1
+Venus	planet	ARTPOP	29
+Venus	pluto	ARTPOP	1
+Venus	rocket	ARTPOP	1
+Venus	saturn	ARTPOP	1
+Venus	seashell	ARTPOP	2
+Venus	serve	ARTPOP	3
+Venus	sleazy	ARTPOP	1
+Venus	space	ARTPOP	3
+Venus	stars	ARTPOP	1
+Venus	time	ARTPOP	3
+Venus	touch	ARTPOP	3
+Venus	uranus	ARTPOP	1
+Venus	venus	ARTPOP	15
+Venus	world	ARTPOP	3
+Venus	worship	ARTPOP	1
+Yoü and I	baby	Born This Way	4
+Yoü and I	bar	Born This Way	2
+Yoü and I	belong	Born This Way	2
+Yoü and I	birthday	Born This Way	1
+Yoü and I	born	Born This Way	1
+Yoü and I	bout	Born This Way	2
+Yoü and I	buy	Born This Way	1
+Yoü and I	cars	Born This Way	1
+Yoü and I	chase	Born This Way	1
+Yoü and I	christ	Born This Way	1
+Yoü and I	clothes	Born This Way	1
+Yoü and I	cool	Born This Way	2
+Yoü and I	corner	Born This Way	2
+Yoü and I	couch	Born This Way	2
+Yoü and I	daddy	Born This Way	1
+Yoü and I	die	Born This Way	3
+Yoü and I	doll	Born This Way	1
+Yoü and I	drinks	Born This Way	2
+Yoü and I	drove	Born This Way	1
+Yoü and I	gold	Born This Way	1
+Yoü and I	guitar	Born This Way	1
+Yoü and I	guy	Born This Way	2
+Yoü and I	heart	Born This Way	2
+Yoü and I	heaven	Born This Way	1
+Yoü and I	heels	Born This Way	2
+Yoü and I	house	Born This Way	1
+Yoü and I	humming	Born This Way	1
+Yoü and I	i'ma	Born This Way	1
+Yoü and I	jesus	Born This Way	1
+Yoü and I	joke	Born This Way	1
+Yoü and I	kiss	Born This Way	1
+Yoü and I	knowing	Born This Way	1
+Yoü and I	leaving	Born This Way	4
+Yoü and I	life	Born This Way	1
+Yoü and I	lipstick	Born This Way	3
+Yoü and I	listen	Born This Way	1
+Yoü and I	lonely	Born This Way	2
+Yoü and I	lot	Born This Way	1
+Yoü and I	love	Born This Way	3
+Yoü and I	money	Born This Way	1
+Yoü and I	muscle	Born This Way	1
+Yoü and I	nebraska	Born This Way	7
+Yoü and I	nights	Born This Way	2
+Yoü and I	pay	Born This Way	1
+Yoü and I	rent	Born This Way	1
+Yoü and I	rock	Born This Way	1
+Yoü and I	roll	Born This Way	1
+Yoü and I	run	Born This Way	1
+Yoü and I	sang	Born This Way	1
+Yoü and I	serve	Born This Way	1
+Yoü and I	sit	Born This Way	4
+Yoü and I	taste	Born This Way	1
+Yoü and I	time	Born This Way	10
+Yoü and I	town	Born This Way	2
+Yoü and I	truck	Born This Way	1
+Yoü and I	whiskey	Born This Way	1
+Yoü and I	woman	Born This Way	1
+Yoü and I	ya	Born This Way	1
+Yoü and I	yeah	Born This Way	3
+Yoü and I	york	Born This Way	1
