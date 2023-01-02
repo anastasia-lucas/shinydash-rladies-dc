@@ -119,8 +119,8 @@ the plot output in the UI section and we will refer to the plot using the same
 Some other common output functions are `tableOutput`, `dataTableOutput`, 
 `plotlyOutput`, & `textOutput`, which we will take a look at later.\
 
-~Hint: the code to create a regular `ggplot` with the top 10 most frequent words 
-summed across all albums is shown below.~
+*Hint: the code to create a regular `ggplot` with the top 10 most frequent words 
+summed across all albums is shown below.* 
 
 ```{r hint 1}
 data %>% 
@@ -201,7 +201,7 @@ default `value` to display is `value = 10`\
 Since it only makes sense to select whole numbers here, we should also set `step = 1`\
 Once we have our input set up, we need to refer to it in our `server()` function when we render the plot.\
 
-~Hint: We can extract the user value using our inputId, `input$select_topn`~
+*Hint: We can extract the user value using our inputId, `input$select_topn`*
 
 ```{r exercise 3}
 
@@ -261,8 +261,8 @@ have multiple graphs/tables that show the same information, but we can use it
 here as a proof of concept. Try to fill the blanks below to add the widths and 
 the dataframe that should be displayed as a table.\
 
-~Hint: We will need to divide the width of our boxes by 2 if we want to give 
-both apps equal billing.~
+*Hint: We will need to divide the width of our boxes by 2 if we want to give 
+both apps equal billing.*
 
 ```{r exercise 4}
 
@@ -411,7 +411,8 @@ of the dashboard body.
 
 ### Try to change the type of the control widget input from `numericInput` to `textInput`. 
 We can use `?textInput` to see the parameters we need to set.\
-~Hint: We won't need `min`, `max`, or `step` values here.~
+
+*Hint: We won't need `min`, `max`, or `step` values here.*
 
 ```{r exercise 6}
 
