@@ -1,13 +1,13 @@
 ---
 title: "R-Ladies Philly Shiny Dashboard Exercises (Advanced Topics)"
 author: "Anastasia Lucas"
-date: "1/2/2021"
+date: "01/08/2023"
 runtime: shiny
 output: html_document
 ---
 ### Set up
 
-We will need two additional packages, ```dashboardthemes``` and ```plotly```, to complete the exercises in this document.
+We will need two additional packages, `dashboardthemes` and `plotly`, to complete the exercises in this document.
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
@@ -22,15 +22,15 @@ library(plotly)
 ### Read in our data
 
 ```{r data}
-# Choose from c("arianagrande", "beyonce", "drake", "queen", "taylorswift", "thebeatles")
-artist_name <- "thebeatles"
-df <- read.delim(paste0("data/", artist_name, "_lyrics.txt"))
+# Choose from c("lady.gaga", "megan.thee.stallion", "oldies", "santigold", "stevie.nicks", "taylor.swift")
+artist.name <- "santigold"
+data <- read.delim(file.path("..", "data", paste0(artist.name, "-lyrics.txt")))
 ```
 
 ### Adding error messages using validate
 We set our numeric input so the user could select between 3 and 20 words. But if the user types in the input box, it will override our defaults. Let's say we want to restrict our app so the user will get an error message if they try to display fewer than 2 or more than 50 words.\
-We can do this using ```validate```, which tests a condition and returns an error if the test fails, and ```need```, which consists of an expression that evaluates to TRUE or FALSE and an error message.\
-Hint: the code to create a validation function is below. We would then need to place our validation function ```v()``` within each ```render*()``` function that we want it to affect.
+We can do this using `validate`, which tests a condition and returns an error if the test fails, and `need`, which consists of an expression that evaluates to TRUE or FALSE and an error message.\
+Hint: the code to create a validation function is below. We would then need to place our validation function `v()` within each `render*()` function that we want it to affect.
 
 ```{hint 2}
 
@@ -87,7 +87,7 @@ server <- function(input, output) {
     # Validate for bar chart
     v()
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -111,7 +111,7 @@ server <- function(input, output) {
     # validate(
     #  need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     # )
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -167,7 +167,7 @@ server <- function(input, output) {
       need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50 to display both the chart and table.")
     )
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -190,7 +190,7 @@ server <- function(input, output) {
       need(input$select_topn >= 1 & input$select_topn <= 250, "Please select a number between 1 and 250 table entries")
     )
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -205,7 +205,7 @@ shinyApp(ui, server)
 
 
 ### Okay now let's get to some fun stuff
-Try to change the theme of your dashboard using themes from the ```dashboardthemes``` package. We'll want to add a call to ```dashboardthemes::shinyDashboardThemes()``` in our ```dashboardBody```. Run ```?dashboardthemes::shinyDashboardThemes``` to see a list and description of the available themes.\
+Try to change the theme of your dashboard using themes from the `dashboardthemes` package. We'll want to add a call to `dashboardthemes::shinyDashboardThemes()` in our `dashboardBody`. Run `?dashboardthemes::shinyDashboardThemes` to see a list and description of the available themes.\
 These can be helpful if you don't want to change the CSS manually. (As a non-CSS/HTML expert, I usually don't!)
 
 ```{r exercise 8}
@@ -258,7 +258,7 @@ server <- function(input, output) {
     # Validate for bar chart
     v()
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -279,7 +279,7 @@ server <- function(input, output) {
     # Validate for table
     v()
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -295,13 +295,13 @@ shinyApp(ui, server)
 This package is still in active development and as a result does have some limitations as far as customization goes. Luckily they do provide some nice DIY functions to create your own themes and logos. 
 
 ### Let's try making our plot interactive using Plotly
-We could use base Plotly or use some of the click/hover arguments in native Shiny's ```plotOutput()``` to create our interactive charts. But, to make it even easier on ourselves, we can also wrap our ggplot in ```plotly::ggplotly()``` to easily convert our ggplot object into a plotly object. The code below shows an example of ggplot object -> plotly object conversion.\
+We could use base Plotly or use some of the click/hover arguments in native Shiny's `plotOutput()` to create our interactive charts. But, to make it even easier on ourselves, we can also wrap our ggplot in `plotly::ggplotly()` to easily convert our ggplot object into a plotly object. The code below shows an example of ggplot object -> plotly object conversion.\
 Try to incorporate this code into your dashbaord. 
 
 ```{r hint 3}
     
    plotly::ggplotly( 
-     df %>% 
+     data %>% 
        group_by(word) %>% 
        summarise(occurrences=sum(n)) %>% 
        arrange(desc(occurrences)) %>% 
@@ -320,7 +320,7 @@ Try to incorporate this code into your dashbaord.
 
 ```
 
-Hint: We will also will need to tell shinydashboard that our resulting plot should be a Plotly object instead of a static chart. This means we will need to change ```plotOutput``` to ```plotly::plotlyOutput``` and ```renderPlot``` to ```plotly::renderPlotly```.
+Hint: We will also will need to tell shinydashboard that our resulting plot should be a Plotly object instead of a static chart. This means we will need to change `plotOutput` to `plotly::plotlyOutput` and `renderPlot` to `plotly::renderPlotly`.
 
 ```{r exercise 9}
 
@@ -372,7 +372,7 @@ server <- function(input, output) {
     # Validate for bar chart
     v()
    plotly::ggplotly( 
-     df %>% 
+     data %>% 
        group_by(word) %>% 
        summarise(occurrences=sum(n)) %>% 
        arrange(desc(occurrences)) %>% 
@@ -394,7 +394,7 @@ server <- function(input, output) {
     # Validate for table
     v()
     
-    df %>% 
+    data %>% 
       group_by(word) %>% 
       summarise(occurrences=sum(n)) %>% 
       arrange(desc(occurrences)) %>% 
@@ -412,20 +412,20 @@ We are working with a pretty small dataset with only a few thousand lines, but c
 Remember we can only summarise up until the point we need our reactive input value!
 
 ```{r summarize}
-df_sum <- df %>% 
+data_sum <- data %>% 
            group_by(word) %>% 
            summarise(occurrences=sum(n)) %>% 
            arrange(desc(occurrences))
-# Now we have saved df_sum in our environment and it is ready to use
+# Now we have saved data_sum in our environment and it is ready to use
 ```
 
-And now we can replace ```df``` in our dashboard with ```df_sum```. If we were making a standalone app, we could save ```df_sum``` to a file and read that file in instead.\
-We still need to grab the ```top_n``` values dependent on the user selection. To make our code even cleaner, since our table and bar chart both depend on the same user input value, we really only need to filter once. We can do this outside of the ```render*()``` functions, but we will still need to create a reactive function for our dataframe.\
+And now we can replace `data` in our dashboard with `data_sum`. If we were making a standalone app, we could save `data_sum` to a file and read that file in instead.\
+We still need to grab the `top_n` values dependent on the user selection. To make our code even cleaner, since our table and bar chart both depend on the same user input value, we really only need to filter once. We can do this outside of the `render*()` functions, but we will still need to create a reactive function for our dataframe.\
 Hint: Here is some example code for reactively filtering data.
 
 ```{r hint 4}
-  df_filtered <- reactive({
-    df_sum %>%
+  data_filtered <- reactive({
+    data_sum %>%
       top_n(input$select_topn)
   }) 
 ```
@@ -476,8 +476,8 @@ server <- function(input, output) {
     )
 })
   
-  df_filtered <- reactive({
-    df_sum %>%
+  data_filtered <- reactive({
+    data_sum %>%
       top_n(input$select_topn)
   }) 
   
@@ -485,7 +485,7 @@ server <- function(input, output) {
     # Validate for bar chart
     v()
     plotly::ggplotly( 
-      df_filtered() %>% 
+      data_filtered() %>% 
         ggplot(aes(x=word, 
                    y=occurrences)) +
         geom_col() +
@@ -501,7 +501,7 @@ server <- function(input, output) {
   output$table1 <- renderDataTable({
     # Validate for table
     v()
-    df_filtered()
+    data_filtered()
   })
 }
 
@@ -509,7 +509,7 @@ shinyApp(ui, server)
 
 ```
 
-We could compare the performance of this code to our previous version by using the ```profvis``` package or RStudio's Profile menu (which I think also uses profvis...).\
+We could compare the performance of this code to our previous version by using the `profvis` package or RStudio's Profile menu (which I think also uses profvis...).\
 The difference may be negligable here, but it could have a big impact if we are trying to filter millions of rows.
 
 ### Other things to try
