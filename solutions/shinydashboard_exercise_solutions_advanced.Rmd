@@ -24,7 +24,7 @@ library(plotly)
 ```{r data}
 # Choose from c("lady.gaga", "megan.thee.stallion", "oldies", "santigold", "stevie.nicks", "taylor.swift")
 artist.name <- "santigold"
-data <- read.delim(file.path("..", "data", paste0(artist.name, "-lyrics.txt")))
+data <- read.delim(file.path("data", paste0(artist.name, "-lyrics.txt")))
 ```
 
 ### Adding error messages using validate
