@@ -11,6 +11,7 @@ We will need two additional packages, `dashboardthemes` and `plotly`, to complet
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
+source("utils.R")
 library(dplyr)
 library(ggplot2)
 library(shiny)
@@ -24,7 +25,7 @@ library(plotly)
 ```{r data}
 # Choose from c("lady.gaga", "megan.thee.stallion", "oldies", "santigold", "stevie.nicks", "taylor.swift")
 artist.name <- "santigold"
-data <- read.delim(file.path("..", "data", paste0(artist.name, "-lyrics.txt")))
+data <- read.delim(file.path("data", paste0(artist.name, "-lyrics.txt")))
 ```
 
 ### Adding error messages using validate
@@ -293,7 +294,7 @@ This package is still in active development and as a result does have some limit
 
 ### Let's try making our plot interactive using Plotly
 We could use base Plotly or use some of the click/hover arguments in native Shiny's `plotOutput()` to create our interactive charts. But, to make it even easier on ourselves, we can also wrap our ggplot in `plotly::ggplotly()` to easily convert our ggplot object into a plotly object. The code below shows an example of ggplot object -> plotly object conversion.\
-Try to incorporate this code into your dashbaord. 
+Try to incorporate this code into your dashboard. 
 
 ```{r hint 3}
     
@@ -317,7 +318,7 @@ Try to incorporate this code into your dashbaord.
 
 ```
 
-Hint: We will also will need to tell shinydashboard that our resulting plot should be a Plotly object instead of a static chart. This means we will need to change ```plotOutput``` to `plotly::plotlyOutput` and `renderPlot` to `plotly::renderPlotly`.
+Hint: We will also will need to tell shinydashboard that our resulting plot should be a Plotly object instead of a static chart. This means we will need to change `plotOutput` to `plotly::plotlyOutput` and `renderPlot` to `plotly::renderPlotly`.
 
 ```{r exercise 9, eval=FALSE}
 
@@ -404,6 +405,88 @@ shinyApp(ui, server)
 
 ```
 
+
+### Let's make it so that we can switch between chart and table displays
+
+Like we said before, it doesn't make much sense to display both the chart and
+the table, but it might be nice for the user to be able to switch between the
+views. For this we can replace our boxes with a `tabBox` and our original
+two boxes will be added using `tabPanel`
+
+```{r exercise 10, eval=FALSE}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(  
+    # Change theme here
+   dashboardthemes::shinyDashboardThemes(
+     theme = "onenote"
+   ), 
+    
+    fluidPage(
+      fluidRow(
+               tabBox(title = "Word Occurrences",
+                 tabPanel(___________, 
+                         title="Bar Chart"),
+                 tabPanel(___________, 
+                          title="Table"))
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  v <- reactive({
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
+    )
+})
+  
+  output$plot1 <- plotly::renderPlotly({
+    # Validate for bar chart
+    v()
+   plotly::ggplotly( 
+     data %>% 
+       group_by(word) %>% 
+       summarise(occurrences=sum(n)) %>% 
+       arrange(desc(occurrences)) %>% 
+       top_n(input$select_topn) %>%
+       ungroup() %>%
+       ggplot(aes(x=word, 
+                  y=occurrences)) +
+       geom_col() +
+       ylab("count") +
+       coord_flip() +
+       theme_minimal() +
+       scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+       ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+       geom_blank()
+   )
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    v()
+    
+    data %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
 ### Lastly, let's try to make our app more efficient
 We are working with a pretty small dataset with only a few thousand lines, but code efficiency and performance become even more important as we scale up. For example, in our code we are summarizing the data each time the user makes a new selection. It would be a better idea for us to summarize the data outside of our app.\
 Remember we can only summarise up until the point we need our reactive input value!
@@ -427,7 +510,7 @@ Hint: Here is some example code for reactively filtering data.
   }) 
 ```
 
-```{r exercise 10, eval=FALSE}
+```{r exercise 11, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -508,11 +591,12 @@ The difference may be negligable here, but it could have a big impact if we are 
 
 ### Other things to try
 1. We could add additional control widgets and plots. For example, it might be useful for the user to be able to find the top n words per album or display the songs with the most unique words. 
-2. As with Shiny, you can provide additional customization to your dashbaord and apps with cascading style sheets (CSS) since both are built from HTML. You can read more about using CSS with Shiny and shinydashboard at https://shiny.rstudio.com/articles/css.html and https://rstudio.github.io/shinydashboard/appearance.html#css respectively.\
-3. You can also include a variety of icons https://rstudio.github.io/shinydashboard/appearance.html#icons or change the appearance of your boxex by assigning colors https://rstudio.github.io/shinydashboard/appearance.html#statuses-and-colors or making them collapsible. Try replacing lines 526-530 with the code below to see how the different attributes look. 
+2. As with Shiny, you can provide additional customization to your dashboard and apps with cascading style sheets (CSS) since both are built from HTML. You can read more about using CSS with Shiny and shinydashboard at https://shiny.rstudio.com/articles/css.html and https://rstudio.github.io/shinydashboard/appearance.html#css respectively.\
+3. You can also include a variety of icons https://rstudio.github.io/shinydashboard/appearance.html#icons or change the appearance of your boxes by assigning colors https://rstudio.github.io/shinydashboard/appearance.html#statuses-and-colors or making them collapsible. Try the code below to see how the different attributes look. 
 
-```{status}
+```{other_things}
 
+  # try replacing box code with
   box(plotly::plotlyOutput("plot1"), 
       title = "Most Common Words Across Albums",
       status = "primary",
@@ -520,7 +604,24 @@ The difference may be negligable here, but it could have a big impact if we are 
       solidHeader = TRUE,
       width=NULL)
 
+ # try adding CSS to dashboard body to change element colors
+ tags$head(tags$style(HTML('
+      /* lefthand bar with title */
+      .skin-blue .main-header .logo {
+                            background-color: #121212;
+      }
+
+      /* above when hovered */
+      .skin-blue .main-header .logo:hover {
+                            background-color: #03DAC6;
+                            }
+
+      /* navbar */
+      .skin-blue .main-header .navbar {
+                            background-color: #121212;
+                            }        
+
+  '))),
 ```
 
-4. We could also make some improvements to the plots themselves. We might take a look at Trang's December data visualization workshop to get some ideas!
-5. Anything else you can think of that will help the user get the maximum amount of information out of your dashboard.
+4. Anything else you can think of that will help the user get the maximum amount of information out of your dashboard.
