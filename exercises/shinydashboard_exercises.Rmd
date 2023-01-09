@@ -15,15 +15,16 @@ successfully. Remember you can always follow allong using the `shinydashboard_ex
 folder.
 
 Note that the exercises assume you have run the `{r setup}`  and `{r EDA}` code 
-chunks.
+chunks & that your working directory is set to `shinydash-rladies-dc/`
 
 ## Set up
 I like to load libraries that are used often and used explicit calls, 
 e.g. `tidytext::unnest_tokens()` for packages I only use one or two functions
-from. You provide a `utils.R` file that checks for all packages used 
+from. I provided a `utils.R` file that checks for all packages used 
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
+source("utils.R")
 library(dplyr)
 library(ggplot2)
 library(shiny)
@@ -38,7 +39,7 @@ gain from our dashboard.
 # Feel free to choose any of the artists in the data/ folder viewable on Mac or
 # Linux by uncommenting the following line or checking the files pane
 # system("ls data")
-artist.name <- "oldies"
+artist.name <- "------"
 
 # load data & check it out
 data <- read.delim(file.path("data", paste0(artist.name, "-lyrics.txt")))
@@ -47,7 +48,7 @@ str(data)
 ```
 
 So we have a dataframe with 4 columns. In a sentnce, each row represents the `n` 
-times that a `word` appears in each `track_title` per `album` in our dataset. \
+times that a `word` appears in each `song_name` per `album` in our dataset. \
 The important thing to remember is that the lyrics are summed across the songs,
 not across all of the albums.
 
@@ -114,7 +115,7 @@ shinyApp(ui, server)
 
 ### Make a bar chart that displays the count of the top 10 most frequent words summed across all albums
 Our plot will be rendered in the server section of our app using the following 
-code `output$plot1 <- renderPlot({# ploting goes here})`. We have already added 
+code `output$plot1 <- renderPlot({# plotting goes here})`. We have already added 
 the plot output in the UI section and we will refer to the plot using the same 
 `outputID` as we did in the `plotOutput` function, "plot1".\
 Some other common output functions are `tableOutput`, `dataTableOutput`, 
