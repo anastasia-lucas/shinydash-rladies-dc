@@ -11,7 +11,6 @@ We will need two additional packages, `dashboardthemes` and `plotly`, to complet
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
-source("utils.R")
 library(dplyr)
 library(ggplot2)
 library(shiny)
@@ -587,7 +586,7 @@ shinyApp(ui, server)
 ```
 
 We could compare the performance of this code to our previous version by using the `profvis` package or RStudio's Profile menu (which I think also uses profvis...).\
-The difference may be negligable here, but it could have a big impact if we are trying to filter millions of rows.
+The difference may be negligible here, but it could have a big impact if we are trying to filter millions of rows.
 
 ### Other things to try
 1. We could add additional control widgets and plots. For example, it might be useful for the user to be able to find the top n words per album or display the songs with the most unique words. 

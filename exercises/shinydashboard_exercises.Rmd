@@ -11,7 +11,7 @@ The easiest way to go through these exercises in this R markdown file will be to
 run each of the code chunks sequentially. You can do this by clicking the green 
 arrow at the top right of code blocks that says "Run Current Chunk". Once we get 
 to the exercises, you will need to fill in the blanks before you can run the code 
-successfully. Remember you can always follow allong using the `shinydashboard_exercise_solutions.Rmd` file located in the `solutions/`
+successfully. Remember you can always follow along using the `shinydashboard_exercise_solutions.Rmd` file located in the `solutions/`
 folder.
 
 Note that the exercises assume you have run the `{r setup}`  and `{r EDA}` code 
