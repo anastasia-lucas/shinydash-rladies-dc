@@ -24,7 +24,6 @@ from. I provided a `utils.R` file that checks for all packages used
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
-source("utils.R")
 library(dplyr)
 library(ggplot2)
 library(shiny)
