@@ -611,6 +611,10 @@ The difference may be negligable here, but it could have a big impact if we are 
       solidHeader = TRUE,
       width=NULL)
 
+ # try changing the skin in dashboardPage() by adding
+ skin = "purple" # or some other color
+ # you might want to remove the dashboardtheme() for this 
+
  # try adding CSS to dashboard body to change element colors
  tags$head(tags$style(HTML('
       /* lefthand bar with title */
