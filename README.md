@@ -1,7 +1,12 @@
 # rladies_shinydashboards
-Shiny Dashboards Workshop for R-Ladies Philly
+Shiny Dashboards Workshop for R-Ladies D.C.
+
+
+For a recording of this workshop please check out the R-Ladies Philly version (95% similarity)
+https://www.youtube.com/watch?v=wSYt4IYIsdI 
 
 Developed using R version 4.0.3
+
 
 ## Folder Structure
 
